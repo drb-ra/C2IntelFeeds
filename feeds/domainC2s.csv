@@ -1,4 +1,5 @@
 #domain,ioc
+*.ipsec.io,Possible Powershell Empire C2 Domain
 111.healthsiteguide.com,Possible Powershell Empire C2 Domain
 64.12.132.185.in-addr-arpa.cloudns.cx,Possible Powershell Empire C2 Domain
 ackcloud.tk,Possible Powershell Empire C2 Domain
@@ -28,6 +29,7 @@ functiondiscovery.net,Possible Powershell Empire C2 Domain
 gallery.digital-securite.ovh,Possible Powershell Empire C2 Domain
 guide-sensibilisation.digital-securite.ovh,Possible Powershell Empire C2 Domain
 help.kraziworld.com,Possible Powershell Empire C2 Domain
+ipsec.io,Possible Powershell Empire C2 Domain
 localtunnel.digital-securite.ovh,Possible Powershell Empire C2 Domain
 login.digital-securite.ovh,Possible Powershell Empire C2 Domain
 malduino.digital-securite.ovh,Possible Powershell Empire C2 Domain
@@ -35,6 +37,7 @@ melcybozu.azureedge.net,Possible PoshC2 Fronted Domain
 melcybozu.azureedge.net,Possible PoshC2 Fronting Domain
 microsecurepc.com,Possible Powershell Empire C2 Domain
 notarealdomain.com,Possible Powershell Empire C2 Domain
+notrlat.com,Possible Powershell Empire C2 Domain
 officestorage.org,Possible Powershell Empire C2 Domain
 passeport.digital-securite.ovh,Possible Powershell Empire C2 Domain
 portainer.digital-securite.ovh,Possible Powershell Empire C2 Domain
