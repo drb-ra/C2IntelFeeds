@@ -10,6 +10,7 @@
 8o4k8qz91k.execute-api.ap-south-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 8o4k8qz91k.execute-api.ap-south-1.amazonaws.com,Possible Cobalt Strike C2 Fronting Domain
 999cbd.xyz,Possible Cobalt Strike C2 Domain
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36,Possible Cobalt Strike C2 Fronting Domain
 a.alitagotest.cf,Possible Cobalt Strike C2 Domain
 a6r3w7n5.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain
 a93.xyz,Possible Cobalt Strike C2 Domain
@@ -47,6 +48,7 @@ ankura-pentest.com,Possible Cobalt Strike C2 Domain
 ap.availablenationwide.com,Possible Cobalt Strike C2 Domain
 api-cnct.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain
 api.aperture.network,Possible Cobalt Strike C2 Domain
+api.cloudways.com,Possible Cobalt Strike C2 Fronted Domain
 api.ehealthdiary.org,Possible Cobalt Strike C2 Domain
 api.hg-88868.com,Possible Cobalt Strike C2 Domain
 api.ibhealth.net,Possible Cobalt Strike C2 Domain
@@ -114,6 +116,7 @@ cc4a390c595c4ff88711ded24733f44e.6cf5d4bd7692aa70eef92b42a08dfa89.xyz,Possible C
 cctest.alibabadns.in,Possible Cobalt Strike C2 Domain
 cdaca37a4f76,Possible Cobalt Strike C2 Domain
 cdn-cloudflare.org,Possible Cobalt Strike C2 Domain
+cdn.bootcdn.org,Possible Cobalt Strike C2 Domain
 cdn.iskanfinance.com,Possible Cobalt Strike C2 Domain
 cdn.lbwd.net,Possible Cobalt Strike C2 Domain
 cdn.paylesscreditcard.com,Possible Cobalt Strike C2 Domain
@@ -196,7 +199,7 @@ d44xnhyagsxh8.cloudfront.net,Possible Cobalt Strike C2 Domain
 d4pgw4.com,Possible Cobalt Strike C2 Domain
 da3yk1t848c6k.cloudfront.net,Possible Cobalt Strike C2 Domain
 daisy.webpowernow.com,Possible Cobalt Strike C2 Domain
-daiwa-us.azureedge.net,Possible Cobalt Strike C2 Fronted Domain
+daiwa-cm-us.azureedge.net,Possible Cobalt Strike C2 Fronted Domain
 daohang.lusongsong.com,Possible Cobalt Strike C2 Fronted Domain
 data.sharefiledoc.com,Possible Cobalt Strike C2 Domain
 datamg.data-akamai.com,Possible Cobalt Strike C2 Domain
@@ -232,6 +235,7 @@ download.softupdate-online.top,Possible Cobalt Strike C2 Domain
 dukeid.com,Possible Cobalt Strike C2 Domain
 dynamic.mayablogs.com,Possible Cobalt Strike C2 Domain
 e1servise.w-l.tech,Possible Powershell Empire C2 Domain
+ec2-100-26-49-186.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 ec2-18-156-194-116.eu-central-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain
 ec2-18-219-41-59.us-east-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain
 ec2-18-222-171-22.us-east-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain
@@ -278,6 +282,7 @@ fservicios.com,Possible Cobalt Strike C2 Domain
 fswyer.com,Possible Cobalt Strike C2 Domain
 ftp.chinafix.com,Possible Cobalt Strike C2 Fronted Domain
 fuckbc.ctlers.club,Possible Cobalt Strike C2 Domain
+g7c4d5x5.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain
 ga.biliyilish.com,Possible Cobalt Strike C2 Domain
 galani.gr,Possible Cobalt Strike C2 Domain
 gallery.digital-securite.ovh,Possible Powershell Empire C2 Domain
@@ -315,7 +320,8 @@ hope55789.co,Possible Cobalt Strike C2 Domain
 host.hergazian.com,Possible Cobalt Strike C2 Domain
 house.asia-ing.com,Possible Cobalt Strike C2 Domain
 hr.vietnamworks.org,Possible Cobalt Strike C2 Domain
-http://daiwa-us.azureedge.net/,Possible Cobalt Strike C2 Fronting Domain
+http.ifirstmeet.cn,Possible Cobalt Strike C2 Domain
+http://daiwa-cm-us.azureedge.net/,Possible Cobalt Strike C2 Fronting Domain
 huayuxinwen.net,Possible Cobalt Strike C2 Domain
 hub.myshopwestmont.com,Possible Cobalt Strike C2 Domain
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain
@@ -488,10 +494,12 @@ pnt.data-akamai.com,Possible Cobalt Strike C2 Domain
 pnwcontent-delivery.com,Possible Cobalt Strike C2 Domain
 porr.company,Possible Cobalt Strike C2 Domain
 portainer.digital-securite.ovh,Possible Powershell Empire C2 Domain
+portal.changehealthcareservices.com,Possible Cobalt Strike C2 Domain
 powssxctaiwan.xyz,Possible Cobalt Strike C2 Domain
 praetorian-purple-fastly.com.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
 praetorian.osas.me,Possible Cobalt Strike C2 Domain
 private.medicaloptionsfinance.com,Possible Cobalt Strike C2 Domain
+privateprotect.cloud,Possible Cobalt Strike C2 Fronted Domain
 pro.pro-pay.xyz,Possible Cobalt Strike C2 Domain
 pro.weytrymoder.com,Possible Cobalt Strike C2 Domain
 probes.site,Possible Cobalt Strike C2 Domain
@@ -629,7 +637,6 @@ update.rnicsoftupdate.xyz,Possible Cobalt Strike C2 Domain
 update.zevenet.art,Possible Cobalt Strike C2 Domain
 update04.microsoft-essentials.com,Possible Cobalt Strike C2 Domain
 update07.microsoft-essentials.com,Possible Cobalt Strike C2 Domain
-update1.bootcdn.org,Possible Cobalt Strike C2 Domain
 update1.jscachecdn.com,Possible Cobalt Strike C2 Domain
 updates.aidandcs.com,Possible Cobalt Strike C2 Domain
 updatesecurity64win.org,Possible Cobalt Strike C2 Domain
@@ -665,7 +672,6 @@ wh.libai0.xyz,Possible Cobalt Strike C2 Domain
 whqf.space,Possible Cobalt Strike C2 Domain
 windowscad.com,Possible Cobalt Strike C2 Domain
 windowsupdate.microsoft.365filtering.com,Possible Cobalt Strike C2 Domain
-winserverad.com,Possible Cobalt Strike C2 Domain
 winservsec.com,Possible Cobalt Strike C2 Domain
 wmjdvuif.limyonly.me,Possible Cobalt Strike C2 Domain
 workdayhrs.com,Possible Cobalt Strike C2 Domain
@@ -779,7 +785,6 @@ www.videolan.org,Possible Cobalt Strike C2 Domain
 www.webloanfinance.com,Possible Cobalt Strike C2 Domain
 www.xyxyxt.net,Possible Cobalt Strike C2 Domain
 www.z-corporate-news.com,Possible Cobalt Strike C2 Domain
-x124.xyz,Possible Cobalt Strike C2 Domain
 xml.chasehomefinance.info,Possible Cobalt Strike C2 Domain
 xxii.cf,Possible Cobalt Strike C2 Domain
 xxx.vhvh.pw,Possible Cobalt Strike C2 Domain
