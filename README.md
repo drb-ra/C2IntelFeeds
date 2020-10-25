@@ -1,10 +1,8 @@
 # C2IntelFeeds
 Automatically created C2 Feeds
 
-* VPN 
-  * Nord VPN Exit Nodes
 
-* Feeds
+* Feeds ( Source/Raw Data courtesy of Censys - https://censys.io/ )
 
   By default C2s seen active in the last 7 days are added to the main feed files.
 
@@ -13,3 +11,6 @@ Automatically created C2 Feeds
   * `C2 Domains Filtered` - Excludes several MS domains abused in domain fronting, along with fake headers for popular sites.
 
   Additionally a new 30 day set of feed files was added for any C2 seen live in the last 30 days.
+  
+* VPN 
+  * Nord VPN Exit Nodes
