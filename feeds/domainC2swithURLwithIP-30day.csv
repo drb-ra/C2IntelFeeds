@@ -1,12 +1,6 @@
 #domain,ioc,uri_path,ip
 10080.site,Possible Cobalt Strike C2 Domain,/cx,82.156.2.25
-139.59.75.23,Possible Cobalt Strike C2 Fronted Domain,/Content.js,139.59.75.23
-139.59.75.23,Possible Cobalt Strike C2 Fronted Domain,/Content.js,178.128.144.34
-139.59.75.23,Possible Cobalt Strike C2 Fronted Domain,/Content.js,206.189.13.29
 153.3.231.207,Possible Cobalt Strike C2 Fronted Domain,/push,39.103.181.132
-178.128.144.34,Possible Cobalt Strike C2 Fronted Domain,/nd.js,139.59.75.23
-178.128.144.34,Possible Cobalt Strike C2 Fronted Domain,/nd.js,178.128.144.34
-178.128.144.34,Possible Cobalt Strike C2 Fronted Domain,/nd.js,206.189.13.29
 2606,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,45.32.61.165
 33e6dda.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,185.231.68.102
 34.247.66.175.nip.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.247.66.175
@@ -390,7 +384,6 @@ mariamistado.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,217.12.20
 massflip.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,162.244.132.218
 massflip.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,172.241.27.125
 massflip.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,23.108.57.3
-matthew-lucas-testing.ukwest.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,51.104.53.150
 medicareplanshumana.azurewebsites.net,Possible Cobalt Strike C2 Domain,/medicare,74.129.212.237
 merch.bankofamerica.com,Possible Cobalt Strike C2 Domain,/cm,192.227.193.190
 microsoft.sfkd.cf,Possible Cobalt Strike C2 Domain,/__utm.gif,8.210.202.149
@@ -580,7 +573,6 @@ service-fde7d41s-1305500069.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-fl9p4b9j-1259312707.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,39.97.118.130
 service-ftf725vp-1258381285.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,43.225.31.189
 service-ggvpuz8u-1253567873.sg.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,23.105.207.138
-service-gszfw7qk-1256858750.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/product/yujie/,172.105.113.91
 service-hnqgk6cm-1257925038.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/get,198.252.99.111
 service-icm8u8o6-1253470552.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.4.191.244
 service-in94bb72-1257053841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,119.28.16.37
