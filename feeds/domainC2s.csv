@@ -13,7 +13,6 @@
 9wlmskjvkk.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 9x8np02i09.execute-api.us-west-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 Outlook.live.com,Possible Cobalt Strike C2 Domain
-SCHDC2,Possible Cobalt Strike C2 Domain
 a.burp.vip,Possible Cobalt Strike C2 Domain
 a.fl-lash.xyz,Possible Cobalt Strike C2 Domain
 a.l1stary.xyz,Possible Cobalt Strike C2 Domain
@@ -313,7 +312,7 @@ microsoftofficeactivation.support,Possible Cobalt Strike C2 Domain
 microsoftupdateapp.com,Possible Cobalt Strike C2 Domain
 mimik.work,Possible Cobalt Strike C2 Domain
 minicombosoft.com,Possible Cobalt Strike C2 Fronted Domain
-mitsu.azureedge.net,Possible Cobalt Strike C2 Domain
+mitsu.azureedge.net,Possible Cobalt Strike C2 Fronted Domain
 moledaf.com,Possible Cobalt Strike C2 Domain
 morningadvisors.com,Possible Cobalt Strike C2 Domain
 mozilla-firfox.com,Possible Cobalt Strike C2 Domain
@@ -392,6 +391,7 @@ securityupdateav.com,Possible Cobalt Strike C2 Domain
 seetoo.fayservicing.org,Possible Cobalt Strike C2 Domain
 sentinel-azure.com,Possible Cobalt Strike C2 Domain
 sentinel.azureedge.net,Possible Cobalt Strike C2 Fronted Domain
+server2.f2pool.vip,Possible Cobalt Strike C2 Domain
 server42.microsoft-essentials.com,Possible Cobalt Strike C2 Domain
 server42.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain
 service-00pqynn3-1257309895.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -422,7 +422,6 @@ service-mpqfdw90-1256242760.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-muqfpxbh-1304245224.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-n6ao2tbd-1301542181.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-np0rr8ks-1300228330.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-nwp9p8dh-1252572991.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ocfn7owf-1252652328.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-opk21fj5-1251344091.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-p05n3e3x-1255997775.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -472,6 +471,7 @@ teccc.kisshanjinyu.cf,Possible Cobalt Strike C2 Domain
 tech.pingan.com.cn,Possible Powershell Empire C2 Fronted Domain
 teledocn.cc,Possible Cobalt Strike C2 Domain
 tencent.com,Possible Cobalt Strike C2 Domain
+tencents.link,Possible Cobalt Strike C2 Domain
 tengxun.ink,Possible Cobalt Strike C2 Domain
 test.360web.info,Possible Cobalt Strike C2 Domain
 test.googleapi.space,Possible Cobalt Strike C2 Domain
@@ -637,6 +637,7 @@ www.zipflag.com,Possible Cobalt Strike C2 Domain
 www.zkhvolg.com,Possible Cobalt Strike C2 Domain
 wx.api.images.oppo.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 wx.sz-max.com,Possible Cobalt Strike C2 Domain
+wx.tencents.link,Possible Cobalt Strike C2 Domain
 xiaok.feonix.top,Possible Cobalt Strike C2 Domain
 xue338.com,Possible Cobalt Strike C2 Fronted Domain
 youtude.ru,Possible Cobalt Strike C2 Domain
