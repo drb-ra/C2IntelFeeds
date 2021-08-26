@@ -335,6 +335,7 @@ expoless.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.
 exrap.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,209.222.98.45
 ez.woshinibaba.gq,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,107.172.219.125
 facebook.microsoftxs.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_,103.52.154.149
+fastly.net,Possible Cobalt Strike C2 Fronting Domain,/smnp,192.198.86.166
 fdr-conference.org,Possible Cobalt Strike C2 Fronted Domain,/news,137.184.8.123
 fedex-global.com,Possible Cobalt Strike C2 Domain,/MicrosoftUpdate/ShellEx/KB242742/default.aspx,128.199.0.91
 fee.mozilla-firfox.com,Possible Cobalt Strike C2 Domain,/fam_newspaper,8.210.125.63
@@ -358,9 +359,9 @@ galani.gr,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,217.174.
 galani.gr,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,217.174.241.129
 galani.gr,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,217.174.241.57
 gasonz.com,Possible Cobalt Strike C2 Domain,/ku.css,8.39.147.87
-gbl3bsa.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/ptj,192.198.86.166
+gbl3bsa.global.ssl.fastly.net,Possible Cobalt Strike C2 Fronted Domain,/smnp,192.198.86.166
 gellten-p.com,Possible Cobalt Strike C2 Domain,/match,45.77.184.44
-geneticinformatics.org,Possible Cobalt Strike C2 Domain,/articles/author_index.php,100.24.210.141
+geneticinformatics.org,Possible Cobalt Strike C2 Fronted Domain,/articles/author_index.php,100.24.210.141
 gihevu.com,Possible Cobalt Strike C2 Fronted Domain,/posting.js,172.93.96.194
 gimilof.com,Possible Cobalt Strike C2 Domain,/sitemap.css,77.83.199.61
 globalarchitec.pro,Possible Cobalt Strike C2 Fronted Domain,/access/,13.54.157.46
@@ -385,7 +386,6 @@ hk.cdn-skype.com,Possible Powershell Empire C2 Domain,/news.php,154.202.59.229
 hk.fcalebook.com,Possible Cobalt Strike C2 Domain,/activity,27.102.130.117
 hk.studiteroom.email,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,149.28.151.37
 hondame.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,31.14.40.251
-hr-mail.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/122-3223588-02007569/field-keywords=books,64.69.57.75
 hr.vietnamworks.org,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2,213.227.154.122
 http,Possible Cobalt Strike C2 Domain,/cm,144.34.178.251
 iamhealthytoday.com,Possible Cobalt Strike C2 Domain,/__utm.gif,167.99.229.203
@@ -818,12 +818,12 @@ winupdates.b-cdn.net,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/upd
 withfix.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,45.58.116.242
 withheld.kunluncdn.co,Possible Cobalt Strike C2 Fronted Domain,/mg.html,43.239.158.235
 wlndowservices.tk,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,149.56.16.103
-wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,205.185.125.246
-wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/g.pixel,205.185.116.13
-wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/g.pixel,205.185.123.78
-wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/g.pixel,209.141.53.114
+wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/cm,205.185.116.13
+wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/cm,209.141.53.114
+wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/cm,209.141.58.42
+wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/fwlink,205.185.123.78
+wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/fwlink,205.185.125.246
 wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/g.pixel,209.141.54.71
-wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/g.pixel,209.141.58.42
 wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/j.ad,205.185.116.13
 wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/j.ad,205.185.123.78
 wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/j.ad,205.185.125.246

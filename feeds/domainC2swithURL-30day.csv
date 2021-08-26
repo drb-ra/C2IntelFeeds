@@ -309,6 +309,7 @@ exrap.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.htm
 ez.woshinibaba.gq,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 facebook.com,Possible Cobalt Strike C2 Fronting Domain,/bn.js
 facebook.microsoftxs.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_
+fastly.net,Possible Cobalt Strike C2 Fronting Domain,/smnp
 fdr-conference.org,Possible Cobalt Strike C2 Fronted Domain,/news
 fedex-global.com,Possible Cobalt Strike C2 Domain,/MicrosoftUpdate/ShellEx/KB242742/default.aspx
 fee.mozilla-firfox.com,Possible Cobalt Strike C2 Domain,/fam_newspaper
@@ -330,9 +331,9 @@ fuck.crycat.cn,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-
 ga.yiqics.top,Possible Cobalt Strike C2 Domain,/pixel.gif
 galani.gr,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 gasonz.com,Possible Cobalt Strike C2 Domain,/ku.css
-gbl3bsa.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/ptj
+gbl3bsa.global.ssl.fastly.net,Possible Cobalt Strike C2 Fronted Domain,/smnp
 gellten-p.com,Possible Cobalt Strike C2 Domain,/match
-geneticinformatics.org,Possible Cobalt Strike C2 Domain,/articles/author_index.php
+geneticinformatics.org,Possible Cobalt Strike C2 Fronted Domain,/articles/author_index.php
 gihevu.com,Possible Cobalt Strike C2 Fronted Domain,/posting.js
 gimilof.com,Possible Cobalt Strike C2 Domain,/sitemap.css
 globalarchitec.pro,Possible Cobalt Strike C2 Fronted Domain,/access/
@@ -360,7 +361,6 @@ hk.cdn-skype.com,Possible Powershell Empire C2 Domain,/news.php
 hk.fcalebook.com,Possible Cobalt Strike C2 Domain,/activity
 hk.studiteroom.email,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 hondame.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
-hr-mail.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/122-3223588-02007569/field-keywords=books
 hr.vietnamworks.org,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2
 http,Possible Cobalt Strike C2 Domain,/cm
 iamhealthytoday.com,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -770,7 +770,8 @@ winupdates.b-cdn.net,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/upd
 withfix.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html
 withheld.kunluncdn.co,Possible Cobalt Strike C2 Fronted Domain,/mg.html
 wlndowservices.tk,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
-wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/cm
+wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/fwlink
 wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/g.pixel
 wo.jusanrihua.com,Possible Cobalt Strike C2 Domain,/j.ad
 wodaerp.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/1/
@@ -794,6 +795,7 @@ www.aliyun-cn.site,Possible Cobalt Strike C2 Domain,/api/3
 www.alizonvps.cf,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.alizonvps.cf,Possible Cobalt Strike C2 Domain,/activity
 www.almvdkg6vrpmkvk4.tk,Possible Cobalt Strike C2 Domain,/ga.js
+www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/articles/author_index.php
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/g/rfer=nmn_fr_gees_1/36-98956-844-6656565/field-keywords=toys
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=af_ew_ngagss_3/127-34149425288-0212329579/search=all
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/122-3223588-02007569/field-keywords=books
