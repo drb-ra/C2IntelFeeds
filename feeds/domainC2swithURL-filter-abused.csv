@@ -134,7 +134,7 @@ cs.bbvps.tk,Possible Cobalt Strike C2 Domain,/api/3
 cs.bugs.tk,Possible Cobalt Strike C2 Domain,/api/x
 cs.flashplayer-update.com,Possible Cobalt Strike C2 Domain,/api/3
 cs.qx0xp.ga,Possible Cobalt Strike C2 Domain,/api/3
-cs.usy7.cc,Possible Cobalt Strike C2 Domain,/j.ad
+cs.usy7.cc,Possible Cobalt Strike C2 Domain,/cm
 cs1.xiaosima.ml,Possible Cobalt Strike C2 Domain,/fwlink
 cs2.xiaosima.ml,Possible Cobalt Strike C2 Domain,/fwlink
 cs2c.scraft.me,Possible Cobalt Strike C2 Domain,/api/3
@@ -387,6 +387,7 @@ sentinel.azureedge.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.mi
 server2.f2pool.vip,Possible Cobalt Strike C2 Domain,/fwlink
 service-1s1zm9tt-1258424597.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-2bt5skq1-1302844954.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+service-2s0lijxg-1257046868.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-3b40shrd-1259492848.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-3ihxeruw-1252869691.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-46xiujs1-1305236517.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -396,6 +397,7 @@ service-5pluzh36-1251537940.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-62h5nw04-1304664184.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6h8ugba8-1256242760.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-70yk5ffv-1302233847.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-7101u8gd-1259312707.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/load
 service-7hzu8ia0-1258658035.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/3
 service-88lff4yo-1258381285.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-8cbdiju5-1253644266.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -409,7 +411,6 @@ service-dy2a3av4-1258177992.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eagfy5nx-1259743214.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-f5ikc4ax-1305094099.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-f8xnept9-1304578925.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
-service-g0lpx5t6-1305236517.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-h5hf1gi1-1300736223.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-js72oxgp-1304469254.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-k7hbxx2d-1258820500.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -610,7 +611,6 @@ www.unwomen.org,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 www.upwindows.tk,Possible Cobalt Strike C2 Fronted Domain,/cnn/cnnx/dai/hds/stream_hd/1/cnnxlive1_4.bootstrap
 www.usatoday.com,Possible Cobalt Strike C2 Fronted Domain,/news/weather/
 www.wangzha156.xyz,Possible Cobalt Strike C2 Domain,/fam_calendar
-www.wangzha156.xyz,Possible Cobalt Strike C2 Domain,/favicon
 www.weixim.ga,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.weixinapidev.com,Possible Cobalt Strike C2 Domain,/cm
 www.windows-services.com,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
@@ -628,6 +628,5 @@ ysq22p.rofl92u8tfraong.ga,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xm
 yuri.teaches-yoga.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/uKV3wRQjQhWd9VvoDH0f0qKETZFs3qOJ9-KJKFvF17yc5
 yuxicu.com,Possible Cobalt Strike C2 Fronted Domain,/fam_cart.js
 zainjordan.azureedge.net,Possible Cobalt Strike C2 Fronted Domain,/messages/ICIPvZONl1t6pOUQg5NeF0G1bsdUvUNGi2
-zh-cn.imags.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 zipflag.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html
 zkhvolg.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
