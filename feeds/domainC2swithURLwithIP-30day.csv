@@ -25,7 +25,6 @@
 7zz7.xyz,Possible Cobalt Strike C2 Domain,/image/,121.4.212.196
 81,Possible Cobalt Strike C2 Fronting Domain,/services/data/v36.0/sobjects/account/describe,91.193.19.174
 9wlmskjvkk.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch,3.235.228.212
-9x8np02i09.execute-api.us-west-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/updateCheck,143.198.235.43
 BrownAdv.azureedge.net,Possible Cobalt Strike C2 Fronted Domain,/discussion/mayo-clinic-radio-als/,143.198.14.183
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,149.28.22.31
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/dpixel,149.28.22.31
@@ -448,6 +447,7 @@ ferrolands.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.244.81.
 ffiash.xyz,Possible Cobalt Strike C2 Domain,/nv.js,103.234.72.55
 ffiash.xyz,Possible Cobalt Strike C2 Domain,/nv.js,154.39.240.148
 fiash.info,Possible Cobalt Strike C2 Domain,/cx,156.240.107.203
+fiash.info,Possible Cobalt Strike C2 Domain,/j.ad,156.240.107.203
 fideclouds.cf,Possible Cobalt Strike C2 Domain,/load,96.44.160.141
 fifaonline.co.za,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=products,137.117.212.72
 firefoxupdatenew.com,Possible Cobalt Strike C2 Domain,/ce.js,185.125.207.29
@@ -561,8 +561,8 @@ jiaxing.ga,Possible Cobalt Strike C2 Domain,/load,204.44.95.156
 jiu-2.jiuzhou.cyou,Possible Cobalt Strike C2 Domain,/en_US/all.js,35.220.234.159
 jklas.larsdodd.xyz,Possible Cobalt Strike C2 Domain,/load,45.77.41.153
 jklas.larsdodd.xyz,Possible Cobalt Strike C2 Domain,/pixel,45.77.41.153
-jmgo.org,Possible Cobalt Strike C2 Domain,/ga.js,45.158.231.141
-jmgo.org,Possible Cobalt Strike C2 Domain,/ptj,45.158.231.141
+jmgo.org,Possible Cobalt Strike C2 Domain,/activity,45.158.231.141
+jmgo.org,Possible Cobalt Strike C2 Domain,/match,45.158.231.141
 jobstour.com,Possible Cobalt Strike C2 Fronted Domain,/tab_home,217.194.132.16
 joinc2.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,3.136.22.145
 jomihd.com,Possible Cobalt Strike C2 Domain,/ml.js,82.117.252.209
@@ -1209,12 +1209,8 @@ www.daidaiwo.top,Possible Cobalt Strike C2 Domain,/api/x,39.105.44.117
 www.daidaiwo.top,Possible Cobalt Strike C2 Domain,/owa/,149.28.158.189
 www.daidaiwo.top,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/DUProcedure/Dynamic_,149.28.158.189
 www.dellinspiration.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,113.23.144.117
-www.dgslglobal.com,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php,40.112.194.28
-www.dgslglobal.com,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php,40.78.2.2
 www.digitallightphotography.net,Possible Cobalt Strike C2 Domain,/dpixel,157.230.176.13
 www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html,47.243.22.29
-www.eu-deloitte.com,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php,40.112.194.28
-www.eu-deloitte.com,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php,40.78.2.2
 www.exfiltrating.me,Possible Cobalt Strike C2 Fronted Domain,/aa.js,45.9.20.203
 www.fifaonline.co.za,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=products,137.117.212.72
 www.footynews.today,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=afl,13.54.170.164
@@ -1252,8 +1248,6 @@ www.msclientweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1
 www.msn.com.getdsoft.com,Possible Cobalt Strike C2 Domain,/favicon.ico,141.164.39.209
 www.mycloudup.com,Possible Cobalt Strike C2 Domain,/js/static/jquery.min.js,185.184.223.173
 www.mycloudup.com,Possible Cobalt Strike C2 Fronting Domain,/js/static/jquery.min.js,185.184.223.173
-www.mydeloitte.org,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php,40.112.194.28
-www.mydeloitte.org,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php,40.78.2.2
 www.naver.com,Possible Cobalt Strike C2 Fronting Domain,/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD03,193.38.50.239
 www.nicegay.ga,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,45.77.14.195
 www.nytimes.com,Possible Cobalt Strike C2 Fronted Domain,/v2/preferences,147.182.231.132
@@ -1300,7 +1294,7 @@ www.wumei.xyz,Possible Cobalt Strike C2 Domain,/language,47.242.188.246
 www.xinf4.tk,Possible Cobalt Strike C2 Domain,/ca,47.98.104.1
 www.yabo4750.com,Possible Cobalt Strike C2 Domain,/__utm.gif,45.32.123.67
 www.yahootk.tk,Possible Cobalt Strike C2 Domain,/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD03,193.53.127.178
-www.yase.me,Possible Cobalt Strike C2 Domain,/siteindex/c/,103.234.72.139
+www.yase.me,Possible Cobalt Strike C2 Domain,/siteindex/b/,103.234.72.139
 www.youtube.com,Possible Cobalt Strike C2 Fronting Domain,/watch,91.235.128.16
 wx.api.images.oppo.cn,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,160.124.156.88
 wx.api.images.oppo.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,160.124.156.88

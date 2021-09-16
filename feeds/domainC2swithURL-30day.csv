@@ -22,7 +22,6 @@
 7zz7.xyz,Possible Cobalt Strike C2 Domain,/image/
 81,Possible Cobalt Strike C2 Fronting Domain,/services/data/v36.0/sobjects/account/describe
 9wlmskjvkk.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
-9x8np02i09.execute-api.us-west-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/updateCheck
 BrownAdv.azureedge.net,Possible Cobalt Strike C2 Fronted Domain,/discussion/mayo-clinic-radio-als/
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/dpixel
@@ -402,6 +401,7 @@ fee.mozilla-firfox.com,Possible Cobalt Strike C2 Domain,/fam_newspaper
 ferrolands.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ffiash.xyz,Possible Cobalt Strike C2 Domain,/nv.js
 fiash.info,Possible Cobalt Strike C2 Domain,/cx
+fiash.info,Possible Cobalt Strike C2 Domain,/j.ad
 fideclouds.cf,Possible Cobalt Strike C2 Domain,/load
 fifaonline.co.za,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=products
 firefoxupdatenew.com,Possible Cobalt Strike C2 Domain,/ce.js
@@ -508,8 +508,8 @@ jiaxing.ga,Possible Cobalt Strike C2 Domain,/load
 jiu-2.jiuzhou.cyou,Possible Cobalt Strike C2 Domain,/en_US/all.js
 jklas.larsdodd.xyz,Possible Cobalt Strike C2 Domain,/load
 jklas.larsdodd.xyz,Possible Cobalt Strike C2 Domain,/pixel
-jmgo.org,Possible Cobalt Strike C2 Domain,/ga.js
-jmgo.org,Possible Cobalt Strike C2 Domain,/ptj
+jmgo.org,Possible Cobalt Strike C2 Domain,/activity
+jmgo.org,Possible Cobalt Strike C2 Domain,/match
 jobstour.com,Possible Cobalt Strike C2 Fronted Domain,/tab_home
 joinc2.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jomihd.com,Possible Cobalt Strike C2 Domain,/ml.js
@@ -1076,10 +1076,8 @@ www.daidaiwo.top,Possible Cobalt Strike C2 Domain,/api/x
 www.daidaiwo.top,Possible Cobalt Strike C2 Domain,/owa/
 www.daidaiwo.top,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/DUProcedure/Dynamic_
 www.dellinspiration.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
-www.dgslglobal.com,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php
 www.digitallightphotography.net,Possible Cobalt Strike C2 Domain,/dpixel
 www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html
-www.eu-deloitte.com,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php
 www.exfiltrating.me,Possible Cobalt Strike C2 Fronted Domain,/aa.js
 www.fifaonline.co.za,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=products
 www.footynews.today,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=afl
@@ -1116,7 +1114,6 @@ www.msclientweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1
 www.msn.com.getdsoft.com,Possible Cobalt Strike C2 Domain,/favicon.ico
 www.mycloudup.com,Possible Cobalt Strike C2 Domain,/js/static/jquery.min.js
 www.mycloudup.com,Possible Cobalt Strike C2 Fronting Domain,/js/static/jquery.min.js
-www.mydeloitte.org,Possible Cobalt Strike C2 Domain,/WRSiteInterceptEngine/Targeting.php
 www.naver.com,Possible Cobalt Strike C2 Fronting Domain,/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD03
 www.nicegay.ga,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 www.nytimes.com,Possible Cobalt Strike C2 Fronted Domain,/v2/preferences
@@ -1163,7 +1160,7 @@ www.wumei.xyz,Possible Cobalt Strike C2 Domain,/language
 www.xinf4.tk,Possible Cobalt Strike C2 Domain,/ca
 www.yabo4750.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.yahootk.tk,Possible Cobalt Strike C2 Domain,/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD03
-www.yase.me,Possible Cobalt Strike C2 Domain,/siteindex/c/
+www.yase.me,Possible Cobalt Strike C2 Domain,/siteindex/b/
 www.youtube.com,Possible Cobalt Strike C2 Fronting Domain,/watch
 wx.api.images.oppo.cn,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 wx.api.images.oppo.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
