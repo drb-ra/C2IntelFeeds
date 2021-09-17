@@ -51,6 +51,7 @@
 ^www\.naver\.com,
 ^blobs\.officehome\.msocdn\.com,
 ^yahoo\.com,
+^yahoo\.co\.jp,
 ^at\.alicdn\.com,
 ^app\.launchdarkly\.com,
 ^img\.alicdn\.com,
