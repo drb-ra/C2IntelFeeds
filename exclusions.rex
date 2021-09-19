@@ -12,6 +12,7 @@
 \.live\.com,
 \.bing\.com,
 ^google\.com,
+^google\.de,
 \.google\.com,
 \.bloomberg\.com,
 \.oracle\.com,
@@ -71,3 +72,5 @@
 ^static3\.seekingalpha\.com,
 ^ald\.taobao\.com,
 ^www\.example\.com,
+^imperva\.com,
+\.imperva\.com,
