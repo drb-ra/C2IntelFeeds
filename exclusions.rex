@@ -74,3 +74,7 @@
 ^www\.example\.com,
 ^imperva\.com,
 \.imperva\.com,
+^doh\.opendns\.com,
+^google\.es,
+^google\.ae,
+^blogspot\.com,
