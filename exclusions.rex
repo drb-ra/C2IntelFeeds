@@ -78,3 +78,4 @@
 ^google\.es,
 ^google\.ae,
 ^blogspot\.com,
+^survey\.gallup\.com,
