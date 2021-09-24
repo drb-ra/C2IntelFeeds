@@ -68,6 +68,7 @@
 ^www\.theguardian\.com,
 ^360\.cn,
 ^www\.usatoday\.com,
+^usatoday\.com,
 ^amazon\.co\.jp,
 ^static3\.seekingalpha\.com,
 ^ald\.taobao\.com,
