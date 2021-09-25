@@ -243,6 +243,7 @@ dns-ailyun.tk,Possible Cobalt Strike C2 Domain,/activity,121.199.51.9
 dns.spc-networks.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,23.106.121.21
 dodefoh.com,Possible Cobalt Strike C2 Fronted Domain,/hr.html,45.147.229.242
 doh.opendns.com.cdn.cloudflare.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/09/29136388_,154.38.111.236
+down.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/pixel.gif,103.234.72.215
 down.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/updates.rss,103.234.72.215
 download.windows-microsoft-en.com,Possible Cobalt Strike C2 Fronted Domain,/cms/api/am/checkLogin,45.156.24.235
 dream.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.33.177.99
@@ -266,7 +267,6 @@ exploit.ms17010.site,Possible Cobalt Strike C2 Domain,/api/user/logout,159.75.11
 expoless.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,104.171.123.166
 expoless.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,23.82.140.215
 exrap.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html,209.222.98.45
-f40k.xyz,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,8.9.15.46
 fanydoom.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.244.82.249
 fanygla.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,162.244.80.235
 fanyglo.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,162.244.80.235
@@ -347,8 +347,8 @@ itts.apname.org,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.map.js,45
 jiangzi.com,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta,8.210.68.113
 jiaxing.ga,Possible Cobalt Strike C2 Domain,/load,204.44.95.156
 jiu-2.jiuzhou.cyou,Possible Cobalt Strike C2 Domain,/en_US/all.js,35.220.234.159
-jmgo.org,Possible Cobalt Strike C2 Domain,/fwlink,45.158.231.141
-jmgo.org,Possible Cobalt Strike C2 Domain,/g.pixel,45.158.231.141
+jmgo.org,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,45.158.231.141
+jmgo.org,Possible Cobalt Strike C2 Domain,/pixel,45.158.231.141
 jobstour.com,Possible Cobalt Strike C2 Fronted Domain,/tab_home,217.194.132.16
 josefcult.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.33.179.42
 joxinu.com,Possible Cobalt Strike C2 Fronted Domain,/ml.html,45.147.229.242
@@ -547,7 +547,6 @@ service-p51jmamc-1252114028.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-pfzr9eww-1304703456.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,62.171.142.145
 service-q3t5iyn7-1307231595.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,1.14.131.141
 service-qgviw7sx-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,114.67.224.147
-service-qojx2s26-1307236302.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,103.234.72.139
 service-qv7neitl-1301977346.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/script/VUE/src/main.js,82.156.241.148
 service-rg5ri8mi-1259397709.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/owa/,81.71.91.32
 service-update.ignorelist.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,45.32.28.59
@@ -725,6 +724,8 @@ www.aliyun-cn.site,Possible Cobalt Strike C2 Domain,/api/3,45.153.129.136
 www.aliyunbaike.com,Possible Cobalt Strike C2 Fronted Domain,/contentsvc/microsofticon,139.9.244.218
 www.alizonvps.cf,Possible Cobalt Strike C2 Domain,/cx,144.34.243.212
 www.alizonvps.cf,Possible Cobalt Strike C2 Domain,/dpixel,144.34.243.212
+www.asdasdagxzz.tk,Possible Cobalt Strike C2 Domain,/DI=4050&did=1&t=2,198.35.45.55
+www.asdcttyffxx.tk,Possible Cobalt Strike C2 Domain,/DI=4050&did=1&t=2,198.35.45.55
 www.baiducon.ml,Possible Cobalt Strike C2 Domain,/api/3,121.5.167.18
 www.bank-me.co.za,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=products,137.117.212.72
 www.bea8.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,114.115.141.12
