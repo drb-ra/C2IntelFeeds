@@ -80,4 +80,7 @@
 ^google\.ae,
 ^blogspot\.com,
 ^survey\.gallup\.com,
+^audio-sv5-t1-3\.pandora\.com,
+^api\.yelp\.com,
+\.yelp\.com,
 ^http,
