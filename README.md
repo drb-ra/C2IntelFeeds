@@ -2,7 +2,8 @@
 Automatically created C2 Feeds
 
 
-* Feeds ( Source/Raw Data courtesy of Censys - https://censys.io/ )
+* Feeds ( Source/Raw Data courtesy of Censys - https://censys.io/ ) \
+ **Search 2.0** has massively improved detection rates on non-standard ports. **Great job Censys Team!**
 
   By default C2s seen active in the last 7 days are added to the main feed files.
 
