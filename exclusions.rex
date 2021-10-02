@@ -13,6 +13,7 @@
 \.bing\.com,
 ^google\.com,
 ^google\.de,
+^google\.ru,
 \.google\.com,
 \.bloomberg\.com,
 \.oracle\.com,
