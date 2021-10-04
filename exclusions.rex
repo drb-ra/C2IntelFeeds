@@ -89,4 +89,5 @@
 ^paypal\.com,
 ^www\.linkedin\.com,
 ^linkedin\.com,
+^xvideos\.com,
 ^http,
