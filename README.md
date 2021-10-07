@@ -1,5 +1,5 @@
 # C2IntelFeeds
-Automatically created C2 Feeds
+Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/drb_ra)
 
 
 * Feeds ( Source/Raw Data courtesy of Censys - https://censys.io/ ) \
