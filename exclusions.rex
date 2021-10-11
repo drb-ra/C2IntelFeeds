@@ -92,4 +92,6 @@
 ^linkedin\.com,
 ^xvideos\.com,
 ^t\.co,
+^dns\.google\.com,
+^dns\.google,
 ^http,
