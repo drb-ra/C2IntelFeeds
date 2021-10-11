@@ -90,4 +90,5 @@
 ^www\.linkedin\.com,
 ^linkedin\.com,
 ^xvideos\.com,
+^t\.co,
 ^http,
