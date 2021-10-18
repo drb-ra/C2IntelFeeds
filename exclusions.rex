@@ -99,4 +99,5 @@
 ^yelp\.com,
 \.yelp\.com,
 ^wordpress\.com,
+^mobitrail\.com,
 ^http,
