@@ -96,4 +96,6 @@
 ^dns\.google,
 ^dictionary\.com,
 \.dictionary\.com,
+^yelp\.com,
+\.yelp\.com,
 ^http,
