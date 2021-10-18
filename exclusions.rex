@@ -98,4 +98,5 @@
 \.dictionary\.com,
 ^yelp\.com,
 \.yelp\.com,
+^wordpress\.com,
 ^http,
