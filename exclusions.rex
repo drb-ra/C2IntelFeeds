@@ -94,4 +94,6 @@
 ^t\.co,
 ^dns\.google\.com,
 ^dns\.google,
+^dictionary\.com,
+\.dictionary\.com,
 ^http,
