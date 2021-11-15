@@ -104,4 +104,5 @@
 \.yelp\.com,
 ^wordpress\.com,
 ^mobitrail\.com,
+\.atlassian\.com,
 ^http,
