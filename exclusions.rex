@@ -32,6 +32,7 @@
 ^www\.msnbc\.com,
 ^www\.forbes\.com,
 ^bbc\.com,
+\.bbc\.com,
 ^bing\.com,
 ^nytimes\.com,
 \.nytimes\.com,
