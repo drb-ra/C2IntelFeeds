@@ -105,4 +105,6 @@
 ^wordpress\.com,
 ^mobitrail\.com,
 \.atlassian\.com,
+\.microport\.com,
+\.microport\.com\.cn,
 ^http,
