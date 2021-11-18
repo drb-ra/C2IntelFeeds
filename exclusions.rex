@@ -107,4 +107,5 @@
 \.atlassian\.com,
 \.microport\.com,
 \.microport\.com\.cn,
+\.finance\.com,
 ^http,
