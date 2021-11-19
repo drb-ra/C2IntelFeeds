@@ -108,4 +108,6 @@
 \.microport\.com,
 \.microport\.com\.cn,
 \.finance\.com,
+^abc\.com,
+\.abc\.com,
 ^http,
