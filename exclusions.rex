@@ -110,4 +110,5 @@
 \.finance\.com,
 ^abc\.com,
 \.abc\.com,
+\.theweathernetwork\.com,
 ^http,
