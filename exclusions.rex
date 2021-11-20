@@ -111,4 +111,6 @@
 ^abc\.com,
 \.abc\.com,
 \.theweathernetwork\.com,
+^help\.webex\.com,
+\.webex\.com,
 ^http,
