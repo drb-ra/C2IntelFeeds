@@ -492,7 +492,7 @@ ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/mess
 ec2-3-141-20-252.us-east-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/ptj,3.141.20.252
 ec2-3-144-187-165.us-east-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/pixel.gif,3.144.187.165
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,18.206.160.62
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,34.201.60.69
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.167.68.102
@@ -731,9 +731,9 @@ listener1.com,Possible Cobalt Strike C2 Domain,/src/download/msupdate/others/202
 lite-blue.net,Possible Cobalt Strike C2 Domain,/tangstatic/js/pg-q1a2z3bbc110a4.min.js,68.183.123.10
 liveblm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.244.80.254
 liveblm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.105.172.117
+localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html,79.188.135.188
 localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html,79.188.135.191
-localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html,79.188.135.190
-localhost,Possible Powershell Empire C2 Domain,/microsoft/service.html,79.188.135.188
+localhost,Possible Powershell Empire C2 Domain,/microsoft/service.html,79.188.135.190
 log.dstcapitalmanagement.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2,15.161.5.148
 login.jkwebdeals.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.106.124.95
 loweld.com,Possible Cobalt Strike C2 Domain,/rs,198.211.8.155
@@ -1459,7 +1459,7 @@ www.msn.com.getdsoft.com,Possible Cobalt Strike C2 Domain,/favicon.ico,141.164.3
 www.mycloudup.com,Possible Cobalt Strike C2 Domain,/js/static/jquery.min.js,185.184.223.173
 www.mycloudup.com,Possible Cobalt Strike C2 Fronting Domain,/js/static/jquery.min.js,185.184.223.173
 www.nicegay.ga,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,45.77.14.195
-www.nieuws-nu.nl,Possible Powershell Empire C2 Domain,/news.php,92.66.191.49
+www.nieuws-nu.nl,Possible Powershell Empire C2 Domain,/admin/get.php,92.66.191.49
 www.nmlgb.cc,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,159.75.1.146
 www.nytimes.com,Possible Cobalt Strike C2 Fronted Domain,/v2/preferences,137.184.73.49
 www.oniyfans.shop,Possible Cobalt Strike C2 Domain,/__utm.gif,5.188.33.186
