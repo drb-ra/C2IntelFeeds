@@ -3,7 +3,6 @@
 10.46.62.81,Possible Cobalt Strike C2 Domain,/updates
 10080.site,Possible Cobalt Strike C2 Domain,/cx
 111.170.8.210,Possible Cobalt Strike C2 Fronted Domain,/FC001/JOHN
-18.197.104.87,Possible Cobalt Strike C2 Fronting Domain,/vlk/grants
 192.168.92.1,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2021/10/7BW6RKp8Snni8Z76F
 1nnergex.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 2.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml
@@ -20,6 +19,7 @@ No0n3.xyz,Possible Cobalt Strike C2 Domain,/ptj
 X-For-Forwarded,Possible Cobalt Strike C2 Fronting Domain,/_/scs/mail-static/_/js/
 X-Forwarded-Fors,Possible Cobalt Strike C2 Fronting Domain,/_/scs/mail-static/_/js/
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
+a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/ga.js
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/pixel
 a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/match
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/
@@ -180,6 +180,7 @@ com.pptp.services,Possible Cobalt Strike C2 Domain,/api/3
 commander.esonhugh.me,Possible Cobalt Strike C2 Fronted Domain,/_/scs/mail-static/_/js/
 commonlit.app,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 constant-world.com,Possible Cobalt Strike C2 Fronted Domain,/gp/siloam.com
+constantino.azureedge.net,Possible Cobalt Strike C2 Fronted Domain,/gp/siloam.com
 constantino.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/gp/siloam.com
 containercup.xyz,Possible Cobalt Strike C2 Domain,/search/
 content-dlvr.com,Possible Cobalt Strike C2 Fronting Domain,/news/regional/0e/liveupdate/
@@ -204,6 +205,7 @@ cs44.larksuite.workers.dev,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.
 csma.cf,Possible Cobalt Strike C2 Domain,/api/3
 ctxacn.hopto.org,Possible Cobalt Strike C2 Domain,/pixel.gif
 cuphq.com,Possible Cobalt Strike C2 Domain,/visit.js
+cybersecureux.com,Possible Cobalt Strike C2 Domain,/res/4350fae9-84ae-46bd-9bc9-db8452de7726
 d.micros.email,Possible Cobalt Strike C2 Domain,/pagead/id
 d10dy3r8316bxe.cloudfront.net,Possible Cobalt Strike C2 Domain,/api/kunde-login-ui/rest/web/image/
 d10pgfie85c852.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -213,8 +215,6 @@ d12y8iq1v15hq5.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/
 d12y8iq1v15hq5.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/access/
 d17e6gprvxm55x.cloudfront.net,Possible Cobalt Strike C2 Domain,/w/api.php
 d18krv932r2kbr.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/
-d1e9jv46kroo65.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/WmpZG/hCAjVKNWb3q5hl2vN0s7IGvexMbWix3Cs38
-d1e9jv46kroo65.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
 d1r8ideyp75r40.cloudfront.net,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 d1v53ig8q1qdkn.cloudfront.net,Possible Powershell Empire C2 Domain,//refresh
 d1yxgunqlbb2ab.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -251,11 +251,10 @@ ddns.scratchs.xyz,Possible Cobalt Strike C2 Fronted Domain,/activity
 ddtz80cqv9h08.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/Piwnz1Q/uGbC78h3JS7wyNiIMsMn
 ddtz80cqv9h08.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/Piwnz1Q/uGbC78h3JS7wyNiIMsMn
 decidedsecuritybusiness.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+delekus.azureedge.net,Possible Cobalt Strike C2 Domain,/mobile-home.js
 demtp.com,Possible Cobalt Strike C2 Domain,/bn.css
 desertfu.com,Possible Cobalt Strike C2 Domain,/access/
 dictionary.com,Possible Cobalt Strike C2 Fronted Domain,/en-us/p/onerf/MeSilentPassport
-dida2yvzt3b0v.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
-dida2yvzt3b0v.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
 digisecuritysolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 digisurv.co,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3246918-0264889/field-keywords=books
 digisurveys.co,Possible Cobalt Strike C2 Fronted Domain,/g/rfer=nmn_fr_gees_1/21-84521-384-5173654/field-keywords=toys
@@ -270,6 +269,7 @@ doc.run,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 documentation.unemployment-compensation.org,Possible Cobalt Strike C2 Domain,/complete/search
 doombt.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021/10/lBF-NveC4Wm1txP0vze9
 down.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/cm
+down.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 down2.linuxupdate.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.micorsoft.live,Possible Cobalt Strike C2 Domain,/visit.js
 download.visualstudio.microsoft.com,Possible Cobalt Strike C2 Fronted Domain,/live
@@ -365,7 +365,6 @@ hk.fcalebook.com,Possible Cobalt Strike C2 Domain,/activity
 hkba.javmosts.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 host.csdbj.xyz,Possible Cobalt Strike C2 Fronted Domain,/files/april24.dll
 hotbunniesnft.art,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
-hshealthcare.co.in,Possible Cobalt Strike C2 Domain,/res/4350fae9-84ae-46bd-9bc9-db8452de7726
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 idrmon443.global.ssl.fastly.net,Possible Cobalt Strike C2 Domain,/owa/pr6m3wF2ys7lQKP1LByUiboEtpLaC62v8kW7-KBpyxizw
 ifirefox.com,Possible Cobalt Strike C2 Fronted Domain,/js/static/jquery.min.js
@@ -409,6 +408,7 @@ liveblm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html
 localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html
 log.dstcapitalmanagement.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2
+m.flash-cn.games,Possible Cobalt Strike C2 Domain,/api/3
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm
 m7r4r2i2.stackpathcdn.com,Possible Cobalt Strike C2 Fronted Domain,/news/regional/0e/liveupdate/
 mail.chinatelecom-hr.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021/10/29136388_
@@ -510,7 +510,6 @@ redshark.cc,Possible Cobalt Strike C2 Fronting Domain,/Content.html
 redteam.k8s.vn,Possible Cobalt Strike C2 Fronted Domain,/chunk-responsive-underlinenav-0ff33106.js
 remote.fredbet.xyz,Possible Cobalt Strike C2 Domain,/en_US/all.js
 rgmefoceve2.com,Possible Cobalt Strike C2 Domain,/ca
-rijkzijn.nl,Possible Cobalt Strike C2 Fronted Domain,/vlk/grants
 rismno.com,Possible Cobalt Strike C2 Fronted Domain,/access/
 romanianab.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
 root.06d.top,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -548,7 +547,6 @@ service-1t2zpo3w-1300736223.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-2cj8wg89-1252321185.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-2j8u3zjg-1304053418.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/j.ad
 service-2k6hn27j-1305836665.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
-service-2ncu5w3s-1300328866.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/fwlink
 service-33eowoh8-1307188804.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-37dngpmv-1307089625.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-3ip6munj-1304478029.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -659,6 +657,7 @@ shangxian.cddk.cc,Possible Cobalt Strike C2 Domain,/g.pixel
 shemsut.com,Possible Cobalt Strike C2 Fronted Domain,/access/
 shop.redlist.cyou,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 shrill-bar-dbc1.gsss.workers.dev,Possible Cobalt Strike C2 Domain,/dpixel
+siloamhospital.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/gp/siloam.com
 slipknot.microsoft.com,Possible Cobalt Strike C2 Domain,/cm
 smartkey.space,Possible Powershell Empire C2 Domain,/admin/get.php
 sncbe.com,Possible Cobalt Strike C2 Domain,/lu
@@ -692,7 +691,6 @@ svvtc.com,Possible Cobalt Strike C2 Domain,/optimize.gif
 svvtc.com,Possible Cobalt Strike C2 Domain,/shave.jpgv
 sync.microsoft-update.co,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/others/2016/12/29136388_
 sysauditbusines.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-systest.nl,Possible Cobalt Strike C2 Fronted Domain,/vlk/grants
 t.yoao.com,Possible Cobalt Strike C2 Fronted Domain,/load
 techtogear.com,Possible Cobalt Strike C2 Domain,/xmlconnect
 telegram-updater.net,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fourth-st.html
@@ -704,6 +702,7 @@ test.kurokoleung.cn,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-329
 test.muxues.site,Possible Cobalt Strike C2 Domain,/owa/auMAbnvEzwZAQM3ucvKWKed-
 test.neeon.online,Possible Cobalt Strike C2 Domain,/load
 test.pikachuu.cf,Possible Cobalt Strike C2 Domain,/cm
+test.yazccwj1091.tk,Possible Cobalt Strike C2 Domain,/api/3
 test202111.onedriveup.today,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 thdatatrust.com,Possible Cobalt Strike C2 Domain,/ca
 tianji110.space,Possible Cobalt Strike C2 Domain,/kj
@@ -746,12 +745,10 @@ updateservice.best,Possible Cobalt Strike C2 Fronting Domain,/api/3
 upgrade-services.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 upgrade.adobe-flash-upgrade.com,Possible Cobalt Strike C2 Domain,/update
 uphille.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
-upjannet.com,Possible Cobalt Strike C2 Domain,/load
 upload.dwi22g.com,Possible Cobalt Strike C2 Domain,/updates.rss
 uptate.ag-playgame.com,Possible Cobalt Strike C2 Domain,/cx
 us-system89.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 usatoday.com,Possible Cobalt Strike C2 Fronted Domain,/tangsvc/pg/5059005002/
-uwprivatebank.nl,Possible Cobalt Strike C2 Fronted Domain,/vlk/grants
 v3-xg-ipv6.ixigua.com,Possible Cobalt Strike C2 Fronted Domain,/load
 vanguard.medicaloptionsfinance.com,Possible Cobalt Strike C2 Domain,/real-world-investing/
 vevnienibei2.com,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -823,7 +820,6 @@ www.burgerfuel-co.nz,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_
 www.cainiao.com,Possible Cobalt Strike C2 Fronted Domain,/api/getit
 www.carmellof.com,Possible Cobalt Strike C2 Fronted Domain,/r_config.html
 www.carmellof.com,Possible Cobalt Strike C2 Fronted Domain,/sq.html
-www.changehealthcareservices.com,Possible Cobalt Strike C2 Fronted Domain,/access/
 www.china-gong-an.ga,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.cloud-reporting.ml,Possible Cobalt Strike C2 Domain,/_/cdn/e/cloudflare/static/_/js/
 www.cloud-reporting.ml,Possible Cobalt Strike C2 Fronting Domain,/_/cdn/e/cloudflare/static/_/js/
@@ -896,6 +892,7 @@ www.tor-mail.org,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.trend-ai-analytics.de,Possible Cobalt Strike C2 Domain,/include/template/asu.php
 www.updateservice.best,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.wangzha156.xyz,Possible Cobalt Strike C2 Domain,/fam_calendar
+www.wechat-reporting.ml,Possible Cobalt Strike C2 Fronted Domain,/_/cdn/e/cloudflare/static/_/js/
 www.weixinapidev.com,Possible Cobalt Strike C2 Domain,/cm
 www.windows-services.com,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 www.windowsshop.cc,Possible Cobalt Strike C2 Domain,/load
@@ -918,13 +915,10 @@ xxx.pornclub.space,Possible Cobalt Strike C2 Domain,/rn
 xyz.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 yellowdock.duckdns.org,Possible Cobalt Strike C2 Fronted Domain,/preload
 yelp.com,Possible Cobalt Strike C2 Fronted Domain,/gp/aj/private/reviewsGallery/get-application-resources
-yourhelpdesk.xyz,Possible Cobalt Strike C2 Domain,/br
 yulianovosti.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 yunshanfu2.unionpay.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 yunshanfu2.unionpay.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 yywebby.youzu.com,Possible Cobalt Strike C2 Domain,/updates.rss
-zarbgo.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
-zedlif.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
 zedoxuf.com,Possible Cobalt Strike C2 Fronted Domain,/links.html
 zewaje.com,Possible Cobalt Strike C2 Fronted Domain,/sm.js
 zh.zh-gov.cf,Possible Cobalt Strike C2 Domain,/owa/
