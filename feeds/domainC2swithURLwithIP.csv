@@ -310,7 +310,7 @@ ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/mess
 ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.167.68.102
 ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.196.247.105
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,34.201.60.69
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.167.68.102
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.196.247.105
@@ -438,9 +438,9 @@ linkedin.com,Possible Cobalt Strike C2 Fronting Domain,/av.html,185.150.191.35
 linkedin.com,Possible Cobalt Strike C2 Fronting Domain,/na,185.150.191.35
 listener1.com,Possible Cobalt Strike C2 Domain,/src/download/msupdate/others/2021/06/504751_,137.184.230.248
 liveblm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.244.80.254
+localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html,79.188.135.190
 localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html,79.188.135.188
-localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html,79.188.135.190
-localhost,Possible Powershell Empire C2 Domain,/microsoft/service.html,79.188.135.191
+localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html,79.188.135.191
 log.dstcapitalmanagement.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2,15.161.5.148
 m.flash-cn.games,Possible Cobalt Strike C2 Domain,/api/3,103.48.169.169
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm,47.98.164.231
@@ -700,7 +700,7 @@ shop.redlist.cyou,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-32948
 shrill-bar-dbc1.gsss.workers.dev,Possible Cobalt Strike C2 Domain,/dpixel,152.32.218.219
 siloamhospital.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/gp/siloam.com,52.221.112.140
 slipknot.microsoft.com,Possible Cobalt Strike C2 Domain,/cm,47.95.204.219
-smartkey.space,Possible Powershell Empire C2 Domain,/login/process.php,31.170.22.88
+smartkey.space,Possible Powershell Empire C2 Domain,/news.php,31.170.22.88
 sncbe.com,Possible Cobalt Strike C2 Domain,/lu,23.152.0.33
 snmp.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/activity,1.116.36.56
 snmp.qianxin.com.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/activity,1.116.36.56
