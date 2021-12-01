@@ -773,6 +773,7 @@ service-5xhamhc3-1258612792.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-5xkoioxx-1252325407.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.1.min.js
 service-62h5nw04-1304664184.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6a4dcdcf-1306535068.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-6h9uzsww-1305167114.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/boxes.css
 service-6hy8qsm9-1256221102.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6m4jzbj5-1305237978.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-6m5v6j3f-1304659738.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -863,7 +864,6 @@ service-p51jmamc-1252114028.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-p9kcr9nr-1259367723.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/images/
 service-pfzr9eww-1304703456.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-po1vy8p2-1307583704.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-px5cupgv-1305167114.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/boxes.css
 service-qgviw7sx-1302014318.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qsjnfua7-1252321185.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-qv7neitl-1301977346.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/script/VUE/src/main.js
@@ -1212,8 +1212,7 @@ www.wangzha156.xyz,Possible Cobalt Strike C2 Domain,/fam_calendar
 www.wechat-reporting.ml,Possible Cobalt Strike C2 Fronted Domain,/_/cdn/e/cloudflare/static/_/js/
 www.weixinapidev.com,Possible Cobalt Strike C2 Domain,/activity
 www.windows-services.com,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
-www.windowsshop.cc,Possible Cobalt Strike C2 Domain,/load
-www.windowsshop.cc,Possible Cobalt Strike C2 Domain,/visit.js
+www.windowsshop.cc,Possible Cobalt Strike C2 Domain,/ca
 www.wkilohs.xyz,Possible Cobalt Strike C2 Domain,/af
 www.wkilohs.xyz,Possible Cobalt Strike C2 Domain,/sq
 www.wumei.xyz,Possible Cobalt Strike C2 Domain,/language
