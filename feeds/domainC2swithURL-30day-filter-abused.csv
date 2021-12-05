@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+*.orchardstanks.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 1.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml
 10.46.62.81,Possible Cobalt Strike C2 Domain,/updates
 10080.site,Possible Cobalt Strike C2 Domain,/cx
@@ -148,6 +149,7 @@ bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/push
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/visit.js
 bbqd.voiceyy.live,Possible Cobalt Strike C2 Domain,/api/3
 bbs.robomaster.com,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta
+beacon.eson.quest,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_
 beacon.eson.quest,Possible Powershell Empire C2 Domain,/news.php
 berlin.alphasolid.de,Possible Powershell Empire C2 Domain,/admin/get.php
 bikercon.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -658,6 +660,7 @@ omm.com.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/en-us/
 omm.com.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/gp/aj/private/reviewsGallery/get-application-resources
 openserchers.com,Possible Cobalt Strike C2 Domain,/visit.js
 orbssecuritybusisys.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+orchardstanks.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 osusa.ml,Possible Cobalt Strike C2 Domain,/artsgcjkq
 owa.yangming.ml,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com
 owkjyrbelrektubqowrvbwiyrv.com,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/update/oem853/2021/08/85644_
@@ -748,7 +751,6 @@ securesupport.org,Possible Cobalt Strike C2 Domain,/gp/aj/private/reviewsGallery
 securesys.us,Possible Cobalt Strike C2 Domain,/zC
 securitybusauditwin.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 securitybusinessbeat.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-securitybusinessthin.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 sellingapts.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 sengorcs.com,Possible Cobalt Strike C2 Domain,/match
 server2.f2pool.vip,Possible Cobalt Strike C2 Domain,/j.ad
@@ -1180,6 +1182,7 @@ www.mycloudup.com,Possible Cobalt Strike C2 Fronting Domain,/js/static/jquery.mi
 www.nicegay.ga,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 www.nieuws-nu.nl,Possible Powershell Empire C2 Domain,/login/process.php
 www.no-reply-info.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+www.orchardstanks.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 www.ours.host,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 www.ownerbuilderfinance.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_
 www.pm1144.tk,Possible Cobalt Strike C2 Domain,/image/
