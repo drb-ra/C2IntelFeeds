@@ -113,4 +113,8 @@
 \.theweathernetwork\.com,
 ^help\.webex\.com,
 \.webex\.com,
+\.githubassets\.com,
+^vk\.com,
+^tmall\.com,
+^im\.qq\.com,
 ^http,
