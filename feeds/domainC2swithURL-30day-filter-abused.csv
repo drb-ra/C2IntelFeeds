@@ -402,7 +402,7 @@ ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/mess
 ec2-3-141-20-252.us-east-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/ptj
 ec2-3-144-187-165.us-east-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM
 ec2-54-157-82-153.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/ga.js
 ec2-54-91-206-76.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM
@@ -541,7 +541,7 @@ internalooredoo.com,Possible Cobalt Strike C2 Domain,/fwlink
 jardinoks.com,Possible Cobalt Strike C2 Domain,/ptj
 jiangzi.com,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta
 jiaxing.ga,Possible Cobalt Strike C2 Domain,/api/3
-jimbeam.live,Possible Powershell Empire C2 Domain,/admin/get.php
+jimbeam.live,Possible Powershell Empire C2 Domain,/news.php
 jj.okfuck.xyz,Possible Cobalt Strike C2 Domain,/match
 jmgo.org,Possible Cobalt Strike C2 Domain,/ga.js
 jmgo.org,Possible Cobalt Strike C2 Domain,/visit.js
@@ -568,7 +568,7 @@ komfort-anlage.de,Possible Cobalt Strike C2 Domain,/prodimages/servlet
 kris.extremewang.tk,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 ksdb.ru,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/account/describe
 kuxeri.com,Possible Cobalt Strike C2 Fronted Domain,/ml
-kxonline.de,Possible Powershell Empire C2 Domain,/news.php
+kxonline.de,Possible Powershell Empire C2 Domain,/admin/get.php
 laosec.cn,Possible Cobalt Strike C2 Domain,/ptj
 lartmana.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 lb23311.cityu.dev,Possible Cobalt Strike C2 Domain,/include/template/ClassSvc.php
@@ -579,9 +579,10 @@ lite-blue.net,Possible Cobalt Strike C2 Domain,/tangstatic/js/pg-q1a2z3bbc110a4.
 liveblm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 lnedl.com,Possible Cobalt Strike C2 Domain,/debug.jpg
 localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html
+localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html
 localhost,Possible Powershell Empire C2 Domain,/microsoft/service.html
 log.dstcapitalmanagement.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2
-login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/news.php
+login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/admin/get.php
 lsback.com,Possible Cobalt Strike C2 Domain,/fam_cart.css
 lsback.com,Possible Cobalt Strike C2 Domain,/ky.css
 lsback.com,Possible Cobalt Strike C2 Domain,/modules.css
@@ -901,7 +902,7 @@ shrill-bar-dbc1.gsss.workers.dev,Possible Cobalt Strike C2 Domain,/dpixel
 siger.xyz,Possible Cobalt Strike C2 Domain,/images/logo.png
 siloamhospital.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/gp/siloam.com
 skilled_nursing.healthmanagementtoday.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
-smartkey.space,Possible Powershell Empire C2 Domain,/news.php
+smartkey.space,Possible Powershell Empire C2 Domain,/login/process.php
 smarty.icloud.chaitin.com.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/Interpret/v4.15/ZQF0LBPQCPBP
 sncbe.com,Possible Cobalt Strike C2 Domain,/lu
 snmp.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/activity
