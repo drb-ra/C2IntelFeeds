@@ -27,6 +27,7 @@ a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/g.pixel
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/pixel
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/pixel.gif
+a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/ptj
 a.pwn-t.tk,Possible Cobalt Strike C2 Domain,/image/
 a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/dpixel
 a.yangming.cf,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com
@@ -91,8 +92,8 @@ api.microsoftgroup.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/up
 api.middletowncarescoalition.org,Possible Cobalt Strike C2 Domain,/v1/session/keepalive
 api.positivepharmacy.org,Possible Cobalt Strike C2 Domain,/v1/session/keepalive
 api.services.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/tangsvc/pg/5059005002/
-api.strlpchat.ml,Possible Cobalt Strike C2 Domain,/fwlink
 api.strlpchat.ml,Possible Cobalt Strike C2 Domain,/ptj
+api.strlpchat.ml,Possible Cobalt Strike C2 Domain,/updates.rss
 api.thomas-jefferson.org,Possible Cobalt Strike C2 Domain,/v1/session/keepalive
 api.update2021.oppo.cn,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 api.update2021.oppo.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -120,7 +121,6 @@ audio-sv5-t1-3.pandora.com,Possible Cobalt Strike C2 Fronting Domain,/access/
 auth.limanowa.top,Possible Cobalt Strike C2 Domain,/image/
 auth.mmicrosoft.top,Possible Cobalt Strike C2 Domain,/image/
 automotive-design-cdn.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-automotive-design-cdn.azureedge.net,Possible Cobalt Strike C2 Domain,/pixel.gif
 avg-update.com,Possible Cobalt Strike C2 Domain,/Content.css
 awayfar.top,Possible Cobalt Strike C2 Domain,/dpixel
 awayfar.top,Possible Cobalt Strike C2 Domain,/load
@@ -365,7 +365,6 @@ dg4c05sriu957.cloudfront.net,Possible PoshC2 Fronted Domain,/vssf/wppo/site/bgro
 dictionary.com,Possible Cobalt Strike C2 Fronted Domain,/en-us/p/onerf/MeSilentPassport
 dida2yvzt3b0v.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
 dida2yvzt3b0v.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/WmpZG/1yLFsdLAaqcCyXgSzL-vpBQP42icKGh
-digimetric.co,Possible Cobalt Strike C2 Domain,/owa/
 digisecuritysolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 digisurv.co,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3246918-0264889/field-keywords=books
 digisurveys.co,Possible Cobalt Strike C2 Fronted Domain,/g/rfer=nmn_fr_gees_1/21-84521-384-5173654/field-keywords=toys
@@ -414,7 +413,6 @@ ec2-3-144-187-165.us-east-2.compute.amazonaws.com,Possible Cobalt Strike C2 Doma
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM
-ec2-54-157-82-153.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/g.pixel
 ec2-54-91-206-76.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM
 ecampus.nwpu.cloud,Possible Powershell Empire C2 Domain,/ahqu4ooGomee4eeyi6die7so/
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
@@ -991,6 +989,7 @@ sysauditwin.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 syscx.com,Possible Cobalt Strike C2 Domain,/dot.gif
 systest.nl,Possible Cobalt Strike C2 Fronted Domain,/vlk/grants
 t.yoao.com,Possible Cobalt Strike C2 Fronted Domain,/load
+tapsearchengine.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 teams-update.azurewebsites.net,Possible Cobalt Strike C2 Domain,/api/Get
 tech.apname.org,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.map.js
 techtogear.com,Possible Cobalt Strike C2 Domain,/xmlconnect
@@ -1018,7 +1017,7 @@ tianji110.space,Possible Cobalt Strike C2 Domain,/kj
 tianji110.space,Possible Cobalt Strike C2 Domain,/templates
 tianqi.com,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta
 tianya.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
-time.amazonec2cloud.top,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+time.amazonec2cloud.top,Possible Cobalt Strike C2 Domain,/fwlink
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/bg.js
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/styles
 top.pm1144.tk,Possible Cobalt Strike C2 Domain,/image/
@@ -1180,7 +1179,7 @@ www.cyberevilcorp.tk,Possible Cobalt Strike C2 Domain,/pixel
 www.dbappsecurity.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 www.dellinspiration.com,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 www.digitallightphotography.net,Possible Cobalt Strike C2 Domain,/dpixel
-www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/zh.html
+www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html
 www.exec.aero,Possible Cobalt Strike C2 Fronted Domain,/updates.rss
 www.finance.com,Possible Cobalt Strike C2 Fronting Domain,/invest/ref=vip_mod_1/210-948655-00189625/region=canada
 www.flashco.host,Possible Cobalt Strike C2 Domain,/include/template/isx.php
