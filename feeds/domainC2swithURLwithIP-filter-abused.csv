@@ -212,8 +212,9 @@ ec2-13-238-218-243.ap-southeast-2.compute.amazonaws.com.,Possible Cobalt Strike 
 ec2-13-239-176-97.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,13.239.176.97
 ec2-13-245-33-197.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,13.245.33.197
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
 ec2-54-157-82-153.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/g.pixel,54.157.82.153
+ecampus.nwpu.cloud,Possible Powershell Empire C2 Domain,/ahqu4ooGomee4eeyi6die7so/,185.117.89.208
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 edgeconnectlon.com,Possible Cobalt Strike C2 Domain,/Forums,46.166.161.168
 eemea3.ng.msg.eemea-microsoft.com,Possible Cobalt Strike C2 Domain,/users/8:orgid:gf457-kdft43uw46pmv-223423q-765-66/events/poll,165.227.133.17
@@ -283,7 +284,7 @@ internalooredoo.com,Possible Cobalt Strike C2 Domain,/fwlink,147.182.238.7
 jardinoks.com,Possible Cobalt Strike C2 Domain,/ptj,78.128.112.217
 jiangzi.com,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta,8.210.68.113
 jiaxing.ga,Possible Cobalt Strike C2 Domain,/api/3,204.44.95.156
-jimbeam.live,Possible Powershell Empire C2 Domain,/news.php,94.140.112.178
+jimbeam.live,Possible Powershell Empire C2 Domain,/login/process.php,94.140.112.178
 jj.okfuck.xyz,Possible Cobalt Strike C2 Domain,/match,45.43.60.220
 jmgo.org,Possible Cobalt Strike C2 Domain,/ga.js,45.158.231.141
 jmgo.org,Possible Cobalt Strike C2 Domain,/visit.js,45.158.231.141
@@ -304,9 +305,9 @@ laosec.cn,Possible Cobalt Strike C2 Domain,/ptj,121.40.248.82
 lartmana.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,77.83.199.75
 lnedl.com,Possible Cobalt Strike C2 Domain,/debug.jpg,45.95.11.14
 localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html,79.188.135.189
-localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html,79.188.135.188
-localhost,Possible Powershell Empire C2 Domain,/microsoft/cache.html,79.188.135.190
-localhost,Possible Powershell Empire C2 Domain,/microsoft/service.html,79.188.135.191
+localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html,79.188.135.190
+localhost,Possible Powershell Empire C2 Domain,/microsoft/analysis.html,79.188.135.191
+localhost,Possible Powershell Empire C2 Domain,/microsoft/service.html,79.188.135.188
 log.dstcapitalmanagement.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2,15.161.5.148
 login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/admin/get.php,206.198.152.45
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm,47.98.164.231
@@ -476,7 +477,7 @@ shangxian.cddk.cc,Possible Cobalt Strike C2 Domain,/g.pixel,114.132.226.178
 shemsut.com,Possible Cobalt Strike C2 Fronted Domain,/access/,184.72.19.202
 shop.redlist.cyou,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,210.1.226.241
 showmethecode.ml,Possible Cobalt Strike C2 Domain,/api/3,104.225.152.89
-smartkey.space,Possible Powershell Empire C2 Domain,/login/process.php,31.170.22.88
+smartkey.space,Possible Powershell Empire C2 Domain,/admin/get.php,31.170.22.88
 sonyblueprint.com,Possible Cobalt Strike C2 Domain,/nd,192.34.109.102
 sploitme.com,Possible Cobalt Strike C2 Fronted Domain,/ca/api/precip/caon0696,142.93.150.197
 ssl363648.cloudflaressl.com,Possible Cobalt Strike C2 Domain,/ptj,45.147.200.110
