@@ -71,6 +71,7 @@ asus-update.freemyip.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 atsecurity.tk,Possible Cobalt Strike C2 Domain,/cm
 auth.limanowa.top,Possible Cobalt Strike C2 Domain,/image/
 auth.mmicrosoft.top,Possible Cobalt Strike C2 Domain,/image/
+azureapp.azureedge.net,Possible Powershell Empire C2 Domain,/admin/login.php
 b.trustsecnet.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/743-21494898-1923945/field-keywords=man
 bad.yoxxx.tk,Possible Cobalt Strike C2 Domain,/match
 baidu.foreign36ogg.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
@@ -252,7 +253,6 @@ ec2-13-245-224-18.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Dom
 ec2-13-245-33-197.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
-ecampus.nwpu.cloud,Possible Powershell Empire C2 Domain,/ahqu4ooGomee4eeyi6die7so/
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 edgeconnectlon.com,Possible Cobalt Strike C2 Domain,/Forums
 eemea3.ng.msg.eemea-microsoft.com,Possible Cobalt Strike C2 Domain,/users/8:orgid:gf457-kdft43uw46pmv-223423q-765-66/events/poll
@@ -346,7 +346,7 @@ kjdhcfv8qvy3v8374twkrht89209o34u398q3gji38493.flash-china.me,Possible Cobalt Str
 komfort-anlage.de,Possible Cobalt Strike C2 Domain,/prodimages/servlet
 kris.extremewang.tk,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 ksdb.ru,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/account/describe
-kxonline.de,Possible Powershell Empire C2 Domain,/news.php
+kxonline.de,Possible Powershell Empire C2 Domain,/admin/get.php
 laosec.cn,Possible Cobalt Strike C2 Domain,/ptj
 lartmana.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 liveschool.us,Possible Cobalt Strike C2 Domain,/zC
@@ -394,6 +394,7 @@ onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 openserchers.com,Possible Cobalt Strike C2 Domain,/visit.js
 orbssecuritybusisys.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 orchardstanks.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+oregon2.oxenstandard.com,Possible Powershell Empire C2 Domain,/recentnews.aspx
 outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa/
 owa.yangming.ml,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com
 owkjyrbelrektubqowrvbwiyrv.com,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/update/oem853/2021/08/85644_
@@ -401,6 +402,7 @@ paypal.com,Possible Cobalt Strike C2 Fronting Domain,/media
 perfectmyst.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/1/
 pfunt.com,Possible Cobalt Strike C2 Domain,/answer
 pfunt.com,Possible Cobalt Strike C2 Domain,/grease
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
 pic-opal.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 po.findmax.xyz,Possible Cobalt Strike C2 Domain,/updates.rss
