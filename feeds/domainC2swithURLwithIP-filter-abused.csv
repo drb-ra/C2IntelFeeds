@@ -217,7 +217,7 @@ eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yan
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com,35.234.5.84
 ec2-13-211-148-133.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,13.211.148.133
 ec2-18-163-231-76.ap-east-1.compute.amazonaws.com,Possible PoshC2 Domain,/status/995598521343541248/query=/,116.92.193.45
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 esc-ok.com,Possible Cobalt Strike C2 Domain,/boxes.html,216.244.87.180
 esswiftupdate.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/v1/queue,206.189.11.150
@@ -465,7 +465,7 @@ sh.homeboyc.cn,Possible Cobalt Strike C2 Fronted Domain,/_/scs/mail-static/_/js/
 shangxian.cddk.cc,Possible Cobalt Strike C2 Domain,/g.pixel,114.132.226.178
 shemsut.com,Possible Cobalt Strike C2 Fronted Domain,/access/,184.72.19.202
 shop.redlist.cyou,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,210.1.226.241
-smartkey.space,Possible Powershell Empire C2 Domain,/login/process.php,31.170.22.88
+smartkey.space,Possible Powershell Empire C2 Domain,/news.php,31.170.22.88
 solvaq.com,Possible Cobalt Strike C2 Domain,/develop.jpgv,209.141.52.93
 solvaq.com,Possible Cobalt Strike C2 Domain,/robust,209.141.52.93
 solvaq.com,Possible Cobalt Strike C2 Fronting Domain,/robust,209.141.52.93
@@ -517,7 +517,6 @@ update.cdn-windows.com,Possible Cobalt Strike C2 Domain,/activity,101.33.33.77
 update.chrome-error.com,Possible Cobalt Strike C2 Domain,/api/3,23.94.208.223
 update.mail-mosenergo.ru,Possible Cobalt Strike C2 Domain,/cx,142.93.225.192
 update.micosoft.org,Possible Cobalt Strike C2 Domain,/async/,18.167.116.10
-update.outssystems.com,Possible Powershell Empire C2 Domain,/login/process.php,44.234.42.201
 update01.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain,/u/vercheck,159.203.113.101
 updatenotepadplus.ml,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,36.91.134.70
 updatenotepadplus.ml,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.64.186.80
