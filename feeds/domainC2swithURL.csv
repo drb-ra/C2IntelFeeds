@@ -14,6 +14,7 @@
 8.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/updates.rss
 8AqOkLutz5lnmb2V1NhgRcJM.xyz,Possible Cobalt Strike C2 Domain,/pixel
 9wlmskjvkk.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
+9x8np02i09.execute-api.us-west-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/updateCheck
 HomeFinance-Company.com,Possible Cobalt Strike C2 Fronted Domain,/chunk-responsive-underlinenav-0ff33106.js
 No0n3.xyz,Possible Cobalt Strike C2 Domain,/ptj
 a.chromedown.xyz,Possible Cobalt Strike C2 Domain,/ga.js
@@ -179,7 +180,6 @@ dg4c05sriu957.cloudfront.net,Possible PoshC2 Fronted Domain,/vssf/wppo/site/bgro
 dgsbu69ctc1ep.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/i15M/QG9t2vUob7onFYuozNHxZbSPJoM73p
 divine-smoke-1e4e.asisdns.workers.dev,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 dm0joizg99a57.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/PbZT/XhUgdEI22Ih6OFM9InThj6VMjozAKY6M6Lk2X
-dmvpv86xc2.azurewebsites.net,Possible Cobalt Strike C2 Domain,/v1/updateCheck
 dnk9t38hcmqp8.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/___utm.gif
 dns-ailyun.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js
 doc.run,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
@@ -267,6 +267,7 @@ kjdhcfv8qvy3v8374twkrht89209o34u398q3gji38493.flash-china.me,Possible Cobalt Str
 kris.extremewang.tk,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 ksdb.ru,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/account/describe
 kxonline.de,Possible Powershell Empire C2 Domain,/news.php
+live-azure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 liveschool.us,Possible Cobalt Strike C2 Domain,/zC
 login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/login/process.php
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm
@@ -470,7 +471,6 @@ watson.telemetry.microsoft.com.ansatc.net,Possible Cobalt Strike C2 Fronted Doma
 webmail.igovservice.net,Possible Cobalt Strike C2 Domain,/server/v751262.jpg
 windows11-update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/pixel
 windows11.google.com,Possible Cobalt Strike C2 Fronting Domain,/image
-winset.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 winupdates.b-cdn.net,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
 wiredobserver.com,Possible Cobalt Strike C2 Domain,/links.html
 wiredobserver.com,Possible Cobalt Strike C2 Domain,/mk.html
