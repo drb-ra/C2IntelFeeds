@@ -449,7 +449,7 @@ ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/mess
 ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.167.68.102
 ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.196.247.105
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,34.201.60.69
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.167.68.102
 ec2-34-201-60-69.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,54.196.247.105
@@ -522,6 +522,7 @@ github.com,Possible Cobalt Strike C2 Fronting Domain,/chunk-responsive-underline
 github.githubassets.com,Possible Cobalt Strike C2 Fronting Domain,/github-bootstrap-688ad13c.js,49.232.155.30
 globalprofessionalcertification.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/235-83634900-1914418/field-keywords=place,3.128.55.216
 gmailbox.pmhmi.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,185.186.246.42
+godgives.me,Possible PoshC2 Domain,/putil/2018/0/11/po.html/,13.58.211.240
 golfara.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.33.179.66
 google-think.tk,Possible Cobalt Strike C2 Domain,/api/3,104.223.15.193
 google.co.uk,Possible Cobalt Strike C2 Fronting Domain,/bn.html,108.177.235.57
@@ -595,7 +596,7 @@ jardinoks.com,Possible Cobalt Strike C2 Domain,/ptj,78.128.112.217
 jdk9.jp.ngrok.io,Possible Cobalt Strike C2 Domain,/cx,34.85.45.189
 jiangzi.com,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta,8.210.68.113
 jiaxing.ga,Possible Cobalt Strike C2 Domain,/api/3,204.44.95.156
-jimbeam.live,Possible Powershell Empire C2 Domain,/login/process.php,94.140.112.178
+jimbeam.live,Possible Powershell Empire C2 Domain,/news.php,94.140.112.178
 jiubie.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,139.180.223.138
 jiubie.tk,Possible Cobalt Strike C2 Domain,/fwlink,172.247.15.225
 jj.okfuck.xyz,Possible Cobalt Strike C2 Domain,/match,128.1.49.116
@@ -639,7 +640,7 @@ liveblm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,162.244.80.254
 liveschool.us,Possible Cobalt Strike C2 Domain,/zC,23.227.203.80
 lnedl.com,Possible Cobalt Strike C2 Domain,/debug.jpg,45.95.11.14
 log.dstcapitalmanagement.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/CltOb12nLW1IbHehcmUtd2hUdmFzEBAY7-0KIOkUDC7h2,15.161.5.148
-login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/news.php,206.198.152.45
+login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/admin/get.php,206.198.152.45
 m.flash-cn.games,Possible Cobalt Strike C2 Domain,/api/3,103.48.169.169
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm,47.98.164.231
 m7r4r2i2.stackpathcdn.com,Possible Cobalt Strike C2 Fronted Domain,/news/regional/0e/liveupdate/,40.69.35.53
