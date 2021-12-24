@@ -194,7 +194,6 @@ eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yan
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com,35.201.138.42
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com,35.234.5.84
 ec2-13-211-148-133.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,13.211.148.133
-ec2-18-163-231-76.ap-east-1.compute.amazonaws.com,Possible PoshC2 Domain,/status/995598521343541248/query=/,116.92.193.45
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 esswiftupdate.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/v1/queue,206.189.11.150
@@ -488,6 +487,8 @@ www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html,47.243.22.29
 www.flreeyes.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.30.43.205
 www.flreeyes.com,Possible Cobalt Strike C2 Domain,/fwlink,103.30.43.205
 www.gdcgx.com,Possible Cobalt Strike C2 Domain,/api/3,192.3.86.197
+www.gfgrouphk.com,Possible PoshC2 Fronted Domain,/status/995598521343541248/query=/,116.92.193.45
+www.gfgrouphk.com,Possible PoshC2 Fronting Domain,/status/995598521343541248/query=/,116.92.193.45
 www.globalmeichat.org,Possible Cobalt Strike C2 Domain,/j.ad,45.63.124.182
 www.globalmeichat.org,Possible Cobalt Strike C2 Domain,/updates.rss,45.63.124.182
 www.google.com,Possible Cobalt Strike C2 Fronting Domain,/aaaaaaaaa,168.235.86.183

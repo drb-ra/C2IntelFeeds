@@ -438,7 +438,6 @@ ec2-13-238-218-243.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C
 ec2-13-239-176-97.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,13.239.176.97
 ec2-13-245-224-18.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/Clzcvcsa1IbehcmUtd12ga2wdmFzEBAY7-1KAsOkUDC7h2,13.245.224.18
 ec2-13-245-33-197.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,13.245.33.197
-ec2-18-163-231-76.ap-east-1.compute.amazonaws.com,Possible PoshC2 Domain,/status/995598521343541248/query=/,116.92.193.45
 ec2-18-206-160-62.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/messages/C16438C0MM,34.201.60.69
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
@@ -1233,6 +1232,8 @@ www.flreeyes.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.30.43.205
 www.flreeyes.com,Possible Cobalt Strike C2 Domain,/fwlink,103.30.43.205
 www.fscoode.xyz,Possible Cobalt Strike C2 Domain,/access/,1.13.0.155
 www.gdcgx.com,Possible Cobalt Strike C2 Domain,/api/3,192.3.86.197
+www.gfgrouphk.com,Possible PoshC2 Fronted Domain,/status/995598521343541248/query=/,116.92.193.45
+www.gfgrouphk.com,Possible PoshC2 Fronting Domain,/status/995598521343541248/query=/,116.92.193.45
 www.globalmeichat.org,Possible Cobalt Strike C2 Domain,/j.ad,45.63.124.182
 www.globalmeichat.org,Possible Cobalt Strike C2 Domain,/match,194.156.98.129
 www.globalmeichat.org,Possible Cobalt Strike C2 Domain,/pixel,194.156.98.129

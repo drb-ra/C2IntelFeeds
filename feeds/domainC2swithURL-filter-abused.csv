@@ -159,7 +159,6 @@ downloadchromium.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fo
 ds.flreeyes.com,Possible Cobalt Strike C2 Domain,/cm
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com
 ec2-13-211-148-133.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver
-ec2-18-163-231-76.ap-east-1.compute.amazonaws.com,Possible PoshC2 Fronting Domain,/status/995598521343541248/query=/
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 esswiftupdate.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/v1/queue
@@ -399,6 +398,8 @@ www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html
 www.flreeyes.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.flreeyes.com,Possible Cobalt Strike C2 Domain,/fwlink
 www.gdcgx.com,Possible Cobalt Strike C2 Domain,/api/3
+www.gfgrouphk.com,Possible PoshC2 Fronted Domain,/status/995598521343541248/query=/
+www.gfgrouphk.com,Possible PoshC2 Fronting Domain,/status/995598521343541248/query=/
 www.globalmeichat.org,Possible Cobalt Strike C2 Domain,/j.ad
 www.globalmeichat.org,Possible Cobalt Strike C2 Domain,/updates.rss
 www.hellomrsone.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
