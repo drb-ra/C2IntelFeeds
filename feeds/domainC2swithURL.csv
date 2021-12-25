@@ -170,8 +170,9 @@ downloadchromium.com,Possible Cobalt Strike C2 Domain,/us/ky/louisville/312-s-fo
 ds.flreeyes.com,Possible Cobalt Strike C2 Domain,/cm
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com
 ec2-13-211-148-133.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
+emailservices.events,Possible PoshC2 Fronting Domain,/TOS/
 esswiftupdate.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/v1/queue
 ex-update10.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain,/u/vercheck
 fedex-global.com,Possible Cobalt Strike C2 Domain,/MicrosoftUpdate/ShellEx/KB242742/default.aspx
@@ -216,7 +217,7 @@ img.teemo.click,Possible Cobalt Strike C2 Domain,/ca
 innerossinternets.microsoftnservices.com,Possible Cobalt Strike C2 Domain,/static/javascript/cnzz.js
 jardinoks.com,Possible Cobalt Strike C2 Domain,/ptj
 jdk9.jp.ngrok.io,Possible Cobalt Strike C2 Domain,/cx
-jimbeam.live,Possible Powershell Empire C2 Domain,/news.php
+jimbeam.live,Possible Powershell Empire C2 Domain,/login/process.php
 jiubie.tk,Possible Cobalt Strike C2 Domain,/fwlink
 jj.okfuck.xyz,Possible Cobalt Strike C2 Domain,/match
 juilsse.com,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -232,10 +233,9 @@ ksdb.ru,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/a
 kxonline.de,Possible Powershell Empire C2 Domain,/news.php
 live-azure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 liveschool.us,Possible Cobalt Strike C2 Domain,/zC
-login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/login/process.php
+login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/admin/get.php
 m7r4r2i2.stackpathcdn.com,Possible Cobalt Strike C2 Fronted Domain,/news/regional/0e/liveupdate/
 mail.chinatelecom-hr.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021/10/29136388_
-microsoft-edu.com,Possible Cobalt Strike C2 Domain,/ms
 microsoftchina.org,Possible Cobalt Strike C2 Domain,/ca
 microsoftchina.org,Possible Cobalt Strike C2 Domain,/ga.js
 mini.hkaclublol.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/02/123125789_
@@ -251,6 +251,7 @@ ns1.windows-sync.com,Possible Cobalt Strike C2 Domain,/visit.js
 ocsp-azure.azureedge.net,Possible PoshC2 Fronting Domain,/branch-locator/search.asp/
 ocsp.verisign.com,Possible Cobalt Strike C2 Fronting Domain,/oscp/
 office-update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
+office.thebrain.net,Possible PoshC2 Fronting Domain,/types/translation/v1/articles/
 outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa/
 owa.yangming.ml,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com
 owkjyrbelrektubqowrvbwiyrv.com,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/update/oem853/2021/08/85644_
@@ -259,7 +260,7 @@ paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif
 perfectmyst.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/1/
 pfunt.com,Possible Cobalt Strike C2 Domain,/answer
 pfunt.com,Possible Cobalt Strike C2 Domain,/grease
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php
 portal.yangming.website,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com
 powerpoent.com,Possible Cobalt Strike C2 Domain,/ab
 powerpoent.com,Possible Cobalt Strike C2 Fronting Domain,/ab
@@ -356,7 +357,6 @@ svvtc.com,Possible Cobalt Strike C2 Domain,/shave.jpgv
 sync.microsoft-update.co,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/others/2016/12/29136388_
 systemaxinfosys.com,Possible Cobalt Strike C2 Domain,/adminhtml.css
 systest.nl,Possible Cobalt Strike C2 Fronted Domain,/vlk/grants
-t3rry.top,Possible Cobalt Strike C2 Domain,/match
 tapsearchengine.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 techbotlook.info,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 telemetryalliance.com,Possible Cobalt Strike C2 Fronted Domain,/a/loc=ss_sb_/1034-2234-138245/field-keywords=humidifiers
