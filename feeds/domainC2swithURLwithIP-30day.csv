@@ -355,7 +355,7 @@ ec2-13-239-176-97.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2
 ec2-13-245-224-18.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/Clzcvcsa1IbehcmUtd12ga2wdmFzEBAY7-1KAsOkUDC7h2,13.245.224.18
 ec2-13-245-33-197.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,13.245.33.197
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
 ecampus.nwpu.cloud,Possible Powershell Empire C2 Domain,/ahqu4ooGomee4eeyi6die7so/,185.117.89.208
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 edgeconnectlon.com,Possible Cobalt Strike C2 Domain,/Forums,46.166.161.168
@@ -365,6 +365,7 @@ emailservices.events,Possible PoshC2 Domain,/TOS/,82.221.141.134
 emailservices.events,Possible PoshC2 Domain,/bh/sync/aol/,82.221.141.134
 esc-ok.com,Possible Cobalt Strike C2 Domain,/boxes.html,216.244.87.180
 esswiftupdate.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/v1/queue,206.189.11.150
+events.msanalytics.workers.dev,Possible Cobalt Strike C2 Domain,/en-us/store/api/checkproductinwishlist,147.182.220.15
 ex-update10.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain,/u/vercheck,167.99.51.149
 fdr-conference.org,Possible Cobalt Strike C2 Fronted Domain,/build.html,137.184.8.123
 fedex-global.com,Possible Cobalt Strike C2 Domain,/MicrosoftUpdate/ShellEx/KB242742/default.aspx,128.199.0.91
@@ -587,7 +588,7 @@ paypal.com,Possible Cobalt Strike C2 Fronting Domain,/media,172.93.100.155
 perfectmyst.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/1/,8.210.86.230
 pfunt.com,Possible Cobalt Strike C2 Domain,/answer,78.47.88.87
 pfunt.com,Possible Cobalt Strike C2 Domain,/grease,78.47.88.87
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
 pic-opal.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid,81.71.83.233
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
 po.findmax.xyz,Possible Cobalt Strike C2 Domain,/updates.rss,103.74.192.26
@@ -874,7 +875,6 @@ travelboone.com,Possible Cobalt Strike C2 Domain,/zC,89.44.9.203
 tree.qq.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit,111.230.196.200
 trialgmail.space,Possible Cobalt Strike C2 Domain,/__utm.gif,91.219.236.92
 trialgmail.space,Possible Cobalt Strike C2 Domain,/ca,91.219.236.92
-tunnel01.unifiedinsurance.workers.dev,Possible Cobalt Strike C2 Domain,/api2/json/cluster/resources,147.182.220.15
 twitter.com,Possible Cobalt Strike C2 Fronting Domain,/jp,172.241.27.113
 ubartyma.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,79.141.162.185
 ulsterbanks.com,Possible Cobalt Strike C2 Domain,/__utm.gif,185.191.32.210

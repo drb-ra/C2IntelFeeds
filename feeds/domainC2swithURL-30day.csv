@@ -317,7 +317,7 @@ ec2-13-239-176-97.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2
 ec2-13-245-224-18.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/Clzcvcsa1IbehcmUtd12ga2wdmFzEBAY7-1KAsOkUDC7h2
 ec2-13-245-33-197.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php
 ecampus.nwpu.cloud,Possible Powershell Empire C2 Domain,/ahqu4ooGomee4eeyi6die7so/
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 edgeconnectlon.com,Possible Cobalt Strike C2 Domain,/Forums
@@ -327,6 +327,7 @@ emailservices.events,Possible PoshC2 Fronting Domain,/TOS/
 emailservices.events,Possible PoshC2 Fronting Domain,/bh/sync/aol/
 esc-ok.com,Possible Cobalt Strike C2 Domain,/boxes.html
 esswiftupdate.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/v1/queue
+events.msanalytics.workers.dev,Possible Cobalt Strike C2 Domain,/en-us/store/api/checkproductinwishlist
 ex-update10.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain,/u/vercheck
 fdr-conference.org,Possible Cobalt Strike C2 Fronted Domain,/build.html
 fedex-global.com,Possible Cobalt Strike C2 Domain,/MicrosoftUpdate/ShellEx/KB242742/default.aspx
@@ -519,7 +520,7 @@ paypal.com,Possible Cobalt Strike C2 Fronting Domain,/media
 perfectmyst.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/1/
 pfunt.com,Possible Cobalt Strike C2 Domain,/answer
 pfunt.com,Possible Cobalt Strike C2 Domain,/grease
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php
 pic-opal.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 po.findmax.xyz,Possible Cobalt Strike C2 Domain,/updates.rss
@@ -785,7 +786,6 @@ travelboone.com,Possible Cobalt Strike C2 Domain,/zC
 tree.qq.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit
 trialgmail.space,Possible Cobalt Strike C2 Domain,/__utm.gif
 trialgmail.space,Possible Cobalt Strike C2 Domain,/ca
-tunnel01.unifiedinsurance.workers.dev,Possible Cobalt Strike C2 Domain,/api2/json/cluster/resources
 twitter.com,Possible Cobalt Strike C2 Fronting Domain,/jp
 ubartyma.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ulsterbanks.com,Possible Cobalt Strike C2 Domain,/__utm.gif

@@ -145,6 +145,7 @@ ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain
 emailservices.events,Possible PoshC2 Domain
 esswiftupdate.azureedge.net,Possible Cobalt Strike C2 Fronting Domain
+events.msanalytics.workers.dev,Possible Cobalt Strike C2 Domain
 ex-update10.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain
 fedex-global.com,Possible Cobalt Strike C2 Domain
 fee.mozilla-firfox.com,Possible Cobalt Strike C2 Domain
@@ -209,10 +210,10 @@ notc2.live.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain
 ns.yangming.ga,Possible Cobalt Strike C2 Fronted Domain
 ns1.cyan.tw,Possible Cobalt Strike C2 Domain
 ns1.financialandloan.com,Possible Cobalt Strike C2 Domain
+ns1.ondriev.tk,Possible Cobalt Strike C2 Fronted Domain
 ns1.windows-sync.com,Possible Cobalt Strike C2 Domain
-ns4.twittre.tk,Possible Cobalt Strike C2 Fronted Domain
-ns5.twittre.tk,Possible Cobalt Strike C2 Fronted Domain
-ns6.twittre.tk,Possible Cobalt Strike C2 Fronted Domain
+ns2.ondriev.tk,Possible Cobalt Strike C2 Fronted Domain
+ns3.ondriev.tk,Possible Cobalt Strike C2 Fronted Domain
 ocsp-azure.azureedge.net,Possible PoshC2 Domain
 ocsp.verisign.com,Possible Cobalt Strike C2 Fronting Domain
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain
@@ -344,7 +345,6 @@ test1.baidu.com,Possible Cobalt Strike C2 Fronting Domain
 test1.baidu.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 travelboone.com,Possible Cobalt Strike C2 Domain
 trialgmail.space,Possible Cobalt Strike C2 Domain
-tunnel01.unifiedinsurance.workers.dev,Possible Cobalt Strike C2 Domain
 twitter.com,Possible Cobalt Strike C2 Fronting Domain
 unsinorg.cf,Possible Cobalt Strike C2 Domain
 update-chromium.com,Possible Cobalt Strike C2 Fronted Domain
