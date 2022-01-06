@@ -356,7 +356,7 @@ ec2-13-239-176-97.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2
 ec2-13-245-224-18.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/Clzcvcsa1IbehcmUtd12ga2wdmFzEBAY7-1KAsOkUDC7h2,13.245.224.18
 ec2-13-245-33-197.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,13.245.33.197
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
 ecampus.nwpu.cloud,Possible Powershell Empire C2 Domain,/ahqu4ooGomee4eeyi6die7so/,185.117.89.208
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 edgeconnectlon.com,Possible Cobalt Strike C2 Domain,/Forums,46.166.161.168
@@ -410,6 +410,7 @@ github.com,Possible Cobalt Strike C2 Fronting Domain,/chunk-responsive-underline
 github.githubassets.com,Possible Cobalt Strike C2 Fronting Domain,/github-bootstrap-688ad13c.js,49.232.155.30
 globalprofessionalcertification.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/235-83634900-1914418/field-keywords=place,3.128.55.216
 godgives.me,Possible PoshC2 Domain,/putil/2018/0/11/po.html/,13.58.211.240
+godgives.me,Possible PoshC2 Domain,/putil/2018/0/11/po.html/,3.140.185.101
 googelo.top,Possible Cobalt Strike C2 Domain,/image/,144.202.115.84
 google-think.tk,Possible Cobalt Strike C2 Domain,/api/3,104.223.15.193
 google.co.in,Possible Cobalt Strike C2 Fronting Domain,/ms.html,104.194.11.249
