@@ -1,4 +1,5 @@
 #domain,ioc,uri_path,ip
+0012eb.lwindowsupdate.cf,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021/10/h5iu41uzepb50ZlkdgCL,159.203.102.73
 1.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml,195.133.52.232
 1.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/links,195.133.52.232
 10080.site,Possible Cobalt Strike C2 Domain,/cx,82.156.2.25
@@ -337,7 +338,7 @@ ec2-13-239-176-97.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2
 ec2-13-245-224-18.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/Clzcvcsa1IbehcmUtd12ga2wdmFzEBAY7-1KAsOkUDC7h2,13.245.224.18
 ec2-13-245-33-197.af-south-1.compute.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,13.245.33.197
 ec2-3-26-14-124.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,3.26.14.124
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
 ecampus.nwpu.cloud,Possible Powershell Empire C2 Domain,/ahqu4ooGomee4eeyi6die7so/,185.117.89.208
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 edgeconnectlon.com,Possible Cobalt Strike C2 Domain,/Forums,46.166.161.168
@@ -553,7 +554,7 @@ paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
 perfectmyst.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/1/,8.210.86.230
 pfunt.com,Possible Cobalt Strike C2 Domain,/answer,78.47.88.87
 pfunt.com,Possible Cobalt Strike C2 Domain,/grease,78.47.88.87
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp,18.219.180.158
 pic-opal.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid,81.71.83.233
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
 po.findmax.xyz,Possible Cobalt Strike C2 Domain,/updates.rss,103.74.192.26
@@ -721,7 +722,7 @@ service-l6j88pzg-1300868263.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-l7b0a8wc-1305819737.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,120.78.197.8
 service-lpremg76-1308287512.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,162.14.65.108
 service-m328t91d-1307678690.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,106.13.239.34
-service-mb04jg90-1308769889.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,104.225.156.28
+service-mb04jg90-1308769889.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/visit.js,104.225.156.28
 service-mdgeey3n-1259685312.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,1.117.155.217
 service-mp2sc0gc-1301679103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,111.230.196.200
 service-na0u0ete-1301192697.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.34.162.92
@@ -788,7 +789,6 @@ status.yun.caiguanjia.net,Possible Cobalt Strike C2 Fronting Domain,/viewerng/me
 statuscheck.duckdns.org,Possible Cobalt Strike C2 Domain,/cx,80.78.24.13
 statuscheck.duckdns.org,Possible Cobalt Strike C2 Domain,/ga.js,168.100.11.146
 storage.ondriev.tk,Possible Cobalt Strike C2 Fronted Domain,/preload,116.206.92.26
-store.nwwwamazon.ga,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,159.203.102.73
 sts.tencentcloudapi.tk,Possible Cobalt Strike C2 Domain,/api/3,1.116.96.210
 sts.tencentcloudapi.tk,Possible Cobalt Strike C2 Fronted Domain,/FC001/JOHN,49.235.206.130
 sufebul.com,Possible Cobalt Strike C2 Fronted Domain,/en.js,172.241.27.198
