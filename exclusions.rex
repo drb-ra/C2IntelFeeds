@@ -120,4 +120,5 @@
 ^vk\.com,
 ^tmall\.com,
 ^im\.qq\.com,
+\.cast\.org\.cn,
 ^http,
