@@ -284,7 +284,7 @@ eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yan
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com,35.201.138.42
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com,35.234.5.84
 ec2-13-211-148-133.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,13.211.148.133
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 emailservices.events,Possible PoshC2 Domain,/TOS/,82.221.141.134
 emailservices.events,Possible PoshC2 Domain,/bh/sync/aol/,82.221.141.134
@@ -369,7 +369,7 @@ itctka4v.club,Possible Cobalt Strike C2 Domain,/bin,54.203.235.97
 jardinoks.com,Possible Cobalt Strike C2 Domain,/ptj,78.128.112.217
 jdk9.jp.ngrok.io,Possible Cobalt Strike C2 Domain,/load,34.85.45.189
 jiaxing.ga,Possible Cobalt Strike C2 Domain,/api/3,204.44.95.156
-jimbeam.live,Possible Powershell Empire C2 Domain,/news.php,94.140.112.178
+jimbeam.live,Possible Powershell Empire C2 Domain,/login/process.php,94.140.112.178
 jiubie.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,139.180.223.138
 jiubie.tk,Possible Cobalt Strike C2 Domain,/fwlink,172.247.15.225
 jj.okfuck.xyz,Possible Cobalt Strike C2 Domain,/match,128.1.49.116
@@ -458,7 +458,7 @@ paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
 perfectmyst.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/1/,8.210.86.230
 pfunt.com,Possible Cobalt Strike C2 Domain,/answer,78.47.88.87
 pfunt.com,Possible Cobalt Strike C2 Domain,/grease,78.47.88.87
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
 pic-opal.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid,81.71.83.233
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
 po.findmax.xyz,Possible Cobalt Strike C2 Domain,/updates.rss,103.74.192.26
@@ -523,7 +523,6 @@ securitydownload.top,Possible Cobalt Strike C2 Domain,/api/3,146.19.230.20
 semei.vip,Possible Cobalt Strike C2 Domain,/api/3,27.124.46.191
 semei.vip,Possible Cobalt Strike C2 Domain,/api/3,27.124.46.192
 service-14v4pnqn-1259219677.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,8.136.222.24
-service-18vi4kp0-1302498057.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,170.106.194.97
 service-1km9hyxt-1302046161.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,1.116.28.99
 service-1p4wddz7-1301390598.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,39.102.52.164
 service-1t2zpo3w-1300736223.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,103.145.86.70
@@ -649,7 +648,7 @@ shop.96html.com,Possible Cobalt Strike C2 Fronted Domain,/watch,149.28.74.76
 shop.redlist.cyou,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,210.1.226.241
 shvano.com,Possible Cobalt Strike C2 Domain,/provide,146.19.75.38
 shvano.com,Possible Cobalt Strike C2 Domain,/travel,146.19.75.38
-smartkey.space,Possible Powershell Empire C2 Domain,/admin/get.php,31.170.22.88
+smartkey.space,Possible Powershell Empire C2 Domain,/news.php,31.170.22.88
 solvaq.com,Possible Cobalt Strike C2 Domain,/develop.jpgv,209.141.52.93
 solvaq.com,Possible Cobalt Strike C2 Domain,/robust,209.141.52.93
 solvaq.com,Possible Cobalt Strike C2 Fronting Domain,/robust,209.141.52.93
