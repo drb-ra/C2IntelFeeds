@@ -121,4 +121,5 @@
 ^tmall\.com,
 ^im\.qq\.com,
 \.cast\.org\.cn,
+^bankofamerica\.com,
 ^http,
