@@ -122,4 +122,6 @@
 ^im\.qq\.com,
 \.cast\.org\.cn,
 ^bankofamerica\.com,
+^yandex\.ru,
+\.yandex\.ru,
 ^http,
