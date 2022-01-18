@@ -10,7 +10,7 @@
 2vcasdx7da.execute-api.eu-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch,134.122.134.64
 3.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml,195.133.52.232
 3.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/links,195.133.52.232
-3084-2-56-57-248.ngrok.io,Possible Powershell Empire C2 Domain,/login/process.php,2.56.57.248
+3084-2-56-57-248.ngrok.io,Possible Powershell Empire C2 Domain,/news.php,2.56.57.248
 360query.tk,Possible Cobalt Strike C2 Fronted Domain,/messages/2i2ga6wsJrx4E0XcHUU3kbGU-cRd4La,8.210.224.18
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/,103.149.27.116
 5gzvip.91tunnel.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,47.107.76.95
@@ -300,7 +300,7 @@ eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yan
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com,35.201.138.42
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com,35.234.5.84
 ec2-13-211-148-133.ap-southeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/sig_ver,13.211.148.133
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
 ec2-35-177-95-190.eu-west-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/real-world-investing/,35.177.95.190
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_,159.203.74.162
 emailservices.events,Possible PoshC2 Domain,/TOS/,82.221.141.134
@@ -711,6 +711,7 @@ tencents-cdn.com,Possible Cobalt Strike C2 Domain,/templates,47.243.134.222
 tencentvip.tk,Possible Cobalt Strike C2 Domain,/activity,45.32.75.228
 test.0h1ry.tk,Possible Cobalt Strike C2 Fronting Domain,/boxes.css,1.116.123.104
 test.flash-update.pw,Possible Cobalt Strike C2 Domain,/fwlink,23.94.208.224
+test.kurokoleung.cn,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,49.234.105.212
 test.neeon.online,Possible Cobalt Strike C2 Domain,/load,204.44.93.136
 test.ssrserver-update.xyz,Possible Cobalt Strike C2 Domain,/boxes.html,45.77.208.233
 test.yazccwj1091.tk,Possible Cobalt Strike C2 Domain,/api/3,82.156.9.9

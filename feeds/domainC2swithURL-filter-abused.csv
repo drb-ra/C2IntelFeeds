@@ -7,7 +7,7 @@
 2vcasdx7da.execute-api.eu-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
 3.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml
 3.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/links
-3084-2-56-57-248.ngrok.io,Possible Powershell Empire C2 Domain,/login/process.php
+3084-2-56-57-248.ngrok.io,Possible Powershell Empire C2 Domain,/news.php
 360query.tk,Possible Cobalt Strike C2 Fronted Domain,/messages/2i2ga6wsJrx4E0XcHUU3kbGU-cRd4La
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/
 666621.xyz,Possible Cobalt Strike C2 Domain,/load
@@ -154,7 +154,7 @@ down.filteringcache.com,Possible Cobalt Strike C2 Fronted Domain,/msdownload/upd
 down2.linuxupdate.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.windowspowerr.com,Possible Cobalt Strike C2 Domain,/j.ad
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 ec2-35-177-95-190.eu-west-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/real-world-investing/
 edge-475.b-cdn.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/10/29136388_
 emailservices.events,Possible PoshC2 Fronting Domain,/bh/sync/aol/
@@ -323,6 +323,7 @@ service-opid60kg-1305406685.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ospnb365-1306113289.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-p51jmamc-1252114028.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
 service-pri2rmp0-1305482338.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-qv7neitl-1301977346.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/script/VUE/src/main.js
 service-rf7x6h7y-1300868263.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rne74uco-1305831073.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rs0iggq1-1305836665.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -357,6 +358,7 @@ t.yoao.com,Possible Cobalt Strike C2 Fronted Domain,/load
 telemetryalliance.com,Possible Cobalt Strike C2 Fronted Domain,/a/loc=ss_sb_/1034-2234-138245/field-keywords=humidifiers
 tencents-cdn.com,Possible Cobalt Strike C2 Domain,/templates
 test.flash-update.pw,Possible Cobalt Strike C2 Domain,/fwlink
+test.kurokoleung.cn,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 test.ssrserver-update.xyz,Possible Cobalt Strike C2 Domain,/boxes.html
 test1.baidu.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 tk.googleyiqi.tk,Possible Cobalt Strike C2 Domain,/api/3
