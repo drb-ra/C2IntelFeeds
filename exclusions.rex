@@ -124,4 +124,5 @@
 ^bankofamerica\.com,
 ^yandex\.ru,
 \.yandex\.ru,
+^mirrors\.aliyun\.com,
 ^http,
