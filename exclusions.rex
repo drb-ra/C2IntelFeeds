@@ -16,6 +16,7 @@
 ^google\.com\.mx,
 ^google\.de,
 ^google\.ru,
+^google\.it,
 \.google\.com,
 \.bloomberg\.com,
 \.oracle\.com,
