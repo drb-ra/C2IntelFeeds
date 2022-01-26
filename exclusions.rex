@@ -125,4 +125,5 @@
 ^yandex\.ru,
 \.yandex\.ru,
 ^mirrors\.aliyun\.com,
+^www\.shangxueba\.com,
 ^http,
