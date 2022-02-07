@@ -1,7 +1,6 @@
 #domain,ioc,uri_path
 10080.site,Possible Cobalt Strike C2 Domain,/updates.rss
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/
-5gzvip.91tunnel.com,Possible Cobalt Strike C2 Domain,/load
 666621.xyz,Possible Cobalt Strike C2 Domain,/ga.js
 8.tcp.ngrok.io,Possible Cobalt Strike C2 Domain,/updates.rss
 8AqOkLutz5lnmb2V1NhgRcJM.xyz,Possible Cobalt Strike C2 Domain,/pixel
@@ -148,6 +147,7 @@ dns.qianxin.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3
 doc.run,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 docs.healthcare-athome.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 down.filteringcache.com,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/DUProcedure/Dynamic_
+down2.linuxupdate.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.windowspowerr.com,Possible Cobalt Strike C2 Domain,/ptj
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2016/12/29136388_
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/10/29136388_
@@ -327,6 +327,7 @@ service-brm44217-1305827844.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-cao57eu9-1300400844.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/script/VUE/src/main.js
 service-cfb1e6dw-1256658734.usw.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj
 service-cq6c7204-1308476627.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-cqxivkek-1302011223.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ca
 service-cv62i2eg-1258558004.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/load
 service-cvd7d5xh-1307608206.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-d9w2yjgu-1302420290.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
@@ -405,6 +406,7 @@ update.pinyin.pw,Possible Cobalt Strike C2 Domain,/update
 update09.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain,/u/checkv
 update41.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain,/u/vercheck
 updatenotepadplus.ml,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+updateservices.org,Possible Cobalt Strike C2 Fronting Domain,/hr
 upgrade-services.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 upload.dwi22g.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 upsawanna.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -479,6 +481,7 @@ www.nquy.xyz,Possible Cobalt Strike C2 Fronting Domain,/image/
 www.oiuetnx.com,Possible Cobalt Strike C2 Domain,/www/donny
 www.rodinscoldly.com,Possible Cobalt Strike C2 Fronted Domain,/fam_cart.html
 www.superqq.top,Possible Cobalt Strike C2 Domain,/image/
+www.updateservices.org,Possible Cobalt Strike C2 Fronted Domain,/hr
 www.wangzha156.xyz,Possible Cobalt Strike C2 Domain,/fam_calendar
 www.windows-services.com,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 www.yieldguide.ag,Possible Cobalt Strike C2 Fronted Domain,/updates.rss
