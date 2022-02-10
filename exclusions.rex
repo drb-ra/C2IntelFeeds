@@ -127,4 +127,5 @@
 \.yandex\.ru,
 ^mirrors\.aliyun\.com,
 ^www\.shangxueba\.com,
+^www\.menshealth\.co\.uk,
 ^http,
