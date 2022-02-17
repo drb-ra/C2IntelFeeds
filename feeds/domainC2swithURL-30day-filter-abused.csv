@@ -231,6 +231,7 @@ ebus.ishadow.fun,Possible Cobalt Strike C2 Fronted Domain,/restore/accessgranted
 ec2-13-38-90-3.eu-west-3.compute.amazonaws.com,Possible PoshC2 Fronting Domain,/load/pages/index.php/
 ec2-3-250-53-129.eu-west-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/cm
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 ec2-3-93-237-57.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 ec2-35-177-95-190.eu-west-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/real-world-investing/
 edgemikrosoft.com,Possible Cobalt Strike C2 Domain,/avatars
@@ -284,7 +285,7 @@ hello.zylbzxcv.online,Possible Cobalt Strike C2 Domain,/updates
 hgtfde.hopto.org,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 hilaxeten.com,Possible Cobalt Strike C2 Fronted Domain,/groupcp
 hille1.com,Possible Cobalt Strike C2 Domain,/ga.js
-hk.cdn-skype.com,Possible Powershell Empire C2 Domain,/news/today.jsp
+hk.cdn-skype.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
 hk.fcalebook.com,Possible Cobalt Strike C2 Domain,/activity
 home.yangming.world,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com
 hostnamefffew.ddns.net,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -456,8 +457,8 @@ sagebusiness.biz,Possible Cobalt Strike C2 Domain,/icons/favicon.ico
 sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 secrdp.icu,Possible Cobalt Strike C2 Domain,/unique.json
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 sen.sencye.net,Possible Cobalt Strike C2 Domain,/avatars
 service-09d0zmmi-1309015260.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -496,6 +497,7 @@ service-anwlalbi-1302650299.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-anwlalbi-1302650299.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/j.ad
 service-as5wrn28-1305098785.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-awiuoya1-1306227723.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
+service-awiuoya1-1306227723.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dot.gif
 service-bih1szk1-1259245302.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-brm44217-1305827844.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-c016brab-1302420290.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -561,7 +563,7 @@ shrill-bar-dbc1.gsss.workers.dev,Possible Cobalt Strike C2 Domain,/activity
 sign.securepdf.workers.dev,Possible Cobalt Strike C2 Domain,/poll
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
 slim-well.com,Possible Cobalt Strike C2 Domain,/load
-smartkey.space,Possible Powershell Empire C2 Domain,/login/process.php
+smartkey.space,Possible Powershell Empire C2 Domain,/news.php
 sockets.softether.net,Possible Cobalt Strike C2 Domain,/dpixel
 sonicwin.net,Possible Cobalt Strike C2 Fronted Domain,/watch
 sonyblueprint.com,Possible Cobalt Strike C2 Domain,/nd
