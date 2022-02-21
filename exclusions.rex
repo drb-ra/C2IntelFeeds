@@ -130,4 +130,5 @@
 ^www\.menshealth\.co\.uk,
 ^tumblr\.com,
 \.taobao\.com,
+^taobao\.com,
 ^http,
