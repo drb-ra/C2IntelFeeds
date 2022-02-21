@@ -128,4 +128,6 @@
 ^mirrors\.aliyun\.com,
 ^www\.shangxueba\.com,
 ^www\.menshealth\.co\.uk,
+^tumblr\.com,
+\.taobao\.com,
 ^http,
