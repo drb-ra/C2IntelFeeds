@@ -3,7 +3,6 @@
 10080.site,Possible Cobalt Strike C2 Domain,/updates.rss,82.156.2.25
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/,103.149.27.116
 3bz5n5426a.execute-api.eu-west-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch,134.122.54.244
-5e63-74-51-164-194.ngrok.io,Possible Cobalt Strike C2 Domain,/dot.gif,74.51.164.194
 60z7e5b1ld.execute-api.eu-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch,62.113.255.12
 666621.xyz,Possible Cobalt Strike C2 Domain,/en_US/all.js,43.155.95.191
 666621.xyz,Possible Cobalt Strike C2 Domain,/updates.rss,43.155.95.191
@@ -11,11 +10,11 @@
 8AqOkLutz5lnmb2V1NhgRcJM.xyz,Possible Cobalt Strike C2 Domain,/pixel,18.116.203.79
 8f22-104-128-92-144.ngrok.io,Possible Cobalt Strike C2 Domain,/groupcp.js,104.128.92.144
 SikesComposites.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/Jwjy4/cmr4tZ7IyFGbgCiof2tHMO,45.141.84.29
-a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/dpixel,101.32.204.81
+a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/ptj,101.32.204.81
 a0.awsstatic.com,Possible Cobalt Strike C2 Domain,/api/fetch,62.113.255.12
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/,37.120.247.55
 adobe-flash.co,Possible Cobalt Strike C2 Domain,/,103.56.112.187
-afreelunch.ml,Possible Powershell Empire C2 Domain,/login/process.php,52.188.126.180
+afreelunch.ml,Possible Powershell Empire C2 Domain,/admin/get.php,52.188.126.180
 aigouing.com,Possible Cobalt Strike C2 Domain,/push,54.196.7.25
 aiplasp.org,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,192.210.151.34
 aiplasp.tk,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,192.210.151.34
@@ -51,6 +50,7 @@ b2bdirector.com,Possible Cobalt Strike C2 Domain,/rn,23.227.202.109
 b2bdirector.com,Possible Cobalt Strike C2 Domain,/search,23.227.202.109
 baidus.cf,Possible Cobalt Strike C2 Domain,/load,3.16.22.184
 baidus.cf,Possible Cobalt Strike C2 Domain,/pixel,3.16.22.184
+balacif.com,Possible Cobalt Strike C2 Fronted Domain,/favicon,172.93.201.95
 bartiba.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,146.0.77.18
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/ca,47.98.164.231
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/cm,47.98.164.231
@@ -59,6 +59,7 @@ bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/match,47.98.164.231
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/ptj,47.98.164.231
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/push,47.98.164.231
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/visit.js,47.98.164.231
+bd1f-74-51-164-194.ngrok.io,Possible Cobalt Strike C2 Domain,/activity,74.51.164.194
 bfer.yxle.cn,Possible Cobalt Strike C2 Domain,/ptj,120.55.189.211
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js,195.133.53.144
 blackid-40543.portmap.io,Possible Cobalt Strike C2 Domain,/en_US/all.js,46.246.84.12
@@ -182,7 +183,6 @@ drop.creativepictureclouds.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.mi
 ec1.nvwa.me,Possible Cobalt Strike C2 Domain,/activity,146.56.98.159
 ec2-13-38-90-3.eu-west-3.compute.amazonaws.com,Possible PoshC2 Domain,/load/pages/index.php/,13.38.90.3
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php,3.67.39.119
 ec2.nvwa.me,Possible Cobalt Strike C2 Domain,/pixel,146.56.98.159
 ec3.nvwa.me,Possible Cobalt Strike C2 Domain,/push,146.56.98.159
 edgemikrosoft.com,Possible Cobalt Strike C2 Domain,/avatars,5.199.162.10
@@ -215,6 +215,8 @@ gfjjblnoihugfjdrhcjgvhb.com,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/update/o
 gida1.net,Possible Cobalt Strike C2 Domain,/dot.gif,194.165.16.98
 google-think.tk,Possible Cobalt Strike C2 Domain,/api/3,104.223.15.193
 google.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,34.64.90.197
+google.com.mx,Possible Cobalt Strike C2 Fronting Domain,/favicon,172.93.201.95
+google.com.mx,Possible Cobalt Strike C2 Fronting Domain,/jp.html,23.108.57.39
 google.it,Possible Cobalt Strike C2 Fronting Domain,/RELEASE,172.241.27.128
 gpupdate.filteringcache.com,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/DUProcedure/Dynamic_,141.105.66.36
 grizmit.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.213
@@ -253,7 +255,7 @@ johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/media.js,81.17.30.2
 johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/rs.js,81.17.22.76
 johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/rs.js,81.17.22.78
 johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/rs.js,81.17.30.251
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/cm,8.210.232.124
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel.gif,8.210.232.124
 k01.forgottentok2.xyz,Possible Cobalt Strike C2 Domain,/api/3,192.3.128.243
 karbary.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.221.61
 kasaa.net,Possible Cobalt Strike C2 Domain,/fwlink,194.36.191.246
@@ -303,7 +305,7 @@ nagahox.com,Possible Cobalt Strike C2 Fronted Domain,/logo,172.241.27.226
 nartybarma.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.222.252
 nartybarty.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.218.180
 nentundo.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.99
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/activity,8.210.232.124
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel,8.210.232.124
 notc2.live.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/updates/2021/11,167.99.197.196
 nquy.xyz,Possible Cobalt Strike C2 Fronted Domain,/image/,159.223.100.1
 ns1.ckooleplan.com,Possible Cobalt Strike C2 Domain,/cx,78.128.112.203
@@ -332,7 +334,7 @@ owkjyrbelrektubqowrvbwiyrv.com,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/updat
 p5u4y5u5.hostrycdn.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,205.185.126.184
 paint.creativepictureclouds.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.109.69.17
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
 profile.klivlendtaxi.com,Possible Cobalt Strike C2 Fronted Domain,/tab_shop.css,31.7.62.16
 proxy.tututu.live,Possible Cobalt Strike C2 Domain,/index.html,101.34.7.199
@@ -363,8 +365,9 @@ rs1.us,Possible Cobalt Strike C2 Domain,/__utm.gif,137.184.143.170
 rsasecu.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/743-21494898-1923945/field-keywords=man,20.120.35.41
 ruhezepu.com,Possible Cobalt Strike C2 Fronted Domain,/lv,172.241.27.52
 sagebusiness.biz,Possible Cobalt Strike C2 Domain,/icons/favicon.ico,18.132.147.207
+sakapocaj.com,Possible Cobalt Strike C2 Fronted Domain,/mt,172.93.201.190
 sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.47
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,23.88.62.153
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,23.88.62.153
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
 service-18vi4kp0-1302498057.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,170.106.194.97
@@ -422,7 +425,7 @@ shavar-services.xyz,Possible Cobalt Strike C2 Domain,/load,194.180.158.148
 shiyicaster.com,Possible Cobalt Strike C2 Domain,/cm,45.129.137.214
 sikescomposites.com,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/Jwjy4/cmr4tZ7IyFGbgCiof2tHMO,45.141.84.29
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3,49.232.67.116
-smartkey.space,Possible Powershell Empire C2 Domain,/login/process.php,31.170.22.88
+smartkey.space,Possible Powershell Empire C2 Domain,/news.php,31.170.22.88
 spacegreyshop.com,Possible Cobalt Strike C2 Domain,/lv,91.218.114.26
 spacegreyshop.com,Possible Cobalt Strike C2 Fronting Domain,/lv,91.218.114.26
 ssl363648.cloudflaressl.com,Possible Cobalt Strike C2 Domain,/updates.rss,45.147.200.110
@@ -455,6 +458,7 @@ test.ssrserver-update.xyz,Possible Cobalt Strike C2 Domain,/get.html,45.76.242.8
 test1.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,106.13.178.189
 test1.baidu.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,106.13.178.189
 tmall.com,Possible Cobalt Strike C2 Fronting Domain,/mobile-android.js,172.241.29.109
+tomezica.com,Possible Cobalt Strike C2 Fronted Domain,/ml.css,172.93.201.122
 tracesdk.azurewebsites.net,Possible Cobalt Strike C2 Domain,/api/poll,147.182.220.15
 tree.qq.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit,111.230.196.200
 tumblr.com,Possible Cobalt Strike C2 Fronting Domain,/fr,172.241.29.154
@@ -481,8 +485,10 @@ vafici.com,Possible Cobalt Strike C2 Fronted Domain,/ba.js,172.241.27.123
 varnart.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.223.131
 vartibat.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.222.193
 vedingumbr.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.60
+vigiwiwig.com,Possible Cobalt Strike C2 Fronted Domain,/favicon,172.93.201.95
 vipeklub.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.33
 visualstudioapp.onion,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/update/oem853/2021/08/85644_,176.121.14.117
+vk.com,Possible Cobalt Strike C2 Fronting Domain,/mt,172.93.201.190
 vpn.weteck.site,Possible Cobalt Strike C2 Domain,/updates,43.129.7.189
 webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/css/a4512662.css,98.126.159.175
 webmail.igovservice.net,Possible Cobalt Strike C2 Domain,/server/v751262.jpg,98.126.159.175
@@ -572,7 +578,9 @@ www.youtube.com,Possible Cobalt Strike C2 Fronting Domain,/watch,223.252.173.28
 xicetigi.com,Possible Cobalt Strike C2 Fronted Domain,/dhl,172.241.29.212
 xvideos.com,Possible Cobalt Strike C2 Fronting Domain,/en.js,172.241.27.198
 yaduvov.com,Possible Cobalt Strike C2 Fronted Domain,/fr,172.241.29.154
+yandex.ru,Possible Cobalt Strike C2 Fronting Domain,/ml.css,172.93.201.122
 yandex.ru,Possible Cobalt Strike C2 Fronting Domain,/panel,45.153.240.206
+yopole.com,Possible Cobalt Strike C2 Fronted Domain,/jp.html,23.108.57.39
 yundun.aliyun.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.92.28.35
 zeronyk.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.89
 zhanzhibox.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.165
