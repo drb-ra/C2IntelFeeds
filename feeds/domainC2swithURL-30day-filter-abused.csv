@@ -18,7 +18,7 @@ SikesComposites.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/Jwjy4
 a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/dpixel
 a.yangming.cf,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com
 adobe-flash.co,Possible Cobalt Strike C2 Domain,/
-afreelunch.ml,Possible Powershell Empire C2 Domain,/login/process.php
+afreelunch.ml,Possible Powershell Empire C2 Domain,/admin/get.php
 aigouing.com,Possible Cobalt Strike C2 Domain,/push
 aiplasp.org,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 aiplasp.tk,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
@@ -235,6 +235,7 @@ ec1.nvwa.me,Possible Cobalt Strike C2 Domain,/activity
 ec2-13-38-90-3.eu-west-3.compute.amazonaws.com,Possible PoshC2 Fronting Domain,/load/pages/index.php/
 ec2-3-250-53-129.eu-west-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/cm
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 ec2-3-93-237-57.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 ec2.nvwa.me,Possible Cobalt Strike C2 Domain,/pixel
 ec3.nvwa.me,Possible Cobalt Strike C2 Domain,/push
@@ -282,6 +283,7 @@ gym-pass.tech,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3
 h0me.serao.network,Possible Cobalt Strike C2 Domain,/Login/origin=h0me.serao.network
 h0me.serao.network,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=h0me.serao.network
 h5m.voc.com.cn,Possible Cobalt Strike C2 Fronted Domain,/ptj
+hbrwiki001.azureedge.net,Possible Cobalt Strike C2 Domain,/reference-rockpoints-json-handle
 hd.3tgroup.cn,Possible Cobalt Strike C2 Fronted Domain,/api/getit
 healthandhumanservicesdepartment.com,Possible Cobalt Strike C2 Domain,/r-arrow.js
 hello.zylbzxcv.online,Possible Cobalt Strike C2 Domain,/updates
@@ -378,7 +380,6 @@ monadore.top,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 motivationalhindi.in,Possible Cobalt Strike C2 Fronted Domain,/
 motyol.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 mr.un1k0d3r.com,Possible Cobalt Strike C2 Domain,/pixel
-ms48365692.azureedge.net,Possible Cobalt Strike C2 Domain,/reference-rockpoints-json-handle
 msstelemetry.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 myteamserver.online,Possible Cobalt Strike C2 Fronted Domain,/updates/2021/11
 nagahox.com,Possible Cobalt Strike C2 Fronted Domain,/logo
@@ -424,7 +425,7 @@ paint.creativepictureclouds.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.m
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif
 pfunt.com,Possible Cobalt Strike C2 Domain,/answer
 pfunt.com,Possible Cobalt Strike C2 Domain,/grease
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
 phoenix.intrinsec.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 phoenix.intrinsec.com,Possible Cobalt Strike C2 Domain,/updates.rss
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
@@ -465,6 +466,7 @@ s.yyrkt.info,Possible Cobalt Strike C2 Domain,/dpixel
 sagebusiness.biz,Possible Cobalt Strike C2 Domain,/icons/favicon.ico
 sakapocaj.com,Possible Cobalt Strike C2 Fronted Domain,/mt
 sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -561,7 +563,7 @@ shop.96html.com,Possible Cobalt Strike C2 Fronted Domain,/watch
 sign.securepdf.workers.dev,Possible Cobalt Strike C2 Domain,/poll
 sikescomposites.com,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/Jwjy4/cmr4tZ7IyFGbgCiof2tHMO
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain,/api/3
-smartkey.space,Possible Powershell Empire C2 Domain,/login/process.php
+smartkey.space,Possible Powershell Empire C2 Domain,/news.php
 sockets.softether.net,Possible Cobalt Strike C2 Domain,/dpixel
 sonyblueprint.com,Possible Cobalt Strike C2 Domain,/nd
 sophospanels.com,Possible Cobalt Strike C2 Domain,/modcp.css
@@ -583,7 +585,7 @@ support.96html.com,Possible Cobalt Strike C2 Fronted Domain,/watch
 support.outssystems.com,Possible Powershell Empire C2 Domain,/login/process.php
 support.updatemicrsoft.com,Possible Cobalt Strike C2 Domain,/jquery_2.4.0/5eN1bjq8AAUYm2zgoY3K/ll_9354efa.js
 supports.dsmtp.com,Possible Cobalt Strike C2 Domain,/Com/fw/LNJENHC7T5
-surnbuithe.com,Possible Cobalt Strike C2 Domain,/__utm.gif
+surnbuithe.com,Possible Cobalt Strike C2 Domain,/dot.gif
 sync.microsoft-update.co,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/others/2016/12/29136388_
 systest.nl,Possible Cobalt Strike C2 Domain,/vlk/grants
 t.yoao.com,Possible Cobalt Strike C2 Fronted Domain,/load
