@@ -1,6 +1,7 @@
 #domain,ioc,uri_path
 0hf61jw5i1.execute-api.eu-west-3.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
 10080.site,Possible Cobalt Strike C2 Domain,/updates.rss
+360query.tk,Possible Cobalt Strike C2 Fronted Domain,/owa/1HqrlRr7z8v6zNQ9VjVNTMflBu
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/
 3bz5n5426a.execute-api.eu-west-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
 5gzvip.91tunnel.com,Possible Cobalt Strike C2 Domain,/load
@@ -269,8 +270,8 @@ fee.mozilla-firfox.com,Possible Cobalt Strike C2 Domain,/fam_newspaper
 ffiash.xyz,Possible Cobalt Strike C2 Domain,/nv.js
 fiash.co,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 firststepcompany.com,Possible Cobalt Strike C2 Domain,/zh
-flashd.org,Possible Cobalt Strike C2 Domain,/load
-flashd.org,Possible Cobalt Strike C2 Domain,/pixel.gif
+flashd.org,Possible Cobalt Strike C2 Domain,/fwlink
+flashd.org,Possible Cobalt Strike C2 Domain,/updates.rss
 flashelper.xyz,Possible Cobalt Strike C2 Domain,/hr.css
 fnmsdtx.aliyundemo.com,Possible Cobalt Strike C2 Domain,/g.pixel
 fortinetdirect.com,Possible Cobalt Strike C2 Domain,/tab_home.js
@@ -288,7 +289,6 @@ gfjjblnoihugfjdrhcjgvhb.com,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/update/o
 gida1.net,Possible Cobalt Strike C2 Domain,/dot.gif
 goodstur.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.1.min.js
 google-think.tk,Possible Cobalt Strike C2 Domain,/api/3
-google.co.in,Possible Cobalt Strike C2 Fronting Domain,/ms.html
 google.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 google.com.mx,Possible Cobalt Strike C2 Fronting Domain,/favicon
 google.com.mx,Possible Cobalt Strike C2 Fronting Domain,/jp.html
@@ -349,7 +349,7 @@ jmgo.org,Possible Cobalt Strike C2 Domain,/fwlink
 johnsjennifer.com,Possible Cobalt Strike C2 Domain,/media.js
 johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/media.js
 johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/rs.js
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/dpixel
 k01.forgottentok2.xyz,Possible Cobalt Strike C2 Domain,/api/3
 karbary.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 kasaa.net,Possible Cobalt Strike C2 Domain,/fwlink
@@ -371,7 +371,6 @@ lawapuyal.com,Possible Cobalt Strike C2 Fronted Domain,/posting
 learnandcode.info,Possible Powershell Empire C2 Domain,/news.php
 linksrepository.com,Possible Cobalt Strike C2 Domain,/tab_shop
 lion.lastcat.co.uk,Possible Cobalt Strike C2 Domain,/owa/AJrzUwD0TZMkFYcvsF5b
-lirovetali.com,Possible Cobalt Strike C2 Fronted Domain,/ms.html
 login.killahbeeaz.com,Possible Cobalt Strike C2 Fronted Domain,/profile.html
 lyncdiscover.next-support.net,Possible Cobalt Strike C2 Domain,/AzureMediaServicesPromo.ism
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm
@@ -441,7 +440,6 @@ office.thebrain.net,Possible PoshC2 Fronting Domain,/types/translation/v1/articl
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 onesecondservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 online.cloudwebpictures.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-osisoft.app,Possible Cobalt Strike C2 Domain,/load
 oulook-cdn.org,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/10/UNvr5lkLLd-eIYJHDK1jP
 outlook-cdn.org,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2021/10/UNvr5lkLLd-eIYJHDK1jP
 outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa/
@@ -650,7 +648,6 @@ tomezica.com,Possible Cobalt Strike C2 Fronted Domain,/ml.css
 tracesdk.azurewebsites.net,Possible Cobalt Strike C2 Domain,/api/poll
 tree.qq.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit
 trialgmail.space,Possible Cobalt Strike C2 Domain,/activity
-trialgmail.space,Possible Cobalt Strike C2 Domain,/cm
 trialyoutube.site,Possible Cobalt Strike C2 Domain,/en_US/all.js
 tumblr.com,Possible Cobalt Strike C2 Fronting Domain,/fr
 u6x4i3m3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/js/responsiveslides.min.js
