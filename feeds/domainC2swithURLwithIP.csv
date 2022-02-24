@@ -19,7 +19,7 @@
 8f22-104-128-92-144.ngrok.io,Possible Cobalt Strike C2 Domain,/groupcp.js,104.128.92.144
 PropertyExpoAndShowcase.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/eMUgI4Z/BOhKRIMsJsuPnn3IQvgrEc3XLQUB3W,45.141.84.53
 SikesComposites.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/Jwjy4/cmr4tZ7IyFGbgCiof2tHMO,45.141.84.29
-a-casper-it-az.azureedge.net,Possible Cobalt Strike C2 Domain,/activity,46.4.49.72
+a-casper-it-az.azureedge.net,Possible Cobalt Strike C2 Domain,/dot.gif,46.4.49.72
 a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/dpixel,101.32.204.81
 a0.awsstatic.com,Possible Cobalt Strike C2 Domain,/api/fetch,62.113.255.12
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/,37.120.247.55
@@ -136,11 +136,11 @@ cs.csssmddx.cf,Possible Cobalt Strike C2 Domain,/api/x,49.235.98.228
 cs.jcyrsirm8fjrudswk.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,182.61.150.1
 cs.trojans.cc,Possible Cobalt Strike C2 Domain,/api/3,165.232.163.9
 cs.twlhcgw.com,Possible Cobalt Strike C2 Domain,/as.js,43.132.204.230
-cs.usy7.cc,Possible Cobalt Strike C2 Domain,/push,103.159.64.202
-cs.usy7.cc,Possible Cobalt Strike C2 Domain,/push,103.159.64.203
-cs.usy7.cc,Possible Cobalt Strike C2 Domain,/push,103.159.64.204
-cs.usy7.cc,Possible Cobalt Strike C2 Domain,/push,103.159.64.205
-cs.usy7.cc,Possible Cobalt Strike C2 Domain,/push,103.159.64.206
+cs.usy7.cc,Possible Cobalt Strike C2 Domain,/dpixel,103.159.64.202
+cs.usy7.cc,Possible Cobalt Strike C2 Domain,/dpixel,103.159.64.203
+cs.usy7.cc,Possible Cobalt Strike C2 Domain,/dpixel,103.159.64.204
+cs.usy7.cc,Possible Cobalt Strike C2 Domain,/dpixel,103.159.64.205
+cs.usy7.cc,Possible Cobalt Strike C2 Domain,/dpixel,103.159.64.206
 cs.zsqiji.com,Possible Cobalt Strike C2 Domain,/pixel.gif,45.124.112.142
 cs1.zhyzt.cn,Possible Cobalt Strike C2 Domain,/match,1.117.176.102
 ctldl.azureedge.net,Possible Cobalt Strike C2 Domain,/v1/docs/wsdl,104.248.99.92
@@ -207,7 +207,6 @@ dns.qianxin.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3
 dns.shiyingai.xyz,Possible Cobalt Strike C2 Domain,/load,47.103.32.28
 doc.run,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,101.43.65.150
 docker.guokeya.top,Possible Cobalt Strike C2 Domain,/load,42.192.209.105
-dorvolt.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.227
 down.filteringcache.com,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/DUProcedure/Dynamic_,141.105.66.36
 down2.linuxupdate.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.77.38.191
 download.windowspowerr.com,Possible Cobalt Strike C2 Domain,/ptj,46.17.96.8
@@ -217,6 +216,7 @@ download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownlo
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2021/02/123125789_,23.248.239.90
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/v9/windowsupdate/redir/muv4wuredir_,185.174.100.53
 drop.creativepictureclouds.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.109.69.17
+dunclikf.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.227
 dunclikf.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.45
 ec1.nvwa.me,Possible Cobalt Strike C2 Domain,/activity,146.56.98.159
 ec2-13-38-90-3.eu-west-3.compute.amazonaws.com,Possible PoshC2 Domain,/load/pages/index.php/,13.38.90.3
@@ -237,8 +237,8 @@ fee.mozilla-firfox.com,Possible Cobalt Strike C2 Domain,/fam_newspaper,8.210.125
 ffiash.xyz,Possible Cobalt Strike C2 Domain,/nv.js,154.39.240.148
 firststepcompany.com,Possible Cobalt Strike C2 Domain,/zh,192.34.109.113
 flamingo.info-assurance.cc,Possible Cobalt Strike C2 Domain,/api/channels/replies,209.249.134.5
-flashd.org,Possible Cobalt Strike C2 Domain,/fwlink,194.147.84.178
-flashd.org,Possible Cobalt Strike C2 Domain,/updates.rss,194.147.84.178
+flashd.org,Possible Cobalt Strike C2 Domain,/__utm.gif,194.147.84.178
+flashd.org,Possible Cobalt Strike C2 Domain,/cx,194.147.84.178
 flashelper.xyz,Possible Cobalt Strike C2 Domain,/hr.css,141.164.46.134
 fnmsdtx.aliyundemo.com,Possible Cobalt Strike C2 Domain,/g.pixel,121.41.30.246
 fortinetdirect.com,Possible Cobalt Strike C2 Domain,/tab_home.js,23.227.196.236
@@ -308,7 +308,7 @@ johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/rs.js,81.17.22.76
 johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/rs.js,81.17.22.78
 johnsjennifer.com,Possible Cobalt Strike C2 Fronting Domain,/rs.js,81.17.30.251
 joinc2.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,3.144.48.254
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/updates.rss,8.210.232.124
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel.gif,8.210.232.124
 k01.forgottentok2.xyz,Possible Cobalt Strike C2 Domain,/api/3,192.3.128.243
 karbary.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.221.61
 kasaa.net,Possible Cobalt Strike C2 Domain,/fwlink,194.36.191.246
@@ -453,7 +453,8 @@ service-bih1szk1-1259245302.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-brm44217-1305827844.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,1.116.163.166
 service-c016brab-1302420290.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,117.50.174.131
 service-cfb1e6dw-1256658734.usw.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj,39.102.34.44
-service-cv62i2eg-1258558004.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm,62.234.130.153
+service-cq6c7204-1308476627.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,123.56.82.231
+service-cv62i2eg-1258558004.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match,62.234.130.153
 service-cvd7d5xh-1307608206.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.35.121.22
 service-d9w2yjgu-1302420290.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,106.52.130.220
 service-deam9n43-1257046868.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,108.166.193.14
