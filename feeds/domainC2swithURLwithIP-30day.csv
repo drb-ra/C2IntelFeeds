@@ -1,10 +1,9 @@
 #domain,ioc,uri_path,ip
 0hf61jw5i1.execute-api.eu-west-3.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch,134.122.54.244
-1.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml,195.133.52.232
 1.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/links,195.133.52.232
 10080.site,Possible Cobalt Strike C2 Domain,/updates.rss,82.156.2.25
-2.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml,195.133.52.232
 2.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/links,195.133.52.232
+3.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/adminhtml,195.133.52.232
 3.baiduyuna.tk,Possible Cobalt Strike C2 Fronted Domain,/links,195.133.52.232
 360query.tk,Possible Cobalt Strike C2 Fronted Domain,/owa/1HqrlRr7z8v6zNQ9VjVNTMflBu,8.210.224.18
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/,103.149.27.116
@@ -76,7 +75,6 @@ aws-test-01rw00092817172.impresapwn.it,Possible Cobalt Strike C2 Fronted Domain,
 b.trustsecnet.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/743-21494898-1923945/field-keywords=man,52.149.229.243
 b2bdirector.com,Possible Cobalt Strike C2 Domain,/rn,23.227.202.109
 b2bdirector.com,Possible Cobalt Strike C2 Domain,/search,23.227.202.109
-baidul.fun,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,45.32.25.59
 baidus.cf,Possible Cobalt Strike C2 Domain,/load,3.16.22.184
 baidus.cf,Possible Cobalt Strike C2 Domain,/pixel,3.16.22.184
 baiduyuna.tk,Possible Cobalt Strike C2 Domain,/adminhtml,195.133.52.232
@@ -473,7 +471,7 @@ nartybarty.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.218.18
 nentundo.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.99
 newb02.skypetm.com.tw,Possible Cobalt Strike C2 Fronting Domain,/FC001/JOHN,132.232.40.201
 newslivegov.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,198.199.64.247
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/pixel.gif,8.210.232.124
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/dot.gif,8.210.232.124
 nightmare.buzz,Possible Cobalt Strike C2 Domain,/pixel.gif,204.44.109.84
 notc2.live.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/updates/2021/11,167.99.197.196
 nquy.xyz,Possible Cobalt Strike C2 Fronted Domain,/image/,159.223.100.1
@@ -629,7 +627,6 @@ service-hgtx33je-1301706575.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hp8d090t-1307173853.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,42.192.170.47
 service-hw6mdvqk-1253883516.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,47.240.46.77
 service-i8fp7z1d-1253582761.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm,154.38.96.151
-service-i8fp7z1d-1253582761.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/load,46.20.96.169
 service-iyvz90g6-1308412104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,119.91.233.239
 service-iyx214zt-1305046769.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity,139.155.14.124
 service-iyx214zt-1305046769.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel,139.155.14.124
@@ -797,7 +794,6 @@ www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,198.199.64.247
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,207.191.38.230
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,45.133.239.173
-www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,45.32.25.59
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.8.34.175
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,64.227.5.45
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/743-21494898-1923945/field-keywords=man,20.120.35.41
