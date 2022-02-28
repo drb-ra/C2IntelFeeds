@@ -26,7 +26,7 @@ a-casper-it-az.azureedge.net,Possible Cobalt Strike C2 Domain,/dot.gif,46.4.49.7
 a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,101.32.204.81
 a.yangming.cf,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangming.com,34.81.222.214
 adobe-flash.co,Possible Cobalt Strike C2 Domain,/,103.56.112.187
-afreelunch.ml,Possible Powershell Empire C2 Domain,/news.php,52.188.126.180
+afreelunch.ml,Possible Powershell Empire C2 Domain,/login/process.php,52.188.126.180
 aigouing.com,Possible Cobalt Strike C2 Domain,/push,54.196.7.25
 aiplasp.org,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,192.210.151.34
 aiplasp.tk,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab,192.210.151.34
@@ -40,8 +40,8 @@ anquan.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1
 anquan.qianxin.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,49.235.68.234
 anti.pm,Possible Cobalt Strike C2 Domain,/dot.gif,81.17.57.55
 antiquity-merchant.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294368-0232949/field-keywords=books,18.170.74.149
-antiquity-merchant.com,Possible Powershell Empire C2 Domain,/login/watch.php,18.133.117.52
-antiquity-merchant.com,Possible Powershell Empire C2 Domain,/newswire.php,18.133.33.135
+antiquity-merchant.com,Possible Powershell Empire C2 Domain,/admin/update.php,18.133.117.52
+antiquity-merchant.com,Possible Powershell Empire C2 Domain,/login/watch.php,18.133.33.135
 anzhuo.xxxxxxxlm.tk,Possible Cobalt Strike C2 Domain,/api/3,192.53.116.117
 ap-southeast-1.prod.pr.analytics.amazon.com.amazonaws.la,Possible Cobalt Strike C2 Domain,/cm,43.134.230.170
 ap.availablenationwide.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-ajaxSuccess.js,174.138.15.150
@@ -229,7 +229,7 @@ deadonsecure.com,Possible Cobalt Strike C2 Domain,/dpixel,137.184.201.182
 defend-forward.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294368-0232949/field-keywords=books,18.134.5.209
 defend-forward.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294368-0232949/field-keywords=books,18.135.46.68
 design.creativepictureclouds.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.109.69.17
-desktop-gtol6fk.securelabs.ru,Possible Powershell Empire C2 Domain,/main.aspx,40.85.137.161
+desktop-gtol6fk.securelabs.ru,Possible Powershell Empire C2 Domain,/login/auth.aspx,40.85.137.161
 dev.cubic-transportation.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,159.223.176.199
 dev.cubic-transportation.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,165.232.143.42
 dev.cubic-transportation.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,64.227.5.45
@@ -271,6 +271,7 @@ ec1.nvwa.me,Possible Cobalt Strike C2 Domain,/activity,146.56.98.159
 ec2-13-38-90-3.eu-west-3.compute.amazonaws.com,Possible PoshC2 Domain,/load/pages/index.php/,13.38.90.3
 ec2-3-250-53-129.eu-west-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/cm,18.203.222.241
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
 ec2.nvwa.me,Possible Cobalt Strike C2 Domain,/pixel,146.56.98.159
 ec3.nvwa.me,Possible Cobalt Strike C2 Domain,/push,146.56.98.159
 edgemikrosoft.com,Possible Cobalt Strike C2 Domain,/avatars,5.199.162.10
@@ -596,6 +597,7 @@ service-i8fp7z1d-1253582761.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-iyvz90g6-1308412104.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,119.91.233.239
 service-iyx214zt-1305046769.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity,139.155.14.124
 service-iyx214zt-1305046769.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel,139.155.14.124
+service-j3calq95-1251666391.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.223.42.234
 service-j3calq95-1251666391.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,23.224.232.181
 service-jntxmikl-1256615051.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,101.35.153.158
 service-jr82s07a-1306266622.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel,155.94.163.137
@@ -681,7 +683,7 @@ tree.qq.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit,111.230.196.200
 trialgmail.space,Possible Cobalt Strike C2 Domain,/activity,91.219.236.92
 trialyoutube.site,Possible Cobalt Strike C2 Domain,/en_US/all.js,81.17.16.106
 u6x4i3m3.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain,/js/responsiveslides.min.js,159.223.179.146
-udemy-c2.rosnick.net,Possible Powershell Empire C2 Domain,/admin/get.php,18.218.244.178
+udemy-c2.rosnick.net,Possible Powershell Empire C2 Domain,/login/process.php,18.218.244.178
 update.micosoft.org,Possible Cobalt Strike C2 Domain,/async/,18.188.126.43
 update.newsweatherspot.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,223.252.173.162
 update.pinyin.pw,Possible Cobalt Strike C2 Domain,/update,107.172.190.151
@@ -718,6 +720,7 @@ vpn.weteck.site,Possible Cobalt Strike C2 Domain,/updates,43.129.7.189
 watson.telemetry.microsoft.com.ansatc.net,Possible Cobalt Strike C2 Fronted Domain,/v9/windowsupdate/redir/muv4wuredir_,185.174.100.53
 webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/css/a4512662.css,98.126.159.175
 webmail.igovservice.net,Possible Cobalt Strike C2 Domain,/server/v751262.jpg,98.126.159.175
+whoami.ze.lu,Possible Cobalt Strike C2 Domain,/ki,101.35.44.224
 windatabases.com,Possible Cobalt Strike C2 Domain,/ak.js,23.227.198.227
 windows-update.online,Possible Cobalt Strike C2 Fronted Domain,/FC001/JOHN,132.232.40.201
 windowsupdate.outssystems.com,Possible Powershell Empire C2 Domain,/login/process.php,35.86.71.182
