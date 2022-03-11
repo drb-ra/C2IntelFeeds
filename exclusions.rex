@@ -131,4 +131,5 @@
 ^tumblr\.com,
 \.taobao\.com,
 ^taobao\.com,
+^mail\.ru,
 ^http,
