@@ -132,4 +132,6 @@
 \.taobao\.com,
 ^taobao\.com,
 ^mail\.ru,
+^www\.justice\.gov,
+\.justice\.gov,
 ^http,
