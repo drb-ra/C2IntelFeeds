@@ -138,4 +138,6 @@
 ^wellsfargo\.com,
 \.wellsfargo\.com,
 ^test\.com,
+^www\.adobe\.com,
+\.adobe\.com,
 ^http,
