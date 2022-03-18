@@ -352,7 +352,7 @@ ebus.ishadow.fun,Possible Cobalt Strike C2 Fronted Domain,/restore/accessgranted
 ec1.nvwa.me,Possible Cobalt Strike C2 Domain,/activity,146.56.98.159
 ec2-13-38-90-3.eu-west-3.compute.amazonaws.com,Possible PoshC2 Domain,/load/pages/index.php/,13.38.90.3
 ec2-3-250-53-129.eu-west-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/cm,18.203.222.241
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
 ec2.nvwa.me,Possible Cobalt Strike C2 Domain,/pixel,146.56.98.159
 ec3.nvwa.me,Possible Cobalt Strike C2 Domain,/push,146.56.98.159
 edgekey.digital,Possible Cobalt Strike C2 Domain,/owa/,104.156.63.229
@@ -524,7 +524,7 @@ lifegothistory.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.104
 linksrepository.com,Possible Cobalt Strike C2 Domain,/tab_shop,185.33.87.225
 lion.lastcat.co.uk,Possible Cobalt Strike C2 Domain,/owa/AJrzUwD0TZMkFYcvsF5b,51.132.56.102
 lives.freemeyum.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,20.115.12.247
-login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/admin/get.php,206.198.152.45
+login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/news.php,206.198.152.45
 lyncdiscover.next-support.net,Possible Cobalt Strike C2 Domain,/AzureMediaServicesPromo.ism,193.173.10.237
 lyncdiscover.next-support.net,Possible Cobalt Strike C2 Domain,/AzureMediaServicesPromo.ism,193.173.10.238
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm,47.98.164.231
@@ -634,6 +634,7 @@ p5u4y5u5.hostrycdn.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.mi
 paarisman.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,185.70.184.45
 paint.creativepictureclouds.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.109.69.17
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
+paypal.com,Possible Cobalt Strike C2 Fronting Domain,/ro,172.241.29.19
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/xmlconnect,172.241.29.121
 pennetestre.duckdns.org,Possible PoshC2 Domain,/babel-polyfill/6.3.14/polyfill.min.js=/,3.128.63.216
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp,18.219.180.158
@@ -707,7 +708,7 @@ sashimis.co.uk,Possible Cobalt Strike C2 Fronted Domain,/owa/oHMNrRAShPkwhrFDq-5
 sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.47
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,23.88.62.153
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
 secure.paodequeijo.tk,Possible Cobalt Strike C2 Domain,/visit.js,20.206.87.38
 secureoutsourcingdevelopment.live,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif,139.180.179.21
 serverupdater.com,Possible Cobalt Strike C2 Domain,/html,23.227.198.209
@@ -1115,6 +1116,7 @@ www.youtube.com,Possible Cobalt Strike C2 Fronting Domain,/watch,155.138.241.129
 www.youtube.com,Possible Cobalt Strike C2 Fronting Domain,/watch,223.252.173.28
 www.yuuh88t.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.64.184.156
 www.yyilu.ltd,Possible Cobalt Strike C2 Domain,/include/template/isx.php,162.14.79.254
+xaluji.com,Possible Cobalt Strike C2 Fronted Domain,/ro,172.241.29.19
 xaviliw.com,Possible Cobalt Strike C2 Fronted Domain,/rw,172.241.27.44
 xicetigi.com,Possible Cobalt Strike C2 Fronted Domain,/dhl,172.241.29.212
 xvideos.com,Possible Cobalt Strike C2 Fronting Domain,/en.js,172.241.27.198
