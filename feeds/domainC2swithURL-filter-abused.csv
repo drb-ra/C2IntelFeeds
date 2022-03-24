@@ -38,7 +38,7 @@ adnnin.herokuapp.com,Possible Cobalt Strike C2 Domain,/api/getit
 adobe-flash.co,Possible Cobalt Strike C2 Domain,/
 adobepdf.securepdf.workers.dev,Possible Cobalt Strike C2 Domain,/poll
 adobepdf.securepdf.workers.dev,Possible Cobalt Strike C2 Fronting Domain,/poll
-afreelunch.ml,Possible Powershell Empire C2 Domain,/login/process.php
+afreelunch.ml,Possible Powershell Empire C2 Domain,/admin/get.php
 aftss.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 aigouing.com,Possible Cobalt Strike C2 Domain,/push
 aiplasp.org,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
@@ -313,7 +313,7 @@ eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yan
 ebrdlab.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 ebus.ishadow.fun,Possible Cobalt Strike C2 Fronted Domain,/restore/accessgranted/S7L28UU8LS
 ec2-3-250-53-129.eu-west-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/cm
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
 edgekey.digital,Possible Cobalt Strike C2 Domain,/owa/
 edgemikrosoft.com,Possible Cobalt Strike C2 Domain,/avatars
 edgeupdater.com,Possible Cobalt Strike C2 Domain,/tab_home_active
@@ -467,7 +467,7 @@ lion.lastcat.co.uk,Possible Cobalt Strike C2 Domain,/owa/AJrzUwD0TZMkFYcvsF5b
 live.wtf360.cf,Possible Cobalt Strike C2 Domain,/api/3
 live80000.com,Possible Cobalt Strike C2 Domain,/ga.js
 lives.freemeyum.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/news.php
+login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/login/process.php
 lyncdiscover.next-support.net,Possible Cobalt Strike C2 Domain,/AzureMediaServicesPromo.ism
 m.wld.net,Possible Cobalt Strike C2 Fronted Domain,/cm
 mahsey.net,Possible Cobalt Strike C2 Fronting Domain,/da
@@ -617,7 +617,8 @@ sashimis.co.uk,Possible Cobalt Strike C2 Fronted Domain,/owa/djM4qhbYH6iaAGbx4d-
 sashimis.co.uk,Possible Cobalt Strike C2 Fronted Domain,/owa/oHMNrRAShPkwhrFDq-5AkyHQa0POALwn64
 sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secure.paodequeijo.tk,Possible Cobalt Strike C2 Domain,/visit.js
 secureoutsourcingdevelopment.live,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif
 serverupdater.com,Possible Cobalt Strike C2 Domain,/html
