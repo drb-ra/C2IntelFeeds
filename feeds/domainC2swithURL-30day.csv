@@ -47,7 +47,7 @@ adobe-flash.co,Possible Cobalt Strike C2 Domain,/
 adobepdf.securepdf.workers.dev,Possible Cobalt Strike C2 Domain,/poll
 adobepdf.securepdf.workers.dev,Possible Cobalt Strike C2 Fronting Domain,/poll
 adult.up-flash.com,Possible Cobalt Strike C2 Domain,/ab
-afreelunch.ml,Possible Powershell Empire C2 Domain,/admin/get.php
+afreelunch.ml,Possible Powershell Empire C2 Domain,/news.php
 aftss.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 agreementcenter.microsoft.com,Possible Cobalt Strike C2 Fronted Domain,/sync/bu-hKFn9JxpMeD8b2DhZG2bwvc
 agreminj.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -700,7 +700,7 @@ ocsp.verisign.com,Possible Cobalt Strike C2 Fronting Domain,/oscp/
 office-update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 onesecondservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 online.Umicomtoke.com,Possible Cobalt Strike C2 Fronted Domain,/videoplayback
 online.cloudwebpictures.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -724,7 +724,7 @@ paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/ro
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/xmlconnect
 pennetestre.duckdns.org,Possible PoshC2 Fronting Domain,/babel-polyfill/6.3.14/polyfill.min.js=/
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
 phoenix.intrinsec.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 phoenix.intrinsec.com,Possible Cobalt Strike C2 Domain,/updates.rss
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
@@ -999,9 +999,9 @@ telemetryms.com,Possible Cobalt Strike C2 Fronted Domain,/ml
 template.n98.workers.dev,Possible Cobalt Strike C2 Domain,/ga.js
 template.n99.workers.dev,Possible Cobalt Strike C2 Domain,/fwlink
 tencents-cdn.com,Possible Cobalt Strike C2 Domain,/templates
+terrygetshell.space,Possible Cobalt Strike C2 Domain,/ca
 terrygetshell.space,Possible Cobalt Strike C2 Domain,/cx
 terrygetshell.space,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-terrygetshell.space,Possible Cobalt Strike C2 Domain,/pixel
 test.0h1ry.tk,Possible Cobalt Strike C2 Domain,/en_US/all.js
 test.baibu.gq,Possible Cobalt Strike C2 Domain,/fwlink
 test.com,Possible Cobalt Strike C2 Fronting Domain,/api/3
