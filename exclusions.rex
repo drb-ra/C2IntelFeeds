@@ -140,4 +140,6 @@
 ^test\.com,
 ^www\.adobe\.com,
 \.adobe\.com,
+^citi\.com,
+\.citi\.com,
 ^http,
