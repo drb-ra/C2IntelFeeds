@@ -142,4 +142,6 @@
 \.adobe\.com,
 ^citi\.com,
 \.citi\.com,
+^fortinet\.com,
+\.fortinet\.com,
 ^http,
