@@ -44,7 +44,7 @@ a.yangming.cf,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangmin
 a0.awsstatic.com,Possible Cobalt Strike C2 Domain,/api/fetch,62.113.255.12
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/,37.120.247.55
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,161.35.218.255
-a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/template/json,161.35.218.255
+a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/user/admin,161.35.218.255
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/usr/adm,161.35.218.255
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch,104.131.29.70
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronting Domain,/api/fetch,104.131.29.70
@@ -412,6 +412,7 @@ d3eb5ybi0t5ao9.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrow
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Domain,/usr/adm,161.35.218.255
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/template/json,161.35.218.255
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/tmplt/jsn,161.35.218.255
+d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/user/admin,161.35.218.255
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/usr/adm,161.35.218.255
 d3ka3m3tprabce.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/u4P8oP/wMgE7bh31aREKqOyfcZDJs6dfeJC-puJ9VS,159.65.77.169
 d3m17u1lrew77y.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/oktNt3ZH/FEJoElEZ91Y8k6wmf1eHA,138.68.224.78
@@ -773,14 +774,13 @@ mail.beelzeebuub.com,Possible Cobalt Strike C2 Fronted Domain,/as.html,23.19.227
 mail.chinatelecom-hr.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021/10/29136388_,49.233.115.153
 mail.chiqitue.com,Possible Cobalt Strike C2 Fronted Domain,/mobile-android.html,31.7.62.18
 mail.igov-service.net,Possible Cobalt Strike C2 Domain,/ca,140.82.7.239
-mail.igovservice.org,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,149.28.56.41
+mail.igovservice.org,Possible Cobalt Strike C2 Domain,/ptj,149.28.56.41
 mail.johnsjennifer.com,Possible Cobalt Strike C2 Fronted Domain,/media.js,81.17.22.76
 mail.johnsjennifer.com,Possible Cobalt Strike C2 Fronted Domain,/media.js,81.17.22.78
 mail.johnsjennifer.com,Possible Cobalt Strike C2 Fronted Domain,/media.js,81.17.30.251
 mail.johnsjennifer.com,Possible Cobalt Strike C2 Fronted Domain,/rs.js,81.17.22.76
 mail.johnsjennifer.com,Possible Cobalt Strike C2 Fronted Domain,/rs.js,81.17.30.251
 mail.opensearch.xyz,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,199.195.249.87
-mail.opensearch.xyz,Possible Cobalt Strike C2 Domain,/ajax/libs/jquery/3.6.0/jquery.min.js,199.195.249.87
 mail.qianxin.asia,Possible Cobalt Strike C2 Domain,/__utm.gif,138.3.214.138
 mail.rodinscoldly.com,Possible Cobalt Strike C2 Fronted Domain,/fam_cart.html,31.7.62.24
 mail.ru,Possible Cobalt Strike C2 Fronting Domain,/d_config,172.93.201.14
@@ -1343,7 +1343,7 @@ weather.theage.com.au,Possible Cobalt Strike C2 Fronted Domain,/__utm.gif,139.18
 web.ms-log-upload.tk,Possible Cobalt Strike C2 Fronted Domain,/api/CheckVersion,1.14.77.206
 webdatabasesystem.com,Possible Cobalt Strike C2 Domain,/groupcp,23.227.196.58
 webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/css/a4512662.css,98.126.159.175
-webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/match,149.28.58.135
+webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/push,149.28.58.135
 webmail.igovservice.net,Possible Cobalt Strike C2 Domain,/server/v751262.jpg,98.126.159.175
 weibo.com,Possible Cobalt Strike C2 Fronting Domain,/lv.js,23.108.57.109
 weibo.com,Possible Cobalt Strike C2 Fronting Domain,/template.css,23.82.140.91

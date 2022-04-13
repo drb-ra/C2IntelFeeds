@@ -41,7 +41,7 @@ a.yangming.cf,Possible Cobalt Strike C2 Fronted Domain,/Login/origin=eam.yangmin
 a0.awsstatic.com,Possible Cobalt Strike C2 Domain,/api/fetch
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/
-a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/template/json
+a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/user/admin
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/usr/adm
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronting Domain,/api/fetch
@@ -364,6 +364,7 @@ d3eb5ybi0t5ao9.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrow
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Domain,/usr/adm
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/template/json
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/tmplt/jsn
+d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/user/admin
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/usr/adm
 d3ka3m3tprabce.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/u4P8oP/wMgE7bh31aREKqOyfcZDJs6dfeJC-puJ9VS
 d3m17u1lrew77y.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/oktNt3ZH/FEJoElEZ91Y8k6wmf1eHA
@@ -689,11 +690,10 @@ mail.beelzeebuub.com,Possible Cobalt Strike C2 Fronted Domain,/as.html
 mail.chinatelecom-hr.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021/10/29136388_
 mail.chiqitue.com,Possible Cobalt Strike C2 Fronted Domain,/mobile-android.html
 mail.igov-service.net,Possible Cobalt Strike C2 Domain,/ca
-mail.igovservice.org,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+mail.igovservice.org,Possible Cobalt Strike C2 Domain,/ptj
 mail.johnsjennifer.com,Possible Cobalt Strike C2 Fronted Domain,/media.js
 mail.johnsjennifer.com,Possible Cobalt Strike C2 Fronted Domain,/rs.js
 mail.opensearch.xyz,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
-mail.opensearch.xyz,Possible Cobalt Strike C2 Domain,/ajax/libs/jquery/3.6.0/jquery.min.js
 mail.qianxin.asia,Possible Cobalt Strike C2 Domain,/__utm.gif
 mail.rodinscoldly.com,Possible Cobalt Strike C2 Fronted Domain,/fam_cart.html
 mail.ru,Possible Cobalt Strike C2 Fronting Domain,/d_config
@@ -1221,7 +1221,7 @@ weather.theage.com.au,Possible Cobalt Strike C2 Fronted Domain,/__utm.gif
 web.ms-log-upload.tk,Possible Cobalt Strike C2 Fronted Domain,/api/CheckVersion
 webdatabasesystem.com,Possible Cobalt Strike C2 Domain,/groupcp
 webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/css/a4512662.css
-webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/match
+webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/push
 webmail.igovservice.net,Possible Cobalt Strike C2 Domain,/server/v751262.jpg
 weibo.com,Possible Cobalt Strike C2 Fronting Domain,/lv.js
 weibo.com,Possible Cobalt Strike C2 Fronting Domain,/template.css
