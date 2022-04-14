@@ -49,7 +49,7 @@ a0.awsstatic.com,Possible Cobalt Strike C2 Domain,/api/fetch,62.113.255.12
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/,37.120.247.55
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/oscp/,161.35.218.255
 a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/template/json,161.35.218.255
-a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/usr/adm,161.35.218.255
+a0.awsstatic.com,Possible Cobalt Strike C2 Fronted Domain,/tmplt/jsn,161.35.218.255
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch,104.131.29.70
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronting Domain,/api/fetch,104.131.29.70
 absolutetechservices.com,Possible Cobalt Strike C2 Fronted Domain,/panel.css,23.227.198.252
@@ -419,7 +419,6 @@ d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Domain,/usr/adm,161.35.2
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/static/newuser_create,161.35.218.255
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/template/json,161.35.218.255
 d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/tmplt/jsn,161.35.218.255
-d3gbxmocpup7di.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/usr/adm,161.35.218.255
 d3ka3m3tprabce.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/u4P8oP/wMgE7bh31aREKqOyfcZDJs6dfeJC-puJ9VS,159.65.77.169
 d3m17u1lrew77y.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/oktNt3ZH/FEJoElEZ91Y8k6wmf1eHA,138.68.224.78
 d3m17u1lrew77y.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/oktNt3ZH/FEJoElEZ91Y8k6wmf1eHA,54.230.244.206
@@ -845,7 +844,7 @@ new.healthdiaiog.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_
 newapi.weibo.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit,42.193.122.226
 newb02.skypetm.com.tw,Possible Cobalt Strike C2 Fronting Domain,/FC001/JOHN,132.232.40.201
 newslivegov.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,198.199.64.247
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/cx,8.210.232.124
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/updates.rss,8.210.232.124
 ngrety.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.75
 nightmare.buzz,Possible Cobalt Strike C2 Domain,/updates.rss,204.44.109.84
 nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain,/MicrosoftUpdate/ShellEx/KB2466/dtc/default.aspx,82.65.203.196
