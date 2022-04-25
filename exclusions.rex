@@ -144,4 +144,6 @@
 \.citi\.com,
 ^fortinet\.com,
 \.fortinet\.com,
+^workday\.com,
+\.workday\.com,
 ^http,
