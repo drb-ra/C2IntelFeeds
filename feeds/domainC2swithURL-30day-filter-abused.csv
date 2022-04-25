@@ -633,6 +633,7 @@ lives.freemeyum.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 local.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/bm
 localhost.gd,Possible Cobalt Strike C2 Domain,/cx
 localhost.gd,Possible Cobalt Strike C2 Domain,/j.ad
+login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/admin/get.php
 login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/news.php
 loll.be,Possible Cobalt Strike C2 Domain,/activity
 lqtea.net,Possible Cobalt Strike C2 Domain,/image/
@@ -813,9 +814,9 @@ sashimis.co.uk,Possible Cobalt Strike C2 Fronted Domain,/owa/oHMNrRAShPkwhrFDq-5
 sb.ch1.site,Possible Cobalt Strike C2 Domain,/rw.js
 sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 scfy.chinacourt.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/search/
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secure.paodequeijo.tk,Possible Cobalt Strike C2 Domain,/visit.js
 secureoutsourcingdevelopment.live,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif
 securitycheckeronline.com,Possible Cobalt Strike C2 Domain,/language.css
@@ -1151,7 +1152,7 @@ vigiwiwig.com,Possible Cobalt Strike C2 Fronted Domain,/favicon
 vipeklub.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 visualstudioapp.onion,Possible Cobalt Strike C2 Domain,/pkgs/_/ms/update/oem853/2021/08/85644_
 vizezexog.com,Possible Cobalt Strike C2 Fronted Domain,/lv.js
-vm.packetplayground.com,Possible Powershell Empire C2 Domain,/news.php
+vm.packetplayground.com,Possible Powershell Empire C2 Domain,/login/process.php
 vpn.marconetworking.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 vpn.weteck.site,Possible Cobalt Strike C2 Domain,/updates
 vpncltrlx.com,Possible Cobalt Strike C2 Domain,/sq.css
@@ -1169,7 +1170,6 @@ whoami.ze.lu,Possible Cobalt Strike C2 Domain,/ki
 windatabases.com,Possible Cobalt Strike C2 Domain,/ak.js
 windows-defender-update.ru,Possible Cobalt Strike C2 Domain,/ga.js
 windows-updata.windows-updata.workers.dev,Possible Cobalt Strike C2 Domain,/ca
-windowsupdate.outssystems.com,Possible Powershell Empire C2 Domain,/login/process.php
 winrarsolutions.com,Possible Cobalt Strike C2 Domain,/s/F0iJEvWeTzaeBjwOppFmix5gaNL6c2hRFMKgLjciMuam/field-keywords/
 wiredobserver.com,Possible Cobalt Strike C2 Domain,/links.html
 wiredobserver.com,Possible Cobalt Strike C2 Domain,/mk.html
