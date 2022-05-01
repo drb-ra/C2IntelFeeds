@@ -448,7 +448,7 @@ e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com
 ebrdlab.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 ec2-3-35-206-100.ap-northeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/__utm.gif
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php
 ec2-54-169-30-236.ap-southeast-1.compute.amazonaws.com,Possible PoshC2 Fronting Domain,/cdba/
 edgebetaupdater.com,Possible Cobalt Strike C2 Domain,/modcp.js
 edgecloud.ink,Possible Cobalt Strike C2 Fronted Domain,/oscp/
@@ -764,7 +764,6 @@ omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/1
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
 onesecondservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 online.Umicomtoke.com,Possible Cobalt Strike C2 Fronted Domain,/videoplayback
 online.cloudwebpictures.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -855,8 +854,10 @@ sashimis.co.uk,Possible Cobalt Strike C2 Fronted Domain,/owa/oHMNrRAShPkwhrFDq-5
 sb.ch1.site,Possible Cobalt Strike C2 Domain,/rw.js
 sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 scfy.chinacourt.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/search/
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secure.paodequeijo.tk,Possible Cobalt Strike C2 Domain,/visit.js
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 secureoutsourcingdevelopment.live,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif
@@ -1200,7 +1201,7 @@ vizezexog.com,Possible Cobalt Strike C2 Fronted Domain,/lv.js
 vk.com,Possible Cobalt Strike C2 Fronting Domain,/adminhtml
 vk.com,Possible Cobalt Strike C2 Fronting Domain,/adminhtml.css
 vk.com,Possible Cobalt Strike C2 Fronting Domain,/mt
-vm.packetplayground.com,Possible Powershell Empire C2 Domain,/admin/get.php
+vm.packetplayground.com,Possible Powershell Empire C2 Domain,/news.php
 vpn.marconetworking.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 vpn.weteck.site,Possible Cobalt Strike C2 Domain,/updates
 vpncltrlx.com,Possible Cobalt Strike C2 Domain,/sq.css
