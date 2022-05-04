@@ -1,4 +1,11 @@
 #domain,ioc,uri_path
 cms.internal.africa,Possible PoshC2 Fronting Domain,/qqzddddd/2018/load.php/
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 office.thebrain.net,Possible PoshC2 Fronting Domain,/types/translation/v1/articles/
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 pankki.store,Possible PoshC2 Fronting Domain,/TOS/
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+vm.packetplayground.com,Possible Powershell Empire C2 Domain,/login/process.php
