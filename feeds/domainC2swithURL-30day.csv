@@ -442,7 +442,7 @@ e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted
 eam.yangming.com,Possible Cobalt Strike C2 Fronting Domain,/Login/origin=eam.yangming.com
 ebrdlab.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 ec2-3-35-206-100.ap-northeast-2.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/__utm.gif
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php
 edgebetaupdater.com,Possible Cobalt Strike C2 Domain,/modcp.js
 edgecloud.ink,Possible Cobalt Strike C2 Fronted Domain,/oscp/
 edgekey.digital,Possible Cobalt Strike C2 Domain,/owa/
@@ -751,6 +751,7 @@ ns3.pinyin.pw,Possible Cobalt Strike C2 Domain,/update
 ns3.wsywddr.com,Possible Cobalt Strike C2 Domain,/dpixel
 nsa.bet,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 nsa.bet,Possible Cobalt Strike C2 Domain,/updates.rss
+nti.nsfocus.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.woff2
 ntpurple.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 obsward.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ocsp.verisign.com,Possible Cobalt Strike C2 Fronting Domain,/oscp/
@@ -760,7 +761,7 @@ omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/1
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
 onesecondservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 online.Umicomtoke.com,Possible Cobalt Strike C2 Fronted Domain,/videoplayback
 online.cloudwebpictures.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -853,7 +854,7 @@ sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 scanixu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 scfy.chinacourt.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/search/
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secure.paodequeijo.tk,Possible Cobalt Strike C2 Domain,/visit.js
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -1116,7 +1117,6 @@ test.com,Possible Cobalt Strike C2 Fronting Domain,/api/3
 test.flash-update.pw,Possible Cobalt Strike C2 Domain,/cx
 test.kurokoleung.cn,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 test.nbq.gr,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2019/12/shsgTkBUqJJFrhAuGIiniBnEeNKp
-test.ssrserver-update.xyz,Possible Cobalt Strike C2 Domain,/index
 test.zzzsec.tk,Possible Cobalt Strike C2 Domain,/links
 test1.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 test1.baidu.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
