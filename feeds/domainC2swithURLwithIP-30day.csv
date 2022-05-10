@@ -733,7 +733,7 @@ localhost.gd,Possible Cobalt Strike C2 Domain,/cx,159.89.200.133
 localhost.gd,Possible Cobalt Strike C2 Domain,/j.ad,138.68.110.227
 localhost.gd,Possible Cobalt Strike C2 Domain,/j.ad,147.182.183.106
 localhost.gd,Possible Cobalt Strike C2 Domain,/j.ad,159.89.200.133
-login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/admin/get.php,206.198.151.239
+login.zoom2meeting.com,Possible Powershell Empire C2 Domain,/news.php,206.198.151.239
 loll.be,Possible Cobalt Strike C2 Domain,/activity,94.157.180.18
 lovedyy.com,Possible Cobalt Strike C2 Domain,/cm,132.232.169.101
 lovedyy.com,Possible Cobalt Strike C2 Domain,/cx,132.232.169.101
@@ -850,7 +850,6 @@ omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/1
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload,116.206.92.26
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php,46.101.27.73
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php,46.101.27.73
 onesecondservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.222.151
 online.Umicomtoke.com,Possible Cobalt Strike C2 Fronted Domain,/videoplayback,45.138.87.36
 online.cloudwebpictures.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,172.96.189.218
@@ -875,7 +874,7 @@ pankki.store,Possible PoshC2 Domain,/TOS/,159.223.210.111
 pankki.store,Possible PoshC2 Domain,/vssf/wppo/site/bgroup/visitor/,159.223.210.111
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
 perfectworldltd.com,Possible Cobalt Strike C2 Domain,/skin,84.32.188.104
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp,18.219.180.158
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp,18.219.180.158
 phoenix.intrinsec.com,Possible Cobalt Strike C2 Domain,/updates.rss,93.187.43.200
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
@@ -953,9 +952,9 @@ sbronm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.47
 scanixu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.47
 scfy.chinacourt.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/search/,47.99.72.130
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,23.88.62.153
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,23.88.62.153
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
 secure.paodequeijo.tk,Possible Cobalt Strike C2 Domain,/visit.js,20.206.87.38
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,191.252.113.123
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,45.231.132.68
@@ -1318,7 +1317,7 @@ vk.com,Possible Cobalt Strike C2 Fronting Domain,/adminhtml.css,172.93.201.64
 vk.com,Possible Cobalt Strike C2 Fronting Domain,/mt,172.93.201.190
 vlkcollabs.nl,Possible Cobalt Strike C2 Domain,/vlk/grants,35.158.226.16
 vlkcollabs.nl,Possible Cobalt Strike C2 Domain,/vlk/grants,52.59.168.192
-vm.packetplayground.com,Possible Powershell Empire C2 Domain,/admin/get.php,137.184.118.205
+vm.packetplayground.com,Possible Powershell Empire C2 Domain,/news.php,137.184.118.205
 vpn.marconetworking.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,192.155.88.27
 vpn.weteck.site,Possible Cobalt Strike C2 Domain,/updates,43.129.7.189
 vpncltrlx.com,Possible Cobalt Strike C2 Domain,/sq.css,5.199.173.93
