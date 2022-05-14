@@ -70,7 +70,7 @@ akamai-cloudendpoint2.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/priv
 akamai-cloudendpoint2.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/private/48AMGHCSW,34.244.159.229
 alabama.boutique,Possible Cobalt Strike C2 Domain,/pixel.gif,80.78.23.227
 alabama.boutique,Possible Cobalt Strike C2 Domain,/pixel.gif,92.118.36.151
-alertverify.azurewebsites.net,Possible Cobalt Strike C2 Domain,/pixel,159.223.102.68
+alertverify.azurewebsites.net,Possible Cobalt Strike C2 Domain,/cx,159.223.102.68
 alivod.med126.com,Possible Cobalt Strike C2 Fronted Domain,/ca,47.98.164.231
 aliyunn.cc,Possible Cobalt Strike C2 Fronting Domain,/api/3,107.172.250.201
 alsor.icu,Possible Cobalt Strike C2 Domain,/educate.ico,109.71.254.202
@@ -566,7 +566,7 @@ fwd2.cam.university,Possible Cobalt Strike C2 Fronted Domain,/search/,35.177.241
 g00gle.ngrok.io,Possible Cobalt Strike C2 Domain,/dot.gif,74.51.164.194
 gdk.func.api.chinadd.cn,Possible Cobalt Strike C2 Domain,/api/x,1.117.86.121
 gdk.func.api.chinadd.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,124.223.81.59
-gentles.ash-atsas.workers.dev,Possible Cobalt Strike C2 Domain,/ptj,160.20.146.247
+gentles.ash-atsas.workers.dev,Possible Cobalt Strike C2 Domain,/cm,160.20.146.247
 geo-raabta.ntcgov.org,Possible Cobalt Strike C2 Domain,/__utm.gif,15.152.186.38
 geo-tv.ntcgov.org,Possible Cobalt Strike C2 Domain,/j.ad,15.152.186.38
 germanzup.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,5.39.217.87
@@ -1032,6 +1032,7 @@ service-gl2npkle-1259812977.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-gwdlq415-1306669097.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cx,82.157.21.177
 service-h4i1r6bo-1306266622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.34.111.197
 service-hdgec0p9-1257884775.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dot.gif,175.178.158.27
+service-hdgec0p9-1257884775.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/visit.js,175.178.158.27
 service-hgmt6age-1302905002.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,96.9.225.169
 service-hsz3msrq-1310005656.sg.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.134.224.46
 service-hw6mdvqk-1253883516.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,47.240.46.77
@@ -1203,7 +1204,6 @@ update.teofg.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos,139.180.1
 update.youtubb.tk,Possible Cobalt Strike C2 Domain,/admin.php,173.82.135.18
 update03.microsoft-essentials.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,159.65.244.19
 update04.microsoft-essentials.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,165.227.180.6
-update07.microsoft-essentials.com,Possible Cobalt Strike C2 Fronted Domain,/u/vercheck,161.35.139.247
 updatedomain.ml,Possible Cobalt Strike C2 Domain,/broadcast,107.173.15.216
 updatemlcrosoft.com,Possible Cobalt Strike C2 Domain,/RELEASES.js,47.242.86.193
 updatemlcrosoft.com,Possible Cobalt Strike C2 Domain,/dhl.js,47.242.86.193
