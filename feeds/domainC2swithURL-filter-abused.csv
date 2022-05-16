@@ -18,7 +18,7 @@
 60z7e5b1ld.execute-api.eu-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
 PropertyExpoAndShowcase.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/eMUgI4Z/BOhKRIMsJsuPnn3IQvgrEc3XLQUB3W
 SikesComposites.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/Jwjy4/mzAoZyZk7qHIyw3QrEpXij5WFhIo1z8JDUVA0N0
-a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/ca
+a.wvwvwv.cf,Possible Cobalt Strike C2 Domain,/push
 a1telecom.shop,Possible Cobalt Strike C2 Domain,/pixel
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
 a5emef8iw0.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronting Domain,/api/fetch
@@ -26,6 +26,8 @@ accesservices.org,Possible Cobalt Strike C2 Domain,/temp.css
 acm-usa.com,Possible Cobalt Strike C2 Domain,/eso.css
 adult.up-flash.com,Possible Cobalt Strike C2 Domain,/templates
 aig.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/sync/bu-hKFn9JxpMeD8b2DhZG2bwvc
+aiplasp.org,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
+aiplasp.tk,Possible Cobalt Strike C2 Fronted Domain,/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 ak.1.amazing2021.net,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 akamai-cloudendpoint2.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/private/48AMGHCSW
 alertverify.azurewebsites.net,Possible Cobalt Strike C2 Domain,/cx
@@ -281,7 +283,7 @@ ocsp-check.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/private/48AMGHC
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
-onobrlve.com,Possible Powershell Empire C2 Domain,/admin/get.php
+onobrlve.com,Possible Powershell Empire C2 Domain,/news.php
 openssl.online,Possible Cobalt Strike C2 Domain,/openssl/v1/
 organiclivingshop.com,Possible Cobalt Strike C2 Fronted Domain,/vegetables/cucumbers
 pacom001.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid
@@ -309,7 +311,7 @@ roxj.37.com,Possible Cobalt Strike C2 Fronted Domain,/dot.gif
 scorecardresearch.space,Possible Cobalt Strike C2 Domain,/fwlink
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 security-response.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronting Domain,/owa/fXYyoljZ28RJbGwZWNSGqy6jFSxxaMHhIc2
 security-response.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronting Domain,/owa/s50X0fEBHlmODFuqSnome8KKJ-nVf00K
 server.upadte-googie.com,Possible Cobalt Strike C2 Domain,/dhl
