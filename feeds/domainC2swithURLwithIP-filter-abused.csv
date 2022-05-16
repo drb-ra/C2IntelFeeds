@@ -243,6 +243,7 @@ geo-raabta.ntcgov.org,Possible Cobalt Strike C2 Domain,/__utm.gif,15.152.186.38
 geo-tv.ntcgov.org,Possible Cobalt Strike C2 Domain,/j.ad,15.152.186.38
 gmw.cn,Possible Cobalt Strike C2 Fronting Domain,/fam_cart,23.83.133.14
 gmw.cn,Possible Cobalt Strike C2 Fronting Domain,/rw,108.62.118.247
+google.fr,Possible Cobalt Strike C2 Fronting Domain,/be,172.93.201.42
 h5m.voc.com.cn,Possible Cobalt Strike C2 Fronted Domain,/ptj,47.98.164.231
 harborfreight.delivery,Possible Cobalt Strike C2 Domain,/en-us/p/book-2/8MCPZJJCC98C,164.90.154.97
 helloworld.macpromoworld7917.workers.dev,Possible Cobalt Strike C2 Domain,/api/fetch,62.113.255.12
@@ -305,8 +306,8 @@ ocsp-check.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/private/48AMGHC
 ocsp-check.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/private/48AMGHCSW,34.244.159.229
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
-onobrlve.com,Possible Powershell Empire C2 Domain,/news.php,88.80.147.29
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php,46.101.27.73
+onobrlve.com,Possible Powershell Empire C2 Domain,/login/process.php,88.80.147.29
 openssl.online,Possible Cobalt Strike C2 Domain,/openssl/v1/,154.209.87.148
 organiclivingshop.com,Possible Cobalt Strike C2 Fronted Domain,/vegetables/cucumbers,40.114.109.128
 pacom001.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid,152.32.133.192
@@ -314,7 +315,7 @@ pacom001.vercel.app,Possible Cobalt Strike C2 Domain,/api/getid,23.91.96.19
 pacom001.vercel.app,Possible Cobalt Strike C2 Domain,/pacom001/_layouts/Wopi/01554532-64bc-45ee-9645-512577ae642d,117.50.177.247
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
 perfectworldltd.com,Possible Cobalt Strike C2 Domain,/skin,84.32.188.104
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp,18.219.180.158
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
 policyupdating.com,Possible Cobalt Strike C2 Domain,/fam_cart.css,138.124.183.147
 ppew.au,Possible Cobalt Strike C2 Domain,/owa/1m4ndWyOM29eWKaDhxrHn,13.55.118.253
@@ -336,9 +337,9 @@ rinima.tk,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,169.129.115.
 rinima.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,169.129.115.21
 roxj.37.com,Possible Cobalt Strike C2 Fronted Domain,/dot.gif,121.5.49.251
 scorecardresearch.space,Possible Cobalt Strike C2 Domain,/fwlink,46.183.185.20
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,23.88.62.153
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,23.88.62.153
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
 security-response.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronting Domain,/owa/fXYyoljZ28RJbGwZWNSGqy6jFSxxaMHhIc2,20.234.125.248
 security-response.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronting Domain,/owa/s50X0fEBHlmODFuqSnome8KKJ-nVf00K,40.85.77.11
 server.upadte-googie.com,Possible Cobalt Strike C2 Domain,/dhl,47.242.148.147
@@ -451,6 +452,7 @@ w6x8q98np4.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,
 waf.flreeyes.com,Possible Cobalt Strike C2 Domain,/api/getIcos,134.122.188.213
 webmail.igovservice.com,Possible Cobalt Strike C2 Domain,/css/a4512662.css,98.126.159.175
 webmail.igovservice.net,Possible Cobalt Strike C2 Domain,/server/v751262.jpg,98.126.159.175
+wekoteb.com,Possible Cobalt Strike C2 Fronted Domain,/be,172.93.201.42
 wersh.co,Possible Cobalt Strike C2 Fronted Domain,/aa,31.220.44.244
 windows-defender-update.ru,Possible Cobalt Strike C2 Domain,/ga.js,64.227.123.60
 wiredobserver.com,Possible Cobalt Strike C2 Domain,/links.html,216.244.77.16
