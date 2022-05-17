@@ -146,4 +146,5 @@
 \.fortinet\.com,
 ^workday\.com,
 \.workday\.com,
+^google\.fr,
 ^http,
