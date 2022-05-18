@@ -142,6 +142,7 @@ cdn.china-flash.ga,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1.116.8
 cdn.flashinstallers.com,Possible Cobalt Strike C2 Domain,/gv.css,107.148.14.42
 cdn.fuckscstc.cf,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,170.178.217.162
 cdn.gougou.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,124.223.81.59
+cdn.peakyblinders.uk,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,59.63.224.101
 cdn.secmage.info.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/installkits/ms3214,20.223.205.20
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/push,47.98.164.231
 cert.securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,191.252.113.123
@@ -223,7 +224,8 @@ d18bik1b3q4y7i.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrow
 d18krv932r2kbr.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/,198.52.107.210
 d1dt97cxhesza0.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/pfyur9QGM/g5oqruqixXkoSW7TCoVNjZb,159.89.158.198
 d1eh6fkewlaxs4.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/,37.120.247.55
-d1i0xnlfotsnef.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,45.207.39.11
+d1i0xnlfotsnef.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/__utm.gif,45.207.39.11
+d1i0xnlfotsnef.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif,45.207.39.11
 d1ikyt7zls3fiy.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.214.105.42
 d1j8sgp0gelu6v.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/9ho4/rYhfka9Gva1n7kboF-R14y-9KJ5,159.65.98.72
 d1jowqlqw4xwaw.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-026249/field-keywords=year,52.4.152.13
@@ -394,7 +396,7 @@ hunter.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1
 hunter.qianxin.com.dsa.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,159.75.70.33
 hwkr6.2cop.tk,Possible Cobalt Strike C2 Domain,/api/x,141.164.44.72
 ics.support,Possible Cobalt Strike C2 Domain,/my/repairs,3.86.2.74
-iheartredteams.com,Possible Cobalt Strike C2 Domain,/cx,34.204.10.41
+iheartredteams.com,Possible Cobalt Strike C2 Domain,/activity,34.204.10.41
 img.9-1.pw,Possible Cobalt Strike C2 Domain,/image/,8.212.183.33
 img6.2345.com,Possible Cobalt Strike C2 Fronted Domain,/push,47.98.164.231
 imolaoggi.eu,Possible Cobalt Strike C2 Domain,/s/8Re23CnQtI7Uq2MqmLJ3J/field-keywords/,31.41.8.66
@@ -499,7 +501,6 @@ office.thebrain.net,Possible PoshC2 Domain,/types/translation/v1/articles/,109.1
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php,46.101.27.73
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
 onobrlve.com,Possible Powershell Empire C2 Domain,/admin/get.php,88.80.147.29
 openssl.online,Possible Cobalt Strike C2 Domain,/openssl/v1/,154.209.87.138
 openssl.online,Possible Cobalt Strike C2 Domain,/openssl/v1/,154.209.87.148
@@ -516,7 +517,7 @@ pankki.store,Possible PoshC2 Domain,/TOS/,159.223.210.111
 pankki.store,Possible PoshC2 Domain,/vssf/wppo/site/bgroup/visitor/,159.223.210.111
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
 perfectworldltd.com,Possible Cobalt Strike C2 Domain,/skin,84.32.188.104
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp,18.219.180.158
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
 policyupdating.com,Possible Cobalt Strike C2 Domain,/fam_cart.css,138.124.183.147
@@ -557,10 +558,9 @@ scorecardresearch.space,Possible Cobalt Strike C2 Domain,/fwlink,46.183.185.20
 scorecardresearch.xyz,Possible Cobalt Strike C2 Domain,/pixel,31.7.63.134
 secertkey.cf,Possible Cobalt Strike C2 Domain,/fwlink,172.87.30.180
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,23.88.62.153
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,23.88.62.153
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,23.88.62.153
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,191.252.113.123
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,45.231.132.68
 security-response.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronting Domain,/owa/fXYyoljZ28RJbGwZWNSGqy6jFSxxaMHhIc2,20.234.125.248
@@ -770,7 +770,7 @@ vlkcollabs.nl,Possible Cobalt Strike C2 Domain,/vlk/grants,18.194.244.87
 vlkcollabs.nl,Possible Cobalt Strike C2 Domain,/vlk/grants,35.158.226.16
 vlkcollabs.nl,Possible Cobalt Strike C2 Domain,/vlk/grants,52.28.253.50
 vlkcollabs.nl,Possible Cobalt Strike C2 Domain,/vlk/grants,52.59.168.192
-vm.packetplayground.com,Possible Powershell Empire C2 Domain,/login/process.php,137.184.118.205
+vm.packetplayground.com,Possible Powershell Empire C2 Domain,/admin/get.php,137.184.118.205
 vm.packetplayground.com,Possible Powershell Empire C2 Domain,/news.php,137.184.118.205
 vpn.weteck.site,Possible Cobalt Strike C2 Domain,/updates,43.129.7.189
 w6x8q98np4.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/updates.rss,159.223.102.68
