@@ -147,4 +147,5 @@
 ^workday\.com,
 \.workday\.com,
 ^google\.fr,
+\.salesforce\.com,
 ^http,
