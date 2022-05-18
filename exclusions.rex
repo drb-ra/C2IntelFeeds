@@ -148,4 +148,5 @@
 \.workday\.com,
 ^google\.fr,
 \.salesforce\.com,
+^docs\.github\.com,
 ^http,
