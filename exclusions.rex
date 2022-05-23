@@ -149,4 +149,5 @@
 ^google\.fr,
 \.salesforce\.com,
 ^docs\.github\.com,
+\.reddit\.com,
 ^http,
