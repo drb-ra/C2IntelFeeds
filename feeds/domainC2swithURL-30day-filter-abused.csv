@@ -443,6 +443,7 @@ office.thebrain.net,Possible PoshC2 Fronting Domain,/types/translation/v1/articl
 ok.gannimeideshuo.com,Possible Cobalt Strike C2 Domain,/fwlink
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
 onobrlve.com,Possible Powershell Empire C2 Domain,/news.php
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css
@@ -458,7 +459,6 @@ pankki.store,Possible PoshC2 Fronting Domain,/TOS/
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif
 perfectworldltd.com,Possible Cobalt Strike C2 Domain,/skin
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 picabof.com,Possible Cobalt Strike C2 Fronted Domain,/hr.css
 pigofig.com,Possible Cobalt Strike C2 Fronted Domain,/ms.html
@@ -498,10 +498,10 @@ scorecardresearch.fun,Possible Cobalt Strike C2 Domain,/dpixel
 scorecardresearch.space,Possible Cobalt Strike C2 Domain,/fwlink
 scorecardresearch.xyz,Possible Cobalt Strike C2 Domain,/pixel
 sd.topsmartservice.com,Possible Cobalt Strike C2 Domain,/es.js
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secure.ploveregister.com,Possible Cobalt Strike C2 Fronted Domain,/xmlconnect
 secure.top-business-blog.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
