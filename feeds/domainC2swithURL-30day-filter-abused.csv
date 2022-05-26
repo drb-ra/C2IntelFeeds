@@ -450,7 +450,7 @@ omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/1
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
-onobrlve.com,Possible Powershell Empire C2 Domain,/admin/get.php
+onobrlve.com,Possible Powershell Empire C2 Domain,/news.php
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/lv.css
 openssl.online,Possible Cobalt Strike C2 Domain,/openssl/v1/
@@ -509,6 +509,7 @@ sd.topsmartservice.com,Possible Cobalt Strike C2 Domain,/es.js
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secure.ploveregister.com,Possible Cobalt Strike C2 Fronted Domain,/xmlconnect
 secure.top-business-blog.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -617,7 +618,6 @@ service-o8qlasbu-1252706751.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-ocfn7owf-1252652328.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ajax/libs/jquery/3.5.1/jquery.js
 service-odolei17-1309297788.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ospnb365-1306113289.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-p4drfmi7-1256639881.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cx
 service-p51jmamc-1252114028.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
 service-p9kcr9nr-1259367723.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/images/
 service-q4tr3ayu-1252477417.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
