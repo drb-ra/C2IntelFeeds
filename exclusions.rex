@@ -150,4 +150,6 @@
 \.salesforce\.com,
 ^docs\.github\.com,
 \.reddit\.com,
+\.github\.io,
+\.yelp\.ca,
 ^http,
