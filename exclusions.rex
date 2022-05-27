@@ -152,4 +152,5 @@
 \.reddit\.com,
 \.github\.io,
 \.yelp\.ca,
+^wikipedia\.org,
 ^http,
