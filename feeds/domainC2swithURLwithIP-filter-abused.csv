@@ -70,7 +70,6 @@ biohazzzard.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.160
 blog.wdnmd.info,Possible Cobalt Strike C2 Domain,/api/download,108.166.193.204
 boronab.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.74
 bqsbxcvmqnbyt.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/save,43.154.57.177
-broken-surf-b363.micoresoft.workers.dev,Possible Cobalt Strike C2 Domain,/cx,103.30.43.90
 broken-surf-b363.micoresoft.workers.dev,Possible Cobalt Strike C2 Domain,/g.pixel,103.43.18.90
 c.vvvth.com,Possible Cobalt Strike C2 Domain,/sdjfklsdjfklsjdkfljsdklfjlkuiower,209.141.51.6
 ccc.windows-flash.com,Possible Cobalt Strike C2 Domain,/ca,172.247.5.198
@@ -224,7 +223,7 @@ dubzaav687snd.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrow
 dwgbg8vy0czhx.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/2vqk0F69/IhViE7rohVCrc26A1otIqVPjA3klEb54fTqr,159.65.108.254
 dxb.ntcgov.org,Possible Cobalt Strike C2 Domain,/match,15.152.186.38
 e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/api/fetch,147.182.242.191
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
 edgestat.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.227.190.216
 edgestat.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3246918-0264889/field-keywords=books,209.133.223.69
 eeeqq.tk,Possible Cobalt Strike C2 Domain,/api/3,107.172.22.204
@@ -332,13 +331,13 @@ ocsp-check.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/private/48AMGHC
 ok.gannimeideshuo.com,Possible Cobalt Strike C2 Domain,/fwlink,43.243.171.119
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php,46.101.27.73
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
 onobrlve.com,Possible Powershell Empire C2 Domain,/news.php,88.80.147.29
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css,194.37.97.150
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/lv.css,194.37.97.150
 organiclivingshop.com,Possible Cobalt Strike C2 Fronted Domain,/vegetables/cucumbers,40.114.109.128
 paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp,18.219.180.158
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match,47.98.164.231
 picabof.com,Possible Cobalt Strike C2 Fronted Domain,/hr.css,23.82.141.193
 pigofig.com,Possible Cobalt Strike C2 Fronted Domain,/ms.html,23.82.140.104
@@ -383,7 +382,6 @@ service-052rc0lg-1302014318.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-0ci24vb8-1252281553.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream,47.107.81.243
 service-0drqe737-1307564484.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,152.136.116.68
 service-1bl5ajl6-1302026685.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,180.76.161.95
-service-1fpayfdt-1311966742.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,121.4.185.228
 service-23fh9ahe-1302562187.usw.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,49.235.122.125
 service-2ctd0kna-1257232926.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/visit.js,39.98.48.146
 service-2zxm4jl7-1311524389.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.223.224.167
@@ -398,6 +396,7 @@ service-5ifrzoqz-1310556720.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-6p78e619-1307066631.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,110.42.135.208
 service-7odea85m-1258361297.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,150.158.153.198
 service-81pccc4j-1301629007.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,49.235.123.49
+service-90aqnua5-1306801752.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,175.178.177.20
 service-ag21zuo2-1300496321.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.43.223.187
 service-agugfaq3-1307697132.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,150.158.44.161
 service-az91uv0i-1307356722.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,81.68.82.24
@@ -470,7 +469,6 @@ telemetrin.com,Possible Cobalt Strike C2 Fronted Domain,/favicon,45.142.122.170
 terroklo.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.52
 test.flash-update.pw,Possible Cobalt Strike C2 Domain,/cx,23.94.208.224
 tezolak.com,Possible Cobalt Strike C2 Fronted Domain,/RELEASE_NOTES.css,23.82.140.85
-tools.googletools.ga,Possible Cobalt Strike C2 Fronted Domain,/api/3,45.91.81.92
 top-business-blog.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,84.32.188.104
 ua.ikwb.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,195.149.87.185
 unsinorg.cf,Possible Cobalt Strike C2 Domain,/__utm.gif,172.87.30.180
@@ -498,7 +496,6 @@ webmail.igovservice.net,Possible Cobalt Strike C2 Domain,/server/v751262.jpg,98.
 webpricer.cms.gov,Possible Cobalt Strike C2 Fronted Domain,/customer.txt,40.90.196.108
 wersh.co,Possible Cobalt Strike C2 Fronted Domain,/aa,31.220.44.244
 wersh.co,Possible Cobalt Strike C2 Fronted Domain,/links.js,31.220.44.244
-wiki.whoami.life,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,149.28.205.57
 wikipedia.org,Possible Cobalt Strike C2 Fronting Domain,/fam_cart.html,172.241.29.179
 windows-defender-update.ru,Possible Cobalt Strike C2 Domain,/ga.js,64.227.123.60
 windows-update.online,Possible Cobalt Strike C2 Fronted Domain,/FC001/JOHN,132.232.40.201
