@@ -300,7 +300,7 @@ dubzaav687snd.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrow
 dwgbg8vy0czhx.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/2vqk0F69/IhViE7rohVCrc26A1otIqVPjA3klEb54fTqr
 dxb.ntcgov.org,Possible Cobalt Strike C2 Domain,/match
 e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/api/fetch
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
 eclu.pl,Possible Cobalt Strike C2 Domain,/api/fetch
 edgestat.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 edgestat.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3246918-0264889/field-keywords=books
@@ -476,7 +476,7 @@ omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/1
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
-onobrlve.com,Possible Powershell Empire C2 Domain,/login/process.php
+onobrlve.com,Possible Powershell Empire C2 Domain,/admin/get.php
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/lv.css
 openssl.online,Possible Cobalt Strike C2 Domain,/openssl/v1/
@@ -496,8 +496,8 @@ phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 picabof.com,Possible Cobalt Strike C2 Fronted Domain,/hr.css
 pigofig.com,Possible Cobalt Strike C2 Fronted Domain,/ms.html
+play.submit-data.com,Possible Cobalt Strike C2 Domain,/cm
 play.submit-data.com,Possible Cobalt Strike C2 Domain,/ga.js
-play.submit-data.com,Possible Cobalt Strike C2 Domain,/ptj
 ploveregister.com,Possible Cobalt Strike C2 Domain,/xmlconnect
 ploveregister.com,Possible Cobalt Strike C2 Fronting Domain,/fr
 ploveregister.com,Possible Cobalt Strike C2 Fronting Domain,/xmlconnect
@@ -537,8 +537,9 @@ scorecardresearch.space,Possible Cobalt Strike C2 Domain,/fwlink
 scorecardresearch.xyz,Possible Cobalt Strike C2 Domain,/pixel
 sd.topsmartservice.com,Possible Cobalt Strike C2 Domain,/es.js
 secmage.info.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/installkits/ms3214
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secure.ploveregister.com,Possible Cobalt Strike C2 Fronted Domain,/xmlconnect
 secure.top-business-blog.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -799,11 +800,11 @@ www.gitlabsupport.space,Possible Cobalt Strike C2 Domain,/index.php
 www.goog1e.online,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.hellomrsone.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.indiatime.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2016/12/29136388_
+www.jquery-cdn.cf,Possible Cobalt Strike C2 Domain,/sub/v1.6/0VO6G9Z7O7
 www.message-cncc.com,Possible Cobalt Strike C2 Domain,/apiv4
 www.micarapi.eu.org,Possible Cobalt Strike C2 Fronted Domain,/cx
 www.miccrosoft.tk,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/na
-www.microsoft-cdn.cf,Possible Cobalt Strike C2 Domain,/sub/v1.6/0VO6G9Z7O7
 www.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/others/2016/12/29136388_
 www.micrsoft.shop,Possible Cobalt Strike C2 Fronting Domain,/api/3
 www.micsoft.shop,Possible Cobalt Strike C2 Fronted Domain,/api/3
