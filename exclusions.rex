@@ -154,4 +154,5 @@
 \.yelp\.ca,
 ^wikipedia\.org,
 ^www\.tumblr\.com,
+^360\.com,
 ^http,
