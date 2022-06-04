@@ -153,4 +153,5 @@
 \.github\.io,
 \.yelp\.ca,
 ^wikipedia\.org,
+^www\.tumblr\.com,
 ^http,
