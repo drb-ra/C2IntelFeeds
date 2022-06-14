@@ -325,6 +325,7 @@ dwgbg8vy0czhx.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrows
 dxb.ntcgov.org,Possible Cobalt Strike C2 Domain,/match
 e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/api/fetch
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 edgestat.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 edgestat.org,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3246918-0264889/field-keywords=books
 eeeqq.tk,Possible Cobalt Strike C2 Domain,/api/3
@@ -500,7 +501,6 @@ ok.gannimeideshuo.com,Possible Cobalt Strike C2 Domain,/fwlink
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
 onobrlve.com,Possible Powershell Empire C2 Domain,/login/process.php
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/lv.css
@@ -515,7 +515,7 @@ paypal.com,Possible Cobalt Strike C2 Fronting Domain,/av
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/boxes.js
 perfectworldltd.com,Possible Cobalt Strike C2 Domain,/skin
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php
-phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 picabof.com,Possible Cobalt Strike C2 Fronted Domain,/hr.css
 pigofig.com,Possible Cobalt Strike C2 Fronted Domain,/ms.html
@@ -568,7 +568,7 @@ secertkey.cf,Possible Cobalt Strike C2 Domain,/match
 secmage.info.global.prod.fastly.net,Possible Cobalt Strike C2 Fronting Domain,/installkits/ms3214
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/eso.css
 secure.ploveregister.com,Possible Cobalt Strike C2 Fronted Domain,/xmlconnect
 secure.realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR
