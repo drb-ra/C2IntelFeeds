@@ -202,6 +202,7 @@ dreamkoks.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.160.5
 drt7efxx9io3f.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/PsoDBu5XJ/YAy3IvfUSrdbV74ymXD3TwxxfzXz7VjIkU,52.56.171.1
 e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/api/fetch,147.182.242.191
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php,3.67.39.119
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php,3.67.39.119
 edgestat.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.227.190.216
 email.189.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.92.28.35
 en.co.th,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,45.64.184.207
@@ -298,7 +299,6 @@ office-update.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php,46.101.27.73
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css,194.37.97.150
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/lv.css,194.37.97.150
 outlet-studio.com,Possible Cobalt Strike C2 Domain,/Study/tv/WK4OQEZ5,31.41.244.119
@@ -311,6 +311,7 @@ paydayholiday.me,Possible Cobalt Strike C2 Domain,/__utm.gif,128.199.223.60
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/av,64.44.101.252
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/boxes.js,23.82.141.225
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php,18.219.180.158
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp,18.219.180.158
 picabof.com,Possible Cobalt Strike C2 Fronted Domain,/hr.css,23.82.141.193
 ppew.au,Possible Cobalt Strike C2 Domain,/owa/1m4ndWyOM29eWKaDhxrHn,13.55.118.253
 pretunz.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.60.161.48
@@ -345,7 +346,7 @@ secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,23.88.62.153
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/eso.css,45.35.49.105
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js,210.16.100.2
 secure.realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR,84.32.188.60
