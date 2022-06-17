@@ -1,6 +1,7 @@
 #domain,ioc
 0.tcp.ap.ngrok.io,Possible Cobalt Strike C2 Domain
 10080.site,Possible Cobalt Strike C2 Domain
+22238.net,Possible Cobalt Strike C2 Fronted Domain
 2f.pw,Possible Cobalt Strike C2 Domain
 30dckcweuf.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain
 360.com,Possible Cobalt Strike C2 Fronting Domain
@@ -12,7 +13,6 @@
 60z7e5b1ld.execute-api.eu-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain
 6xcbd.k8x74b2n1m4nsq631hs.tk,Possible Cobalt Strike C2 Fronted Domain
 7zz7.xyz,Possible Cobalt Strike C2 Domain
-Bookmark-Tag.com,Possible Cobalt Strike C2 Fronted Domain
 CouponBrothers.com,Possible Cobalt Strike C2 Fronted Domain
 PropertyExpoAndShowcase.com,Possible Cobalt Strike C2 Fronted Domain
 SikesComposites.com,Possible Cobalt Strike C2 Fronted Domain
@@ -58,7 +58,6 @@ bfer.yxle.cn,Possible Cobalt Strike C2 Domain
 bid.skhystec.com,Possible Cobalt Strike C2 Domain
 biohazzzard.com,Possible Cobalt Strike C2 Domain
 blog.wdnmd.info,Possible Cobalt Strike C2 Domain
-bookmark-tag.com,Possible Cobalt Strike C2 Fronting Domain
 boronab.com,Possible Cobalt Strike C2 Domain
 budmx.com,Possible Cobalt Strike C2 Domain
 c.vvvth.com,Possible Cobalt Strike C2 Domain
@@ -304,6 +303,7 @@ service-2zxm4jl7-1311524389.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-384gj0ef-1303747394.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-3iwblltw-1309502842.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-3o5nwedn-1307478804.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-3vkjh0i2-1253759078.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-4fimktpq-1308337151.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-4ng7k4aw-1256691685.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-4u30t4nh-1305010017.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -409,6 +409,7 @@ wiredobserver.com,Possible Cobalt Strike C2 Domain
 wmsj.cn,Possible Cobalt Strike C2 Fronting Domain
 worldnewsnetwork.uk,Possible Cobalt Strike C2 Fronted Domain
 wpsserver.com,Possible Cobalt Strike C2 Domain
+www.22238.net,Possible Cobalt Strike C2 Fronted Domain
 www.365365.ga,Possible Cobalt Strike C2 Domain
 www.agoegations.com,Possible Cobalt Strike C2 Domain
 www.akillz.tk,Possible Cobalt Strike C2 Domain
