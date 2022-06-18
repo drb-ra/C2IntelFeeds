@@ -300,6 +300,7 @@ nslookup.micorsoft.live,Possible Cobalt Strike C2 Domain,/load,119.29.89.253
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php,46.101.27.73
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css,194.37.97.150
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/lv.css,194.37.97.150
 outlet-studio.com,Possible Cobalt Strike C2 Domain,/Study/tv/WK4OQEZ5,31.41.244.119
@@ -330,8 +331,6 @@ rdadev.com,Possible Cobalt Strike C2 Domain,/massaction,216.244.77.11
 realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR,84.32.188.60
 redbannernews.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,138.68.81.215
 reddit.com,Possible Cobalt Strike C2 Fronting Domain,/profile.js,23.82.141.226
-redirectionsite.com,Possible Cobalt Strike C2 Domain,/massaction.html,147.135.164.135
-redirectionsite.com,Possible Cobalt Strike C2 Fronting Domain,/index.html,147.135.164.135
 redtricks.uk,Possible Cobalt Strike C2 Domain,/ca,46.101.84.159
 remote.nedsecures.co.za,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,188.166.148.225
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/push,39.99.147.117
@@ -352,7 +351,6 @@ secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/eso.css,45.35.49.105
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js,210.16.100.2
 secure.realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR,84.32.188.60
-secure.redirectionsite.com,Possible Cobalt Strike C2 Fronted Domain,/index.html,147.135.164.135
 secure.top-business-blog.com,Possible Cobalt Strike C2 Domain,/design/query/9X5M3SOE0F,84.32.188.104
 secure03.bankingandfinance360.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/g-yxkaFU,54.201.249.244
 securelogonweb.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,144.217.24.208
@@ -491,7 +489,6 @@ wpsserver.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,46.21.153.15
 www.22238.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.243.77.32
 www.365365.ga,Possible Cobalt Strike C2 Domain,/remove,118.184.176.111
 www.agoegations.com,Possible Cobalt Strike C2 Domain,/dot.gif,107.173.35.82
-www.akillz.tk,Possible Cobalt Strike C2 Domain,/pixel.gif,124.221.107.73
 www.aliclound-cdn.com,Possible Cobalt Strike C2 Domain,/kj,8.210.226.73
 www.aliclound-cdn.com,Possible Cobalt Strike C2 Domain,/ku,8.210.226.73
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3246918-0264889/field-keywords=books,37.72.172.110
@@ -529,11 +526,8 @@ www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/na,8.210.2.157
 www.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/msdownload/update/others/2016/12/29136388_,52.59.214.27
 www.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/eso.css,45.35.49.105
 www.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/ab.js,210.16.100.2
-www.office.live.cn,Possible Cobalt Strike C2 Fronting Domain,/c/msupdate/others/office/12/1938433_,47.103.56.27
-www.office.live.cn.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/c/msupdate/others/office/12/1938433_,47.103.56.27
 www.onemusic24.com,Possible Cobalt Strike C2 Domain,/destroy/whosonline/0UFC1C22UYC1,84.32.188.157
 www.realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR,84.32.188.60
-www.redirectionsite.com,Possible Cobalt Strike C2 Fronted Domain,/index.html,147.135.164.135
 www.shangxueba.com,Possible Cobalt Strike C2 Fronted Domain,/Del/lockout/Q56SZ0MJI3,81.68.255.200
 www.solarwmds.top,Possible Cobalt Strike C2 Domain,/pixel.gif,116.198.201.236
 www.vietsovspeedtest.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,157.245.205.11
