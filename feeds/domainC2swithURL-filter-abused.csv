@@ -172,6 +172,7 @@ drt7efxx9io3f.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/PsoD
 dtjdlxxktdy1z.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/rWBNSyA/BfWM030xLd95LNNMdB8ZaXJCI6uwiNtU-JNp2bePZ
 dudqlxqp6hv9q.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/NVcV/vg5xVqIqSUdpTvOsYMbIxIQKbnpARMd6mY9W06g
 e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/api/fetch
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 edgestat.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 email.189.cn,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -297,8 +298,9 @@ saharalive.in,Possible Cobalt Strike C2 Fronted Domain,/
 saml3.healthbeam.org,Possible Cobalt Strike C2 Domain,/safebrowsing/KTbgsF/HRqyw6YLO54WXCUbdnDMhk
 sd.topsmartservice.com,Possible Cobalt Strike C2 Domain,/es.js
 secertkey.cf,Possible Cobalt Strike C2 Domain,/match
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js
 secure.realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR
 secure.service1app.com,Possible Cobalt Strike C2 Domain,/Disable/daily/W578UC8WIJQ
