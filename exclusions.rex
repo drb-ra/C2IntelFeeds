@@ -155,4 +155,7 @@
 ^wikipedia\.org,
 ^www\.tumblr\.com,
 ^360\.com,
+^www\.ukfinance\.org\.uk,
+\.ukfinance\.org\.uk,
+^sina\.com\.cn,
 ^http,
