@@ -113,7 +113,6 @@ cdn.cdn-cloudflares.com,Possible Cobalt Strike C2 Domain,/show/sms/FYMIIW60
 cdn.china-flash.ga,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.cloudflareus.tk,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 cdn.fuckscstc.cf,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-cdn.gougou.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.loose.cf,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.nimbofile.com,Possible Cobalt Strike C2 Domain,/safebrowsing/rd/g-yxkaFU
 cdn.peakyblinders.uk,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -325,7 +324,7 @@ dudqlxqp6hv9q.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrow
 dwgbg8vy0czhx.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/2vqk0F69/IhViE7rohVCrc26A1otIqVPjA3klEb54fTqr
 dxb.ntcgov.org,Possible Cobalt Strike C2 Domain,/match
 e6yeun02cb.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/api/fetch
-ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php
+ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/admin/get.php
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
 edgestat.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 eeeqq.tk,Possible Cobalt Strike C2 Domain,/api/3
@@ -350,7 +349,6 @@ fnmsdtx.aliyundemo.com,Possible Cobalt Strike C2 Domain,/g.pixel
 fqicudrbaf.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Fronted Domain,/api/fetch
 free.idcfengye.com,Possible Cobalt Strike C2 Domain,/ca
 free.idcfengye.com,Possible Cobalt Strike C2 Domain,/pixel
-freebuf.tk,Possible Cobalt Strike C2 Domain,/image/
 freygor.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 frontend.foodpanda.com.tw,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/264-84198498-9827145/field-keywords=m
 fuckmkesir.ga,Possible Cobalt Strike C2 Domain,/dpixel
@@ -453,7 +451,6 @@ mightymagnitudos.com,Possible Cobalt Strike C2 Domain,/avatarses
 mightymagnitudos.com,Possible Cobalt Strike C2 Domain,/eso.css
 mightymagnitudos.com,Possible Cobalt Strike C2 Fronting Domain,/avatarses
 mightymagnitudos.com,Possible Cobalt Strike C2 Fronting Domain,/eso.css
-mitacun.com,Possible Cobalt Strike C2 Fronted Domain,/da
 molekraftness.com,Possible Cobalt Strike C2 Domain,/ab.js
 molekraftness.com,Possible Cobalt Strike C2 Fronting Domain,/ab.js
 molekraftness.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.js
@@ -487,8 +484,8 @@ ocsp-check.azureedge.net,Possible Cobalt Strike C2 Domain,/Admin/private/48AMGHC
 office365.tendcloud.net,Possible Cobalt Strike C2 Domain,/pixel
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
 onevisioncommunications.com,Possible Cobalt Strike C2 Domain,/search.js
 onobrlve.com,Possible Powershell Empire C2 Domain,/login/process.php
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css
@@ -540,7 +537,7 @@ secertkey.cf,Possible Cobalt Strike C2 Domain,/match
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/avatarses
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/eso.css
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js
