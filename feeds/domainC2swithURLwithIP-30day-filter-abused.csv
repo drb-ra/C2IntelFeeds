@@ -1,7 +1,8 @@
 #domain,ioc,uri_path,ip
 0.tcp.ap.ngrok.io,Possible Cobalt Strike C2 Domain,/Restrict/RCS/IZO04EKRW,173.82.121.42
 0.tcp.ap.ngrok.io,Possible Cobalt Strike C2 Domain,/dot.gif,43.154.84.112
-0933.eu.org,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,193.123.254.223
+0933.eu.org,Possible Cobalt Strike C2 Domain,/include/template/isx.php,193.123.254.223
+0933.eu.org,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,193.123.254.223
 10080.site,Possible Cobalt Strike C2 Domain,/en_US/all.js,82.156.2.25
 22238.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.243.77.32
 22238.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.243.77.32
@@ -93,7 +94,6 @@ bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/push,47.98.164.231
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/visit.js,47.98.164.231
 bcnupdate.com,Possible Cobalt Strike C2 Domain,/RELEASE.css,217.79.243.147
 beautyhealthandlifestyle.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,54.176.197.4
-beta.ammonews.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,78.129.165.207
 bevrealestate.us,Possible Cobalt Strike C2 Domain,/ca,23.227.196.113
 bfer.yxle.cn,Possible Cobalt Strike C2 Domain,/ptj,120.55.189.211
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js,195.133.53.144

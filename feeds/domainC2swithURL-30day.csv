@@ -1,7 +1,8 @@
 #domain,ioc,uri_path
 0.tcp.ap.ngrok.io,Possible Cobalt Strike C2 Domain,/Restrict/RCS/IZO04EKRW
 0.tcp.ap.ngrok.io,Possible Cobalt Strike C2 Domain,/dot.gif
-0933.eu.org,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
+0933.eu.org,Possible Cobalt Strike C2 Domain,/include/template/isx.php
+0933.eu.org,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 10080.site,Possible Cobalt Strike C2 Domain,/en_US/all.js
 22238.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 22238.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -93,7 +94,6 @@ bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/push
 bbnews.weixin.com,Possible Cobalt Strike C2 Fronting Domain,/visit.js
 bcnupdate.com,Possible Cobalt Strike C2 Domain,/RELEASE.css
 beautyhealthandlifestyle.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
-beta.ammonews.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bevrealestate.us,Possible Cobalt Strike C2 Domain,/ca
 bfer.yxle.cn,Possible Cobalt Strike C2 Domain,/ptj
 bid.skhystec.com,Possible Cobalt Strike C2 Domain,/gmail/about/static-2.0/js/main.min.js
