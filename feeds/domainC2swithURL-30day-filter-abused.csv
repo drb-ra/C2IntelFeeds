@@ -485,7 +485,6 @@ nsw.azure-updates.com,Possible Cobalt Strike C2 Domain,/users/8:orgid:gf457-kdft
 ntpurple.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
 onevisioncommunications.com,Possible Cobalt Strike C2 Domain,/search.js
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css
@@ -537,7 +536,8 @@ sd.topsmartservice.com,Possible Cobalt Strike C2 Domain,/es.js
 secertkey.cf,Possible Cobalt Strike C2 Domain,/match
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/avatarses
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/eso.css
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js
