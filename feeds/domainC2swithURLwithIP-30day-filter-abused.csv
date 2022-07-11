@@ -484,6 +484,7 @@ nsw.azure-updates.com,Possible Cobalt Strike C2 Domain,/users/8:orgid:gf457-kdft
 ntpurple.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,54.82.62.235
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php,46.101.27.73
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
 onevisioncommunications.com,Possible Cobalt Strike C2 Domain,/search.js,146.70.125.72
 opennetworksystems.com,Possible Cobalt Strike C2 Domain,/boxes.css,194.37.97.150
@@ -521,8 +522,6 @@ rdadev.com,Possible Cobalt Strike C2 Domain,/massaction,216.244.77.11
 realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR,84.32.188.60
 realmacnow.com,Possible Cobalt Strike C2 Domain,/Multiply/ecommerce/399DEAXDD,84.32.190.53
 redbannernews.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,138.68.81.215
-redirectionsite.com,Possible Cobalt Strike C2 Domain,/massaction.html,147.135.164.135
-redirectionsite.com,Possible Cobalt Strike C2 Fronting Domain,/index.html,147.135.164.135
 redtricks.uk,Possible Cobalt Strike C2 Domain,/ca,46.101.84.159
 remote.nedsecures.co.za,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,188.166.148.225
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/__utm.gif,39.99.147.117
@@ -538,8 +537,9 @@ sd.allwooshop.com,Possible Cobalt Strike C2 Domain,/Select/ps/OBUUPB12IGGB,185.1
 sd.topsmartservice.com,Possible Cobalt Strike C2 Domain,/es.js,84.32.190.30
 secertkey.cf,Possible Cobalt Strike C2 Domain,/match,172.87.30.180
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,23.88.62.153
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,23.88.62.153
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
 secure.getthhingsdone.com,Possible Cobalt Strike C2 Fronted Domain,/lt,185.184.192.79
 secure.getthhingsdone.com,Possible Cobalt Strike C2 Fronted Domain,/r-arrow,185.184.192.79
@@ -547,7 +547,6 @@ secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/avatarses,
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/eso.css,45.35.49.105
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js,210.16.100.2
 secure.realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR,84.32.188.60
-secure.redirectionsite.com,Possible Cobalt Strike C2 Fronted Domain,/index.html,147.135.164.135
 secure.service1app.com,Possible Cobalt Strike C2 Domain,/Compute/xxx/5EVGSVIXXVT5,84.32.190.37
 secure.service1app.com,Possible Cobalt Strike C2 Domain,/Disable/daily/W578UC8WIJQ,84.32.190.1
 secure.serviceapp1.com,Possible Cobalt Strike C2 Domain,/verify/Site/SP1XNGCN89,172.93.193.34
@@ -873,7 +872,6 @@ www.office.live.cn.cdn.dnsv1.com.cn,Possible Cobalt Strike C2 Fronted Domain,/c/
 www.onemusic24.com,Possible Cobalt Strike C2 Domain,/destroy/whosonline/0UFC1C22UYC1,84.32.188.157
 www.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,45.76.202.199
 www.realfunsolutions.com,Possible Cobalt Strike C2 Domain,/Get/v10.08/LG43R5Y9VMJR,84.32.188.60
-www.redirectionsite.com,Possible Cobalt Strike C2 Fronted Domain,/index.html,147.135.164.135
 www.service1app.com,Possible Cobalt Strike C2 Domain,/Compute/xxx/5EVGSVIXXVT5,84.32.190.37
 www.service1app.com,Possible Cobalt Strike C2 Domain,/Disable/daily/W578UC8WIJQ,84.32.190.1
 www.serviceapp1.com,Possible Cobalt Strike C2 Domain,/verify/Site/SP1XNGCN89,172.93.193.34
