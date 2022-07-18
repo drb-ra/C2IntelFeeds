@@ -260,6 +260,7 @@ outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa/
 p0c.uk,Possible Cobalt Strike C2 Domain,/activity
 pabowape.com,Possible Cobalt Strike C2 Fronted Domain,/av
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/av
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/admin/login.php
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
 pinterest.com,Possible Cobalt Strike C2 Fronting Domain,/eo
 polyporedevtest100.azureedge.net,Possible Cobalt Strike C2 Domain,/coap.txt
@@ -281,7 +282,6 @@ secertkey.cf,Possible Cobalt Strike C2 Domain,/match
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
 secure.getthhingsdone.com,Possible Cobalt Strike C2 Fronted Domain,/lt
 secure.getthhingsdone.com,Possible Cobalt Strike C2 Fronted Domain,/r-arrow
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/sq
@@ -348,7 +348,6 @@ service-jmstmka7-1308574242.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-jumkrvmp-1305556158.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-jw5nux1q-1258596386.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-k43f6rw9-1308954353.kr.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
-service-kawjz8re-1312829232.th.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/Retrieve/r/J6M342WNNL
 service-kq7n1wbv-1259492848.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-la8k0zjh-1307406344.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates
 service-m328t91d-1307678690.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
