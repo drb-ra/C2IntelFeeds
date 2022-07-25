@@ -159,4 +159,6 @@
 \.ukfinance\.org\.uk,
 ^sina\.com\.cn,
 ^docs\.python\.org,
+^support\.sophos\.com,
+\.sophos\.com,
 ^http,
