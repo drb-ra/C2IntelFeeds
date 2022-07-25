@@ -276,7 +276,7 @@ nslookup.micorsoft.live,Possible Cobalt Strike C2 Domain,/load,119.29.89.253
 nx1.automicrosoft.com,Possible Cobalt Strike C2 Domain,/fwlink,154.201.144.36
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php,46.101.27.73
 onemusicllc.com,Possible Cobalt Strike C2 Domain,/Run/insurance/IEMWF9EC,84.32.190.52
 onion.ws,Possible Cobalt Strike C2 Domain,/load,185.236.228.171
 outboundcon.victimcorp.org,Possible Cobalt Strike C2 Fronted Domain,/Collector/2.0/settings/,54.146.228.98
@@ -304,6 +304,7 @@ rovonaj.com,Possible Cobalt Strike C2 Fronted Domain,/extension.js,160.20.147.78
 saml3.healthbeam.org,Possible Cobalt Strike C2 Domain,/safebrowsing/KTbgsF/HRqyw6YLO54WXCUbdnDMhk,3.17.57.40
 secertkey.cf,Possible Cobalt Strike C2 Domain,/match,172.87.30.180
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,23.88.62.153
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,23.88.62.153
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
@@ -440,6 +441,7 @@ team.ifacker.bid,Possible Cobalt Strike C2 Domain,/j.ad,121.41.117.63
 telecomnet.cf,Possible Cobalt Strike C2 Domain,/j.ad,172.87.30.180
 test.0h1ry.tk,Possible Cobalt Strike C2 Domain,/match,1.116.123.104
 test.flash-update.pw,Possible Cobalt Strike C2 Domain,/updates.rss,23.94.208.224
+testqq.tenctent.cf,Possible Cobalt Strike C2 Domain,/js/SilentSignIn.Main.min.js,20.187.68.251
 thefinancecity.com,Possible Cobalt Strike C2 Fronted Domain,/windowsupdate/v6/update/others/2022/05/51343176_,35.237.216.217
 time.ntpnet.com,Possible Cobalt Strike C2 Domain,/ga.js,107.167.8.66
 time.ntpnet.com,Possible Cobalt Strike C2 Domain,/ga.js,107.167.8.67
