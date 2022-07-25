@@ -158,4 +158,5 @@
 ^www\.ukfinance\.org\.uk,
 \.ukfinance\.org\.uk,
 ^sina\.com\.cn,
+^docs\.python\.org,
 ^http,
