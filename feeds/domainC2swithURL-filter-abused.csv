@@ -177,7 +177,6 @@ flash-update.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 flash-update.tk,Possible Cobalt Strike C2 Domain,/ga.js
 flashupdate.net,Possible Cobalt Strike C2 Fronted Domain,/image/
 fly.a-banking.com,Possible Cobalt Strike C2 Domain,/owa/
-fly.a-banking.com,Possible PoshC2 Fronting Domain,/load/pages/index.php/
 fnmsdtx.aliyundemo.com,Possible Cobalt Strike C2 Domain,/g.pixel
 freeboz.mooo.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 freeboz.mooo.com,Possible Cobalt Strike C2 Domain,/da
@@ -251,7 +250,7 @@ nslookup.micorsoft.live,Possible Cobalt Strike C2 Domain,/load
 nx1.automicrosoft.com,Possible Cobalt Strike C2 Domain,/fwlink
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
 onemusicllc.com,Possible Cobalt Strike C2 Domain,/Run/insurance/IEMWF9EC
 onion.ws,Possible Cobalt Strike C2 Domain,/g.pixel
 onion.ws,Possible Cobalt Strike C2 Domain,/load
@@ -275,8 +274,10 @@ reversengeneer.servegame.com,Possible Cobalt Strike C2 Domain,/demo/game/JYCMIA3
 rovonaj.com,Possible Cobalt Strike C2 Fronted Domain,/extension.js
 saml3.healthbeam.org,Possible Cobalt Strike C2 Domain,/safebrowsing/KTbgsF/HRqyw6YLO54WXCUbdnDMhk
 secertkey.cf,Possible Cobalt Strike C2 Domain,/match
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/sq
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js
 secure.neverthelesses.com,Possible Cobalt Strike C2 Fronted Domain,/rw

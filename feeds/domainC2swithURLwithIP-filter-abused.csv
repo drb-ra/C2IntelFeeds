@@ -197,7 +197,6 @@ flash-update.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.210.15
 flash-update.tk,Possible Cobalt Strike C2 Domain,/ga.js,8.210.154.177
 flashupdate.net,Possible Cobalt Strike C2 Fronted Domain,/image/,47.242.21.24
 fly.a-banking.com,Possible Cobalt Strike C2 Domain,/owa/,188.166.21.81
-fly.a-banking.com,Possible PoshC2 Domain,/load/pages/index.php/,188.166.21.81
 fnmsdtx.aliyundemo.com,Possible Cobalt Strike C2 Domain,/g.pixel,121.41.30.246
 freeboz.mooo.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,86.74.69.41
 freeboz.mooo.com,Possible Cobalt Strike C2 Domain,/da,86.74.69.41
@@ -278,7 +277,7 @@ nslookup.micorsoft.live,Possible Cobalt Strike C2 Domain,/load,119.29.89.253
 nx1.automicrosoft.com,Possible Cobalt Strike C2 Domain,/fwlink,154.201.144.36
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,34.91.186.44
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/,20.214.205.89
-onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php,46.101.27.73
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php,46.101.27.73
 onemusicllc.com,Possible Cobalt Strike C2 Domain,/Run/insurance/IEMWF9EC,84.32.190.52
 onion.ws,Possible Cobalt Strike C2 Domain,/g.pixel,185.236.228.171
 onion.ws,Possible Cobalt Strike C2 Domain,/load,185.236.228.171
@@ -307,9 +306,10 @@ reversengeneer.servegame.com,Possible Cobalt Strike C2 Domain,/demo/game/JYCMIA3
 rovonaj.com,Possible Cobalt Strike C2 Fronted Domain,/extension.js,160.20.147.78
 saml3.healthbeam.org,Possible Cobalt Strike C2 Domain,/safebrowsing/KTbgsF/HRqyw6YLO54WXCUbdnDMhk,3.17.57.40
 secertkey.cf,Possible Cobalt Strike C2 Domain,/match,172.87.30.180
-secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,23.88.62.153
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php,78.47.243.181
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
-secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,78.47.243.181
+secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php,23.88.62.153
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php,78.47.243.181
 secure.mightymagnitudos.com,Possible Cobalt Strike C2 Fronted Domain,/sq,210.16.100.71
 secure.molekraftness.com,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.js,210.16.100.2
 secure.neverthelesses.com,Possible Cobalt Strike C2 Fronted Domain,/rw,210.16.100.234
