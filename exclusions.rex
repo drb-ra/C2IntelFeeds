@@ -161,4 +161,5 @@
 ^docs\.python\.org,
 ^support\.sophos\.com,
 \.sophos\.com,
+\.bitdefender\.com,
 ^http,
