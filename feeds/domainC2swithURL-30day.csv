@@ -17,7 +17,6 @@
 4.nuoyanc.ml,Possible Cobalt Strike C2 Domain,/load
 404.testbybill.tk,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 6bb0-173-82-121-42.ap.ngrok.io,Possible Cobalt Strike C2 Domain,/Restrict/RCS/IZO04EKRW
-6xcbd.k8x74b2n1m4nsq631hs.tk,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 77127.top,Possible Cobalt Strike C2 Domain,/pixel
 77127.top,Possible Cobalt Strike C2 Domain,/push
 7zz7.xyz,Possible Cobalt Strike C2 Domain,/image/
@@ -429,6 +428,7 @@ nx1.automicrosoft.com,Possible Cobalt Strike C2 Domain,/fwlink
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/news.php
 onemusicllc.com,Possible Cobalt Strike C2 Domain,/Run/insurance/IEMWF9EC
 onevisioncommunications.com,Possible Cobalt Strike C2 Domain,/search.js
 onion.ws,Possible Cobalt Strike C2 Domain,/g.pixel
@@ -440,6 +440,7 @@ pabowape.com,Possible Cobalt Strike C2 Fronted Domain,/av
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/av
 pgpinfo.com,Possible Cobalt Strike C2 Domain,/ja-jp/p/surface-book-3/get
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 picabof.com,Possible Cobalt Strike C2 Fronted Domain,/hr.css
 pinterest.com,Possible Cobalt Strike C2 Fronting Domain,/eo
@@ -472,6 +473,7 @@ secertkey.cf,Possible Cobalt Strike C2 Domain,/match
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secsys1-c2-1.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/news.php
+secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/admin/get.php
 secsys1-c2-1proxy.NewcastleFlyingCows.xyz,Possible Powershell Empire C2 Domain,/login/process.php
 secure.getthhingsdone.com,Possible Cobalt Strike C2 Fronted Domain,/lt
 secure.getthhingsdone.com,Possible Cobalt Strike C2 Fronted Domain,/r-arrow
@@ -526,7 +528,6 @@ service-7hs0zhlu-1306266622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-7odea85m-1258361297.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-7oeoupky-1253511408.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-7u15yzvx-1258254748.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
-service-85vweq81-1306532342.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates
 service-88c6a3pg-1253444658.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-8dumhkh5-1256825165.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-8wiw5m86-1258984158.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel
@@ -592,7 +593,6 @@ service-prkaz5lb-1308308838.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-pwwv8yzw-1302026685.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-pwwv8yzw-1302026685.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/push
 service-pzq156ks-1307695615.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.3.min.js
-service-qgzetff2-1255401124.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity
 service-qne9trym-1257925038.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-qr8hb2yt-1302491583.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 service-r2tscjhh-1257078281.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -684,8 +684,6 @@ ua.c2cb.ml,Possible Cobalt Strike C2 Domain,/ptj
 ufc-risks.ml,Possible Cobalt Strike C2 Domain,/fwlink
 unsinorg.cf,Possible Cobalt Strike C2 Domain,/en_US/all.js
 update.bitdefender.pm,Possible Cobalt Strike C2 Fronted Domain,/en
-update.cdn-windows.com,Possible Cobalt Strike C2 Domain,/fwlink
-update.chaitin.cc,Possible Cobalt Strike C2 Domain,/cm
 update.huorongsec.com,Possible Cobalt Strike C2 Domain,/api/getnews
 update.micosoft.org,Possible Cobalt Strike C2 Domain,/async/
 update.twittermisc.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/264-84198498-9827145/field-keywords=m
