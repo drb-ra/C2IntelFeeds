@@ -101,7 +101,6 @@ c2.focusfireandsecuity.net,Possible Cobalt Strike C2 Domain,/itstheredteam
 c2.iwhacktool.cf,Possible Cobalt Strike C2 Domain,/dpixel
 c2f7beea0359ec3d.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/2BKl4ek4G/VhI9PzAFb8OmAsLy0pgJo
 c4.mircsoft.org,Possible Cobalt Strike C2 Fronted Domain,/api/3
-cache.pay-api.api-cloudflare.com,Possible Cobalt Strike C2 Domain,/ga.js
 cache.pay-api.api-cloudflare.com,Possible Cobalt Strike C2 Domain,/load
 callibry.to,Possible Cobalt Strike C2 Domain,/api/3
 camelyfashion.com,Possible Cobalt Strike C2 Domain,/terminate/v10.59/AYHFGB6V2C6
@@ -110,9 +109,15 @@ cbc.x7z.mom,Possible Cobalt Strike C2 Domain,/visit.js
 cc.mircsoft.org,Possible Cobalt Strike C2 Domain,/api/3
 cc.mircsoft.org,Possible Cobalt Strike C2 Fronting Domain,/api/3
 cc94cfc50fa54d0d9191c7ef9b556915.apig.cn-north-1.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/cm
+cdn.ad-tracker.org,Possible Cobalt Strike C2 Fronted Domain,/preload
+cdn.adobe-research.net,Possible Cobalt Strike C2 Fronted Domain,/preload
+cdn.avprotect.net,Possible Cobalt Strike C2 Fronted Domain,/preload
+cdn.dns-response.net,Possible Cobalt Strike C2 Fronted Domain,/preload
+cdn.dnsportal.org,Possible Cobalt Strike C2 Fronted Domain,/preload
 cdn.fuckscstc.cf,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.go-360.co,Possible Cobalt Strike C2 Domain,/dot.gif
 cdn.gwin.tk,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+cdn.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain,/preload
 cdn.peakyblinders.uk,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.rabbak.xyz,Possible Cobalt Strike C2 Domain,/match
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain,/push
@@ -120,8 +125,6 @@ cdn.vsassets.io,Possible Cobalt Strike C2 Fronted Domain,/v1/queue
 cdn.websense.com,Possible Cobalt Strike C2 Fronted Domain,/npm/fullpage.js@3.1.1/dist/jquery.fullpage.min.css
 cdn.xczx.tk,Possible Cobalt Strike C2 Domain,/cx
 centertechengineering.com,Possible Cobalt Strike C2 Domain,/cs
-cf-development.com,Possible Cobalt Strike C2 Domain,/panel.js
-cf-development.com,Possible Cobalt Strike C2 Domain,/tab_shop_active.css
 cfbc9e53eed6b001.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/U-qy0OYR/6aLYaLZYRGzADEYEkrSzO8x0G07T5T8qm
 check.globalwiki.workers.dev,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 childhealthresources.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/235-83634900-1914418/field-keywords=place
@@ -436,7 +439,9 @@ ns3.wsywddr.com,Possible Cobalt Strike C2 Domain,/dpixel
 nslookup.micorsoft.live,Possible Cobalt Strike C2 Domain,/load
 nsw.azure-updates.com,Possible Cobalt Strike C2 Domain,/users/8:orgid:gf457-kdft43uw46pmv-223423q-765-66/events/survey
 nx1.automicrosoft.com,Possible Cobalt Strike C2 Domain,/fwlink
+old-cache.pay-api.api-cloudflare.com,Possible Cobalt Strike C2 Domain,/g.pixel
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 onelivemusicshop.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
@@ -560,7 +565,6 @@ service-85ykmpnp-1309506059.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-8wiw5m86-1258984158.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel
 service-955koung-1259774614.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 service-99d0g7sw-1300567869.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel.gif
-service-99d0g7sw-1300567869.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ptj
 service-9ksb62gy-1300020107.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-ag21zuo2-1300496321.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-agucqyip-1251526205.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
