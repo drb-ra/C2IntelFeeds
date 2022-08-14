@@ -262,12 +262,14 @@ old-cache.pay-api.api-cloudflare.com,Possible Cobalt Strike C2 Domain,/g.pixel
 omnitruck.chef.io,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
 onemusicllc.com,Possible Cobalt Strike C2 Domain,/Run/insurance/IEMWF9EC
 open.th1sworld.ga,Possible Cobalt Strike C2 Domain,/async/ddljson
 outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa/
 pabowape.com,Possible Cobalt Strike C2 Fronted Domain,/av
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/av
+pe4axtzs7e.execute-api.eu-west-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/v2/login
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 pogilubipi.com,Possible Cobalt Strike C2 Fronted Domain,/ml.html
@@ -311,7 +313,6 @@ service-193y3w0z-1301082583.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-23fh9ahe-1302562187.usw.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 service-272xl1r7-1312629461.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-2rcke0a5-1312435925.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
-service-2w2c5oqp-1259566933.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-2zxm4jl7-1311524389.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-3fitxtba-1311702893.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-3iwblltw-1309502842.hk.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
