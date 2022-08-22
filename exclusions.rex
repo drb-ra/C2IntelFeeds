@@ -162,4 +162,5 @@
 ^support\.sophos\.com,
 \.sophos\.com,
 \.bitdefender\.com,
+^trouter2-uswc-1-b\.cloudapp\.net,
 ^http,
