@@ -163,4 +163,6 @@
 \.sophos\.com,
 \.bitdefender\.com,
 ^trouter2-uswc-1-b\.cloudapp\.net,
+^signon\.service-now\.com,
+\.service-now\.com,
 ^http,
