@@ -165,4 +165,7 @@
 ^trouter2-uswc-1-b\.cloudapp\.net,
 ^signon\.service-now\.com,
 \.service-now\.com,
+^service-now\.com,
+^ebay\.com,
+\.ebay\.com,
 ^http,
