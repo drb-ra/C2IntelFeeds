@@ -264,7 +264,7 @@ dynamic-pro.ddns.net,Possible Cobalt Strike C2 Domain,/updates.rss
 dzirhl3cboiz9.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/UlPE5U/xn-AadNq6bC-2idtk0NiUm-dAm8YcWg
 e8b5ab6a2bef4765a6420fd9307cc008.apig.cn-north-4.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/dpixel
 ebay.com,Possible Cobalt Strike C2 Fronting Domain,/fo
-ec2-3-121-201-91.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/news.php
+ec2-3-121-201-91.eu-central-1.compute.amazonaws.com,Possible Powershell Empire C2 Domain,/login/process.php
 ec2-34-229-73-80.compute-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 emby2.tk,Possible Cobalt Strike C2 Domain,/g.pixel
 emdl.ws.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/windowsupdate/v6/update/others/2022/05/51343176_
@@ -432,6 +432,7 @@ one.monetary-hosting.com,Possible Cobalt Strike C2 Domain,/push
 onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 onefile.icu,Possible Cobalt Strike C2 Domain,/mix.ico
 oneload.find3321.com,Possible Cobalt Strike C2 Domain,/image/
+onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/admin/get.php
 onelogin-sso.com,Possible Powershell Empire C2 Domain,/:80/login/process.php
 onestepstar.com,Possible Cobalt Strike C2 Domain,/run/v9.25/KLG6SH0F1V7H
 originapp.ga,Possible Cobalt Strike C2 Domain,/api/getupdate
@@ -445,6 +446,7 @@ paypal.com,Possible Cobalt Strike C2 Fronting Domain,/af.css
 paypal.com,Possible Cobalt Strike C2 Fronting Domain,/av
 pharmauat.com,Possible Cobalt Strike C2 Fronted Domain,/lib/ajax/jquery-3.6.1.min.js
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/console/dashboard.asp
+phisher.nastydomain.com,Possible Powershell Empire C2 Domain,/news/today.jsp
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain,/match
 plidhthk.corecloud.asia,Possible Cobalt Strike C2 Fronted Domain,/config
 pogilubipi.com,Possible Cobalt Strike C2 Fronted Domain,/ml.html
