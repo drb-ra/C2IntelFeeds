@@ -168,4 +168,6 @@
 ^service-now\.com,
 ^ebay\.com,
 \.ebay\.com,
+^www\.abchina\.com,
+\.abchina\.com,
 ^http,
