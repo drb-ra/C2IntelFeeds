@@ -170,4 +170,6 @@
 \.ebay\.com,
 ^www\.abchina\.com,
 \.abchina\.com,
+^career\.huawei\.com,
+^bsupport\.huawei\.com,
 ^http,
