@@ -172,4 +172,5 @@
 \.abchina\.com,
 ^career\.huawei\.com,
 ^bsupport\.huawei\.com,
+^cdn\.websense\.com,
 ^http,
