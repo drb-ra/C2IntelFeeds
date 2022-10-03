@@ -174,4 +174,6 @@
 ^bsupport\.huawei\.com,
 ^cdn\.websense\.com,
 ^stackpath\.com,
+^www\.yandex\.com,
+\.yandex\.com,
 ^http,
