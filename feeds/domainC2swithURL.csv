@@ -1,5 +1,6 @@
 #domain,ioc,uri_path
 020-danger.r1z.rocks,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
+020-rce500.r1z.rocks,Possible Cobalt Strike C2 Fronting Domain,/css/jquery.min.js
 0ccbee77601f0aba.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/zQgOZgcy/ZwfvKvX7QfGnB2xNggWidHDNJbjai
 1222-173-82-121-42.ngrok.io,Possible Cobalt Strike C2 Domain,/Restrict/RCS/IZO04EKRW
 15454489a.tencent-cloud.workers.dev,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -91,6 +92,7 @@ cerupedi.com,Possible Cobalt Strike C2 Fronted Domain,/af.css
 check.globalwiki.workers.dev,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 chickenpoken.com,Possible Cobalt Strike C2 Domain,/Group/v3.18/Y9E6P1YSE5
 childhealthresources.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/235-83634900-1914418/field-keywords=place
+cloudgooglesdk.publicvm.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 cloudgooglesdk.publicvm.com,Possible Cobalt Strike C2 Domain,/push
 cloudmicro.tech,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cmcc.asia,Possible Cobalt Strike C2 Domain,/ptj
@@ -127,6 +129,7 @@ d2qy0dzca940u1.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrow
 d2s2mfcwmvglnh.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/qDNglzCJk/OPjokLq59uW9WElk1m98OF4ad
 d2u9rmrrifg8yn.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/utZocPDlC/lMMT3YW6Kq86L2-YDWL8cd9BIf-C3SpQx3
 d2w2m2s1ge687w.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/w2Q8hxspm/Y3AP2wXLX9eOTGKepznw47hFM427RTNobTK6
+d3-up.ssndob.cn.com,Possible Cobalt Strike C2 Fronted Domain,/css/jquery.min.js
 d31x6do2f3st6e.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/qDNglzCJk/OPjokLq59uW9WElk1m98OF4ad
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3ezzymhuci7ps.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/MN0q779B/ru3drXJdFEyIDzRStxrdcTiv0IPlDD
@@ -355,6 +358,7 @@ static.scjjrb.com,Possible Cobalt Strike C2 Fronted Domain,/pixel.gif
 suburauu.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_
 support274.com,Possible Cobalt Strike C2 Domain,/derive/v3.99/E7FPQWPRS
 svchost0828.ddnsfree.com,Possible Cobalt Strike C2 Domain,/ca
+svchost0828.ddnsfree.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 t.yoao.com,Possible Cobalt Strike C2 Fronted Domain,/load
 taobao.com,Possible Cobalt Strike C2 Fronting Domain,/mobile-ipad-home
 teadict.tk,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -369,6 +373,7 @@ ts1.john-h.com,Possible Cobalt Strike C2 Domain,/visit.js
 unbreakable.live,Possible Cobalt Strike C2 Domain,/activity
 unbreakable.live,Possible Cobalt Strike C2 Domain,/dpixel
 unknow.lays-stax.com,Possible Cobalt Strike C2 Domain,/get.html
+update-2.kaspersky360.com,Possible Cobalt Strike C2 Fronted Domain,/css/jquery.min.js
 update.huorongsec.com,Possible Cobalt Strike C2 Domain,/api/getnews
 update.windowspowerr.com,Possible Cobalt Strike C2 Domain,/ga.js
 update.youtubb.tk,Possible Cobalt Strike C2 Domain,/admin.php

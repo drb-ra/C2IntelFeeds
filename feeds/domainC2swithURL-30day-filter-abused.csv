@@ -1,5 +1,6 @@
 #domain,ioc,uri_path
 020-danger.r1z.rocks,Possible Cobalt Strike C2 Domain,/css/jquery.min.js
+020-rce500.r1z.rocks,Possible Cobalt Strike C2 Fronting Domain,/css/jquery.min.js
 04e9e371f04631e8.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/AshjNws/cF087BzExl5yy7QJ5PcazHu
 0ccbee77601f0aba.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/zQgOZgcy/ZwfvKvX7QfGnB2xNggWidHDNJbjai
 10080.site,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -141,6 +142,7 @@ citrixworkspacers.com,Possible Cobalt Strike C2 Fronting Domain,/ee.html
 citrixworkspacers.com,Possible Cobalt Strike C2 Fronting Domain,/mobile-home.html
 cloud.cdncach.com,Possible Cobalt Strike C2 Domain,/cache/static/js/jquery-3.2.1.min.js
 cloud.xcmd.xyz,Possible Cobalt Strike C2 Domain,/api_v3
+cloudgooglesdk.publicvm.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 cloudgooglesdk.publicvm.com,Possible Cobalt Strike C2 Domain,/push
 cloudmicro.pro,Possible Cobalt Strike C2 Domain,/owa/
 cloudmicro.tech,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -200,6 +202,7 @@ d2qy0dzca940u1.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrow
 d2s2mfcwmvglnh.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/qDNglzCJk/OPjokLq59uW9WElk1m98OF4ad
 d2u9rmrrifg8yn.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/utZocPDlC/lMMT3YW6Kq86L2-YDWL8cd9BIf-C3SpQx3
 d2w2m2s1ge687w.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/w2Q8hxspm/Y3AP2wXLX9eOTGKepznw47hFM427RTNobTK6
+d3-up.ssndob.cn.com,Possible Cobalt Strike C2 Fronted Domain,/css/jquery.min.js
 d31x6do2f3st6e.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/qDNglzCJk/OPjokLq59uW9WElk1m98OF4ad
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3ezzymhuci7ps.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/MN0q779B/ru3drXJdFEyIDzRStxrdcTiv0IPlDD
@@ -484,7 +487,6 @@ service-ar697oa0-1304697786.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-az91uv0i-1307356722.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ca
 service-b4iz0hz9-1311161169.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-baw5g4iz-1309608249.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/IsLogin
-service-besjnih9-1307114390.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-bnz2w1fk-1302945528.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-bv5r9oy2-1306602460.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-cev31f6z-1300549872.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ca
@@ -569,6 +571,7 @@ suburauu.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/other
 support-portal.us,Possible Cobalt Strike C2 Fronted Domain,/sq
 support274.com,Possible Cobalt Strike C2 Domain,/derive/v3.99/E7FPQWPRS
 svchost0828.ddnsfree.com,Possible Cobalt Strike C2 Domain,/ca
+svchost0828.ddnsfree.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 t.yoao.com,Possible Cobalt Strike C2 Fronted Domain,/load
 teadict.tk,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 technicollit.com,Possible Cobalt Strike C2 Domain,/safebrowsing/b0kKKIjr/LFydd13-7lk3Ve5ot14xGnP8n-18z
@@ -583,6 +586,7 @@ ts1.john-h.com,Possible Cobalt Strike C2 Domain,/visit.js
 unbreakable.live,Possible Cobalt Strike C2 Domain,/activity
 unbreakable.live,Possible Cobalt Strike C2 Domain,/dpixel
 unknow.lays-stax.com,Possible Cobalt Strike C2 Domain,/get.html
+update-2.kaspersky360.com,Possible Cobalt Strike C2 Fronted Domain,/css/jquery.min.js
 update.huorongsec.com,Possible Cobalt Strike C2 Domain,/api/getnews
 update.micosoft.org,Possible Cobalt Strike C2 Domain,/async/
 update.windowspowerr.com,Possible Cobalt Strike C2 Domain,/ga.js
