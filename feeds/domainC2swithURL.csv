@@ -7,6 +7,7 @@
 1bb1393a0054ca93.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/BEjOw-uc/pPJkqkRu254uyhitEdgse5
 220267ee689b0789.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/zQgOZgcy/ZwfvKvX7QfGnB2xNggWidHDNJbjai
 273020d458bf4f74.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/WOG6L/vYLJ7N3kaSER1XQVC8QiJTLJ5MNZCsQL7UGw2iBP9H1
+360.cn,Possible Cobalt Strike C2 Fronting Domain,/html
 360.com,Possible Cobalt Strike C2 Fronting Domain,/cx
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/
 5pj5xki8i2.execute-api.ap-south-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
@@ -214,9 +215,8 @@ mail.g0ogler.cf,Possible Cobalt Strike C2 Domain,/cx
 mail.g0ogler.cf,Possible Cobalt Strike C2 Domain,/match
 mail.gtexchangemail.xyz,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 mail.world1sfuck.tk,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/01/29136388_
-main.hik.icu,Possible Cobalt Strike C2 Domain,/fwlink
 main.hik.icu,Possible Cobalt Strike C2 Domain,/match
-main.hik.icu,Possible Cobalt Strike C2 Domain,/pixel.gif
+main.hik.icu,Possible Cobalt Strike C2 Domain,/push
 main.hik.icu,Possible Cobalt Strike C2 Domain,/visit.js
 main2.hik.icu,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 main2.hik.icu,Possible Cobalt Strike C2 Domain,/dpixel
@@ -404,11 +404,13 @@ www.axiommortgagebankers.com,Possible Cobalt Strike C2 Fronting Domain,/access/
 www.ba1du.gq,Possible Cobalt Strike C2 Domain,/api/3
 www.bankmpi.com,Possible Cobalt Strike C2 Fronted Domain,/apii/x_snc_sso
 www.base-jscript.com,Possible Cobalt Strike C2 Fronted Domain,/npm/fullpage.js@3.1.1/dist/jquery.fullpage.min.css
+www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/
 www.boidu.co,Possible Cobalt Strike C2 Domain,/load
 www.dbappsecurity.com.cn,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 www.dxszl.tk,Possible Cobalt Strike C2 Fronted Domain,/viewerng/meta
 www.edge-chrome.com,Possible Cobalt Strike C2 Domain,/link.html
 www.gdcgx.com,Possible Cobalt Strike C2 Domain,/api/3
+www.ggdddhm.tk,Possible Cobalt Strike C2 Fronted Domain,/search/
 www.googlearth.top,Possible Cobalt Strike C2 Domain,/image/
 www.hellomrsone.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.irwtsayh.top,Possible Cobalt Strike C2 Domain,/updates
@@ -435,7 +437,10 @@ www.vietsovspeedtest.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/16
 www.wangzha157.xyz,Possible Cobalt Strike C2 Domain,/index
 xamayojir.com,Possible Cobalt Strike C2 Fronted Domain,/faq.css
 xicefoga.com,Possible Cobalt Strike C2 Fronted Domain,/ku.css
+xuluxetas.com,Possible Cobalt Strike C2 Fronted Domain,/dhl
 yoretebi.com,Possible Cobalt Strike C2 Fronted Domain,/rw
+youtube.com,Possible Cobalt Strike C2 Fronting Domain,/dhl
+yuwajeni.com,Possible Cobalt Strike C2 Fronted Domain,/html
 zh.venustechs.tk,Possible Cobalt Strike C2 Domain,/image/
 zh.venustechs.tk,Possible Cobalt Strike C2 Fronting Domain,/image/
 ziwolagiha.com,Possible Cobalt Strike C2 Fronted Domain,/mobile-ipad-home.html

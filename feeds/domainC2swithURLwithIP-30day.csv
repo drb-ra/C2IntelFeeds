@@ -10,6 +10,7 @@
 220267ee689b0789.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/zQgOZgcy/ZwfvKvX7QfGnB2xNggWidHDNJbjai,143.198.99.154
 273020d458bf4f74.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/WOG6L/vYLJ7N3kaSER1XQVC8QiJTLJ5MNZCsQL7UGw2iBP9H1,143.110.233.124
 360.cn,Possible Cobalt Strike C2 Fronting Domain,/extension.html,213.227.154.235
+360.cn,Possible Cobalt Strike C2 Fronting Domain,/html,64.44.98.231
 360.com,Possible Cobalt Strike C2 Fronting Domain,/cx,209.141.53.178
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain,/owa/,103.149.27.116
 36e5cb82.yk1.net,Possible Cobalt Strike C2 Fronted Domain,/async/ddljson,154.23.114.8
@@ -411,14 +412,13 @@ mail.getnewss.com,Possible Cobalt Strike C2 Domain,/Improve/v10.09/UK3A4R7BX6F,1
 mail.gtexchangemail.xyz,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,222.128.117.243
 mail.ru,Possible Cobalt Strike C2 Fronting Domain,/rs.html,185.173.34.120
 mail.world1sfuck.tk,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/01/29136388_,47.116.25.84
-main.hik.icu,Possible Cobalt Strike C2 Domain,/fwlink,195.133.88.41
 main.hik.icu,Possible Cobalt Strike C2 Domain,/g.pixel,185.143.223.42
 main.hik.icu,Possible Cobalt Strike C2 Domain,/load,185.143.223.42
 main.hik.icu,Possible Cobalt Strike C2 Domain,/match,195.133.88.41
 main.hik.icu,Possible Cobalt Strike C2 Domain,/match,195.133.88.44
-main.hik.icu,Possible Cobalt Strike C2 Domain,/pixel.gif,195.133.88.41
-main.hik.icu,Possible Cobalt Strike C2 Domain,/pixel.gif,195.133.88.44
 main.hik.icu,Possible Cobalt Strike C2 Domain,/ptj,185.143.223.42
+main.hik.icu,Possible Cobalt Strike C2 Domain,/push,195.133.88.41
+main.hik.icu,Possible Cobalt Strike C2 Domain,/push,195.133.88.44
 main.hik.icu,Possible Cobalt Strike C2 Domain,/updates.rss,185.143.223.42
 main.hik.icu,Possible Cobalt Strike C2 Domain,/visit.js,195.133.88.41
 main.hik.icu,Possible Cobalt Strike C2 Domain,/visit.js,195.133.88.44
@@ -785,6 +785,7 @@ www.ba1du.gq,Possible Cobalt Strike C2 Domain,/api/3,23.224.36.104
 www.bankmpi.com,Possible Cobalt Strike C2 Fronted Domain,/apii/x_snc_sso,35.237.216.217
 www.base-jscript.com,Possible Cobalt Strike C2 Fronted Domain,/npm/fullpage.js@3.1.1/dist/jquery.fullpage.min.css,139.59.181.36
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,18.130.138.56
+www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,3.98.139.162
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,35.178.249.252
 www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/search/,36.255.220.157
 www.boidu.co,Possible Cobalt Strike C2 Domain,/load,119.91.94.170
@@ -799,6 +800,7 @@ www.filsh.cn,Possible Cobalt Strike C2 Domain,/ptj,47.242.110.140
 www.flopsale.net,Possible Cobalt Strike C2 Domain,/Preserve/v2.47/V62768W5C8QU,84.32.188.208
 www.footballreviews.net,Possible Cobalt Strike C2 Domain,/record/v9.7/8R75034EV50,84.32.188.209
 www.gdcgx.com,Possible Cobalt Strike C2 Domain,/api/3,192.3.86.197
+www.ggdddhm.tk,Possible Cobalt Strike C2 Fronted Domain,/search/,3.98.139.162
 www.googlearth.top,Possible Cobalt Strike C2 Domain,/image/,43.154.27.211
 www.hellomrsone.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.152.138
 www.hellomrsone.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,23.224.152.139
@@ -860,10 +862,13 @@ xc.paymentsmusic.com,Possible Cobalt Strike C2 Domain,/create/v7.83/GP2Z2837,179
 xevayuhace.com,Possible Cobalt Strike C2 Fronted Domain,/extension.html,213.227.154.235
 xicefoga.com,Possible Cobalt Strike C2 Fronted Domain,/ku.css,108.62.118.65
 xlidhthk.corecloud.asia,Possible Cobalt Strike C2 Fronted Domain,/config,194.5.78.111
+xuluxetas.com,Possible Cobalt Strike C2 Fronted Domain,/dhl,23.19.227.177
 yahoo.co.jp,Possible Cobalt Strike C2 Fronting Domain,/extension,108.62.118.185
 yahoo.co.jp,Possible Cobalt Strike C2 Fronting Domain,/tab_shop_active.html,23.106.215.139
 yk.woctest.site,Possible Cobalt Strike C2 Fronted Domain,/api/3,43.153.166.124
 yoretebi.com,Possible Cobalt Strike C2 Fronted Domain,/rw,45.147.230.242
+youtube.com,Possible Cobalt Strike C2 Fronting Domain,/dhl,23.19.227.177
+yuwajeni.com,Possible Cobalt Strike C2 Fronted Domain,/html,64.44.98.231
 zendriol.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,89.185.85.17
 zendriol.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,89.185.85.49
 zendriol.com,Possible Cobalt Strike C2 Domain,/dpixel,89.185.85.17
