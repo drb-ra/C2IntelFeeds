@@ -176,4 +176,6 @@
 ^stackpath\.com,
 ^www\.yandex\.com,
 \.yandex\.com,
+^prd\.myuhc\.com,
+^cdn\.bootcdn\.net,
 ^http,
