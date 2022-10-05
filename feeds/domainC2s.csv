@@ -1,7 +1,6 @@
 #domain,ioc
 020-danger.r1z.rocks,Possible Cobalt Strike C2 Domain
 020-rce500.r1z.rocks,Possible Cobalt Strike C2 Fronting Domain
-05a72d8922ea2aec.azureedge.net,Possible Cobalt Strike C2 Domain
 0ccbee77601f0aba.azureedge.net,Possible Cobalt Strike C2 Domain
 1222-173-82-121-42.ngrok.io,Possible Cobalt Strike C2 Domain
 15454489a.tencent-cloud.workers.dev,Possible Cobalt Strike C2 Domain
@@ -42,7 +41,6 @@ api84984154894121054.securesystem-dnsproviders.com,Possible Cobalt Strike C2 Dom
 app.tqlnmsl.tk,Possible Cobalt Strike C2 Domain
 appdownload.wbiao.cn,Possible Cobalt Strike C2 Fronted Domain
 apt007.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
-asismdnu.asisdns.space,Possible Cobalt Strike C2 Domain
 atk.vivio.icu,Possible Cobalt Strike C2 Domain
 atsecurity.tk,Possible Cobalt Strike C2 Domain
 ausija.com,Possible Cobalt Strike C2 Domain
@@ -67,6 +65,8 @@ c2.iwhacktool.cf,Possible Cobalt Strike C2 Domain
 c2u7f8y9.stackpathcdn.com,Possible Cobalt Strike C2 Fronting Domain
 cache.pay-api.api-cloudflare.com,Possible Cobalt Strike C2 Domain
 callibry.to,Possible Cobalt Strike C2 Domain
+cdn.atlassian.com,Possible Cobalt Strike C2 Fronted Domain
+cdn.az.gov,Possible Cobalt Strike C2 Fronted Domain
 cdn.bootcdn.net,Possible Cobalt Strike C2 Fronted Domain
 cdn.bugula.ga,Possible Cobalt Strike C2 Domain
 cdn.caeq.cc,Possible Cobalt Strike C2 Domain
@@ -77,6 +77,8 @@ cdn.peakyblinders.uk,Possible Cobalt Strike C2 Domain
 cdn.rabbak.xyz,Possible Cobalt Strike C2 Domain
 cdn.static.ettiao.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.websense.com,Possible Cobalt Strike C2 Fronted Domain
+cdn.yougov.com,Possible Cobalt Strike C2 Fronted Domain
+cdn.zendesk.com,Possible Cobalt Strike C2 Fronted Domain
 cdn1.lcdn348v89328gcuhb.ga,Possible Cobalt Strike C2 Domain
 cdzjc.asuscomm.com,Possible Cobalt Strike C2 Domain
 cehocihit.com,Possible Cobalt Strike C2 Fronted Domain
@@ -107,7 +109,6 @@ d10bwthdkx8qbg.cloudfront.net,Possible Cobalt Strike C2 Domain
 d13yik3xjy1bte.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 d17vsbxs3f9iz4.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1blnxlfoa6gu6.cloudfront.net,Possible Cobalt Strike C2 Domain
-d1ozhxavg62ia7.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1pud7s9yqmu0q.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 d243lmrhq79bys.cloudfront.net,Possible Cobalt Strike C2 Domain
 d273w4c3z6esqq.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -131,6 +132,7 @@ d3omadpx4ofxaw.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3umravkzw9sxh.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 d3vbl8i5ilwqpv.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
+data.hik.icu,Possible Cobalt Strike C2 Domain
 data.mlcro50ft.com,Possible Cobalt Strike C2 Domain
 dcci4d0vmwav5.cloudfront.net,Possible Cobalt Strike C2 Domain
 dcuj1gece5t28.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -142,14 +144,13 @@ di4grt1creb6j.cloudfront.net,Possible Cobalt Strike C2 Domain
 di4grt1creb6j.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 didgwf4758vpk.cloudfront.net,Possible Cobalt Strike C2 Domain
 dl.kasperskyupdates.com,Possible Cobalt Strike C2 Fronted Domain
-dllhost0916.ddnsfree.com,Possible Cobalt Strike C2 Domain
 dmi7ekb0npm0y.cloudfront.net,Possible Cobalt Strike C2 Domain
+dns.cl0udflare.tk,Possible Cobalt Strike C2 Fronting Domain
 doc.run,Possible Cobalt Strike C2 Fronted Domain
 download.flash-team.tk,Possible Cobalt Strike C2 Domain
 eonline-cdn.com,Possible Cobalt Strike C2 Domain
 extremecows.com,Possible Cobalt Strike C2 Fronted Domain
 f31cc9433e1b427f.azureedge.net,Possible Cobalt Strike C2 Domain
-faf18e6528ffa8ed.azureedge.net,Possible Cobalt Strike C2 Domain
 famousfape.com,Possible Cobalt Strike C2 Domain
 files.ddrive.online,Possible Cobalt Strike C2 Domain
 firefox.heapack.com,Possible Cobalt Strike C2 Domain
@@ -225,6 +226,7 @@ pabowape.com,Possible Cobalt Strike C2 Fronted Domain
 paypal.com,Possible Cobalt Strike C2 Fronting Domain
 phisher.nastydomain.com,Possible Powershell Empire C2 Domain
 pic07.babytreeimg.com,Possible Cobalt Strike C2 Fronted Domain
+post.i.api.ahrtv.cn,Possible Cobalt Strike C2 Domain
 prd.myuhc.com,Possible Cobalt Strike C2 Fronting Domain
 pregabas.com,Possible Cobalt Strike C2 Domain
 qianxing.rocks,Possible Cobalt Strike C2 Domain
