@@ -171,6 +171,7 @@
 ^www\.abchina\.com,
 \.abchina\.com,
 ^career\.huawei\.com,
+^carrier\.huawei\.com,
 ^bsupport\.huawei\.com,
 ^cdn\.websense\.com,
 ^stackpath\.com,
