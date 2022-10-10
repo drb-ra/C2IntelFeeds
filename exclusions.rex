@@ -178,4 +178,6 @@
 \.yandex\.com,
 ^prd\.myuhc\.com,
 ^cdn\.bootcdn\.net,
+^hao123\.com,
+\.hao123\.com,
 ^http,
