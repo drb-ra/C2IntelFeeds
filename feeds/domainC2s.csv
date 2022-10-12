@@ -1,6 +1,7 @@
 #domain,ioc
+020-danger.r1z.rocks,Possible Cobalt Strike C2 Domain
+020-l01i.ssndob.cn.com,Possible Cobalt Strike C2 Fronting Domain
 020-rce500.r1z.rocks,Possible Cobalt Strike C2 Fronting Domain
-05a72d8922ea2aec.azureedge.net,Possible Cobalt Strike C2 Domain
 0ccbee77601f0aba.azureedge.net,Possible Cobalt Strike C2 Domain
 15454489a.tencent-cloud.workers.dev,Possible Cobalt Strike C2 Domain
 1779dd73700e2c0f.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -10,6 +11,7 @@
 360.cn,Possible Cobalt Strike C2 Fronting Domain
 360.com,Possible Cobalt Strike C2 Fronting Domain
 360se.linkpc.net,Possible Cobalt Strike C2 Fronted Domain
+441o23fg.slt.sched.intlscdn.com,Possible Cobalt Strike C2 Fronted Domain
 5856681773b62124.azureedge.net,Possible Cobalt Strike C2 Domain
 5pj5xki8i2.execute-api.ap-south-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 61c29c85405f0792.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -42,7 +44,7 @@ api-connect-2b8c1bv.securesystem-dnsproviders.com,Possible Cobalt Strike C2 Doma
 api-trend-micro.com,Possible Cobalt Strike C2 Domain
 api.0nedriveup.com,Possible Cobalt Strike C2 Domain
 api84984154894121054.securesystem-dnsproviders.com,Possible Cobalt Strike C2 Domain
-apistoragehub.com,Possible Cobalt Strike C2 Domain
+apistoragehub.com,Possible Cobalt Strike C2 Fronted Domain
 app.lalamove.com,Possible Cobalt Strike C2 Fronted Domain
 app.tqlnmsl.tk,Possible Cobalt Strike C2 Domain
 apt007.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
@@ -108,7 +110,6 @@ d13yik3xjy1bte.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 d17vsbxs3f9iz4.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1blnxlfoa6gu6.cloudfront.net,Possible Cobalt Strike C2 Domain
 d1ik6oouisqlak.cloudfront.net,Possible Cobalt Strike C2 Domain
-d1ozhxavg62ia7.cloudfront.net,Possible Cobalt Strike C2 Domain
 d273w4c3z6esqq.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2fbg7ftk2kfi3.cloudfront.net,Possible Cobalt Strike C2 Domain
 d2mhkyo3wllxj8.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
@@ -144,12 +145,12 @@ dmi7ekb0npm0y.cloudfront.net,Possible Cobalt Strike C2 Domain
 dns.cl0udflare.tk,Possible Cobalt Strike C2 Fronting Domain
 doc.run,Possible Cobalt Strike C2 Fronted Domain
 download.flash-team.tk,Possible Cobalt Strike C2 Domain
+download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain
 e45ebbf2c04facf2.azureedge.net,Possible Cobalt Strike C2 Domain
 ebay.com,Possible Cobalt Strike C2 Fronting Domain
 eonline-cdn.com,Possible Cobalt Strike C2 Domain
 extremecows.com,Possible Cobalt Strike C2 Fronted Domain
 f31cc9433e1b427f.azureedge.net,Possible Cobalt Strike C2 Domain
-faf18e6528ffa8ed.azureedge.net,Possible Cobalt Strike C2 Domain
 famousfape.com,Possible Cobalt Strike C2 Domain
 fazehotafa.com,Possible Cobalt Strike C2 Fronted Domain
 fewifasoc.com,Possible Cobalt Strike C2 Domain
@@ -172,6 +173,7 @@ google.co.in,Possible Cobalt Strike C2 Fronting Domain
 google.co.uk,Possible Cobalt Strike C2 Fronting Domain
 google.com.br,Possible Cobalt Strike C2 Fronting Domain
 google.de,Possible Cobalt Strike C2 Fronting Domain
+h3g.lt,Possible Cobalt Strike C2 Domain
 hackerwei.com,Possible Cobalt Strike C2 Domain
 hi.welcomebackmysillyson.win,Possible Cobalt Strike C2 Domain
 hockeysmall.com,Possible Cobalt Strike C2 Domain
@@ -183,9 +185,12 @@ ipulsecloud.com,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 kam12uiehuqrw.tk,Possible Cobalt Strike C2 Domain
 kdacc.cc,Possible Cobalt Strike C2 Domain
+keycloud.live,Possible Cobalt Strike C2 Fronted Domain
 kiritektower.com,Possible Cobalt Strike C2 Domain
 kiritektower.com,Possible Cobalt Strike C2 Fronting Domain
 ks.kangrookindom.ga,Possible Cobalt Strike C2 Domain
+l01i1.ssndob.cn.com,Possible Cobalt Strike C2 Fronted Domain
+l01i2.ssndob.cn.com,Possible Cobalt Strike C2 Fronted Domain
 linux-update.youtubb.tk,Possible Cobalt Strike C2 Domain
 login.service1ventures.com,Possible Cobalt Strike C2 Domain
 lzcs.iplinkedlists.tk,Possible Cobalt Strike C2 Domain
@@ -194,6 +199,7 @@ mail.gtexchangemail.xyz,Possible Cobalt Strike C2 Domain
 mail.world1sfuck.tk,Possible Cobalt Strike C2 Domain
 main.hik.icu,Possible Cobalt Strike C2 Domain
 maximumservers.net,Possible Cobalt Strike C2 Domain
+memorial.azurewebsites.net,Possible Cobalt Strike C2 Domain
 mi1e.microsoft.com,Possible Cobalt Strike C2 Fronting Domain
 microcloud.live,Possible Cobalt Strike C2 Fronted Domain
 microsoft.com,Possible Cobalt Strike C2 Fronting Domain
@@ -210,6 +216,7 @@ mx.weixin3.bond,Possible Cobalt Strike C2 Domain
 mysqlserver.org,Possible Cobalt Strike C2 Domain
 nassoftware.shop,Possible Cobalt Strike C2 Domain
 ndss.buzz,Possible Cobalt Strike C2 Domain
+netflix.com,Possible Cobalt Strike C2 Fronting Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 ns1.criticallizard.com,Possible Cobalt Strike C2 Fronting Domain
 nsa.fbi-cs.com,Possible Cobalt Strike C2 Domain
@@ -304,6 +311,7 @@ service-r2tscjhh-1257078281.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-rne74uco-1305831073.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service.msftcdn.com,Possible Cobalt Strike C2 Domain
 service1ventures.com,Possible Cobalt Strike C2 Domain
+sf-express.website,Possible Cobalt Strike C2 Fronting Domain
 signon.service-now.com,Possible Cobalt Strike C2 Fronting Domain
 sinatxbaidu.oneneo.xyz,Possible Cobalt Strike C2 Domain
 snccoupr-int.cf,Possible Cobalt Strike C2 Domain
@@ -312,6 +320,7 @@ socks5.allyun.workers.dev,Possible Cobalt Strike C2 Domain
 softsupdate.com,Possible Cobalt Strike C2 Domain
 softupdatelive.com,Possible Cobalt Strike C2 Domain
 sougouc.xyz,Possible Cobalt Strike C2 Domain
+sovgou.tk,Possible Cobalt Strike C2 Domain
 sso.molibdenstructure.com,Possible Cobalt Strike C2 Fronted Domain
 stackpath.com,Possible Cobalt Strike C2 Fronted Domain
 stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain
@@ -346,6 +355,7 @@ updatesoftlive.com,Possible Cobalt Strike C2 Domain
 updatewindow.com,Possible Cobalt Strike C2 Domain
 us-central1-my-gcp-358120.cloudfunctions.net,Possible Cobalt Strike C2 Domain
 us-central1-tenacious-camp-347220.cloudfunctions.net,Possible Cobalt Strike C2 Domain
+vebojusid.com,Possible Cobalt Strike C2 Fronted Domain
 vendriol.com,Possible Cobalt Strike C2 Domain
 vewevas.com,Possible Cobalt Strike C2 Fronted Domain
 vlkcollabs.nl,Possible Cobalt Strike C2 Domain
@@ -398,6 +408,7 @@ www.vietsovspeedtest.com,Possible Cobalt Strike C2 Domain
 www.wangzha157.xyz,Possible Cobalt Strike C2 Domain
 xamayojir.com,Possible Cobalt Strike C2 Fronted Domain
 xicefoga.com,Possible Cobalt Strike C2 Fronted Domain
+xm2.xmitri.org.cn,Possible Cobalt Strike C2 Domain
 xuluxetas.com,Possible Cobalt Strike C2 Fronted Domain
 yebicidake.com,Possible Cobalt Strike C2 Fronted Domain
 youtube.com,Possible Cobalt Strike C2 Fronting Domain
@@ -409,4 +420,5 @@ zh.zhjjk.tk,Possible Cobalt Strike C2 Domain
 ziwolagiha.com,Possible Cobalt Strike C2 Fronted Domain
 zominoz.com,Possible Cobalt Strike C2 Domain
 zozovuf.com,Possible Cobalt Strike C2 Fronted Domain
+zuvoyemi.com,Possible Cobalt Strike C2 Fronted Domain
 zx.lorends.com,Possible Cobalt Strike C2 Domain
