@@ -181,4 +181,6 @@
 ^cdn\.bootcdn\.net,
 ^hao123\.com,
 \.hao123\.com,
+^live\.com,
+\.live\.com,
 ^http,
