@@ -183,4 +183,5 @@
 \.hao123\.com,
 ^live\.com,
 \.live\.com,
+^search\.missouristate\.edu,
 ^http,
