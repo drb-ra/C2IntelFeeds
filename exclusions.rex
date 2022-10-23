@@ -184,4 +184,6 @@
 ^live\.com,
 \.live\.com,
 ^search\.missouristate\.edu,
+^fanniemae\.com,
+\.fanniemae\.com,
 ^http,
