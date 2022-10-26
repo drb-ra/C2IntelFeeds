@@ -186,4 +186,6 @@
 ^search\.missouristate\.edu,
 ^fanniemae\.com,
 \.fanniemae\.com,
+^outlook\.com,
+\.outlook\.com,
 ^http,
