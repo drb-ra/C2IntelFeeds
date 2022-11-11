@@ -188,4 +188,5 @@
 \.fanniemae\.com,
 ^outlook\.com,
 \.outlook\.com,
+^omnitruck\.chef\.io,
 ^http,
