@@ -140,6 +140,7 @@
 ^test\.com,
 ^www\.adobe\.com,
 \.adobe\.com,
+^adobe\.com,
 ^citi\.com,
 \.citi\.com,
 ^fortinet\.com,
