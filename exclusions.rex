@@ -190,4 +190,5 @@
 ^outlook\.com,
 \.outlook\.com,
 ^omnitruck\.chef\.io,
+^aashiyana\.tatasteel\.com,
 ^http,
