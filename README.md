@@ -1,8 +1,6 @@
 # C2IntelFeeds
-Automatically created C2 Feeds
+Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/drb_ra)
 
-<<<<<<< HEAD
-=======
 
 * Feeds ( Source/Raw Data courtesy of Censys - https://censys.io/ ) \
  **Search 2.0** has massively improved detection rates on non-standard ports. **Great job Censys Team!**
@@ -32,10 +30,14 @@ Automatically created C2 Feeds
     
   The easiest files for most of you to use should be [C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/IPC2s.csv), [C2 Domains Filtered](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/domainC2s-filter-abused.csv) and [Unverified C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/unverified/IPC2s.csv) or their 30 day counterparts.  
   
->>>>>>> c5267961f (Update README.md)
 * VPN 
   * Nord VPN Exit Nodes
-* Feeds
-  * `C2 IPs` - Live C2 IP (no frontend or CDN IPs - All bad)
-  * `C2 Domains` - All domain names extracted from implants, including domain fronting values and fake Host headers (High abuse of MS, Apple and Google).
-  * `C2 Domains Filtered` - Excludes several MS domains abused in domain fronting, along with fake headers for popular sites.
+
+* C2_configs 
+  * Detailed CobaltStrike Configuration in CSV and JSON including the following fields:  `FirstSeen,ip,ASN,BeaconType,C2Server,Port,SleepTime,Jitter,Proxy_Behavior,HostHeader,CertificateNames,HttpGet_Metadata,HttpPostUri,HttpPost_Metadata,KillDate,PipeName,UserAgent,Watermark,DNS_Idle,DNS_Sleep` IP reflects the true C2 IP not the one provided in the configuration of the beacon.
+  * Version 2 includes 3 additional fields `SpawnToX86,SpawnToX64,PublicKey`
+  * There's also a 30 day JSON only version that includes First and Last Seen dates within the last 30 days. 
+  * Powershell Empire and PoSHC2 are also avaliable in JSON format.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
