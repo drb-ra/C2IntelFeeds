@@ -29,6 +29,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
     |Qakbot|`same_service(services.jarm.fingerprint={"21d14d00021d21d21c42d43d0000007abc6200da92c2a1b69c0a56366cbe21","04d02d00004d04d04c04d02d04d04d9674c6b4e623ae36cc2d998e99e2262e"} AND services.http.response.body_hash="sha1:22e5446e82b3e46da34b5ebce6de5751664fb867") OR same_service(services.banner_hashes="sha256:5234096d7003929ad67037af6f5816933cab9e85f9b286468249ac9ab9bfb861" AND services.http.response.body_hash="sha1:22e5446e82b3e46da34b5ebce6de5751664fb867")`|
     |[DcRat](https://github.com/qwqdanchun/DcRat)|`services.tls.certificates.leaf_data.issuer_dn="CN=DcRat Server, OU=qwqdanchun, O=DcRat By qwqdanchun, L=SH, C=CN"`|
     |Viper|`services.http.response.body_hashes="sha1:cd40dbcdae84b1c8606f29342066547069ed5a33" OR services.http.response.favicons.md5_hash="a7469955bff5e489d2270d9b389064e1"`|
+    |[Supershell](https://github.com/tdragon6/Supershell/)|`services.http.response.html_title="Supershell - 登录" OR services.http.response.body_hashes="sha256:21ec9c71669486c5b874b1be3b9c341133e83939fdbeefa2080df1b1703c4928"`|
     
   The easiest files for most of you to use should be [C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/IPC2s.csv), [C2 Domains Filtered](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/domainC2s-filter-abused.csv) and [Unverified C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/unverified/IPC2s.csv) or their 30 day counterparts.  
   
