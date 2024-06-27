@@ -245,6 +245,7 @@
 ^aliyun\.com,
 \.instagram\.com,
 \.tumblr\.com,
+\.microsoft\.fr,
 ^cdn\.ons\.gov\.uk,
 ^cdn\.az\.gov,
 ^cdn\.yougov\.com,
