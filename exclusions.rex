@@ -259,5 +259,6 @@
 ^download\.micknow\.com,
 ^kumparan\.com,
 ^python\.org,
+^www\.github\.com,
 ^http,
 ^https,
