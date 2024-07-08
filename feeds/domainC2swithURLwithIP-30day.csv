@@ -6,7 +6,6 @@
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get,167.99.112.140
 4628eea2b0b6.ngrok.app,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,94.156.68.252
 4628eea2b0b6.ngrok.app,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,94.156.69.3
-51ape.cc,Possible Cobalt Strike C2 Fronted Domain,/api/getit,124.70.196.94
 Microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lv,142.171.104.108
 aa.yukklzwo.vip,Possible Cobalt Strike C2 Fronted Domain,/5eN1bjq8AAUYm2zgoY3K/ll_9354efa.js,188.208.141.211
 aawwn.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,64.23.165.12
@@ -104,7 +103,6 @@ d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com,Possible Cob
 d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,152.32.131.118
 d8g.lol,Possible Cobalt Strike C2 Domain,/api/3,159.75.104.157
 data.nicrosoft.fr,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2016/12/29136388_,20.19.35.117
-dd.lledz.cn,Possible Cobalt Strike C2 Fronting Domain,/api/getit,124.70.196.94
 dh5rg5aebo6yx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/fp/Q6wi29xYH0gsRSIeIgVpy0,3.66.49.194
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -123,6 +121,7 @@ dns.topinvestmentusa.net,Possible Cobalt Strike C2 Domain,/owa/5QmlyBhdOsytxvmUO
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 download.netuse1.eu.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.105.27.160
 download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2016/12/29136388_,20.19.35.117
+download.windowsupdate.com,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2020/06/29136400_,4.185.58.68
 downsexv.com,Possible Cobalt Strike C2 Domain,/api/3,146.56.118.82
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 email.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl,180.131.145.85
@@ -155,6 +154,7 @@ io.cy789.ml,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,42.193.252.9
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/updates.rss,42.193.252.92
 itechnetworkbd.com,Possible Cobalt Strike C2 Fronted Domain,/SubscriptionId.css,206.206.123.202
 itechnetworkbd.com,Possible Cobalt Strike C2 Fronted Domain,/SubscriptionId.css,77.105.133.39
+jiumi.eu.org,Possible Cobalt Strike C2 Domain,/pixel,47.76.67.52
 jkbs168.top,Possible Cobalt Strike C2 Domain,/ga.js,107.175.218.216
 jkbs168.top,Possible Cobalt Strike C2 Domain,/pixel,107.175.218.216
 jqueryupdate1.housereynoldsfaust.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,74.124.44.237
@@ -224,6 +224,7 @@ nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.92.16.150
 oa.dahuatec.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.136.38.59
 ongmanibeimeihong.cdnaliyun.top,Possible Cobalt Strike C2 Domain,/match,101.201.46.105
 opensecurity-legacy.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,94.156.65.5
+openshift.echase.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/api/getit,124.70.196.94
 organic-satire-gw.aws-euc1.cloud-ara.tyk.io,Possible Cobalt Strike C2 Domain,/api/v2/login,89.23.108.208
 oss.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/analytics/v1_upload,111.229.214.58
 owa.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl,180.131.145.85
@@ -313,8 +314,9 @@ sydnc.net,Possible Cobalt Strike C2 Domain,/functionalStatus/kUZTARMhqB9CLZlPFu1
 sydnc.net,Possible Cobalt Strike C2 Domain,/functionalStatus/kUZTARMhqB9CLZlPFu1kZG2-FzAoT,80.66.75.9
 tag.baidusec.top,Possible Cobalt Strike C2 Fronted Domain,/lu.js,81.68.152.129
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,43.153.228.97
-testgk.oss-cn-beijing.aliyuncs.com,Possible Cobalt Strike C2 Domain,/wiki/doc,114.55.250.233
+testgk.oss-cn-beijing.aliyuncs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,114.55.250.233
 time.api.chinabm.cn,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,8.217.222.41
+trusted-updates.germanywestcentral.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2020/06/29136400_,4.185.58.68
 update.360safety.xyz,Possible Cobalt Strike C2 Domain,/fwlink,47.105.69.34
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.api.qianxin.xyz,Possible Cobalt Strike C2 Domain,/owa/,8.217.222.41
@@ -324,6 +326,8 @@ update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/cx,154.12.84.6
 update.mirrorss.top,Possible Cobalt Strike C2 Domain,/img/icons_809ae65.png,23.95.44.80
 update.winservers-network.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.76.44.105
 upgrade.mirrorss.top,Possible Cobalt Strike C2 Domain,/img/sugbg_1762fe7.png,23.95.44.80
+upshare.wimscp.net,Possible Cobalt Strike C2 Fronted Domain,/bg,79.110.49.175
+upshare.wimscp.net,Possible Cobalt Strike C2 Fronted Domain,/eo,79.110.49.175
 v2.events.data.microsoftsubmit.com,Possible Cobalt Strike C2 Domain,/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab,137.175.17.181
 vip.zto.com,Possible Cobalt Strike C2 Fronted Domain,/static/icon/iconFont/kuaishou.js,47.92.162.69
 vnaillslivns.shop,Possible Cobalt Strike C2 Domain,/lv,149.88.93.193
@@ -347,6 +351,7 @@ www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167
 www.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/5eN1bjq8AAUYm2zgoY3K/ll_9354efa.js,188.208.141.211
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/lu.js,81.68.152.129
 www.baidusec.top,Possible Cobalt Strike C2 Fronting Domain,/lu.js,81.68.152.129
+www.bing.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,114.55.250.233
 www.bitdefenders.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.153.57.73
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,74.48.162.145
 www.chinamobile.live,Possible Cobalt Strike C2 Fronted Domain,/api/3,35.238.182.197
