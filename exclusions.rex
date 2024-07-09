@@ -260,5 +260,6 @@
 ^kumparan\.com,
 ^python\.org,
 ^www\.github\.com,
+^dash\.cloudflare\.com,
 ^http,
 ^https,
