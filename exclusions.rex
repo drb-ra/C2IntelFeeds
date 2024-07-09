@@ -261,5 +261,6 @@
 ^python\.org,
 ^www\.github\.com,
 ^dash\.cloudflare\.com,
+^cloudflare\.com,
 ^http,
 ^https,
