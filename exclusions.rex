@@ -262,5 +262,6 @@
 ^www\.github\.com,
 ^dash\.cloudflare\.com,
 ^cloudflare\.com,
+^huffingtonpost\.gr,
 ^http,
 ^https,
