@@ -263,5 +263,7 @@
 ^dash\.cloudflare\.com,
 ^cloudflare\.com,
 ^huffingtonpost\.gr,
+\.163.com,
+^163.com,
 ^http,
 ^https,
