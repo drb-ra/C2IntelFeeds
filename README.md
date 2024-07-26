@@ -38,7 +38,6 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |Meduza Stealer|`services.http.response.html_title="Meduza Stealer" OR services.http.response.favicons.md5_hash="e7a2bb050f7ec5ec2ba405400170a27d"`|
 |[Evilginx/EvilGoPhish](https://help.evilginx.com)|`services.software.product: {Evilginx, EvilGoPhish}`|
 |Hookbot/Pegasus|`services.http.response.html_title="HOOKBOT PANEL" OR services.http.response.favicons.hashes="sha256:b13b77f0b3d95c1146394ea855d915f189d3ea374179755cfb2ac47bfc8f306c"`|
-|[Interactsh](https://github.com/projectdiscovery/interactsh)|`services.software.uniform_resource_identifier: "cpe:2.3:a:interactsh:interactsh:*:*:*:*:*:*:*:*"`|
 |[AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)|`same_service(services.tls.certificates.leaf_data.issuer_dn="CN=AsyncRAT Server" and services.tls.certificates.leaf_data.subject_dn="CN=AsyncRAT Server")`|
 |[Remcos](https://breakingsecurity.net/remcos/)|`[REDACTED]`|
 |DanaBot|`[REDACTED]`|
@@ -46,6 +45,9 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |SocGholish|`same_service((services.tls.certificate.parsed.subject_dn="C=US, ST=Texas, L=San Antonio, O=Google Trust Services LLC, OU=IT, CN=GTS CA 1C3" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, CN=*" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, OU=*, CN=*" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Sydney, L=Sydney, O=Internet Widgits Pty Ltd, CN=*" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Sydney, L=Sydney, O=Internet Widgits Pty Ltd, OU=*, CN=*") and services.port="443" and services.banner_hashes="sha256:adccff99dd0290cb0ccfbb1d1c041556ff0f494e5f61f3a54d6ebf04307e3279" and not services.tls.certificate.parsed.subject_dn="C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, CN=localhost")`|
 |[NetSupport Manager RAT](https://www.netsupportmanager.com)|`services.http.response.headers.Server="NetSupport Gateway/*"`|
 |[Geacon_Pro](https://github.com/testxxxzzz/geacon_pro)|`same_service(services.tls.certificates.leaf_data.subject_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik" AND  services.tls.certificates.leaf_data.issuer_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik")`|
+|[Interactsh](https://github.com/projectdiscovery/interactsh)|`services.software.uniform_resource_identifier: "cpe:2.3:a:interactsh:interactsh:*:*:*:*:*:*:*:*"`|
+|[Reverse SSH](https://github.com/NHAS/reverse_ssh)|`[REDACTED]`|
+|[wstunnel](https://github.com/erebe/wstunnel)|`[REDACTED]`|
 
 # Additional Details
 
