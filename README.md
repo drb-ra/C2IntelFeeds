@@ -42,7 +42,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |[Remcos](https://breakingsecurity.net/remcos/)|`[REDACTED]`|
 |DanaBot|`[REDACTED]`|
 |Rhysida Trojan|`[REDACTED]`|
-|SocGholish|`same_service((services.tls.certificate.parsed.subject_dn="C=US, ST=Texas, L=San Antonio, O=Google Trust Services LLC, OU=IT, CN=GTS CA 1C3" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, CN=*" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, OU=*, CN=*" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Sydney, L=Sydney, O=Internet Widgits Pty Ltd, CN=*" or services.tls.certificate.parsed.subject_dn="C=AU, ST=Sydney, L=Sydney, O=Internet Widgits Pty Ltd, OU=*, CN=*") and services.port="443" and services.banner_hashes="sha256:adccff99dd0290cb0ccfbb1d1c041556ff0f494e5f61f3a54d6ebf04307e3279" and not services.tls.certificate.parsed.subject_dn="C=AU, ST=Some-State, O=Internet Widgits Pty Ltd, CN=localhost")`|
+|SocGholish|`[REDACTED]`|
 |[NetSupport Manager RAT](https://www.netsupportmanager.com)|`services.http.response.headers.Server="NetSupport Gateway/*"`|
 |[Geacon_Pro](https://github.com/testxxxzzz/geacon_pro)|`same_service(services.tls.certificates.leaf_data.subject_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik" AND  services.tls.certificates.leaf_data.issuer_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik")`|
 |[Interactsh](https://github.com/projectdiscovery/interactsh)|`services.software.uniform_resource_identifier: "cpe:2.3:a:interactsh:interactsh:*:*:*:*:*:*:*:*"`|
