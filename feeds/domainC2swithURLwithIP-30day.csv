@@ -1,5 +1,6 @@
 #domain,ioc,uri_path,ip
 0a7f5fa230764283a248cae2bd35f121-cn-hangzhou.alicloudapi.com,Possible Cobalt Strike C2 Domain,/__utm.gif,8.137.93.215
+1307777787-7caouzfrdq-bj.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,119.28.159.21
 1318289497-69fnzoi39w-bj.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,124.222.115.41
 1320232452-g1tdthqnsv-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery/2.0.1/jquery.min.js,124.222.8.226
 1320233055-5b8lded9ub-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery/2.0.1/jquery.min.js,124.223.11.239
@@ -118,7 +119,7 @@ gmail.d2x3.cn,Possible Cobalt Strike C2 Domain,/__utm.gif,43.129.81.149
 gmail.google-api.workers.dev,Possible Cobalt Strike C2 Domain,/cm,154.9.230.70
 google-logs.top,Possible Cobalt Strike C2 Domain,/js/jquery-3.4.1.min.js,101.33.225.206
 google-logs.top.cdn.dnsv1.com,Possible Cobalt Strike C2 Domain,/js/jquery-3.4.1.min.js,101.33.225.206
-gov.vsj888.shop,Possible Cobalt Strike C2 Fronted Domain,/www/handle/doc,165.140.240.126
+gov.vsj888.shop,Possible Cobalt Strike C2 Domain,/www/handle/doc,165.140.240.126
 healthsurveysolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,44.192.254.185
 healthsurveysolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,44.222.216.250
 heart-direct.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.187.173.74
@@ -252,9 +253,11 @@ service-dq87eeqy-1259321672.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-e5obcthn-1301549065.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,49.232.185.51
 service-fmbevgui-1308639534.nj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit,139.129.20.228
 service-g0t0y6tj-1324325324.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/prod/api/debug,101.43.32.212
+service-hcwhjzdb-1316933071.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,49.235.122.75
 service-hkkb7mh5-1255936572.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,36.138.173.47
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
+service-hzvrvm98-1309076295.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,120.78.0.55
 service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/Compare/v2.66/G6EBS8VJR0,1.92.96.35
 service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/Compare/v2.66/G6EBS8VJR0,8.134.170.30
 service-iktxibt6-1305682303.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,8.134.130.147
@@ -276,6 +279,7 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/pixel.gif,85.175.101.203
 sp4.log4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM,167.179.74.154
 ssjcw.com,Possible Cobalt Strike C2 Fronting Domain,/maps/overlaybfpr,8.217.222.41
 sso.cliquedong.com,Possible Cobalt Strike C2 Domain,/Forums,184.174.96.56
+static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL,47.243.108.86
 store.cliquedong.com,Possible Cobalt Strike C2 Domain,/Forums,184.174.96.56
 support.popuiarenlinea.com,Possible Cobalt Strike C2 Fronted Domain,/lv,142.171.104.108
 support.twistwind.com,Possible Cobalt Strike C2 Domain,/adapt/v2.57/get_home.php,162.216.241.41
@@ -309,7 +313,6 @@ upshare.wimscp.net,Possible Cobalt Strike C2 Fronted Domain,/eo,79.110.49.175
 vcbdigibank.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,45.32.122.213
 vip.zto.com,Possible Cobalt Strike C2 Fronted Domain,/static/icon/iconFont/kuaishou.js,47.92.162.69
 vsj888.shop,Possible Cobalt Strike C2 Domain,/www/handle/doc,165.140.240.126
-vsj888.shop,Possible Cobalt Strike C2 Fronting Domain,/www/handle/doc,165.140.240.126
 w2481.com,Possible Cobalt Strike C2 Domain,/ca,193.42.25.7
 webmail.ldnlogic.org,Possible Cobalt Strike C2 Domain,/owa/,172.81.60.163
 whatmy.nslookup.vip,Possible Cobalt Strike C2 Domain,/pixel.gif,121.43.128.240
