@@ -1,5 +1,6 @@
 #domain,ioc,uri_path,ip
 0a7f5fa230764283a248cae2bd35f121-cn-hangzhou.alicloudapi.com,Possible Cobalt Strike C2 Domain,/__utm.gif,8.137.93.215
+1307777787-7caouzfrdq-bj.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,119.28.159.21
 1320232452-g1tdthqnsv-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery/2.0.1/jquery.min.js,124.222.8.226
 1320233055-5b8lded9ub-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery/2.0.1/jquery.min.js,124.223.11.239
 1325432765-lz9556bjjl-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/restapi/info,124.220.41.136
@@ -67,7 +68,6 @@ csssssswdsaawsssdwqeqw.1008611.cfd,Possible Cobalt Strike C2 Domain,/match,149.1
 d1lq5iw3r6547f.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,50.19.158.142
 d1m4ettuq4ezj0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,44.217.219.58
 d21v8ybrrp86xk.cloudfront.net,Possible Cobalt Strike C2 Domain,/access/,3.15.154.27
-d229fi5g6r138e.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,3.91.99.239
 d229fi5g6r138e.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,3.91.99.239
 d240s7ger6g41n.cloudfront.net,Possible Cobalt Strike C2 Domain,/activity,206.81.13.134
 d2n3frqp29q6z9.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,44.223.138.151
@@ -127,7 +127,7 @@ healthsurveysolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,
 heart-direct.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.187.173.74
 heart-direct.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.155.120.190
 heart-direct.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.155.120.25
-heart-direct.ru,Possible Cobalt Strike C2 Domain,/consolidate/wallpapers/UXBZIT1J,193.187.173.74
+heart-direct.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.187.173.74
 help.mckinsey-help.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,38.55.193.98
 hsvodcdn.cc.netease.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss,47.100.168.11
 hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates,43.138.20.240
@@ -226,6 +226,7 @@ red.ysyla168888.com,Possible Cobalt Strike C2 Domain,/match,154.205.152.90
 rendnar.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,103.40.161.76
 reputation-good.ru,Possible Cobalt Strike C2 Domain,/consolidate/wallpapers/UXBZIT1J,178.255.222.253
 reznov.line.pm,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,3.91.99.239
+reznov.publicvm.com,Possible Cobalt Strike C2 Domain,/ga.js,3.91.99.239
 rootyi.top,Possible Cobalt Strike C2 Domain,/match,113.45.224.31
 s3.sankuai.com,Possible Cobalt Strike C2 Fronting Domain,/load,119.28.83.149
 safree.fun,Possible Cobalt Strike C2 Domain,/functionalStatus/3-ZhU7k0TDVx0w5hHEUqV3hPgzAkbogV63,8.222.156.244
@@ -278,7 +279,6 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/pixel.gif,85.175.101.203
 sp4.log4.xyz,Possible Cobalt Strike C2 Domain,/upset/v8.46/6P3ZMHTM,167.179.74.154
 ssjcw.com,Possible Cobalt Strike C2 Fronting Domain,/maps/overlaybfpr,8.217.222.41
 sso.cliquedong.com,Possible Cobalt Strike C2 Domain,/Forums,184.174.96.56
-static-cewllkaaxv.cn-beijing.fcapp.run,Possible Cobalt Strike C2 Domain,/api/x,119.28.159.21
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL,47.243.108.86
 store.cliquedong.com,Possible Cobalt Strike C2 Domain,/Forums,184.174.96.56
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
