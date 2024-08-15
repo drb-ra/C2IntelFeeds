@@ -42,6 +42,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |[Remcos](https://breakingsecurity.net/remcos/)|`[REDACTED]`|
 |DanaBot|`[REDACTED]`|
 |Rhysida Trojan|`[REDACTED]`|
+|[Oyster Backdoor](https://www.rapid7.com/blog/post/2024/06/17/malvertising-campaign-leads-to-execution-of-oyster-backdoor/)|`[REDACTED]`|
 |SocGholish|`[REDACTED]`|
 |[NetSupport Manager RAT](https://www.netsupportmanager.com)|`services.http.response.headers.Server="NetSupport Gateway/*"`|
 |[Geacon_Pro](https://github.com/testxxxzzz/geacon_pro)|`same_service(services.tls.certificates.leaf_data.subject_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik" AND  services.tls.certificates.leaf_data.issuer_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik")`|
