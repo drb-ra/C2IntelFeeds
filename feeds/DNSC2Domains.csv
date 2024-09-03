@@ -1,8 +1,9 @@
 #domain,ioc,IPs,C2Domains
-"163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165 ","ns1.163microsoft.com ns2.163microsoft.com"
+"163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","154.92.16.150","nt1.227api.com nt2.227api.com nt3.227api.com"
 "365ub.cn","Possible Cobaltstrike DNS C2 Domain","43.159.136.92","ns.365ub.cn"
 "9uoer.top","Possible Cobaltstrike DNS C2 Domain","39.99.128.40","ns1.9uoer.top ns2.9uoer.top"
+"asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "bilibili360.xyz","Possible Cobaltstrike DNS C2 Domain","121.5.128.191","dropper.bilibili360.xyz"
 "byresolved.com","Possible Cobaltstrike DNS C2 Domain","18.219.198.202","dns.byresolved.com"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
@@ -13,6 +14,7 @@
 "dingtaIk.tk","Possible Cobaltstrike DNS C2 Domain","47.94.43.210","ns1.dingtaIk.tk ns2.dingtaIk.tk"
 "efstech.de","Possible Cobaltstrike DNS C2 Domain","213.61.251.56","cdn.efstech.de"
 "fuckworldxxx.shop","Possible Cobaltstrike DNS C2 Domain","123.207.51.53","ns1.fuckworldxxx.shop ns2.fuckworldxxx.shop ns3.fuckworldxxx.shop"
+"googleapimaps.com","Possible Cobaltstrike DNS C2 Domain","206.237.16.117","ns1.googleapimaps.com ns2.googleapimaps.com"
 "h1ll0.cs.in","Possible Cobaltstrike DNS C2 Domain","134.122.129.173","ns1.h1ll0.cs.in ns2.h1ll0.cs.in"
 "jiayongdianqi.xyz","Possible Cobaltstrike DNS C2 Domain","45.135.118.251","dianqi1.dianqi2.jiayongdianqi.xyz dianqi1.jiayongdianqi.xyz dianqi2.dianqi1.jiayongdianqi.xyz dianqi2.jiayongdianqi.xyz"
 "johnchen88.com","Possible Cobaltstrike DNS C2 Domain","43.139.189.54","n1.johnchen88.com"
@@ -27,4 +29,3 @@
 "n0reply.eu.org","Possible Cobaltstrike DNS C2 Domain","167.86.127.180","ns.n0reply.eu.org"
 "twistwind.com","Possible Cobaltstrike DNS C2 Domain","162.216.241.41","support.twistwind.com"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
-
