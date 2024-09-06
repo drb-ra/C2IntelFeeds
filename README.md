@@ -46,11 +46,12 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |SocGholish|`[REDACTED]`|
 |[NetSupport Manager RAT](https://www.netsupportmanager.com)|`services.http.response.headers.Server="NetSupport Gateway/*"`|
 |[Geacon_Pro](https://github.com/testxxxzzz/geacon_pro)|`same_service(services.tls.certificates.leaf_data.subject_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik" AND  services.tls.certificates.leaf_data.issuer_dn="C=KZ, ST=KZ, L=, O=NN Fern Sub, OU=NN Fern, CN=foren.zik")`|
+|[Hak5 Cloud C2](https://shop.hak5.org/products/c2)|`services.software.product: "cloud c2" and services.software.vendor="Hak5"`|
+|[CHAOS](https://github.com/tiagorlampert/CHAOS)|`services.software.uniform_resource_identifier: "cpe:2.3:a:chaos:chaos:*:*:*:*:*:*:*:*"`|
 |[Interactsh](https://github.com/projectdiscovery/interactsh)|`services.software.uniform_resource_identifier: "cpe:2.3:a:interactsh:interactsh:*:*:*:*:*:*:*:*"`|
 |[Reverse SSH](https://github.com/NHAS/reverse_ssh)|`[REDACTED]`|
 |[wstunnel](https://github.com/erebe/wstunnel)|`[REDACTED]`|
 |[Ligolo-ng](https://github.com/nicocha30/ligolo-ng)|`[REDACTED]`|
-|[Hak5 Cloud C2](https://shop.hak5.org/products/c2)|`services.software.product: "cloud c2" and services.software.vendor="Hak5"`|
 
 **NOTE:** The last 3 entries are tools that may also be used for legitimate purposes. Please validate your hits or filter these locally for your own needs.
 
