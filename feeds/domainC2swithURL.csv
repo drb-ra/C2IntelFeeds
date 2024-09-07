@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+0x539.team,Possible Cobalt Strike C2 Domain,/load
 0x539.team,Possible Cobalt Strike C2 Domain,/ptj
 1325432765-lz9556bjjl-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/restapi/info
 2gwxrah28rj0z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v2/SyncDataUsingGet
@@ -25,6 +26,7 @@ cloud1961021.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/dot.gif
 cscs.beauty,Possible Cobalt Strike C2 Domain,/develop/messaging/W5JK7INLQ
 d1arxowcs7plfw.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/Recursive/v6.01/ZO9G8CQ8FQ
+d1bsydxdwihoc.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/Recursive/v6.01/ZO9G8CQ8FQ
 d1kc60rjsp74ps.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/___utm.gif
 d1wnzmgm9i1qqy.cloudfront.net,Possible Cobalt Strike C2 Domain,/functionalStatus/pJp31GVomrAgwzeuSZ9YTsgvHnRM33Ho7gB
 d2n3frqp29q6z9.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -37,9 +39,12 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
+dns.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 dns.byresolved.com,Possible Cobalt Strike C2 Domain,/acct.php
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/updates.rss
+dpok0ocnk22ym.cloudfront.net,Possible Cobalt Strike C2 Domain,/Recursive/v6.01/ZO9G8CQ8FQ
+dpok0ocnk22ym.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/Recursive/v6.01/ZO9G8CQ8FQ
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 evil-home.ru,Possible Cobalt Strike C2 Domain,/consolidate/wallpapers/UXBZIT1J
 f815t1d6wk34y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api.baidu/v2/image
@@ -143,6 +148,7 @@ www.jzj.cn,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js
 www.jzzl.com,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif
+www.qx360.xyz,Possible Cobalt Strike C2 Domain,/css3/index2.shtml
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.tencead.top,Possible Cobalt Strike C2 Domain,/visit.js
 www.threatbookred.homes,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

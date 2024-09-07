@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+0x539.team,Possible Cobalt Strike C2 Domain,/load
 0x539.team,Possible Cobalt Strike C2 Domain,/ptj
 1252281553-75c54d6tiz-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 1325432765-lz9556bjjl-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/restapi/info
@@ -63,6 +64,7 @@ cscs.beauty,Possible Cobalt Strike C2 Domain,/develop/messaging/W5JK7INLQ
 csssssswdsaawsssdwqeqw.1008611.cfd,Possible Cobalt Strike C2 Domain,/match
 cstest.399339.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 d1arxowcs7plfw.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/Recursive/v6.01/ZO9G8CQ8FQ
+d1bsydxdwihoc.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/Recursive/v6.01/ZO9G8CQ8FQ
 d1kc60rjsp74ps.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/___utm.gif
 d1u7157ueqych0.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d1wnzmgm9i1qqy.cloudfront.net,Possible Cobalt Strike C2 Domain,/functionalStatus/pJp31GVomrAgwzeuSZ9YTsgvHnRM33Ho7gB
@@ -95,6 +97,8 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/updates.rss
 dompetdhuaafa.biz.id,Possible Cobalt Strike C2 Fronted Domain,/dhl
 dompetdhuaafa.biz.id,Possible Cobalt Strike C2 Fronted Domain,/ee
 dpo06.iex-express.com,Possible Cobalt Strike C2 Domain,/en/starter/overriding-express-api.js
+dpok0ocnk22ym.cloudfront.net,Possible Cobalt Strike C2 Domain,/Recursive/v6.01/ZO9G8CQ8FQ
+dpok0ocnk22ym.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/Recursive/v6.01/ZO9G8CQ8FQ
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 ea771e.azureedge.net,Possible Cobalt Strike C2 Domain,/callto.aspx
 evil-home.online,Possible Cobalt Strike C2 Domain,/consolidate/wallpapers/UXBZIT1J
@@ -296,6 +300,7 @@ www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 www.qaxupdate.cn,Possible Cobalt Strike C2 Domain,/updates
 www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif
 www.qtvnews.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.fca2a8c137.10.1.slim.min.js
+www.qx360.xyz,Possible Cobalt Strike C2 Domain,/css3/index2.shtml
 www.sdzy.com,Possible Cobalt Strike C2 Fronted Domain,/Discord.1.2.js
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.tencead.top,Possible Cobalt Strike C2 Domain,/visit.js
