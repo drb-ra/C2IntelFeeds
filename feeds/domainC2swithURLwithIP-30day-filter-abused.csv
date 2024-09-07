@@ -1,6 +1,7 @@
 #domain,ioc,uri_path,ip
 0x539.team,Possible Cobalt Strike C2 Domain,/load,47.109.178.63
 0x539.team,Possible Cobalt Strike C2 Domain,/ptj,47.109.178.63
+0x539.team,Possible Cobalt Strike C2 Fronting Domain,/visit.js,47.109.178.63
 1325432765-lz9556bjjl-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/restapi/info,124.220.41.136
 1398747042169696.cn-hangzhou.fc.aliyuncs.com,Possible Cobalt Strike C2 Domain,/2016-08-15/proxy/kkk.LATEST/proxy/index.html,128.14.229.56
 1575567401.rsc.cdn77.org,Possible Cobalt Strike C2 Domain,/fwlink,43.134.233.227
@@ -231,7 +232,6 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-9cjgv9d1-1327547884.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,120.53.236.103
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.138.20.107
 service-ac5ca85o-1314199502.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/dpixel,43.139.107.157
-service-b0kt7bkd-1307485220.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,47.109.178.63
 service-e5obcthn-1301549065.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,49.232.185.51
 service-fmbevgui-1308639534.nj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit,139.129.20.228
 service-g0t0y6tj-1324325324.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/prod/api/debug,101.43.32.212
@@ -270,6 +270,7 @@ test-ueicbfazir.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/jquery-3
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php,43.153.228.97
 testgk.oss-cn-beijing.aliyuncs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,114.55.250.233
 time.microsoftss.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.47.238.148
+tpcc3c204.netvigator.com,Possible Cobalt Strike C2 Fronted Domain,/visit.js,47.109.178.63
 twitchstreamerspro.com,Possible Cobalt Strike C2 Domain,/calculate/v10.50/9GEG4W0P33,88.214.26.34
 txwk.10010.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.93.166.228
 update-system.ru,Possible Cobalt Strike C2 Domain,/Demonstrate/back/9UB0JCLLRD7S,5.181.202.246
