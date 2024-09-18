@@ -39,7 +39,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |[Evilginx/EvilGoPhish](https://help.evilginx.com)|`services.software.product: {Evilginx, EvilGoPhish}`|
 |Hookbot/Pegasus|`services.http.response.html_title="HOOKBOT PANEL" OR services.http.response.favicons.hashes="sha256:b13b77f0b3d95c1146394ea855d915f189d3ea374179755cfb2ac47bfc8f306c"`|
 |[AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)|`same_service(services.tls.certificates.leaf_data.issuer_dn="CN=AsyncRAT Server" and services.tls.certificates.leaf_data.subject_dn="CN=AsyncRAT Server")`|
-|[Remcos](https://breakingsecurity.net/remcos/)|`[REDACTED]`|
+|[Remcos](https://breakingsecurity.net/remcos/)|`same_service(services.tls.versions.ja4s="t130200_1301_234ea6891581" and services.tls.ja3s="eb1d94daa7e0344597e756a1fb6e7054" and services.tls.cipher_selected="TLS_AES_128_GCM_SHA256" and services.jarm.fingerprint: 00000000000000000041d41d0000001798d6156df422564fb9b667b7418e4c and services.service_name="UNKNOWN" and services.tls.certificates.leaf_data.issuer_dn="" and services.tls.certificates.leaf_data.subject_dn="")`|
 |DanaBot|`[REDACTED]`|
 |Rhysida Trojan|`[REDACTED]`|
 |[Oyster Backdoor](https://www.rapid7.com/blog/post/2024/06/17/malvertising-campaign-leads-to-execution-of-oyster-backdoor/)|`[REDACTED]`|
