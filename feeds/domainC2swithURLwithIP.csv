@@ -2,6 +2,7 @@
 0x539.team,Possible Cobalt Strike C2 Domain,/cx,47.109.178.63
 0x539.team,Possible Cobalt Strike C2 Domain,/ptj,47.109.178.63
 1325432765-lz9556bjjl-gz.scf.tencentcs.com,Possible Cobalt Strike C2 Domain,/restapi/info,124.220.41.136
+1398747042169696.cn-hangzhou.fc.aliyuncs.com,Possible Cobalt Strike C2 Domain,/2016-08-15/proxy/kkk.LATEST/proxy/index.html,128.14.229.56
 2gwxrah28rj0z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v2/SyncDataUsingGet,47.109.104.151
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,18.162.96.155
@@ -103,7 +104,6 @@ service-hcwhjzdb-1316933071.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/Compare/v2.66/G6EBS8VJR0,1.92.96.35
 service-j6sldqkt-1259460496.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/login/v2/api/getPhoneCode,139.196.176.1
-service-jjtluhvu-1308426789.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js,119.29.227.52
 service-l24muftx-1251354025.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/index.php/Public/login,101.42.4.160
 service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/getit,111.230.25.167
 service-m9g1syps-1259460496.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/login/v2/api/getPhoneCode,139.196.176.1
@@ -132,9 +132,7 @@ update.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/__utm.gif,154.12.84.6
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ca,154.12.84.6
 w2481.com,Possible Cobalt Strike C2 Domain,/ca,193.42.25.7
-www.0x.al,Possible Cobalt Strike C2 Domain,/HPImageArchive.aspx,43.133.239.91
 www.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,165.154.33.10
-www.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,165.154.58.22
 www.51ape.cc,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js,81.70.34.148
 www.52mxd.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,207.148.104.88
 www.baiduyun.online,Possible Cobalt Strike C2 Domain,/av.js,103.146.179.79
