@@ -265,5 +265,7 @@
 ^huffingtonpost\.gr,
 \.163.com,
 ^163.com,
+^abdullah\.ns\.cloudflare\.com,
+^virginia\.ns\.cloudflare\.com,
 ^http,
 ^https,
