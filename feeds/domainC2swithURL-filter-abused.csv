@@ -1,6 +1,7 @@
 #domain,ioc,uri_path
 1.thecameleonhotel.com,Possible Cobalt Strike C2 Domain,/dot.gif
 1259040531-31x03snbo5.ap-hongkong.tencentscf.com,Possible Cobalt Strike C2 Domain,/ga.js
+193.70.192.35.bc.googleusercontent.com,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/account/describe
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 8j6dt21smgcw0.cfc-execute.su.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -35,7 +36,6 @@ content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/p
 cooike123silvvbultes.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.2.Oxz0jxirJr2wSpo6http.min.js
 cs.catdogcs.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cs.cobaltstrike.site,Possible Cobalt Strike C2 Domain,/load
-cs.longk.icu,Possible Cobalt Strike C2 Domain,/pixel.gif
 cscdn.tu4n1.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ctdl1-windowsupdate.com,Possible Cobalt Strike C2 Domain,/match
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -46,8 +46,6 @@ d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q9
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3wzq6l3jmoyl.cloudfront.net,Possible Cobalt Strike C2 Domain,/software-activation
-d9jc4u4uazc9t.cloudfront.net,Possible Cobalt Strike C2 Domain,/admin.js
-d9jc4u4uazc9t.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/admin.js
 dev.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/fiche/7352
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
@@ -74,13 +72,13 @@ i.rebs.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 imgs.statics.baidu.com.volcgslb-mlt.com,Possible Cobalt Strike C2 Fronted Domain,/ga.js
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/push
 kayak.biosciences.app,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ledengy.com,Possible Cobalt Strike C2 Fronted Domain,/admin.js
 liolio.cn,Possible Cobalt Strike C2 Domain,/__utm.gif
 llama-avc3c6breufra7ds.a01.azurefd.net,Possible Cobalt Strike C2 Domain,/fwlink
 mail.cnh1usi12djisa.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 me.xiaojukeji.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.fca2a8c137.10.1.slim.min.js
 meizu.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ms.quens.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+mscrl1.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/services/data/v36.0/sobjects/account/describe
 msntp.windowstimezone.com,Possible Cobalt Strike C2 Domain,/search
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/ptj
 net.ipv6ipts.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
@@ -102,7 +100,6 @@ ns1.googleapiss.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.grpsdelay.xyz,Possible Cobalt Strike C2 Domain,/load
 ns1.hostwps.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.kengolimit.com,Possible Cobalt Strike C2 Domain,/lv
-ns1.longk.icu,Possible Cobalt Strike C2 Domain,/match
 ns1.lookwhat.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.sangfor.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.sentinelonebit.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -120,7 +117,6 @@ ns2.googleapimaps.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.googleapiss.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.hostwps.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.kengolimit.com,Possible Cobalt Strike C2 Domain,/lv
-ns2.longk.icu,Possible Cobalt Strike C2 Domain,/ca
 ns2.sangfor.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.sentinelonebit.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.sex666vr.com,Possible Cobalt Strike C2 Domain,/heatmaps/fleshlights/6407/2467/4437aa96434ade021bef08371cf2ea22
@@ -143,9 +139,7 @@ s9fgwavt7mh9.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 sertificationgameconnect.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1ota1uao-1312193091.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-3am6p8w5-1308495959.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/getit
 service-66u8gnwp-1312435925.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/getit
-service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-g0t0y6tj-1324325324.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/prod/api/debug
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI
 service-l24muftx-1251354025.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/index.php/Public/login
@@ -170,11 +164,9 @@ www.huorong.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.looklook.sbs,Possible Cobalt Strike C2 Domain,/img/logo.jpg
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 www.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/rs
-www.nginx.website,Possible Cobalt Strike C2 Domain,/cx
 www.nooark.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 www.ns1ookup.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-www.threatbookred.homes,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.umate.top,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.votass.com,Possible Cobalt Strike C2 Domain,/api/3
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
