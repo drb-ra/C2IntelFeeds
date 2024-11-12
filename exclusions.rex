@@ -267,5 +267,7 @@
 ^163.com,
 ^abdullah\.ns\.cloudflare\.com,
 ^virginia\.ns\.cloudflare\.com,
+^prime\.com,
+\.prime\.com,
 ^http,
 ^https,
