@@ -1,5 +1,5 @@
 #domain,ioc,IPs,C2Domains
-"163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
+"163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com "
 "2-dns.com","Possible Cobaltstrike DNS C2 Domain","54.224.145.120","ns1.2-dns.com ns2.2-dns.com ns3.2-dns.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","154.92.16.150","nt1.227api.com nt2.227api.com nt3.227api.com"
 "4p0cryph0n.com","Possible Cobaltstrike DNS C2 Domain","172.105.61.144","dns.4p0cryph0n.com"
@@ -60,7 +60,7 @@
 "menasys.net","Possible Cobaltstrike DNS C2 Domain","144.172.74.56","dns.menasys.net"
 "micorsoft.co","Possible Cobaltstrike DNS C2 Domain","8.210.123.189","ns.micorsoft.co"
 "micros0ft.com","Possible Cobaltstrike DNS C2 Domain","39.99.232.248","ns1.micros0ft.com"
-"microsoftapply.com","Possible Cobaltstrike DNS C2 Domain","103.186.215.56","update.microsoftapply.com"
+"microsoftapply.com","Possible Cobaltstrike DNS C2 Domain", "103.186.215.56","update.microsoftapply.com"
 "microsofthk.com","Possible Cobaltstrike DNS C2 Domain","154.12.84.6","update.microsofthk.com"
 "microsoftkernel.com","Possible Cobaltstrike DNS C2 Domain","154.12.84.6","update.microsoftkernel.com"
 "microsolfts.com","Possible Cobaltstrike DNS C2 Domain","43.245.199.164","ns1.microsolfts.com"
@@ -68,6 +68,7 @@
 "p0c.xyz","Possible Cobaltstrike DNS C2 Domain","64.226.98.234","p0c.xyz"
 "piacoly.com","Possible Cobaltstrike DNS C2 Domain","54.196.15.38","ns1.piacoly.com"
 "pinp0intfund.com","Possible Cobaltstrike DNS C2 Domain","124.222.91.4","ns1.pinp0intfund.com"
+"ptsecurity.org","Possible Cobaltstrike DNS C2 Domain","176.108.249.223","logc.ptsecurity.org siem.ptsecurity.org"
 "publicvm.com","Possible Cobaltstrike DNS C2 Domain","213.171.26.52","hi1.standoffmefull.publicvm.com"
 "python.dog","Possible Cobaltstrike DNS C2 Domain","23.224.146.124","ns1.python.dog ns2.python.dog"
 "reonite.site","Possible Cobaltstrike DNS C2 Domain","164.90.239.60","actions.reonite.site"
@@ -90,4 +91,3 @@
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "windowstimezone.com","Possible Cobaltstrike DNS C2 Domain","199.85.209.13","msntp.windowstimezone.com"
 "winsdesignater.com","Possible Cobaltstrike DNS C2 Domain","172.86.68.44","dns.winsdesignater.com"
-
