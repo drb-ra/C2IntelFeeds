@@ -1,8 +1,10 @@
 #domain,ioc,IPs,C2Domains
 "163microsoft.com","Possible Cobaltstrike DNS C2 Domain","101.36.111.47 152.32.135.165","ns1.163microsoft.com ns2.163microsoft.com"
 "227api.com","Possible Cobaltstrike DNS C2 Domain","154.92.16.150","nt1.227api.com nt2.227api.com nt3.227api.com"
+"ad4min.com","Possible Cobaltstrike DNS C2 Domain","198.13.42.85","aaa.ad4min.com"
 "akawowfast.com","Possible Cobaltstrike DNS C2 Domain","139.180.189.95","ns1.akawowfast.com ns2.akawowfast.com ns3.akawowfast.com"
 "amelicen.com","Possible Cobaltstrike DNS C2 Domain","216.238.121.119","file1.amelicen.com file2.amelicen.com file3.amelicen.com"
+"asuscomm.com","Possible Cobaltstrike DNS C2 Domain","85.175.101.203","skynet-i.asuscomm.com"
 "c6bank.cloud","Possible Cobaltstrike DNS C2 Domain","35.192.70.193","ns1.c6bank.cloud ns2.c6bank.cloud"
 "cc0820.asia","Possible Cobaltstrike DNS C2 Domain","47.237.118.17","ns1.cc0820.asia ns2.cc0820.asia"
 "centos-yum.xyz","Possible Cobaltstrike DNS C2 Domain","167.179.84.218","ns1.centos-yum.xyz ns2.centos-yum.xyz"
@@ -55,3 +57,4 @@
 "vip8025.mom","Possible Cobaltstrike DNS C2 Domain","154.64.231.214","ns1.vip8025.mom ns2.vip8025.mom"
 "weepstakes.com","Possible Cobaltstrike DNS C2 Domain","185.32.126.51","ns1.weepstakes.com www.weepstakes.com"
 "windowstimezone.com","Possible Cobaltstrike DNS C2 Domain","199.85.209.13","msntp.windowstimezone.com"
+
