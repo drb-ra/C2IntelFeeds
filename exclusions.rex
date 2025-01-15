@@ -269,5 +269,6 @@
 ^virginia\.ns\.cloudflare\.com,
 ^prime\.com,
 \.prime\.com,
+^360\.net,
 ^http,
 ^https,
