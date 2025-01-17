@@ -53,6 +53,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |[wstunnel](https://github.com/erebe/wstunnel)|`[REDACTED]`|
 |[Ligolo-ng](https://github.com/nicocha30/ligolo-ng)|`[REDACTED]`|
 |Ransomhub Python C2|`[REDACTED]`|
+|[Pyramid](https://github.com/naksyn/Pyramid)|`[REDACTED]`|
 
 **NOTE:** The last 3 entries are tools that may also be used for legitimate purposes. Please validate your hits or filter these locally for your own needs.
 
