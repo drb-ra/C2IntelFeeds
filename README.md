@@ -13,6 +13,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
   * `C2 Domains with URL` - Same as domains and domains filtered but including an extra column with the URI path of the C2
   * `C2 Domains with URL and IP` - Same as domains and domains filtered but including an extra column with the URI path of the C2 and another with the C2 IP 
   * `Unverified C2 IPs` - Live C2 IPs based simply on the Censys search/query no validation can easily be performed or further configuration extracted. Some however are extremely accurate. Details in table below.
+  * `Unverified C2 Domains` - Live C2 Domains based simply on the Censys search/query no validation can easily be performed or further configuration extracted. Some however are extremely accurate. Details in table below.
 
 **NOTE:** Given the issue with Threatfox submissions we have now published 4 additional files. These files contain IP and destination port pairs for all IP based feeds (IPs and Unverified IPs both for 7 and 30 days).
 
@@ -54,6 +55,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |[Ligolo-ng](https://github.com/nicocha30/ligolo-ng)|`[REDACTED]`|
 |Ransomhub Python C2|`[REDACTED]`|
 |[Pyramid](https://github.com/naksyn/Pyramid)|`[REDACTED]`|
+|VPN Themed Phishing|`[REDACTED]`|
 
 **NOTE:** The last 3 entries are tools that may also be used for legitimate purposes. Please validate your hits or filter these locally for your own needs.
 
