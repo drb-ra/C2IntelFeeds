@@ -1,6 +1,5 @@
 #domain,ioc,uri_path,ip
 1329742060-h4vggsc19t.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/getit,119.91.64.59
-193.70.192.35.bc.googleusercontent.com,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/account/describe,35.192.70.193
 24-692.wpsconnect.org,Possible Cobalt Strike C2 Domain,/wp-content/themes/am43-6/dist/records,34.41.14.254
 2qjhb2csdk7kr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,115.120.250.85
 36.tcp.cpolar.top,Possible Cobalt Strike C2 Fronted Domain,/image/,8.149.128.131
@@ -9,6 +8,7 @@
 5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Fronted Domain,/v2/js/jquery-3.3.1.min.js,39.102.213.118
 704mha60crfrd.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.6.min.js,60.205.56.181
 7paa3sg1yhyax.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,47.92.205.12
+8ym9pwyra3tyz.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,101.200.220.44
 a3dkg2aaaa.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/ipn.htm,172.179.236.95
 a8tkf5twd0gk0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/load,45.136.15.209
 aaa.ad4min.com,Possible Cobalt Strike C2 Domain,/j.ad,198.13.42.85
@@ -70,6 +70,7 @@ cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/develo
 cs.lihualihua266.us.kg,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,89.117.38.234
 cs.xsjl7932.top,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js,212.192.15.66
 cs.xsjl7932.top,Possible Cobalt Strike C2 Domain,/push,111.229.0.18
+cs.zonstcom.com,Possible Cobalt Strike C2 Domain,/load,154.37.223.57
 cute.sex666vr.com,Possible Cobalt Strike C2 Domain,/heatmaps/fleshlights/6407/2467/4437aa96434ade021bef08371cf2ea22,34.55.187.149
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.47.239.110
 d11vxzkgntd3fu.cloudfront.net,Possible Cobalt Strike C2 Domain,/documents/24462547/Guida_accesso_portale_NoiPA_20130713.pdf,35.158.247.135
@@ -148,7 +149,6 @@ meizu.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.42.63.158
 mkali.zapto.org,Possible PoshC2 Domain,/cdba/,45.147.176.188
 moscable77.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,213.209.150.218
 ms.quens.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.128.146.227
-mscrl1.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/services/data/v36.0/sobjects/account/describe,35.192.70.193
 msntp.windowstimezone.com,Possible Cobalt Strike C2 Domain,/search,199.85.209.13
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/ptj,43.139.189.54
 ncs.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.36.214
