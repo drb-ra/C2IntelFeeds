@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+1302061143-4f9q6dg6gp.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat
 1318014164-39a8is5k9d.ap-singapore.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 1329742060-h4vggsc19t.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/getit
 1329742111-h1rmesk2t.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -13,7 +14,6 @@
 5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Fronted Domain,/v2/js/jquery-3.3.1.min.js
 704mha60crfrd.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.6.min.js
 7paa3sg1yhyax.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
-86nr8m27y8m94.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/login
 8ym9pwyra3tyz.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 a-0001.a2-msedge.net,Possible Cobalt Strike C2 Domain,/del/communications/MFXB4RD8B
 a-0002.a2-msedge.net,Possible Cobalt Strike C2 Domain,/owa/5RRNbAbAvykFxAhPF3GQRvZfL4v
@@ -60,6 +60,7 @@ cdn.ooponoob.xyz,Possible Cobalt Strike C2 Domain,/api/3
 cdn.soft.qianxin.com,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html
 certs.ltd,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cfd.njpji.edu.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
+chat.kongfupro.shop,Possible Cobalt Strike C2 Fronting Domain,/api/weibo/chat
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 chinamobile.gnsvp.cn,Possible Cobalt Strike C2 Fronting Domain,/v4/static/v1.7.9/webpack.js
@@ -80,6 +81,7 @@ crimsoncovelabs.xyz,Possible Cobalt Strike C2 Domain,/api/get_auth
 cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png
 cs.5seo.co,Possible Cobalt Strike C2 Domain,/cm
 cs.catdogcs.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+cs.qiaoshen.top,Possible Cobalt Strike C2 Domain,/ca
 cs.zonstcom.com,Possible Cobalt Strike C2 Domain,/load
 cstest250326.iqiyic.icu,Possible Cobalt Strike C2 Domain,/ptj
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -128,6 +130,7 @@ firebird.store,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 fk.fdsfdsdfdsf.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 frontendtest.nfcos.net.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
 g45gh154h11at13.sbs,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
+god.qiaoshen.top,Possible Cobalt Strike C2 Domain,/pixel.gif
 google.baobecgiang.net,Possible Cobalt Strike C2 Domain,/socialapiVersion=1.1
 google.route-api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 gov.nic-in.com,Possible Cobalt Strike C2 Domain,/fwlink
@@ -242,7 +245,7 @@ portal.thomsonreutors.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 profiles.arkaviaredteam.cl,Possible Cobalt Strike C2 Domain,/search/ref=nb_something/189-xxxx-xxxx/field-params=articles
 pull.m1cr0s0ft.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 q1bkhvr2eqfd.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/apis/x
-qiaoshen.top,Possible Cobalt Strike C2 Domain,/dot.gif
+qiaoshen.top,Possible Cobalt Strike C2 Domain,/en_US/all.js
 quad9.route-api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 query.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/fiche/7352
 quote.cfi.cn,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/others/2021/03/29136388_
@@ -304,6 +307,7 @@ www.googlef.top,Possible Cobalt Strike C2 Domain,/HPImageArchives.aspx
 www.honorofkings.me,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.idkghs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.lihua520.us.kg,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.mail163.com.pl,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.mayomedical.com,Possible Cobalt Strike C2 Fronting Domain,/discussions/mayo-clinic-radio-als/
 www.menedy.top,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
