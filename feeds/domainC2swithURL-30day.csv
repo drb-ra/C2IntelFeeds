@@ -1,5 +1,5 @@
 #domain,ioc,uri_path
-1302061143-4f9q6dg6gp.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat
+1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat
 1318014164-39a8is5k9d.ap-singapore.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 1329742111-h1rmesk2t.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 193.70.192.35.bc.googleusercontent.com,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/account/describe
@@ -12,13 +12,13 @@
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/s/58462514417
 519nmcj312v7y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/getit
 5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/img/logo.jpg
 5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Fronted Domain,/v2/js/jquery-3.3.1.min.js
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/search
 64t44b9cvcxmy.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 64t44b9cvcxmy.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/guide_tips-d9e617f783.js
-7paa3sg1yhyax.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 8ym9pwyra3tyz.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 94ad2ccedf2c.edge.sdk.netcloudclick.com,Possible Cobalt Strike C2 Domain,/94ad2ccedf2c/77bbecfaaab5/challenge.js
 9f813abedf2f.edge.sdk.netcloudclick.com,Possible Cobalt Strike C2 Domain,/94ad2ccedf2c/77bbecfaaab5/challenge.js
@@ -117,7 +117,6 @@ dzccd.com,Possible Cobalt Strike C2 Domain,/search/
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 easyjlpt.com,Possible Cobalt Strike C2 Domain,/images/c/5/0/9/favicon.png
-ec2-54-216-72-51.eu-west-1.compute.amazonaws.com,Possible Cobalt Strike C2 Domain,/dpixel
 efc04b0016686e5b9c1b54af55e8a208.uatider.com,Possible Cobalt Strike C2 Domain,/j.ad
 ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/siie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=
@@ -144,6 +143,7 @@ lock.xn--y7aa.cc,Possible Cobalt Strike C2 Domain,/search.css
 mail-exchange.phermera.ru,Possible Cobalt Strike C2 Domain,/__utm.gif
 manage.flash-oss.info,Possible Cobalt Strike C2 Domain,/api/3
 meizu.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+micros.office365update.cn,Possible Cobalt Strike C2 Domain,/audiencemanager.js
 microsofts.wiki,Possible Cobalt Strike C2 Domain,/jquery/jquery-3.3.1.min.js
 ms.quens.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 mscrl1.azureedge.net,Possible Cobalt Strike C2 Fronting Domain,/services/data/v36.0/sobjects/account/describe
@@ -226,7 +226,6 @@ quote.cfi.cn,Possible Cobalt Strike C2 Fronting Domain,/c/msdownload/update/othe
 rdmetrics.ru,Possible Cobalt Strike C2 Domain,/cx
 rdmetrics.ru,Possible Cobalt Strike C2 Domain,/dot.gif
 request.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/liste
-richemont.tech,Possible Cobalt Strike C2 Domain,/uploads/2025/cache_e88a5aa192f.webp
 security.kasperskys.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-a0ahsoek-1257582847.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/fwlink
@@ -277,7 +276,6 @@ www.microsoftt.site,Possible Cobalt Strike C2 Fronting Domain,/activity
 www.minernaft.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 www.minernaft.com,Possible Cobalt Strike C2 Domain,/broadcast
 www.nemonet.top,Possible Cobalt Strike C2 Domain,/cx
-www.of123pro.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.servgate.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.wenopc.tech,Possible Cobalt Strike C2 Domain,/match
 www.windcapital.click,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
