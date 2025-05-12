@@ -270,5 +270,7 @@
 ^prime\.com,
 \.prime\.com,
 ^360\.net,
+^www\.gxrd\.gov\.cn,
+^www\.dji\.com,
 ^http,
 ^https,
