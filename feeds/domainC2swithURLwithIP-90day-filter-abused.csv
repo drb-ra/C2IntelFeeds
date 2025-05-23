@@ -15,6 +15,7 @@
 193.70.192.35.bc.googleusercontent.com,Possible Cobalt Strike C2 Fronted Domain,/services/data/v36.0/sobjects/account/describe,35.192.70.193
 24-692.wpsconnect.org,Possible Cobalt Strike C2 Domain,/wp-content/themes/am43-6/dist/records,34.41.14.254
 2d2azd2gymkef.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,156.244.9.237
+2faxdyf64cvmf.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,154.219.119.203
 2qjhb2csdk7kr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,115.120.250.85
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat,43.143.229.126
 36.tcp.cpolar.top,Possible Cobalt Strike C2 Fronted Domain,/image/,8.149.128.131
@@ -31,7 +32,7 @@
 50r4nny5m9wtm.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/cx,82.156.191.68
 519nmcj312v7y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,117.72.39.83
 51ape.cc,Possible Cobalt Strike C2 Fronted Domain,/api/getit,59.110.136.135
-51r7x0m2-8081.asse.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/broadcast,45.195.197.1
+51r7x0m2-8081.asse.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/broadcast,45.195.197.2
 51r7x0m2-8081.asse.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/broadcast,45.195.197.3
 52.52cn.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.152.219.98
 52.52mxd.org,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,155.138.225.144
@@ -375,7 +376,6 @@ efc04b0016686e5b9c1b54af55e8a208.uatider.com,Possible Cobalt Strike C2 Domain,/j
 ega.serveblog.net,Possible Cobalt Strike C2 Domain,/api/v1/newz/987654,194.163.180.87
 ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,139.9.135.76
 ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/siie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=,120.46.192.50
-ej4e1ns3pm9as.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,154.219.119.203
 ejones.b-cdn.net,Possible Cobalt Strike C2 Domain,/css3/index2.shtml,3.149.232.230
 en.chinaaie.com.cn,Possible Cobalt Strike C2 Fronted Domain,/next/sensor/login_guide.js,39.100.70.144
 energy.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif,134.122.72.133
@@ -509,7 +509,7 @@ msntp.windowstimezone.com,Possible Cobalt Strike C2 Domain,/search,199.85.209.13
 muddy-scene-7557.sgfsdggfg.workers.dev,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,64.176.228.13
 mypics.readforhumanity.org,Possible Cobalt Strike C2 Domain,/cm,44.193.19.108
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/ptj,43.139.189.54
-n6shbbkm-88.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.2
+n6shbbkm-88.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.1
 naisifeideke.top,Possible Cobalt Strike C2 Domain,/ca,47.83.218.121
 nas.miuiwang.cn,Possible Cobalt Strike C2 Domain,/ca,60.19.13.188
 ncs.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.36.214
@@ -848,7 +848,7 @@ tommssp.shop,Possible Cobalt Strike C2 Fronting Domain,/api/weibo/chat,154.12.22
 trustpki.net,Possible Cobalt Strike C2 Fronted Domain,/mscrypto/update,172.86.106.24
 tttt.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.177.82.255
 tube.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif,164.92.129.240
-tunnels-prod-rel-asse-v3-cluster.southeastasia.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast,45.195.197.1
+tunnels-prod-rel-asse-v3-cluster.southeastasia.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast,45.195.197.2
 tunnels-prod-rel-asse-v3-cluster.southeastasia.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast,45.195.197.3
 tvmovies.online,Possible Cobalt Strike C2 Domain,/wc/58462514417,101.126.144.111
 twitchstreamerspro.com,Possible Cobalt Strike C2 Domain,/calculate/v10.50/9GEG4W0P33,88.214.26.34
@@ -891,9 +891,7 @@ webhook.s3-azure.com,Possible Cobalt Strike C2 Domain,/en-us/features/integratio
 webhook.s3-azure.com,Possible Cobalt Strike C2 Domain,/en-us/features/integration,154.26.215.88
 webhook.s3-azure.com,Possible Cobalt Strike C2 Domain,/en-us/features/integration,38.12.1.42
 wehelpgood.xyz,Possible Cobalt Strike C2 Domain,/Derive/n/NZOQJD9MME,3.142.177.119
-wiew.weihuikang.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,47.117.125.219
-wiew.weihuikang.com,Possible Cobalt Strike C2 Fronting Domain,/s/58462514417,47.117.125.219
-wiew.weihuikang.com.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/58462514417,47.117.125.219
+wiew.weihuikang.com,Possible Cobalt Strike C2 Domain,/s/58462514417,47.117.125.219
 wiki.byt3x.top,Possible Cobalt Strike C2 Domain,/dpixel,43.153.158.146
 wincertfm.store,Possible Cobalt Strike C2 Domain,/remove,185.255.178.186
 wkixam.it.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,113.31.113.77
