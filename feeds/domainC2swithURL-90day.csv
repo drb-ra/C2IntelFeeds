@@ -1,6 +1,7 @@
 #domain,ioc,uri_path
 010secapts001.icu,Possible Cobalt Strike C2 Domain,/api/3
 0sbs.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+0wgklqb6-8082.eun1.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/v1/organizations/AM123456/teams/
 1.thecameleonhotel.com,Possible Cobalt Strike C2 Domain,/dpixel
 111db-k7.com,Possible Cobalt Strike C2 Domain,/api/3
 1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat
@@ -248,7 +249,6 @@ crimsoncovelabs.xyz,Possible Cobalt Strike C2 Domain,/api/get_auth
 cryptoservices.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/mscrypto/update
 cryptpro.cloud,Possible Cobalt Strike C2 Fronted Domain,/fam_newspaper
 cryptpro.pro,Possible Cobalt Strike C2 Fronted Domain,/dhl
-cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png
 cs.5seo.co,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js
 cs.5seo.co,Possible Cobalt Strike C2 Domain,/push
 cs.ain360.net,Possible Cobalt Strike C2 Domain,/push
@@ -808,6 +808,7 @@ trustpki.net,Possible Cobalt Strike C2 Fronted Domain,/mscrypto/update
 tttt.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 tube.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif
 tunnels-prod-rel-asse-v3-cluster.southeastasia.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast
+tunnels-prod-rel-eun1-v3-cluster.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/v1/organizations/AM123456/teams/
 tvmovies.online,Possible Cobalt Strike C2 Domain,/wc/58462514417
 twitchstreamerspro.com,Possible Cobalt Strike C2 Domain,/calculate/v10.50/9GEG4W0P33
 udevd.microsoftools.com,Possible Cobalt Strike C2 Domain,/microsoftoolsudevd03aacc
