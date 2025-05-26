@@ -1,6 +1,7 @@
 #domain,ioc,uri_path
 010secapts001.icu,Possible Cobalt Strike C2 Domain,/api/3
 0sbs.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+0wgklqb6-8082.eun1.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/v1/organizations/AM123456/teams/
 1.thecameleonhotel.com,Possible Cobalt Strike C2 Domain,/dpixel
 111db-k7.com,Possible Cobalt Strike C2 Domain,/api/3
 1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat
@@ -497,7 +498,6 @@ nice.0818000.xyz,Possible Cobalt Strike C2 Domain,/copyright
 nice.0818000.xyz,Possible Cobalt Strike C2 Domain,/eso.css
 nice.0818000.xyz,Possible Cobalt Strike C2 Fronting Domain,/ny
 nicefeide.top,Possible Cobalt Strike C2 Domain,/fwlink
-nicefeide.top,Possible Cobalt Strike C2 Domain,/g.pixel
 nicefeide.top,Possible Cobalt Strike C2 Domain,/push
 nino.nakano.top,Possible Cobalt Strike C2 Domain,/match
 nns.micrsoft-update.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -799,6 +799,7 @@ trustpki.net,Possible Cobalt Strike C2 Fronted Domain,/mscrypto/update
 tttt.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 tube.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif
 tunnels-prod-rel-asse-v3-cluster.southeastasia.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast
+tunnels-prod-rel-eun1-v3-cluster.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/v1/organizations/AM123456/teams/
 tvmovies.online,Possible Cobalt Strike C2 Domain,/wc/58462514417
 twitchstreamerspro.com,Possible Cobalt Strike C2 Domain,/calculate/v10.50/9GEG4W0P33
 udevd.microsoftools.com,Possible Cobalt Strike C2 Domain,/microsoftoolsudevd03aacc
@@ -822,7 +823,6 @@ usd1g6.cyou,Possible Cobalt Strike C2 Domain,/api/3
 v10.events.logc.msft-api.net,Possible Cobalt Strike C2 Domain,/msedge/api/telemetry
 valarmogulis.us.kg,Possible Cobalt Strike C2 Domain,/aaaaaaaaa
 vccdn.techforgood.qq.com,Possible Cobalt Strike C2 Fronted Domain,/next/sensor/login_guide.js
-vcw21m21-443.asse.devtunnels.ms,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 view.kcc-okta.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 virginia.ns.cloudflare.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vozaspecial.com,Possible Cobalt Strike C2 Domain,/api/3
