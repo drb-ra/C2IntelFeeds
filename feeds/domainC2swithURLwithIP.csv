@@ -1,5 +1,4 @@
 #domain,ioc,uri_path,ip
-0wgklqb6-8082.eun1.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/v1/organizations/AM123456/teams/,45.195.197.3
 14j1eqpwe044f.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,175.178.120.225
 2faxdyf64cvmf.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,154.219.119.203
 2qjhb2csdk7kr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,115.120.250.85
@@ -7,8 +6,6 @@
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
 4gjhr5qxhyaj1.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/dpixel,8.135.237.16
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/s/58462514417,116.205.242.143
-51r7x0m2-8081.asse.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/broadcast,45.195.197.1
-5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/getit,39.102.213.118
 5pas9tdmjcs4y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,123.60.98.142
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/search,101.226.8.163
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/match,60.204.152.14
@@ -18,7 +15,6 @@ aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/jquery
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/dhl,138.124.15.54
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/fam_newspaper,138.124.15.54
 api.saicfinance.work,Possible Cobalt Strike C2 Domain,/__utm.gif,106.15.105.78
-api.saicfinance.work,Possible Cobalt Strike C2 Domain,/load,1.94.96.91
 api.sftech.one,Possible Cobalt Strike C2 Domain,/antDesign3.js,111.230.5.199
 api.uploads.winhomesky.com,Possible Cobalt Strike C2 Domain,/GovSistema/76e6f4821267ec98f94336ad5c500b21/download,8.219.211.139
 apiapi.it121fdg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.163.116.82
@@ -53,12 +49,14 @@ content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/h
 coolodyinvest.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,207.231.109.20
 cryptpro.cloud,Possible Cobalt Strike C2 Fronted Domain,/fam_newspaper,138.124.15.54
 cryptpro.pro,Possible Cobalt Strike C2 Fronted Domain,/dhl,138.124.15.54
-cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png,139.196.237.171
 cs.xsjl7932.top,Possible Cobalt Strike C2 Domain,/public/css/style.css,111.229.0.18
+cv9bpfn9kk9vq.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/getit,39.102.213.118
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
+down.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/ca,42.193.201.58
+down.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ca,42.193.201.58
 downloader.re58.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
 dubai-wealth-hub.co.uk,Possible Cobalt Strike C2 Domain,/__utm.gif,172.187.169.1
 dubai-wealth-hub.co.uk,Possible Cobalt Strike C2 Domain,/__utm.gif,4.234.110.221
@@ -78,6 +76,7 @@ fr.udate.sbs,Possible Cobalt Strike C2 Fronted Domain,/links.css,196.251.83.52
 frontendtest.nfcos.net.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
 fuckjapanese.microsoftcloudapi.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.198.129.60
 helloworld-aogxlrocvl.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/en_US/all.js,120.27.235.78
+home.33893306.xyz,Possible Cobalt Strike C2 Domain,/cm,121.61.98.177
 huiyan.lenovo.com.cn,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html,43.140.215.17
 jzhcs.lenovo.com.cn,Possible Cobalt Strike C2 Fronted Domain,/public/asset/font/script.js,120.79.64.164
 k5vmqdk8qk0c.cfc-execute.su.baidubce.com,Possible Cobalt Strike C2 Domain,/risk_control/riskcontrol/getActivities,106.54.61.188
@@ -91,9 +90,10 @@ metal.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif,165.22.24.136
 metalliko-industr.ru,Possible Cobalt Strike C2 Domain,/owa/,176.98.178.4
 metalliko-industr.ru,Possible Cobalt Strike C2 Domain,/owa/,217.198.5.240
 msg.msdegeup.com,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,118.26.39.237
+n6shbbkm-88.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.1
 n6shbbkm-88.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.2
+n6shbbkm-88.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.3
 ncs.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.36.214
-next.avianix.tech,Possible Cobalt Strike C2 Domain,/ptj,45.131.42.75
 nicefeide.top,Possible Cobalt Strike C2 Domain,/g.pixel,8.210.78.137
 ns.1.3.0o0.foo,Possible Cobalt Strike C2 Domain,/ptj,47.129.171.26
 ns.1.4.0o0.foo,Possible Cobalt Strike C2 Domain,/pixel.gif,47.129.171.26
@@ -150,8 +150,6 @@ static.wps-cdn.com,Possible Cobalt Strike C2 Domain,/image/,62.234.185.105
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
 szyzs.szunicom.com,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
 tube.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif,164.92.129.240
-tunnels-prod-rel-asse-v3-cluster.southeastasia.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast,45.195.197.1
-tunnels-prod-rel-eun1-v3-cluster.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/v1/organizations/AM123456/teams/,45.195.197.3
 tvmovies.online,Possible Cobalt Strike C2 Domain,/wc/58462514417,101.126.144.111
 ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/ca,36.41.71.241
 ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/pixel,36.41.71.241
