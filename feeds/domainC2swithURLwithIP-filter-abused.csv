@@ -1,14 +1,17 @@
 #domain,ioc,uri_path,ip
+0wgklqb6-8082.eun1.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/v1/organizations/AM123456/teams/,45.195.197.1
+0wgklqb6-8082.eun1.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/v1/organizations/AM123456/teams/,45.195.197.2
+0wgklqb6-8082.eun1.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/v1/organizations/AM123456/teams/,45.195.197.3
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink,43.99.246.42
 14j1eqpwe044f.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,175.178.120.225
 2faxdyf64cvmf.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,154.219.119.203
 2qjhb2csdk7kr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,115.120.250.85
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat,43.143.229.126
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
-3smqt0fdwhnc5.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/s/58462514417,8.135.237.16
+3smqt0fdwhnc5.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,8.135.237.16
 4gjhr5qxhyaj1.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/dpixel,8.135.237.16
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/s/58462514417,116.205.242.143
-51r7x0m2-8081.asse.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/broadcast,45.195.197.3
+519nmcj312v7y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,117.72.39.83
 5pas9tdmjcs4y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,123.60.98.142
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/search,101.226.8.163
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/match,60.204.152.14
@@ -22,7 +25,6 @@ api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/fam_newspaper,138.
 api.saicfinance.work,Possible Cobalt Strike C2 Domain,/__utm.gif,106.15.105.78
 api.uploads.winhomesky.com,Possible Cobalt Strike C2 Domain,/GovSistema/76e6f4821267ec98f94336ad5c500b21/download,8.219.211.139
 apiapi.it121fdg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.163.116.82
-apimicrososerver.fh328fehu.xyz,Possible Cobalt Strike C2 Domain,/dpixel,38.181.219.170
 asusupdateserver.asuscomm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.112.234
 at1.227api.com,Possible Cobalt Strike C2 Domain,/pixel,154.83.12.115
 at2.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.83.12.115
@@ -69,7 +71,6 @@ file2.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1,2
 file3.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/Is9Yu3I8Ed8lKiQc-ZxDfBXW7Mhu3N0wx,216.238.121.119
 freehish.xyz,Possible Cobalt Strike C2 Domain,/image/,8.133.240.108
 frontendtest.nfcos.net.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
-fuckjapanese.microsoftcloudapi.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.198.129.60
 geo.cwlabtes.shop,Possible Cobalt Strike C2 Domain,/login.js,111.229.4.108
 helloworld-aogxlrocvl.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/en_US/all.js,120.27.235.78
 home.33893306.xyz,Possible Cobalt Strike C2 Domain,/cm,121.61.98.177
@@ -83,11 +84,9 @@ media.update.updrv.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.m
 meizu.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.42.63.158
 metalliko-industr.ru,Possible Cobalt Strike C2 Domain,/owa/,176.98.178.4
 metalliko-industr.ru,Possible Cobalt Strike C2 Domain,/owa/,217.198.5.240
-msg.msdegeup.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php,118.26.39.237
-n6shbbkm-88.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.1
-n6shbbkm-88.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.2
+msg.msdegeup.com,Possible Cobalt Strike C2 Domain,/news.php,118.26.39.237
 ncs.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.36.214
-nicefeide.top,Possible Cobalt Strike C2 Domain,/cx,8.210.78.137
+nicefeide.top,Possible Cobalt Strike C2 Domain,/cm,8.210.78.137
 ns.1.3.0o0.foo,Possible Cobalt Strike C2 Domain,/ptj,47.129.171.26
 ns.1.4.0o0.foo,Possible Cobalt Strike C2 Domain,/pixel.gif,47.129.171.26
 ns.365ub.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.159.136.92
@@ -150,7 +149,9 @@ sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
 support.microsoft.com.volcgslb-mlt.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js,112.74.184.37
 szyzs.szunicom.com,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
 tqed4.ntttd.com,Possible PoshC2 Domain,/cisben/marketq/,15.237.162.48
-tunnels-prod-rel-asse-v3-cluster.southeastasia.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/broadcast,45.195.197.3
+tunnels-prod-rel-eun1-v3-cluster.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/v1/organizations/AM123456/teams/,45.195.197.1
+tunnels-prod-rel-eun1-v3-cluster.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/v1/organizations/AM123456/teams/,45.195.197.2
+tunnels-prod-rel-eun1-v3-cluster.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/v1/organizations/AM123456/teams/,45.195.197.3
 ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/ca,36.41.71.241
 ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/pixel,36.41.71.241
 update.microsoft.club,Possible Cobalt Strike C2 Domain,/updates.rss,20.169.41.5
