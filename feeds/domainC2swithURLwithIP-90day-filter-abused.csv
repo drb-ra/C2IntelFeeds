@@ -1,7 +1,6 @@
 #domain,ioc,uri_path,ip
 010secapts001.icu,Possible Cobalt Strike C2 Domain,/api/3,107.174.115.223
 0sbs.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,149.28.23.91
-0wgklqb6-8082.eun1.devtunnels.ms,Possible Cobalt Strike C2 Fronting Domain,/v1/organizations/AM123456/teams/,45.195.197.1
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink,43.99.246.42
 1.thecameleonhotel.com,Possible Cobalt Strike C2 Domain,/dpixel,159.223.193.11
 111db-k7.com,Possible Cobalt Strike C2 Domain,/api/3,96.45.191.113
@@ -40,6 +39,7 @@
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/search,101.226.8.163
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/match,60.204.152.14
 60z89fnebpz1v.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/introduction/edr,154.8.233.224
+631dgmj9-8085.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.1
 631dgmj9-8085.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.2
 631dgmj9-8085.usw3.devtunnels.ms,Possible Cobalt Strike C2 Domain,/v1/organizations/AM123456/teams/,45.195.197.3
 64t44b9cvcxmy.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,192.3.211.196
@@ -824,7 +824,6 @@ tqed4.ntttd.com,Possible PoshC2 Domain,/cisben/marketq/,15.237.162.48
 trustpki.net,Possible Cobalt Strike C2 Fronted Domain,/mscrypto/update,172.86.106.24
 tttt.sumikuma.tw,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.177.82.255
 tube.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif,164.92.129.240
-tunnels-prod-rel-eun1-v3-cluster.northeurope.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/v1/organizations/AM123456/teams/,45.195.197.1
 tvmovies.online,Possible Cobalt Strike C2 Domain,/wc/58462514417,101.126.144.111
 twitchstreamerspro.com,Possible Cobalt Strike C2 Domain,/calculate/v10.50/9GEG4W0P33,88.214.26.34
 udevd.microsoftools.com,Possible Cobalt Strike C2 Domain,/microsoftoolsudevd03aacc,216.219.85.188
