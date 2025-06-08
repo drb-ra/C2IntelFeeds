@@ -1,5 +1,6 @@
 #domain,ioc,uri_path
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink
+1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat
 132.162.30.34.bc.googleusercontent.com,Possible Cobalt Strike C2 Domain,/services/data/v36.0/sobjects/account/describe
 14j1eqpwe044f.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 2faxdyf64cvmf.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/wc/58462514417
@@ -63,6 +64,7 @@ cdn.pollogreatagain.click,Possible Cobalt Strike C2 Domain,/jquery/3.6.1/jquery.
 cdn.soft.qianxin.com,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html
 cdn.soft.qianxin.com,Possible Cobalt Strike C2 Fronted Domain,/public/asset/font/script.js
 cfd.njpji.edu.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
+chat.kongfupro.shop,Possible Cobalt Strike C2 Fronting Domain,/api/weibo/chat
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 city.qq11.me,Possible Cobalt Strike C2 Domain,/__utm.gif

@@ -1,6 +1,7 @@
 #domain,ioc,uri_path,ip
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink,43.100.9.138
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink,43.99.246.42
+1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat,159.138.34.52
 14j1eqpwe044f.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,175.178.120.225
 2qjhb2csdk7kr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,115.120.250.85
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat,43.143.229.126
@@ -39,6 +40,7 @@ cdn.moneycomesagain.click,Possible Cobalt Strike C2 Domain,/jquery/3.6.1/jquery.
 cdn.soft.qianxin.com,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html,43.140.215.17
 cdn.soft.qianxin.com,Possible Cobalt Strike C2 Fronted Domain,/public/asset/font/script.js,120.79.64.164
 cfd.njpji.edu.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
+chat.kongfupro.shop,Possible Cobalt Strike C2 Fronting Domain,/api/weibo/chat,159.138.34.52
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.125.231
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.125.231
 cladonia.team,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
