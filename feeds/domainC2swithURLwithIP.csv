@@ -1,7 +1,6 @@
 #domain,ioc,uri_path,ip
 1357965137-bafd04zr1t.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/dpixel,124.220.205.147
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat,43.143.229.126
-38y1qea3nzt8e.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.118.94
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
 4gjhr5qxhyaj1.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/s/58462514417,8.135.237.16
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,116.205.242.143
@@ -72,13 +71,12 @@ dy.dcpc.com,Possible Cobalt Strike C2 Fronted Domain,/public/asset/font/script.j
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 e6y14fa81bd39.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get,113.45.175.15
-fa5jcmr0dn2m9.cfc-execute.su.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get,106.12.174.164
 fazstpgnpnqb0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,119.91.227.214
 file1.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1,216.238.121.119
 file2.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1,216.238.121.119
 file3.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/Is9Yu3I8Ed8lKiQc-ZxDfBXW7Mhu3N0wx,216.238.121.119
 frontendtest.nfcos.net.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
-helloworld-aogxlrocvl.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/en_US/all.js,120.27.235.78
+helloworld-aogxlrocvl.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/cm,120.27.235.78
 huiyan.lenovo.com.cn,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html,43.140.215.17
 jk002.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.100.59.154
 js.sfqj321.buzz,Possible Cobalt Strike C2 Domain,/apiv1/baga/going/js/jquery-3.3.1.min.js,144.34.161.75
@@ -153,16 +151,16 @@ ns4.jk001.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.100.59.154
 occ.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/include/template/isx.php,47.239.127.205
 office.soft-storelive.com,Possible Cobalt Strike C2 Domain,/static/bootstrap/js/bootstrap.min.js,8.209.116.25
 online.idc.zone,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.135.99.3
-optimosphere.com,Possible Cobalt Strike C2 Domain,/statics/content/v1/scripts/main.js,45.142.194.110
 oversizes.ghostgames.mom,Possible Cobalt Strike C2 Domain,/jquery/jquery-3.3.1.min.js,150.158.80.227
 pqcez.cn,Possible Cobalt Strike C2 Fronting Domain,/wc/58462514417,43.161.216.41
 pqcez.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/wc/58462514417,43.161.216.41
 q1bkhvr2eqfd.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/apis/x,180.76.144.239
 res.antenna.cool,Possible Cobalt Strike C2 Fronting Domain,/ca,47.245.61.75
 sdkreport.happilygame.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
+search.2y3rn846.com,Possible Cobalt Strike C2 Domain,/api/3,23.226.54.77
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,43.139.50.42
 shop.enaz.shop,Possible Cobalt Strike C2 Domain,/wc/82740874126,47.237.86.35
-shop.nongfushan.org,Possible Cobalt Strike C2 Domain,/push,120.27.235.78
+shop.nongfushan.org,Possible Cobalt Strike C2 Domain,/cm,120.27.235.78
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/load,85.175.101.203
 somehost.p0c.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,165.232.71.57
 sp.b0t.me,Possible Cobalt Strike C2 Domain,/__utm.gif,104.248.16.75
@@ -192,6 +190,7 @@ www.menedy.top,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,171.244.143.184
 www.tsesec.site,Possible Cobalt Strike C2 Domain,/faq.css,39.101.75.126
 www.uyghur.eu.org,Possible Cobalt Strike C2 Domain,/activity,38.54.27.93
+wwwsec.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,103.243.27.247
 yci416ame.5b0qyh1qd.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.144.192.24
 yff.forupper.xyz,Possible Cobalt Strike C2 Domain,/cx,38.55.129.85
 yhs-gthjhxltud.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/risk_control/riskcontrol/getActivities,43.134.118.235
