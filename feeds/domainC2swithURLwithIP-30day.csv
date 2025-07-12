@@ -1,5 +1,6 @@
 #domain,ioc,uri_path,ip
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink,43.100.9.138
+1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat,159.138.34.52
 1357965137-hnjcoxitoz.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/zako/lolisuccubus1.php,124.220.205.147
 1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com,Possible Cobalt Strike C2 Fronting Domain,/cx,43.139.210.38
 1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com.eo.dnse2.com,Possible Cobalt Strike C2 Fronted Domain,/cx,43.139.210.38
@@ -20,6 +21,7 @@
 519nmcj312v7y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,117.72.39.83
 548125.com,Possible Cobalt Strike C2 Domain,/s/58462514417,43.255.159.28
 60z89fnebpz1v.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/introduction/edr,154.8.233.224
+62crwk8ep4k5a.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,39.99.227.179
 6gpwqae72132.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get,113.45.175.15
 73w6tr0x1tnay.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,150.158.21.250
 7d5gec7hyer83.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get,106.12.174.164
@@ -77,6 +79,7 @@ cdn.soft.qianxin.com,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_10
 cf.1v5sd1c2ds.com,Possible Cobalt Strike C2 Domain,/pixel,45.141.233.66
 cf.testcs888.com,Possible Cobalt Strike C2 Domain,/fwlink,45.141.233.66
 cfd.njpji.edu.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
+chat.kongfupro.shop,Possible Cobalt Strike C2 Fronting Domain,/api/weibo/chat,159.138.34.52
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.125.231
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.125.231
 cjfrde8g2386q.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/s/58462514417,154.219.119.203
@@ -86,7 +89,6 @@ cloud.fitcloud.ip-ddns.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update
 cmccopen.cn,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,101.133.225.51
 cryptpro.cloud,Possible Cobalt Strike C2 Fronted Domain,/fam_newspaper,138.124.15.54
 cryptpro.pro,Possible Cobalt Strike C2 Fronted Domain,/dhl,138.124.15.54
-cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png,139.196.237.171
 cs.xsjl7932.top,Possible Cobalt Strike C2 Domain,/public/css/style.css,111.229.0.18
 csdnsnew1.awscloudfont.com,Possible Cobalt Strike C2 Domain,/push,45.154.1.195
 csdnsnew2.awscloudfont.com,Possible Cobalt Strike C2 Domain,/pixel.gif,45.154.1.195
@@ -103,6 +105,7 @@ dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.46.247
 dns1.globalcdn.autos,Possible Cobalt Strike C2 Domain,/api/x,116.205.143.204
 dns2.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.78.222.198
+doc.office365update.cn,Possible Cobalt Strike C2 Domain,/image/,124.71.152.57
 doc.sougou365.online,Possible Cobalt Strike C2 Domain,/match,101.42.239.131
 doc.sougou365.online,Possible Cobalt Strike C2 Domain,/visit.js,101.42.239.131
 down5.huorong.cn,Possible Cobalt Strike C2 Fronted Domain,/ptj,47.245.61.75
@@ -147,6 +150,7 @@ mail-exchange.phermera.ru,Possible Cobalt Strike C2 Domain,/__utm.gif,206.81.21.
 mail.printermaintenanceservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.223.120.202
 malahh.oixrv2gn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,139.180.129.54
 manage.flash-oss.info,Possible Cobalt Strike C2 Domain,/api/3,47.243.26.247
+map.nlscmap.com,Possible Cobalt Strike C2 Domain,/fsk/jquery-3.3.1.min.js,103.131.189.36
 media.update.updrv.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
 meizu.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.42.63.158
 msg.msdegeup.com,Possible Cobalt Strike C2 Domain,/include/template/isx.php,118.26.39.237
