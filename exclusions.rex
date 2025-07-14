@@ -268,6 +268,7 @@
 ^abdullah\.ns\.cloudflare\.com,
 ^virginia\.ns\.cloudflare\.com,
 ^armando\.ns\.cloudflare\.com,
+^asa\.ns\.cloudflare\.com,
 ^prime\.com,
 \.prime\.com,
 ^360\.net,
