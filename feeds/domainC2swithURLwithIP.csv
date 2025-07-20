@@ -1,6 +1,7 @@
 #domain,ioc,uri_path,ip
 1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat,159.138.34.52
 1302498057-jifjeq2q25.na-siliconvalley.tencentscf.com,Possible Cobalt Strike C2 Domain,/s/58462514417,47.245.61.75
+1328175548-4zksdftd97.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/wc/58462514417,42.192.212.68
 1357504293-h43knumeov.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/Recite/dbg/RRZECJAULZ37,1.12.248.6
 1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com,Possible Cobalt Strike C2 Fronting Domain,/cx,43.139.210.38
 1s-adms-1305520562.cos.ap-guangzhou.myqcloud.com.eo.dnse2.com,Possible Cobalt Strike C2 Fronted Domain,/cx,43.139.210.38
@@ -15,7 +16,6 @@
 a89kswn22cnkn.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,119.45.29.172
 accesserdsc.com,Possible Cobalt Strike C2 Domain,/pixel.gif,154.201.74.112
 aiapi.plus.wps.cn,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css,39.99.158.125
-analytics.digitalflowcloud.com,Possible Cobalt Strike C2 Domain,/checkouts/internal/preloads.js,196.251.72.214
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/dhl,138.124.15.54
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/fam_newspaper,138.124.15.54
 api.regpad.net,Possible Cobalt Strike C2 Domain,/checkouts/internal/preloads.js,196.251.87.191
@@ -51,7 +51,6 @@ check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.32.
 cladonia.team,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
 cryptpro.cloud,Possible Cobalt Strike C2 Fronted Domain,/fam_newspaper,138.124.15.54
 cryptpro.pro,Possible Cobalt Strike C2 Fronted Domain,/dhl,138.124.15.54
-cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png,139.196.237.171
 cs.xsjl7932.top,Possible Cobalt Strike C2 Domain,/public/css/style.css,111.229.0.18
 csdnsnew1.awscloudfont.com,Possible Cobalt Strike C2 Domain,/push,45.154.1.195
 csdnsnew2.awscloudfont.com,Possible Cobalt Strike C2 Domain,/pixel.gif,45.154.1.195
@@ -161,7 +160,6 @@ rec.metaambiental.eco.br,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_n
 res.antenna.cool,Possible Cobalt Strike C2 Fronting Domain,/s/58462514417,47.245.61.75
 scan.daztar.com,Possible Cobalt Strike C2 Domain,/images/15.png,139.162.204.37
 sdkreport.happilygame.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
-security.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/push,103.125.248.109
 server.pikachull.ip-ddns.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.14.89.119
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,43.139.50.42
 service-pzyf56w9-1304691225.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.43.149.38
@@ -209,6 +207,7 @@ www.expohsp.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min
 www.mediawick.com,Possible Cobalt Strike C2 Domain,/dot.gif,213.209.150.214
 www.menedy.top,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html,43.140.215.17
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,171.244.143.184
+www.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/__utm.gif,103.125.248.109
 www.queirozdesign.com,Possible Cobalt Strike C2 Domain,/__utm.gif,213.209.150.214
 www.smallcartrailer.com,Possible Cobalt Strike C2 Domain,/push,213.209.150.214
 www.souguo.icu,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.224.34.90
