@@ -1,6 +1,7 @@
 #domain,ioc,uri_path,ip
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink,43.100.9.138
 1.tcp.hk.cpolar.io,Possible Cobalt Strike C2 Domain,/fwlink,43.99.246.42
+1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,43.139.50.42
 1302061143-hs64a5fljn.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Fronted Domain,/api/weibo/chat,159.138.34.52
 1302498057-jifjeq2q25.na-siliconvalley.tencentscf.com,Possible Cobalt Strike C2 Domain,/s/58462514417,47.245.61.75
 1318014164-39a8is5k9d.ap-singapore.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x,43.128.67.88
@@ -477,6 +478,7 @@ nas.gddsw.top,Possible Cobalt Strike C2 Domain,/updates.rss,27.17.158.66
 nas.gddsw.top,Possible Cobalt Strike C2 Domain,/updates.rss,27.17.188.137
 nas.gddsw.top,Possible Cobalt Strike C2 Domain,/updates.rss,27.18.19.29
 ncs.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.36.214
+neonhush.cipherdrift.qzz.io,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.36.125.58
 nestquicks.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,20.61.175.58
 network.dhcpclient.com,Possible Cobalt Strike C2 Domain,/activity,20.40.99.133
 new.jkzy.10010.com,Possible Cobalt Strike C2 Fronted Domain,/public/asset/font/script.js,47.92.108.149
@@ -719,7 +721,6 @@ security.kasperskys.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.ph
 server.pikachull.ip-ddns.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.14.89.119
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-a0ahsoek-1257582847.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/fwlink,45.136.15.209
-service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,43.139.50.42
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI,198.199.122.34
 service-pzyf56w9-1304691225.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,101.43.149.38
 service-rchqbzvz-1301033415.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,129.28.85.210
@@ -912,7 +913,11 @@ wwwsec.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,103.243.27.247
 wxx.aliyunn.uno,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,27.106.110.32
 xx.xinxiangnancs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,143.92.39.50
 xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/__utm.gif,103.146.158.129
+xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/fwlink,103.146.158.129
+xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/match,103.146.158.129
+xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/ptj,103.146.158.129
 xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/push,103.146.158.129
+yanzu.top,Possible Cobalt Strike C2 Domain,/activity,47.120.31.73
 yci416ame.5b0qyh1qd.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.144.192.24
 yff.forupper.xyz,Possible Cobalt Strike C2 Domain,/cx,38.55.129.85
 yhs-gthjhxltud.cn-zhangjiakou.fcapp.run,Possible Cobalt Strike C2 Domain,/risk_control/riskcontrol/getActivities,43.134.118.235
