@@ -1,6 +1,6 @@
 #domain,ioc,uri_path
 1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
-1308344827-4bya137jfj.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/get
+1308344827-4bya137jfj.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/getit
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/ws/10898251926
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat
@@ -72,6 +72,7 @@ dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 dns.qqq911.dns-cloud.net,Possible Cobalt Strike C2 Domain,/api/v3/r
 dns2.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dnslog.twittermisc.com,Possible Cobalt Strike C2 Domain,/check
+download.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/load
 downloader.re58.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css
@@ -228,7 +229,6 @@ www.fwefwefwe.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.hag505.com,Possible Cobalt Strike C2 Domain,/gdElhD8Ux3/api/v1/get
 www.jmgle.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
-www.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.printermaintenanceservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.xcxke.com,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get
 yci416ame.5b0qyh1qd.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

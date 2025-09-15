@@ -1,6 +1,6 @@
 #domain,ioc,uri_path,ip
 1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,43.139.50.42
-1308344827-4bya137jfj.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/get,1.94.134.161
+1308344827-4bya137jfj.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/getit,1.94.134.161
 1311056882-lcqm122smr.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x,81.71.98.99
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/ws/10898251926,119.29.231.118
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat,43.143.229.126
@@ -77,6 +77,7 @@ dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.
 dns.qqq911.dns-cloud.net,Possible Cobalt Strike C2 Domain,/api/v3/r,87.120.93.133
 dns2.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.78.222.198
 dnslog.twittermisc.com,Possible Cobalt Strike C2 Domain,/check,150.109.103.16
+download.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/load,103.125.248.109
 downloader.re58.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
@@ -241,7 +242,6 @@ www.hag505.com,Possible Cobalt Strike C2 Domain,/gdElhD8Ux3/api/v1/get,43.100.27
 www.hag505.com,Possible Cobalt Strike C2 Domain,/gdElhD8Ux3/api/v1/get,43.100.27.142
 www.jmgle.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css,101.201.108.173
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,171.244.143.184
-www.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/__utm.gif,103.125.248.109
 www.printermaintenanceservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.223.120.202
 www.xcxke.com,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get,175.178.85.21
 yci416ame.5b0qyh1qd.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.144.192.24
