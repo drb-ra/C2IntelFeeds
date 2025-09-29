@@ -1,7 +1,6 @@
 #domain,ioc,uri_path,ip
 1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,43.139.50.42
 1308344827-4bya137jfj.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/getit,1.94.134.161
-1311056882-lcqm122smr.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x,81.71.98.99
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/ws/10898251926,119.29.231.118
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat,43.143.229.126
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
@@ -34,6 +33,7 @@ at2.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.83.12.115
 at3.227api.com,Possible Cobalt Strike C2 Domain,/ga.js,154.83.12.115
 auth.inmediavault.com,Possible Cobalt Strike C2 Domain,/assets/js/jquery-3.7.1.min.js,191.101.2.93
 avapmpvegyw0c.cfc-execute.su.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,47.113.193.170
+avenyamu.myaddr.io,Possible Cobalt Strike C2 Domain,/g.pixel,209.97.166.232
 bpm.w0rkz.com,Possible Cobalt Strike C2 Domain,/api/v1/get,43.156.59.110
 bxmv1taxbxr8p.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.66.77
 c.testcs888.com,Possible Cobalt Strike C2 Domain,/activity,178.16.55.53
@@ -72,7 +72,6 @@ dns.qqq911.dns-cloud.net,Possible Cobalt Strike C2 Domain,/api/v2/from,85.192.49
 dns.qqq911.dns-cloud.net,Possible Cobalt Strike C2 Domain,/api/v3/r,87.120.93.133
 dns1.globalcdn.autos,Possible Cobalt Strike C2 Domain,/api/x,116.205.143.204
 dnslog.twittermisc.com,Possible Cobalt Strike C2 Domain,/check,150.109.103.16
-download.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/load,103.125.248.109
 downloader.re58.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
@@ -225,6 +224,7 @@ www.hag505.com,Possible Cobalt Strike C2 Domain,/gdElhD8Ux3/api/v1/get,43.100.27
 www.iqiak.cn,Possible Cobalt Strike C2 Fronting Domain,/dpixel,47.99.125.121
 www.iqiak.cn.queniuaa.com,Possible Cobalt Strike C2 Fronted Domain,/dpixel,47.99.125.121
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,171.244.143.184
+www.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/__utm.gif,103.125.248.109
 www.xcxke.com,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get,175.178.85.21
 xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/updates.rss,156.227.235.133
 yci416ame.5b0qyh1qd.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.144.192.24
