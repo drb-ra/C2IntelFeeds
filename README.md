@@ -59,6 +59,7 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |StealC v2|`services.http.response.body_hashes="sha256:067b25c7c2e27041dc47a0a4564b56a6bbfdc41e5dd630dbf070fdada4dbff71"`|
 |[AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)|`[REDACTED]`|
 |Matanbuchus|`[REDACTED]`|
+|[Pywssocks](https://pypi.org/project/pywssocks/)|`[REDACTED]`|
 
 **NOTE:** The last 3 entries are tools that may also be used for legitimate purposes. Please validate your hits or filter these locally for your own needs.
 
