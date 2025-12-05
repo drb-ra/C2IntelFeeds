@@ -24,6 +24,7 @@
 360brain.360aisec.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,118.89.182.140
 360sec-dns.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,118.89.182.140
 360sec-dns.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,118.89.182.140
+374y246zera4r.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/getit,47.245.90.197
 38y1qea3nzt8e.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,43.136.118.94
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
 3w.cn,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get,175.178.85.21
@@ -118,7 +119,7 @@ azurefree.ignorelist.com,Possible Cobalt Strike C2 Domain,/api/v1/telemetry,194.
 back.softwarecommerce.net,Possible Cobalt Strike C2 Domain,/cdn-cgi/trace,88.214.50.137
 backend.datasystemconsulting.com,Possible Cobalt Strike C2 Domain,/v2/user/subscription,88.214.50.149
 backoffice.softwarecommerce.net,Possible Cobalt Strike C2 Domain,/cdn-cgi/trace,88.214.50.137
-baidu-cdn29.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.52.49.247
+baidu-cdn29.shop,Possible Cobalt Strike C2 Fronted Domain,/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js,106.52.49.247
 baidu.611110.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,158.180.74.142
 bcdc37vn5vr5t.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,39.99.149.49
 bee57qaty5a6q.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,47.110.226.27
@@ -259,7 +260,6 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
-djzyw.com,Possible Cobalt Strike C2 Fronted Domain,/api/getit,47.245.90.197
 dk2799.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.2.N2cQ4mXdZ4nIo9XIhttp.min.js,91.92.241.247
 dmp.netsolutionpoint.com,Possible Cobalt Strike C2 Domain,/api/organizations/414ba360/spotlight,88.214.50.136
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.46.247
@@ -273,7 +273,6 @@ doc.office365update.cn,Possible Cobalt Strike C2 Domain,/image/,124.71.152.57
 doc.sougou365.online,Possible Cobalt Strike C2 Domain,/match,101.42.239.131
 doc.sougou365.online,Possible Cobalt Strike C2 Domain,/visit.js,101.42.239.131
 down5.huorong.cn,Possible Cobalt Strike C2 Fronted Domain,/ptj,47.245.61.75
-download.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/load,103.125.248.109
 downloader.re58.cn,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
 dq54wdwq5d4.jocker.space,Possible Cobalt Strike C2 Domain,/wc/58462514417,142.171.220.152
 drive.netsolutionpoint.com,Possible Cobalt Strike C2 Domain,/api/organizations/414ba360/spotlight,88.214.50.136
@@ -599,6 +598,7 @@ search.2y3rn846.com,Possible Cobalt Strike C2 Domain,/api/3,23.226.54.31
 search.2y3rn846.com,Possible Cobalt Strike C2 Domain,/api/3,23.226.54.38
 search.2y3rn846.com,Possible Cobalt Strike C2 Domain,/api/3,23.226.54.77
 searchmtcn.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,185.177.238.244
+security.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/push,103.125.248.109
 sending-veteran-rehab-displaying.trycloudflare.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,123.56.16.123
 server.dczu.dpdns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.52.24.141
 server.pikachull.ip-ddns.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.14.89.119
@@ -695,7 +695,6 @@ www.6119.com.cn,Possible Cobalt Strike C2 Domain,/_PaSsApi/js/jquery-3.3.1.min.j
 www.66chat3.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,96.9.124.9
 www.acd852.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.200.17.43
 www.ag3battery.com,Possible Cobalt Strike C2 Domain,/updates.rss,213.209.150.214
-www.aliyuncloud.bond,Possible Cobalt Strike C2 Fronting Domain,/api/getit,47.245.90.197
 www.aliyunupdate.shop,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,8.218.112.112
 www.beihu-jlbank.com,Possible Cobalt Strike C2 Domain,/activity,83.229.121.82
 www.cannabispatientcare.com,Possible Cobalt Strike C2 Domain,/cm,213.209.150.214
