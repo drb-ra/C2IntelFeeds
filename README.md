@@ -1,21 +1,107 @@
 # C2IntelFeeds
-Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/drb_ra)
+Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/drb_ra) 
+
+**This would not be possible without Source/Raw Data courtesy of Censys** - https://censys.io/ 
 
 
-* Feeds ( Source/Raw Data courtesy of Censys - https://censys.io/ ) \
- **Search 2.0** has massively improved detection rates on non-standard ports. **Great job Censys Team!**
+**C2IntelFeeds** is a collection of automatically generated **Command-and-Control (C2) threat intelligence feeds** derived from large-scale internet scanning data (primarily Censys).
 
-  By default C2s seen active in the last 7 days are added to the main feed files. There is also a 30 day feed for any C2 seen live in the last 30 days.
+These feeds are intended for **defenders** and are suitable for:
+- Threat hunting
+- Network monitoring
+- Detection engineering
+- IOC enrichment
+- Defensive blocking or alerting
 
-  * `C2 IPs` - Live C2 IP (no frontend or CDN IPs - All bad)
-  * `C2 Domains` - All domain names extracted from implants, including domain fronting values and fake Host headers (High abuse of MS, Apple and Google).
-  * `C2 Domains Filtered` - Excludes several domains abused in domain fronting, along with fake headers for popular sites. Current filter list see:  `exclusions.rex` file
-  * `C2 Domains with URL` - Same as domains and domains filtered but including an extra column with the URI path of the C2
-  * `C2 Domains with URL and IP` - Same as domains and domains filtered but including an extra column with the URI path of the C2 and another with the C2 IP 
-  * `Unverified C2 IPs` - Live C2 IPs based simply on the Censys search/query no validation can easily be performed or further configuration extracted. Some however are extremely accurate. Details in table below.
-  * `Unverified C2 Domains` - Live C2 Domains based simply on the Censys search/query no validation can easily be performed or further configuration extracted. Some however are extremely accurate. Details in table below.
+The project focuses on identifying **real C2 infrastructure**, not malware samples.
 
-**NOTE:** Given the issue with Threatfox submissions we have now published 4 additional files. These files contain IP and destination port pairs for all IP based feeds (IPs and Unverified IPs both for 7 and 30 days).
+---
+
+## 🔍 What This Repository Provides
+
+This repository contains multiple **plain-text, CSV, and JSON feeds** listing suspected or confirmed C2 infrastructure, including:
+
+- C2 IP addresses
+- C2 domains and hostnames
+- Domains with C2 URL paths
+- IP + port combinations
+- C2 configuration metadata (when available)
+
+Feeds are updated automatically and primarily reflect **recent activity**.
+
+---
+
+## ⏱️ Time Windows
+
+Most feeds are available in two time ranges:
+
+- **7-day feeds** (default)
+- **30-day feeds** (historical context)
+- **90-day feeds** (long-term context)
+
+The time window refers to **last observed activity**, not creation date.
+
+---
+
+## 📁 Feed Types
+
+### ✅ Verified Feeds (Preferred)
+
+These feeds have undergone additional validation and **exclude known benign infrastructure**.
+
+| Feed | Description |
+|----|----|
+| **C2 IPs** | Validated C2 server IP addresses |
+| **C2 Domains** | Domains extracted from known C2 implants |
+| **C2 Domains (Filtered)** | Same as above, with high-false-positive domains removed |
+| **C2 Domains + URL** | Domains with specific C2 URI paths |
+| **C2 Domains + URL + IP** | Domains, paths, and resolved IPs |
+
+---
+
+### ⚠️ Unverified Feeds
+
+These feeds are generated from fingerprint matches but **may contain false positives**.
+
+| Feed | Description |
+|----|----|
+| **Unverified C2 IPs** | Potential C2 IPs based on scan artifacts |
+| **Unverified C2 Domains** | Potential C2 domains |
+| **IP + Port Pairs** | Destination IP and port combinations |
+
+> ⚠️ **Use unverified feeds cautiously**. Local validation is strongly recommended.
+
+---
+
+## 🧬 C2 Configuration Data
+
+Where possible, extracted **C2 configuration metadata** is included in CSV and JSON formats.
+
+Typical fields may include:
+
+- First seen timestamp
+- True C2 IP (actual listener)
+- Port, jitter, sleep time
+- ASN and network information
+- HTTP host headers
+- TLS certificate data
+- User-agent strings
+- Optional public keys (JSON)
+
+Both **standard** and **30-day** variants may be available.
+
+---
+
+## 🛰️ How the Data Is Generated
+
+Feeds are built using **Censys search queries** designed to detect known C2 frameworks by fingerprinting:
+
+- TLS certificate fields
+- JARM fingerprints
+- HTTP response headers and titles
+- Body hashes
+- Service banners
+- Known implant artifacts
 
 # Censys Searches
 
@@ -61,22 +147,74 @@ Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/d
 |Matanbuchus|`[REDACTED]`|
 |[Pywssocks](https://pypi.org/project/pywssocks/)|`[REDACTED]`|
 
-**NOTE:** The last 3 entries are tools that may also be used for legitimate purposes. Please validate your hits or filter these locally for your own needs.
+## 🧹 False-Positive Reduction
 
-# Additional Details
+The repository includes an exclusion file: **exclusions.rex**
 
-  The easiest files for most of you to use should be [C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/IPC2s.csv), [C2 Domains Filtered](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/domainC2s-filter-abused.csv) and [Unverified C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/unverified/IPC2s.csv) or their 30 day counterparts.  
-  
-* VPN 
-  * Nord VPN Exit Nodes
-  * Proton VPN Entry & Exit Nodes
-  * Residential Proxy Nodes (Mysterium Network & PolarEdge Botnet)
+This file removes:
+- Known CDN/domain-fronting services
+- Common shared hosting providers
+- Frequently benign infrastructure
 
-* C2_configs 
-  * Detailed CobaltStrike Configuration in CSV and JSON including the following fields:  `FirstSeen,ip,ASN,BeaconType,C2Server,Port,SleepTime,Jitter,Proxy_Behavior,HostHeader,CertificateNames,HttpGet_Metadata,HttpPostUri,HttpPost_Metadata,KillDate,PipeName,UserAgent,Watermark,DNS_Idle,DNS_Sleep` IP reflects the true C2 IP not the one provided in the configuration of the beacon.
-  * Version 2 includes 3 additional fields `SpawnToX86,SpawnToX64,PublicKey`
-  * There's also a 30 day JSON only version that includes First and Last Seen dates within the last 30 days. 
-  * Powershell Empire and PoSHC2 are also avaliable in JSON format.
+Filtered feeds apply these exclusions automatically.
+
+---
+
+## 🧠 How to Use These Feeds
+
+These feeds are suitable for:
+
+- **SIEM ingestion** (Splunk, Sentinel, Elastic, etc.)
+- **EDR enrichment**
+- **Threat hunting queries**
+- **Network detections**
+- **Firewall / proxy monitoring**
+- **IOC correlation pipelines**
+
+They are intentionally provided in **simple formats** to ease automation.
+
+The easiest files for most of you to use should be [C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/IPC2s.csv), [C2 Domains Filtered](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/domainC2s-filter-abused.csv) and [Unverified C2 IPs](https://github.com/drb-ra/C2IntelFeeds/blob/master/feeds/unverified/IPC2s.csv) or their 30 day counterparts.  
+
+
+---
+
+## 🌐 VPN & Proxy Lists
+
+Separate feeds include known:
+- VPN exit nodes
+- Residential proxy networks
+
+These can help:
+- Reduce noise in detections
+- Add context to outbound traffic
+- Identify infrastructure abuse
+
+---
+
+## 📜 License
+
+This project is licensed under:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+- Attribution required
+- Non-commercial use only
+- Share alike for derivatives
+
+---
+
+## ⚠️ Disclaimer
+
+These feeds are provided **as-is** for defensive and research purposes.
+
+- No guarantee of accuracy or completeness
+- Infrastructure may be compromised, misattributed, or reused
+- Always validate before taking action
+
+---
+
+**If you find this project useful, attribution is appreciated.**
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
