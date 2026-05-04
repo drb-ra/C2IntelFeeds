@@ -114,19 +114,19 @@ Feeds are built using **Censys search queries** designed to detect known C2 fram
 |[Covenant](https://github.com/cobbr/Covenant) |`same_service(cert.issuer.cn="Covenant" cert.subject.cn="Covenant" ) OR same_service(web.title="Covenant"service="http" transport="tcp" technology="Kestrel" technology="Bootstrap")`|
 |[Brute Ratel C4](https://bruteratel.com) |`product="Brute Ratel C4"`|
 |[Mythic](https://github.com/its-a-feature/Mythic) |`same_service(service="http" transport="tcp" cert.issuer.org="Mythic" cert.subject.org="Mythic" ) or same_service(banner.sha256=bc7e468313dcdc814784a20b5676188d19c033a1a3d9e3ebe1ff92f006522216 product!="Mythic C2") or product="Mythic C2"`|
-|[Deimos](https://github.com/DeimosC2/DeimosC2)|`[TBC]`|
+|[Deimos](https://github.com/DeimosC2/DeimosC2)|`same_service(service="http" transport="tcp" banner.sha256=613dfd23a3e10f890cee3032b088cfcdf1bf53ed0851e192c0c93ee59b53821a web.html.sha256=99eb12f2ab3c4866a353e098ffa3cb7a967e617c49b98480394ec5d8ea92b094 cert.issuer.org="Acme Co" cert.subject.org="Acme Co" )`|
 |[Nighthawk C2](https://www.mdsec.co.uk/nighthawk/) |`[TBC]`|
 |Bianlian Go Trojan |`[TBC]`|     
 |[Havoc](https://github.com/HavocFramework/Havoc) |`[TBC]`|
 |[Responder](https://github.com/lgandx/Responder) |`same_service(service="smb" transport="tcp" banner~"server_guid: AAAAAAAAAAAAAAAAAAAAAO6Fq/fq9gxPkoGSR23rdqk")`|
-|[Pupy RAT](https://github.com/n1nj4sec/pupy)|`[TBC]`|
+|[Pupy RAT](https://github.com/n1nj4sec/pupy)|`same_service(service="unknown" transport="tcp" cert.subject.ou="CONTROL" cert.subject.org=~"^[a-zA-Z]{10}$" cert.issuer.org=~"^[a-zA-Z]{10}$") OR product="Pupy RAT"`|
 |Qakbot|`[TBC]`|
 |[DcRat](https://github.com/qwqdanchun/DcRat)|`[TBC]`|
-|Viper|`[TBC]`|
-|[Supershell](https://github.com/tdragon6/Supershell/)|`[TBC]`|
+|Viper|`same_service(web.title="VIPER" web.html.sha256=771fb5f8203ca3b8c3a184ebc4347d5308fd75ad57895bc8fddebe7f355ef20a) OR same_service(service="http" transport="tcp" product="Viper RAT")`|
+|[Supershell](https://github.com/tdragon6/Supershell/)|`same_service(service="http" transport="tcp" product="Supershell C2")`|
 |Pikabot|`[TBC]`|
 |Meduza Stealer|`[TBC]`|
-|[Evilginx/EvilGoPhish](https://help.evilginx.com)|`[TBC]`|
+|[Evilginx/EvilGoPhish](https://help.evilginx.com)|`same_service(service="http" transport="tcp" (web.title~"Evilginx" or web.title~"evilgophish" or cert.issuer.org="Evilginx API")) or product="Evilginx"`|
 |Hookbot/Pegasus|`[TBC]`|
 |[AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)|`[TBC]`|
 |[Remcos](https://breakingsecurity.net/remcos/)|`[TBC]`|
