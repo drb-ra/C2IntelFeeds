@@ -106,7 +106,7 @@ Feeds are built using **Censys search queries** designed to detect known C2 fram
 - Service banners
 - Known implant artifacts
 
-# Censys Searches
+# Modat Searches
 
 | Tool | ```Modat Search```|
 |------|:------------|
