@@ -66,10 +66,16 @@ These feeds have undergone additional validation and **exclude known benign infr
 
 These feeds are generated from fingerprint matches but **may contain false positives**.
 
+**Domain Data** is derived from scan artifacts and validated against associated IP data at publish time to improved accuracy.
+
 | Feed | Description |
 |----|----|
-| **Unverified C2 IPs** | Potential C2 IPs based on scan artifacts |
-| **Unverified C2 Domains** | Potential C2 domains |
+| **Unverified C2 IPs** | Potential C2 IP addresses based on scan artifacts |
+| **Unverified C2 Domains** | Potential C2 domains based on scan artifacts|
+| **Unverified KVM IPs** | KVM-related IP addresses based on scan artifacts |
+| **Unverified KVM Domains** | KVM-related domains based on scan artifacts |
+| **Unverified RMM IPs** | RMM-related IP addresses based on scan artifacts |
+| **Unverified RMM Domains** | RMM-related domains based on scan artifacts |
 | **IP + Port Pairs** | Destination IP and port combinations |
 
 > ⚠️ **Use unverified feeds cautiously**. Local validation is strongly recommended.
