@@ -275,5 +275,7 @@
 ^360\.net,
 ^www\.gxrd\.gov\.cn,
 ^www\.dji\.com,
+^bilibili\.cn,
+^vip\.bilibili\.cn,
 ^http,
 ^https,
