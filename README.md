@@ -1,4 +1,4 @@
-# C2IntelFeeds
+# C2IntelFeeds - [WebUI](https://drb-ra.github.io/c2intel-web/)
 Automatically created C2 Feeds | Also posted via [@drb_ra](https://twitter.com/drb_ra) 
 
 **From May 1st, 2026 raw data is provided courtesy of Modat** -- https://modat.io/ 
@@ -127,24 +127,25 @@ Feeds are built using **Censys search queries** designed to detect known C2 fram
 |[Responder](https://github.com/lgandx/Responder) |`same_service(service="smb" transport="tcp" banner~"server_guid: AAAAAAAAAAAAAAAAAAAAAO6Fq/fq9gxPkoGSR23rdqk")`|
 |[Pupy RAT](https://github.com/n1nj4sec/pupy)|`same_service(service="unknown" transport="tcp" cert.subject.ou="CONTROL" cert.subject.org=~"^[a-zA-Z]{10}$" cert.issuer.org=~"^[a-zA-Z]{10}$") OR product="Pupy RAT"`|
 |Qakbot|`[TBC]`|
-|[DcRat](https://github.com/qwqdanchun/DcRat)|`[TBC]`|
+|[DcRat](https://github.com/qwqdanchun/DcRat)|`cert='CN=DcRat Server, OU=qwqdanchun, O=DcRat By qwqdanchun, L=SH, C=CN'`|
 |Viper|`same_service(web.title="VIPER" web.html.sha256=771fb5f8203ca3b8c3a184ebc4347d5308fd75ad57895bc8fddebe7f355ef20a) OR same_service(service="http" transport="tcp" product="Viper RAT")`|
 |[Supershell](https://github.com/tdragon6/Supershell/)|`same_service(service="http" transport="tcp" product="Supershell C2")`|
 |Pikabot|`[TBC]`|
 |Meduza Stealer|`[TBC]`|
 |[Evilginx/EvilGoPhish](https://help.evilginx.com)|`same_service(service="http" transport="tcp" (web.title~"Evilginx" or web.title~"evilgophish" or cert.issuer.org="Evilginx API")) or product="Evilginx"`|
-|Hookbot/Pegasus|`[TBC]`|
-|[AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)|`[TBC]`|
-|[Remcos](https://breakingsecurity.net/remcos/)|`[TBC]`|
+|Hookbot/Pegasus|`product="HookBot"`|
+|[AsyncRAT](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)|`cert.issuer.cn='AsyncRAT Server' and cert.subject.cn='AsyncRAT Server'`|
+|[Remcos](https://breakingsecurity.net/remcos/)|`same_service(service="unknown" transport="tcp" cert.jarm=00000000000000000041d41d0000001798d6156df422564fb9b667b7418e4c)`|
 |DanaBot|`[REDACTED]`|
 |Rhysida Trojan|`[REDACTED]`|
 |[Oyster Backdoor](https://www.rapid7.com/blog/post/2024/06/17/malvertising-campaign-leads-to-execution-of-oyster-backdoor/)|`[REDACTED]`|
 |SocGholish|`[REDACTED]`|
-|[NetSupport Manager RAT](https://www.netsupportmanager.com)|`[TBC]`|
+|[NetSupport Manager RAT](https://www.netsupportmanager.com)|`same_service(transport="tcp" banner~"Server: NetSupport Gateway/")`|
 |[Geacon_Pro](https://github.com/testxxxzzz/geacon_pro)|`[TBC]`|
 |[Hak5 Cloud C2](https://shop.hak5.org/products/c2)|`[TBC]`|
-|[CHAOS](https://github.com/tiagorlampert/CHAOS)|`[TBC]`|
-|[Interactsh](https://github.com/projectdiscovery/interactsh)|`[TBC]`|
+|[CHAOS](https://github.com/tiagorlampert/CHAOS)|`product="CHAOS RAT"`|
+|[Interactsh](https://github.com/projectdiscovery/interactsh)|`same_service(product="Interactsh"  tag="Security Tool") or banner~"interactsh" or same_service(port=53 service="dns"  banner.sha256=7e04d9c09faea19579f0f8dfa02a45633401b8502e58cb323748665ef6a367ad)`|
+|[BurpSuite Collaborator](https://portswigger.net/burp)|`product="BurpSuite Collaborator"`|
 |[Reverse SSH](https://github.com/NHAS/reverse_ssh)|`[REDACTED]`|
 |[wstunnel](https://github.com/erebe/wstunnel)|`[REDACTED]`|
 |[Ligolo-ng](https://github.com/nicocha30/ligolo-ng)|`[REDACTED]`|
