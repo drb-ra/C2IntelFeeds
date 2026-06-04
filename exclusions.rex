@@ -276,6 +276,7 @@
 ^www\.gxrd\.gov\.cn,
 ^www\.dji\.com,
 ^bilibili\.cn,
+^api\.telegram\.com,
 ^vip\.bilibili\.cn,
 ^http,
 ^https,
