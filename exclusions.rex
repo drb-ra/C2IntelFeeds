@@ -277,6 +277,7 @@
 ^www\.dji\.com,
 ^bilibili\.cn,
 ^api\.telegram\.com,
+\.telegram\.com,
 ^vip\.bilibili\.cn,
 ^http,
 ^https,
