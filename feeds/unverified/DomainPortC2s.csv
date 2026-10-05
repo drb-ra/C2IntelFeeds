@@ -1,15 +1,16 @@
 #domain,port,ioc,ip
 00t.me,80,Possible BurpSuite Collaborator Domain (Unverified),51.195.217.13
 0888wt.com,8080,Possible CyberStrikeAI Domain (Unverified),27.0.232.198
+0hiby0lde24awo5bxgp5efbullrff4.burpcollaborator.net,80,Possible BurpSuite Collaborator Domain (Unverified),54.77.139.23
 0pq.co,443,Possible BurpSuite Collaborator Domain (Unverified),51.195.222.152
 0qrnwzv1fnakmpbdi30e8rz6lxrqfkd83wvjl7a.oastify.com,443,Possible BurpSuite Collaborator Domain (Unverified),3.248.33.252
 0qrnwzv1fnakmpbdi30e8rz6lxrqfkd83wvjl7a.oastify.com,80,Possible BurpSuite Collaborator Domain (Unverified),54.77.139.23
-101-32-115-241.sslip.io,8000,Possible Cairn Domain (Unverified),101.32.115.241
 101-32-185-93.nip.io,8080,Possible CyberStrikeAI Domain (Unverified),101.32.185.93
 101-32-185-93.nip.io,9090,Possible CyberStrikeAI Domain (Unverified),101.32.185.93
 103.116.52.203.sslip.io,4321,Possible AdaptixC2 Domain (Unverified),103.116.52.203
 11777-outbound-webtest.nsd.li,80,Possible BurpSuite Collaborator Domain (Unverified),81.95.8.185
 11792-webtest.nsd.li,443,Possible BurpSuite Collaborator Domain (Unverified),80.255.6.3
+11792-webtest.nsd.li,80,Possible BurpSuite Collaborator Domain (Unverified),80.255.6.3
 12578578.xyz,8000,Possible Cairn Domain (Unverified),64.112.42.176
 139-162-113-221.ip.linodeusercontent.com,64321,Possible AdaptixC2 Domain (Unverified),139.162.113.221
 144-124-234-128.sslip.io,49999,Possible AdaptixC2 Domain (Unverified),144.124.234.128
@@ -29,9 +30,6 @@
 172-105-74-94.ip.linodeusercontent.com,80,Possible Hak5 Cloud C2 Domain (Unverified),172.105.74.94
 185-135-80-216.cprapid.com,8080,Possible CyberStrikeAI Domain (Unverified),185.135.80.216
 188.166.244.201.sslip.io,4321,Possible AdaptixC2 Domain (Unverified),188.166.244.201
-188.212.158.203.nip.io,1145,Possible AsyncRAT Domain (Unverified),188.212.158.203
-188.212.158.203.nip.io,6606,Possible AsyncRAT Domain (Unverified),188.212.158.203
-188.212.158.203.nip.io,8808,Possible AsyncRAT Domain (Unverified),188.212.158.203
 193.134.211.175.nip.io,8080,Possible CyberStrikeAI Domain (Unverified),193.134.211.175
 207-57-186-55.sslip.io,8080,Possible CyberStrikeAI Domain (Unverified),207.57.186.55
 217-60-195-110.cprapid.com,443,Possible PureRAT Domain (Unverified),217.60.195.110
@@ -49,23 +47,19 @@
 38.rs,3790,Possible Metasploit Domain (Unverified),109.123.242.116
 3ta.me,443,Possible BurpSuite Collaborator Domain (Unverified),57.129.14.48
 3ta.me,80,Possible BurpSuite Collaborator Domain (Unverified),57.129.14.48
-4.javashell.com,8080,Possible CyberStrikeAI Domain (Unverified),185.186.245.131
 43-167-179-153.sslip.io,8080,Possible CyberStrikeAI Domain (Unverified),43.167.179.153
 43-250-53-42.nip.io,8000,Possible Cairn Domain (Unverified),43.250.53.42
 46.8.227.73.sslip.io,8000,Possible Cairn Domain (Unverified),46.8.227.73
 49tc9.app,8080,Possible CyberStrikeAI Domain (Unverified),45.207.196.67
-4vv.me,443,Possible BurpSuite Collaborator Domain (Unverified),51.195.218.230
 4vv.me,80,Possible BurpSuite Collaborator Domain (Unverified),51.195.218.230
 50-116-40-144.ip.linodeusercontent.com,443,Possible BurpSuite Collaborator Domain (Unverified),50.116.40.144
 50-116-40-144.ip.linodeusercontent.com,80,Possible BurpSuite Collaborator Domain (Unverified),50.116.40.144
 52.128.241.51.sslip.io,8080,Possible CyberStrikeAI Domain (Unverified),52.128.241.51
 54.176.169.192.host.secureserver.net,449,Possible Havoc Domain (Unverified),192.169.176.54
-649.dzymw.top,8080,Possible CyberStrikeAI Domain (Unverified),151.243.126.14
 666261.com,9137,Possible Xalgorix Domain (Unverified),154.219.98.250
 67-223-117-214.sslip.io,8443,Possible PentAGI Domain (Unverified),67.223.117.214
 692491.xyz,8080,Possible CyberStrikeAI Domain (Unverified),67.215.229.22
 77.110.114.36.sslip.io,4096,Possible CyberStrike Domain (Unverified),77.110.114.36
-77.111.101.103.sslip.io,443,Possible Reverse_SSH Domain (Unverified),77.111.101.103
 77.111.101.103.sslip.io,9191,Possible Reverse_SSH Domain (Unverified),77.111.101.103
 7dlxk.avp-18432.iad.176221588272.proxy.springtide.aws.dev,80,Possible BurpSuite Collaborator Domain (Unverified),44.254.210.57
 84-247-183-230.sslip.io,8443,Possible PentAGI Domain (Unverified),84.247.183.230
@@ -78,6 +72,7 @@
 96.si,443,Possible BurpSuite Collaborator Domain (Unverified),23.88.62.86
 96.si,80,Possible BurpSuite Collaborator Domain (Unverified),23.88.62.86
 9bn.in,80,Possible BurpSuite Collaborator Domain (Unverified),51.83.99.132
+a.bsnu.site,443,Possible BurpSuite Collaborator Domain (Unverified),89.117.150.79
 a.bsnu.site,80,Possible BurpSuite Collaborator Domain (Unverified),89.117.150.79
 a.pentestdemo.com,443,Possible BurpSuite Collaborator Domain (Unverified),161.35.71.171
 a.pentestdemo.com,80,Possible BurpSuite Collaborator Domain (Unverified),161.35.71.171
@@ -89,6 +84,7 @@ account.microsoftonline.gexoa.zip,8234,Possible AdaptixC2 Domain (Unverified),20
 ad4.nbfsa.top,4321,Possible AdaptixC2 Domain (Unverified),121.127.253.146
 adgov.online,443,Possible BurpSuite Collaborator Domain (Unverified),3.29.113.247
 adgov.online,80,Possible BurpSuite Collaborator Domain (Unverified),3.29.113.247
+admin.sdlxkj.cn,18443,Possible AdaptixC2 Domain (Unverified),82.158.229.30
 adobe.mzetechnetwork.com,8080,Possible CyberStrikeAI Domain (Unverified),198.44.33.152
 ads.daluquan.top,8964,Possible CyberStrikeAI Domain (Unverified),23.94.44.214
 aefkm.com,8080,Possible CyberStrikeAI Domain (Unverified),111.68.4.14
@@ -101,6 +97,7 @@ ai.lmysaberblog.cn,8080,Possible CyberStrikeAI Domain (Unverified),38.95.75.222
 ai.test.xspectre.com.au,17800,Possible PentAGI Domain (Unverified),193.114.148.238
 ai.vap1.cn,8443,Possible PentAGI Domain (Unverified),193.134.208.84
 aidb.mspl.cloud,8443,Possible PentAGI Domain (Unverified),14.96.98.176
+aihub.ansraccess.in,8443,Possible PentAGI Domain (Unverified),34.196.77.18
 aikitchtech.com,80,Possible DinDoor Domain (Unverified),31.76.96.193
 aisecid.raksmart.com,443,Possible CyberStrikeAI Domain (Unverified),192.74.251.211
 aisecid.raksmart.com,80,Possible CyberStrikeAI Domain (Unverified),192.74.251.211
@@ -113,20 +110,22 @@ all-view.autonode.net,65000,Possible Mythic Domain (Unverified),165.232.52.148
 ally.crwc.sh,443,Possible BurpSuite Collaborator Domain (Unverified),3.93.217.11
 ally.crwc.sh,80,Possible BurpSuite Collaborator Domain (Unverified),3.93.217.11
 alpha.davincialgo.io,8443,Possible wstunnel Domain (Unverified),166.0.19.249
+amazing-liskov.192-162-199-188.plesk.page,443,Possible PureRAT Domain (Unverified),192.162.199.188
 amyicotech.com,7444,Possible Mythic Domain (Unverified),149.202.227.107
 analytics.cairnsecurity.com,80,Possible Cairn Domain (Unverified),52.238.195.144
 anatest5.xyz,8168,Possible CyberStrikeAI Domain (Unverified),138.226.246.157
+aomeicloud.com,8000,Possible Cairn Domain (Unverified),35.225.35.45
 api-msg.enkripsilintasnusa.com,31845,Possible CHAOS Domain (Unverified),36.94.34.18
 api.baldduck.cn,8443,Possible PentAGI Domain (Unverified),154.12.51.133
 api.ducat.moe,8080,Possible CyberStrikeAI Domain (Unverified),37.60.246.25
 api.exgate.site,8444,Possible PentAGI Domain (Unverified),194.163.144.205
 api.grand-stars.online,9000,Possible DevilGinx Domain (Unverified),185.212.128.59
 api.grand-stars.online,9000,Possible Evilginx/EvilGoPhish Domain (Unverified),185.212.128.59
+api.hotspin88am.com,7897,Possible CyberStrikeAI Domain (Unverified),154.89.153.20
 api.pospaudmelatiazzahra.com,4321,Possible AdaptixC2 Domain (Unverified),103.253.212.216
 api.rev-9.xyz,49172,Possible CyberStrikeAI Domain (Unverified),103.118.252.41
 api.temasek-it.com,443,Possible Pywssocks Domain (Unverified),136.85.98.45
 api.temasek-it.com,8080,Possible Pywssocks Domain (Unverified),136.85.98.45
-api.vulnscanners.com,9090,Possible Hak5 Cloud C2 Domain (Unverified),178.104.172.54
 app.136-112-20-198.sslip.io,8443,Possible PentAGI Domain (Unverified),136.112.20.198
 app.collab.tr4t.io,80,Possible BurpSuite Collaborator Domain (Unverified),54.245.113.160
 app.listentothewhispers.net,443,Possible BurpSuite Collaborator Domain (Unverified),52.212.133.79
@@ -135,7 +134,6 @@ aproveitalemerlin.com,9090,Possible Reverse_SSH Domain (Unverified),77.111.101.1
 apsarasilk.com,6606,Possible AsyncRAT Domain (Unverified),192.142.10.165
 apsarasilk.com,8808,Possible AsyncRAT Domain (Unverified),192.142.10.165
 apsikkerhed.dk,3322,Possible Evilginx/EvilGoPhish Domain (Unverified),2.28.107.84
-archive.nediorg.serv00.net,4697,Possible wstunnel Domain (Unverified),128.204.223.94
 argonlogic.com,8081,Possible Hak5 Cloud C2 Domain (Unverified),209.145.50.30
 arl.codeapi.online,8010,Possible Cairn Domain (Unverified),8.152.193.50
 arl.primeice.top,8443,Possible CyberStrikeAI Domain (Unverified),64.83.18.174
@@ -158,8 +156,6 @@ azburp.in,443,Possible BurpSuite Collaborator Domain (Unverified),54.163.40.81
 azburp.in,80,Possible BurpSuite Collaborator Domain (Unverified),54.163.40.81
 azcollab.pr3v3nity.pl,443,Possible BurpSuite Collaborator Domain (Unverified),134.112.16.24
 azcollab.pr3v3nity.pl,80,Possible BurpSuite Collaborator Domain (Unverified),134.112.16.24
-azeleainfomail.online,443,Possible PureRAT Domain (Unverified),45.139.104.232
-azeleainfomail.online,55009,Possible PureRAT Domain (Unverified),45.139.104.232
 b-graph.henho3s.com,56002,Possible PureRAT Domain (Unverified),15.235.149.212
 b.0wn.at,443,Possible BurpSuite Collaborator Domain (Unverified),185.238.32.140
 b.0wn.at,80,Possible BurpSuite Collaborator Domain (Unverified),185.238.32.140
@@ -171,13 +167,14 @@ b.cynlab.uk,443,Possible BurpSuite Collaborator Domain (Unverified),18.169.79.77
 b.cynlab.uk,80,Possible BurpSuite Collaborator Domain (Unverified),18.169.79.77
 b.dxcsecops.com,443,Possible BurpSuite Collaborator Domain (Unverified),3.65.29.96
 b.dxcsecops.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.65.29.96
-b.inty.io,443,Possible BurpSuite Collaborator Domain (Unverified),84.22.115.173
-b.inty.io,80,Possible BurpSuite Collaborator Domain (Unverified),84.22.115.173
+b.horadrim.xyz,443,Possible BurpSuite Collaborator Domain (Unverified),18.189.228.148
+b.horadrim.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),18.189.228.148
 b.k0.lc,443,Possible BurpSuite Collaborator Domain (Unverified),45.147.97.226
 b.k0.lc,80,Possible BurpSuite Collaborator Domain (Unverified),45.147.97.226
 b.nf,443,Possible BurpSuite Collaborator Domain (Unverified),44.210.45.110
 b.nf,80,Possible BurpSuite Collaborator Domain (Unverified),44.210.45.110
 b.nf,8080,Possible BurpSuite Collaborator Domain (Unverified),44.210.45.110
+b.p7z.pw,443,Possible BurpSuite Collaborator Domain (Unverified),128.199.181.95
 b.p7z.pw,80,Possible BurpSuite Collaborator Domain (Unverified),128.199.181.95
 b.pilotairbus.com,4443,Possible BurpSuite Collaborator Domain (Unverified),157.173.112.251
 b.pilotairbus.com,8080,Possible BurpSuite Collaborator Domain (Unverified),157.173.112.251
@@ -193,6 +190,7 @@ b2.tlab.dpdns.org,80,Possible BurpSuite Collaborator Domain (Unverified),23.95.8
 b32.h5-quanyi.ppword.top,8080,Possible CyberStrikeAI Domain (Unverified),154.222.19.45
 badabing.forum,2052,Possible DinDoor Domain (Unverified),23.94.252.242
 baichuanyurong.com,8080,Possible CyberStrikeAI Domain (Unverified),177.211.86.200
+balady-proxy.nside.cc,8443,Possible PentAGI Domain (Unverified),130.94.120.254
 bandage.healthydefinitetrunk.com,443,Possible DinDoor Domain (Unverified),138.124.240.76
 bandage.healthydefinitetrunk.com,80,Possible DinDoor Domain (Unverified),138.124.240.76
 bardatsky.top,9000,Possible DevilGinx Domain (Unverified),185.212.129.70
@@ -201,8 +199,6 @@ batalha.museusemonumentostestes5.eu,5641,Possible AdaptixC2 Domain (Unverified),
 bbhunting.com,1444,Possible BurpSuite Collaborator Domain (Unverified),64.23.147.211
 bbhunting.com,19443,Possible BurpSuite Collaborator Domain (Unverified),64.23.147.211
 bbhunting.com,9555,Possible BurpSuite Collaborator Domain (Unverified),64.23.147.211
-bc-hackner-security.com,443,Possible BurpSuite Collaborator Domain (Unverified),213.164.30.187
-bc-hackner-security.com,80,Possible BurpSuite Collaborator Domain (Unverified),213.164.30.187
 bc.6dgoffsec.co.uk,80,Possible BurpSuite Collaborator Domain (Unverified),35.176.205.155
 bc.cybercloud.io,443,Possible BurpSuite Collaborator Domain (Unverified),167.71.68.76
 bc.cybercloud.io,80,Possible BurpSuite Collaborator Domain (Unverified),167.71.68.76
@@ -231,29 +227,27 @@ bc.tesred.com,443,Possible BurpSuite Collaborator Domain (Unverified),134.199.22
 bc.tesred.com,80,Possible BurpSuite Collaborator Domain (Unverified),134.199.228.178
 bc.tiefps.net,443,Possible BurpSuite Collaborator Domain (Unverified),54.162.172.92
 bc.tiefps.net,80,Possible BurpSuite Collaborator Domain (Unverified),54.162.172.92
-bc.ukpt.uk,33443,Possible BurpSuite Collaborator Domain (Unverified),81.145.232.113
 bc.websec.how,443,Possible BurpSuite Collaborator Domain (Unverified),142.202.154.98
 bc.websec.how,80,Possible BurpSuite Collaborator Domain (Unverified),142.202.154.98
 bc.wpcookie.net,443,Possible BurpSuite Collaborator Domain (Unverified),83.228.247.89
 bc.wpcookie.net,80,Possible BurpSuite Collaborator Domain (Unverified),83.228.247.89
 bclisle-test.chaouane.xyz,443,Possible BurpSuite Collaborator Domain (Unverified),144.91.88.206
+bclisle-test.chaouane.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),144.91.88.206
 bcollaborator.binsec.cloud,80,Possible BurpSuite Collaborator Domain (Unverified),64.227.78.12
 bcollaborator.syss.de,443,Possible BurpSuite Collaborator Domain (Unverified),185.142.184.12
 bcollaborator.syss.de,80,Possible BurpSuite Collaborator Domain (Unverified),185.142.184.12
-bcpoll.ukpt.uk,3380,Possible BurpSuite Collaborator Domain (Unverified),81.145.232.113
-bcpoll.ukpt.uk,443,Possible BurpSuite Collaborator Domain (Unverified),81.145.232.113
-bcpoll.ukpt.uk,80,Possible BurpSuite Collaborator Domain (Unverified),81.145.232.113
 bcsd.digitrace.de,443,Possible BurpSuite Collaborator Domain (Unverified),85.88.9.184
 bcsd.digitrace.de,80,Possible BurpSuite Collaborator Domain (Unverified),85.88.9.184
 bdef.ninja,443,Possible BurpSuite Collaborator Domain (Unverified),77.42.29.165
 bdef.ninja,80,Possible BurpSuite Collaborator Domain (Unverified),77.42.29.165
+beheer-adr.nl,443,Possible BurpSuite Collaborator Domain (Unverified),62.129.142.106
 beheer-adr.nl,80,Possible BurpSuite Collaborator Domain (Unverified),62.129.142.106
 bhsun.com,8080,Possible CyberStrikeAI Domain (Unverified),149.88.73.75
-bikkeyhardware.ktm.yetiappcloud.com,11015,Possible Xalgorix Domain (Unverified),45.115.217.5
 bikkeyhardware.ktm.yetiappcloud.com,11080,Possible Xalgorix Domain (Unverified),45.115.217.5
 bilibill.shop,8080,Possible CyberStrikeAI Domain (Unverified),154.8.155.23
 bingchat.serv00.net,29889,Possible wstunnel Domain (Unverified),128.204.223.94
 bingchat.serv00.net,51106,Possible wstunnel Domain (Unverified),128.204.223.94
+bingrenshuyuan.com,8080,Possible CyberStrikeAI Domain (Unverified),101.201.108.71
 biomediclife.com,443,Possible DinDoor Domain (Unverified),38.180.250.214
 bitcart.capitalforgex.com,443,Possible RedAmon Domain (Unverified),23.111.14.152
 blanche.defaultcentralbank.com,8080,Possible CyberStrikeAI Domain (Unverified),194.62.251.34
@@ -264,6 +258,7 @@ bmoburpcollab.ca,80,Possible BurpSuite Collaborator Domain (Unverified),40.71.16
 bobicake.direct.quickconnect.to,18993,Possible wstunnel Domain (Unverified),85.194.243.117
 br.ht,443,Possible BurpSuite Collaborator Domain (Unverified),70.34.195.164
 br.ht,80,Possible BurpSuite Collaborator Domain (Unverified),70.34.195.164
+brief-melon.autonode.net,65000,Possible Mythic Domain (Unverified),167.99.101.176
 briefing.bizcommerce.com.br,8443,Possible Evilginx/EvilGoPhish Domain (Unverified),198.199.82.231
 brp.li,443,Possible BurpSuite Collaborator Domain (Unverified),185.203.114.122
 brp.li,80,Possible BurpSuite Collaborator Domain (Unverified),185.203.114.122
@@ -273,8 +268,7 @@ brp.prd.rocks,8080,Possible BurpSuite Collaborator Domain (Unverified),104.248.2
 brp.prd.rocks,8443,Possible BurpSuite Collaborator Domain (Unverified),104.248.231.250
 bsc.pingme.global,80,Possible BurpSuite Collaborator Domain (Unverified),54.158.100.221
 bstough.com,8080,Possible CyberStrikeAI Domain (Unverified),45.32.77.95
-bt7274.top,60061,Possible CyberStrikeAI Domain (Unverified),101.34.244.173
-bu.m1n1r1.ch,11601,Possible Ligolo-ng Domain (Unverified),194.163.190.186
+bt7274.top,60061,Possible CyberStrikeAI Domain (Unverified),101.43.117.154
 bugbear.silentgrid.io,443,Possible BurpSuite Collaborator Domain (Unverified),3.105.253.220
 bugbear.silentgrid.io,80,Possible BurpSuite Collaborator Domain (Unverified),3.105.253.220
 bugshieldlabs.com,443,Possible BurpSuite Collaborator Domain (Unverified),159.89.40.57
@@ -286,28 +280,26 @@ burp-ctr-01.schellman.info,443,Possible BurpSuite Collaborator Domain (Unverifie
 burp-ctr-01.schellman.info,80,Possible BurpSuite Collaborator Domain (Unverified),3.150.71.44
 burp-ctr.schellman.info,443,Possible BurpSuite Collaborator Domain (Unverified),18.134.48.92
 burp-ctr.schellman.info,80,Possible BurpSuite Collaborator Domain (Unverified),18.134.48.92
+burp-eu-collaborator-01.key-systems.net,443,Possible BurpSuite Collaborator Domain (Unverified),109.234.106.133
+burp-eu-collaborator-01.key-systems.net,80,Possible BurpSuite Collaborator Domain (Unverified),109.234.106.133
 burp.1nteract.de,443,Possible BurpSuite Collaborator Domain (Unverified),18.184.86.194
 burp.1nteract.de,80,Possible BurpSuite Collaborator Domain (Unverified),18.184.86.194
 burp.a1digitalcollab.com,443,Possible BurpSuite Collaborator Domain (Unverified),138.124.209.110
 burp.a1digitalcollab.com,80,Possible BurpSuite Collaborator Domain (Unverified),138.124.209.110
+burp.attack.live,443,Possible BurpSuite Collaborator Domain (Unverified),136.115.216.28
 burp.attack.live,80,Possible BurpSuite Collaborator Domain (Unverified),136.115.216.28
 burp.bsec.nz,443,Possible BurpSuite Collaborator Domain (Unverified),170.64.195.90
 burp.bsec.nz,80,Possible BurpSuite Collaborator Domain (Unverified),170.64.195.90
-burp.burp-csiro.com,443,Possible BurpSuite Collaborator Domain (Unverified),54.66.204.20
 burp.burp-csiro.com,80,Possible BurpSuite Collaborator Domain (Unverified),54.66.204.20
 burp.cai-offsec.com,443,Possible BurpSuite Collaborator Domain (Unverified),20.42.44.77
 burp.cai-offsec.com,80,Possible BurpSuite Collaborator Domain (Unverified),20.42.44.77
 burp.cf.stagmoon.net,443,Possible BurpSuite Collaborator Domain (Unverified),47.128.249.247
 burp.cf.stagmoon.net,80,Possible BurpSuite Collaborator Domain (Unverified),47.128.249.247
-burp.collaborateur.net,443,Possible BurpSuite Collaborator Domain (Unverified),52.25.65.218
 burp.collaborateur.net,80,Possible BurpSuite Collaborator Domain (Unverified),52.25.65.218
 burp.collaborator-ps.nl,443,Possible BurpSuite Collaborator Domain (Unverified),4.231.126.11
 burp.collaborator-ps.nl,80,Possible BurpSuite Collaborator Domain (Unverified),4.231.126.11
 burp.corpvus.com,443,Possible BurpSuite Collaborator Domain (Unverified),165.232.128.79
 burp.corpvus.com,80,Possible BurpSuite Collaborator Domain (Unverified),165.232.128.79
-burp.css-pen.de,443,Possible BurpSuite Collaborator Domain (Unverified),172.105.92.230
-burp.css-pen.de,80,Possible BurpSuite Collaborator Domain (Unverified),172.105.92.230
-burp.cxapt.net,443,Possible BurpSuite Collaborator Domain (Unverified),18.233.224.163
 burp.cyberamt.de,443,Possible BurpSuite Collaborator Domain (Unverified),193.101.132.17
 burp.cyberamt.de,80,Possible BurpSuite Collaborator Domain (Unverified),193.101.132.17
 burp.dara-collab.com,443,Possible BurpSuite Collaborator Domain (Unverified),172.105.152.226
@@ -318,7 +310,8 @@ burp.getnexos.com,443,Possible BurpSuite Collaborator Domain (Unverified),3.122.
 burp.getnexos.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.122.163.65
 burp.hack.coach,443,Possible BurpSuite Collaborator Domain (Unverified),185.144.92.20
 burp.hack.coach,80,Possible BurpSuite Collaborator Domain (Unverified),185.144.92.20
-burp.mbti.red,443,Possible BurpSuite Collaborator Domain (Unverified),162.55.60.182
+burp.klabpl.com,443,Possible BurpSuite Collaborator Domain (Unverified),82.214.130.195
+burp.klabpl.com,80,Possible BurpSuite Collaborator Domain (Unverified),82.214.130.195
 burp.mbti.red,80,Possible BurpSuite Collaborator Domain (Unverified),162.55.60.182
 burp.me.uk,443,Possible BurpSuite Collaborator Domain (Unverified),45.155.108.92
 burp.me.uk,80,Possible BurpSuite Collaborator Domain (Unverified),45.155.108.92
@@ -330,8 +323,6 @@ burp.oastable.com,80,Possible BurpSuite Collaborator Domain (Unverified),45.77.1
 burp.okx.ch,443,Possible BurpSuite Collaborator Domain (Unverified),82.197.162.60
 burp.okx.ch,80,Possible BurpSuite Collaborator Domain (Unverified),82.197.162.60
 burp.pew.gg,80,Possible BurpSuite Collaborator Domain (Unverified),3.8.94.46
-burp.privsectesting.co.nz,443,Possible BurpSuite Collaborator Domain (Unverified),54.253.167.72
-burp.privsectesting.co.nz,80,Possible BurpSuite Collaborator Domain (Unverified),54.253.167.72
 burp.repentest.com,443,Possible BurpSuite Collaborator Domain (Unverified),13.124.46.98
 burp.repentest.com,80,Possible BurpSuite Collaborator Domain (Unverified),13.124.46.98
 burp.s247.io,443,Possible BurpSuite Collaborator Domain (Unverified),18.159.137.30
@@ -345,14 +336,15 @@ burp.tencentit.com.cn,443,Possible BurpSuite Collaborator Domain (Unverified),21
 burp.tencentit.com.cn,80,Possible BurpSuite Collaborator Domain (Unverified),211.159.170.170
 burp.triaxiomsecurity.com,443,Possible BurpSuite Collaborator Domain (Unverified),104.236.229.66
 burp.triaxiomsecurity.com,80,Possible BurpSuite Collaborator Domain (Unverified),104.236.229.66
+burp.whsec.us,80,Possible BurpSuite Collaborator Domain (Unverified),52.42.111.215
 burpcollab.anvilsec.com,443,Possible BurpSuite Collaborator Domain (Unverified),20.253.226.62
 burpcollab.anvilsec.com,80,Possible BurpSuite Collaborator Domain (Unverified),20.253.226.62
 burpcollab.bc-audit-app.com,80,Possible BurpSuite Collaborator Domain (Unverified),34.215.187.6
+burpcollab.bc-audit-app.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.34.235.239
 burpcollab.binsec.com,443,Possible BurpSuite Collaborator Domain (Unverified),162.55.59.194
 burpcollab.binsec.com,80,Possible BurpSuite Collaborator Domain (Unverified),162.55.59.194
 burpcollab.poc-sec-1.com,443,Possible BurpSuite Collaborator Domain (Unverified),80.168.64.195
 burpcollab.poc-sec-1.com,80,Possible BurpSuite Collaborator Domain (Unverified),80.168.64.195
-burpcollaborator.8compt.com,443,Possible BurpSuite Collaborator Domain (Unverified),213.183.73.220
 burpcollaborator.8compt.com,80,Possible BurpSuite Collaborator Domain (Unverified),213.183.73.220
 burpcollaborator.dnsc.at,443,Possible BurpSuite Collaborator Domain (Unverified),62.212.188.62
 burpcollaborator.dnsc.at,80,Possible BurpSuite Collaborator Domain (Unverified),62.212.188.62
@@ -362,15 +354,12 @@ burpcollaborator.flatt-security.net,443,Possible BurpSuite Collaborator Domain (
 burpcollaborator.scip-red.ch,443,Possible BurpSuite Collaborator Domain (Unverified),141.195.91.73
 burpcollaborator.scip-red.ch,80,Possible BurpSuite Collaborator Domain (Unverified),141.195.91.73
 burpserver.doyentesting.com,443,Possible BurpSuite Collaborator Domain (Unverified),54.212.65.29
+burpserver.doyentesting.com,80,Possible BurpSuite Collaborator Domain (Unverified),54.212.65.29
 c-netbird.bi-concepts.eu,8443,Possible wstunnel Domain (Unverified),82.165.185.66
 c.act1on3.ru,443,Possible BurpSuite Collaborator Domain (Unverified),80.249.149.144
 c.act1on3.ru,80,Possible BurpSuite Collaborator Domain (Unverified),80.249.149.144
 c.as-collab.ru,443,Possible BurpSuite Collaborator Domain (Unverified),91.244.242.48
-c.as-collab.ru,80,Possible BurpSuite Collaborator Domain (Unverified),91.244.242.48
-c.c2.rip,443,Possible BurpSuite Collaborator Domain (Unverified),143.244.212.178
-c.c2.rip,80,Possible BurpSuite Collaborator Domain (Unverified),143.244.212.178
 c.c2.rip,8080,Possible BurpSuite Collaborator Domain (Unverified),143.244.212.178
-c.c2.rip,8443,Possible BurpSuite Collaborator Domain (Unverified),143.244.212.178
 c.ccxsta.com,443,Possible BurpSuite Collaborator Domain (Unverified),13.236.11.163
 c.ccxsta.com,80,Possible BurpSuite Collaborator Domain (Unverified),13.236.11.163
 c.csacyber.org,443,Possible BurpSuite Collaborator Domain (Unverified),178.62.62.9
@@ -393,6 +382,7 @@ c.p0w.pw,80,Possible BurpSuite Collaborator Domain (Unverified),194.87.234.191
 c.profundis-labs.de,443,Possible BurpSuite Collaborator Domain (Unverified),178.63.252.192
 c.profundis-labs.de,80,Possible BurpSuite Collaborator Domain (Unverified),178.63.252.192
 c.r3d.fi,443,Possible BurpSuite Collaborator Domain (Unverified),54.172.138.215
+c.r3d.fi,80,Possible BurpSuite Collaborator Domain (Unverified),54.172.138.215
 c.sgttest.com.br,443,Possible BurpSuite Collaborator Domain (Unverified),3.14.76.0
 c.sgttest.com.br,80,Possible BurpSuite Collaborator Domain (Unverified),3.14.76.0
 c.stlv.uk,443,Possible BurpSuite Collaborator Domain (Unverified),195.97.212.9
@@ -412,6 +402,7 @@ c.xssd.io,80,Possible BurpSuite Collaborator Domain (Unverified),45.33.41.237
 c01.red,80,Possible BurpSuite Collaborator Domain (Unverified),18.136.214.207
 c2.38.22.234.200.sslip.io,8081,Possible CyberStrikeAI Domain (Unverified),38.22.234.200
 c2.djkat.net,443,Possible Hak5 Cloud C2 Domain (Unverified),98.89.116.6
+c2.djkat.net,80,Possible Hak5 Cloud C2 Domain (Unverified),98.89.116.6
 c2.greifvogel.ch,8080,Possible Hak5 Cloud C2 Domain (Unverified),140.238.168.101
 c2.jacobriggs.io,8080,Possible Hak5 Cloud C2 Domain (Unverified),3.10.70.226
 c2.mjbates.com,443,Possible Hak5 Cloud C2 Domain (Unverified),147.182.241.212
@@ -422,15 +413,14 @@ c2.vikyv.online,8080,Possible Hak5 Cloud C2 Domain (Unverified),62.84.179.11
 cairn.olivercandle.com,443,Possible Cairn Domain (Unverified),159.89.36.202
 cairnindia.com,443,Possible Cairn Domain (Unverified),34.93.47.168
 cairnindia.com,80,Possible Cairn Domain (Unverified),34.93.47.168
-cairntime.com,443,Possible Cairn Domain (Unverified),52.34.72.156
+cairnmud.com,443,Possible Cairn Domain (Unverified),108.166.161.149
+cairntime.com,443,Possible Cairn Domain (Unverified),52.88.33.182
 caogancao.com,56001,Possible PureRAT Domain (Unverified),134.122.187.68
 caogancao.com,56002,Possible PureRAT Domain (Unverified),134.122.187.68
-caogancao.com,56003,Possible PureRAT Domain (Unverified),134.122.187.68
 capoo.me,3232,Possible Reverse_SSH Domain (Unverified),4.230.24.119
 capoo.me,8888,Possible Supershell Domain (Unverified),4.230.24.119
 cartridge-guide.co.uk,34211,Possible Sliver Domain (Unverified),91.199.154.103
 cartridge-guide.co.uk,443,Possible Sliver Domain (Unverified),91.199.154.103
-catch1.priv.red,443,Possible BurpSuite Collaborator Domain (Unverified),54.206.97.67
 catch1.priv.red,80,Possible BurpSuite Collaborator Domain (Unverified),54.206.97.67
 cb.4x.pw,443,Possible BurpSuite Collaborator Domain (Unverified),130.162.240.54
 cb.4x.pw,80,Possible BurpSuite Collaborator Domain (Unverified),130.162.240.54
@@ -445,11 +435,13 @@ cbshsbsiosifi82ovs.rest,56001,Possible PureRAT Domain (Unverified),146.19.125.14
 cbshsbsiosifi82ovs.rest,56002,Possible PureRAT Domain (Unverified),146.19.125.141
 cbx.r3dtm.net,443,Possible BurpSuite Collaborator Domain (Unverified),206.189.219.154
 cbx.r3dtm.net,80,Possible BurpSuite Collaborator Domain (Unverified),206.189.219.154
+cciolabs.com,30121,Possible wstunnel Domain (Unverified),43.106.139.208
 cdndata.land,443,Possible Pupy RAT Domain (Unverified),94.154.32.101
 centreformexa.fr,8443,Possible PentAGI Domain (Unverified),164.132.42.103
 cfmate.com,17890,Possible CyberStrikeAI Domain (Unverified),23.80.83.20
 cgpay.net,8443,Possible CyberStrikeAI Domain (Unverified),45.119.54.154
 chaos.vin,443,Possible CHAOS Domain (Unverified),43.142.77.170
+chaos.vin,80,Possible CHAOS Domain (Unverified),43.142.77.170
 chat.cloakify.dev,8080,Possible CyberStrikeAI Domain (Unverified),65.109.199.120
 chat.hjcsvip.cn,8443,Possible PentAGI Domain (Unverified),199.7.140.65
 chat2.apt.cab,8443,Possible PentAGI Domain (Unverified),208.87.243.221
@@ -475,20 +467,18 @@ col.ps.s10gu.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.68.10
 colab.bbpvdp.uk,443,Possible BurpSuite Collaborator Domain (Unverified),89.117.52.233
 colab.bbpvdp.uk,80,Possible BurpSuite Collaborator Domain (Unverified),89.117.52.233
 colab.redopsninja.com,443,Possible BurpSuite Collaborator Domain (Unverified),13.114.110.246
-colab.redopsninja.com,80,Possible BurpSuite Collaborator Domain (Unverified),13.114.110.246
 coll.vultus.info,443,Possible BurpSuite Collaborator Domain (Unverified),18.231.140.168
 coll.vultus.info,80,Possible BurpSuite Collaborator Domain (Unverified),18.231.140.168
 colla.borator.net,443,Possible BurpSuite Collaborator Domain (Unverified),134.149.64.105
 colla.borator.net,80,Possible BurpSuite Collaborator Domain (Unverified),134.149.64.105
 colla.hnsec.it,443,Possible BurpSuite Collaborator Domain (Unverified),54.36.236.69
+colla.hnsec.it,80,Possible BurpSuite Collaborator Domain (Unverified),54.36.236.69
+colla.hnsec.it,8080,Possible BurpSuite Collaborator Domain (Unverified),54.36.236.69
+colla.hnsec.it,8443,Possible BurpSuite Collaborator Domain (Unverified),54.36.236.69
 colla.offsec-tnxt.net,443,Possible BurpSuite Collaborator Domain (Unverified),35.152.144.26
 colla.offsec-tnxt.net,80,Possible BurpSuite Collaborator Domain (Unverified),35.152.144.26
 collab.axispentest.com,443,Possible BurpSuite Collaborator Domain (Unverified),217.154.55.56
 collab.axispentest.com,80,Possible BurpSuite Collaborator Domain (Unverified),217.154.55.56
-collab.baegmon.com,443,Possible BurpSuite Collaborator Domain (Unverified),150.230.10.241
-collab.baegmon.com,80,Possible BurpSuite Collaborator Domain (Unverified),150.230.10.241
-collab.bbp-cloud.xyz,443,Possible BurpSuite Collaborator Domain (Unverified),172.237.128.179
-collab.bbp-cloud.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),172.237.128.179
 collab.bbp-cloud.xyz,8080,Possible BurpSuite Collaborator Domain (Unverified),172.237.128.179
 collab.bbp-cloud.xyz,8443,Possible BurpSuite Collaborator Domain (Unverified),172.237.128.179
 collab.c14dd49h.ovh,443,Possible BurpSuite Collaborator Domain (Unverified),109.199.127.102
@@ -499,7 +489,6 @@ collab.cipherix.fi,443,Possible BurpSuite Collaborator Domain (Unverified),164.9
 collab.cipherix.fi,80,Possible BurpSuite Collaborator Domain (Unverified),164.90.180.119
 collab.collabme.ca,443,Possible BurpSuite Collaborator Domain (Unverified),138.197.139.91
 collab.collabme.ca,80,Possible BurpSuite Collaborator Domain (Unverified),138.197.139.91
-collab.digi.ninja,443,Possible BurpSuite Collaborator Domain (Unverified),5.196.105.2
 collab.digi.ninja,80,Possible BurpSuite Collaborator Domain (Unverified),5.196.105.2
 collab.eht-global.net,443,Possible BurpSuite Collaborator Domain (Unverified),217.33.252.133
 collab.eht-global.net,80,Possible BurpSuite Collaborator Domain (Unverified),217.33.252.133
@@ -508,6 +497,8 @@ collab.erasec.be,80,Possible BurpSuite Collaborator Domain (Unverified),165.22.9
 collab.fortreumburp.net,80,Possible BurpSuite Collaborator Domain (Unverified),3.232.114.27
 collab.gainc.de,443,Possible BurpSuite Collaborator Domain (Unverified),40.113.50.89
 collab.gainc.de,80,Possible BurpSuite Collaborator Domain (Unverified),40.113.50.89
+collab.glitchscan.com,443,Possible BurpSuite Collaborator Domain (Unverified),143.198.36.223
+collab.glitchscan.com,80,Possible BurpSuite Collaborator Domain (Unverified),143.198.36.223
 collab.hawkislandsol.com,443,Possible BurpSuite Collaborator Domain (Unverified),157.245.219.145
 collab.hawkislandsol.com,80,Possible BurpSuite Collaborator Domain (Unverified),157.245.219.145
 collab.invokeshell.net,33443,Possible BurpSuite Collaborator Domain (Unverified),165.22.72.64
@@ -524,7 +515,6 @@ collab.kjelltrell.com,80,Possible BurpSuite Collaborator Domain (Unverified),188
 collab.lb01.lb.pt.y-sec.org,80,Possible BurpSuite Collaborator Domain (Unverified),3.67.200.135
 collab.ll05.ll.pt.y-sec.org,80,Possible BurpSuite Collaborator Domain (Unverified),63.183.186.7
 collab.loggr.uk,443,Possible BurpSuite Collaborator Domain (Unverified),64.226.105.1
-collab.loggr.uk,80,Possible BurpSuite Collaborator Domain (Unverified),64.226.105.1
 collab.mod0.ch,443,Possible BurpSuite Collaborator Domain (Unverified),212.51.144.131
 collab.mod0.ch,80,Possible BurpSuite Collaborator Domain (Unverified),212.51.144.131
 collab.mtd-check.de,443,Possible BurpSuite Collaborator Domain (Unverified),164.90.231.25
@@ -543,17 +533,14 @@ collab.pt-network.io,3380,Possible BurpSuite Collaborator Domain (Unverified),51
 collab.pt-network.io,80,Possible BurpSuite Collaborator Domain (Unverified),51.89.240.145
 collab.pwne.xyz,443,Possible BurpSuite Collaborator Domain (Unverified),142.93.174.76
 collab.pwne.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),142.93.174.76
-collab.rara-af.fi,443,Possible BurpSuite Collaborator Domain (Unverified),185.20.136.109
-collab.rara-af.fi,80,Possible BurpSuite Collaborator Domain (Unverified),185.20.136.109
 collab.rlis.us,80,Possible BurpSuite Collaborator Domain (Unverified),34.197.82.20
 collab.rougesquad.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.96.202.17
 collab.secassur.com,443,Possible BurpSuite Collaborator Domain (Unverified),52.89.232.140
+collab.secassur.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.89.232.140
 collab.sectest.io,443,Possible BurpSuite Collaborator Domain (Unverified),173.237.206.167
 collab.sectest.io,80,Possible BurpSuite Collaborator Domain (Unverified),173.237.206.167
 collab.ssrf.fi,443,Possible BurpSuite Collaborator Domain (Unverified),80.69.172.139
 collab.ssrf.fi,80,Possible BurpSuite Collaborator Domain (Unverified),80.69.172.139
-collab.tcyber.net,443,Possible BurpSuite Collaborator Domain (Unverified),3.106.166.29
-collab.tcyber.net,80,Possible BurpSuite Collaborator Domain (Unverified),3.106.166.29
 collab.test-2027.shop,80,Possible BurpSuite Collaborator Domain (Unverified),16.18.105.30
 collab.test-slcc.fr,443,Possible BurpSuite Collaborator Domain (Unverified),51.77.151.114
 collab.test-slcc.fr,80,Possible BurpSuite Collaborator Domain (Unverified),51.77.151.114
@@ -568,7 +555,6 @@ collab.vpn.s-force.nl,80,Possible BurpSuite Collaborator Domain (Unverified),149
 collab.xanthus.dev,443,Possible BurpSuite Collaborator Domain (Unverified),35.182.250.134
 collab.xanthus.dev,80,Possible BurpSuite Collaborator Domain (Unverified),35.182.250.134
 collab.zyp3.com,8088,Possible BurpSuite Collaborator Domain (Unverified),178.18.249.161
-collab.zyp3.com,8443,Possible BurpSuite Collaborator Domain (Unverified),178.18.249.161
 collabo.tarchimb.com,80,Possible BurpSuite Collaborator Domain (Unverified),46.224.91.205
 collaborator-appsec.grabsecurity.com,443,Possible BurpSuite Collaborator Domain (Unverified),13.215.176.39
 collaborator-appsec.grabsecurity.com,80,Possible BurpSuite Collaborator Domain (Unverified),13.215.176.39
@@ -579,7 +565,6 @@ collaborator.hydra1337.com,443,Possible BurpSuite Collaborator Domain (Unverifie
 collaborator.hydra1337.com,80,Possible BurpSuite Collaborator Domain (Unverified),18.156.85.44
 collaborator.ionizetest.com,443,Possible BurpSuite Collaborator Domain (Unverified),3.25.181.200
 collaborator.ionizetest.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.25.181.200
-collaborator.lanscope-as.com,443,Possible BurpSuite Collaborator Domain (Unverified),52.192.24.121
 collaborator.lanscope-as.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.192.24.121
 collaborator.layer9infosec.nz,443,Possible BurpSuite Collaborator Domain (Unverified),120.138.30.134
 collaborator.layer9infosec.nz,80,Possible BurpSuite Collaborator Domain (Unverified),120.138.30.134
@@ -597,7 +582,6 @@ collaborator.rest,443,Possible BurpSuite Collaborator Domain (Unverified),51.81.
 collaborator.rest,80,Possible BurpSuite Collaborator Domain (Unverified),51.81.89.76
 collaborator.securexh.com,443,Possible BurpSuite Collaborator Domain (Unverified),18.190.123.1
 collaborator.securexh.com,80,Possible BurpSuite Collaborator Domain (Unverified),18.190.123.1
-collaborator.services.armadin.net,443,Possible BurpSuite Collaborator Domain (Unverified),136.114.0.95
 collaborator.services.armadin.net,80,Possible BurpSuite Collaborator Domain (Unverified),136.114.0.95
 collaborator.tempest.net.br,443,Possible BurpSuite Collaborator Domain (Unverified),35.83.41.170
 collaborator.tempest.net.br,80,Possible BurpSuite Collaborator Domain (Unverified),35.83.41.170
@@ -610,6 +594,7 @@ collabplz.afine.com,80,Possible BurpSuite Collaborator Domain (Unverified),158.2
 collabtest.secassur.com,443,Possible BurpSuite Collaborator Domain (Unverified),44.239.161.247
 collabtest.secassur.com,80,Possible BurpSuite Collaborator Domain (Unverified),44.239.161.247
 com.polizei.pl,443,Possible BurpSuite Collaborator Domain (Unverified),45.131.66.150
+com.polizei.pl,80,Possible BurpSuite Collaborator Domain (Unverified),45.131.66.150
 comunicacionesas.com,2010,Possible DcRat Domain (Unverified),13.143.247.153
 comunicacionesas.com,2021,Possible AsyncRAT Domain (Unverified),13.143.247.153
 condescending-hopper.45-76-183-220.plesk.page,8000,Possible Cairn Domain (Unverified),45.76.183.220
@@ -619,6 +604,7 @@ cookkeep.serv00.net,55682,Possible wstunnel Domain (Unverified),128.204.223.111
 coolairkh.pp.ua,9443,Possible wstunnel Domain (Unverified),193.180.215.151
 corporateamz.com,8080,Possible CyberStrikeAI Domain (Unverified),159.198.74.140
 covenant.vip,2003,Possible Covenant Domain (Unverified),45.56.91.55
+cpcalendars.levent.me,9876,Possible CyberStrikeAI Domain (Unverified),207.180.206.222
 cpcontacts.arsalpets.com,8080,Possible CyberStrikeAI Domain (Unverified),170.205.30.185
 cr.minim5.com,443,Possible PentAGI Domain (Unverified),137.131.17.202
 cr.minim5.com,80,Possible PentAGI Domain (Unverified),137.131.17.202
@@ -641,7 +627,6 @@ d.vmbc.azure.rabo.cloud,80,Possible BurpSuite Collaborator Domain (Unverified),2
 dbgcolab.xfcolab.ca,80,Possible BurpSuite Collaborator Domain (Unverified),64.140.126.59
 demo.sun-d.dev.p8w.me,443,Possible BurpSuite Collaborator Domain (Unverified),146.59.86.98
 deploy.etlaq.sa,8443,Possible PentAGI Domain (Unverified),130.94.57.184
-derp.fuckeverything233.top,31337,Possible Sliver Domain (Unverified),45.125.67.196
 derp.fuckeverything233.top,8888,Possible Sliver Domain (Unverified),45.125.67.196
 devagroup.com.pl,8881,Possible Pyramid Domain (Unverified),54.38.94.225
 device-6078e7c5-f061-4979-b8ea-dc3b3e36e442.remotewd.com,8443,Possible PentAGI Domain (Unverified),121.17.245.130
@@ -657,8 +642,6 @@ dns0.bbhunting.com,8443,Possible BurpSuite Collaborator Domain (Unverified),64.2
 dns0.bbhunting.com,8880,Possible BurpSuite Collaborator Domain (Unverified),64.23.147.211
 dns1.flashpc.com,3790,Possible Metasploit Domain (Unverified),64.255.203.222
 docspt-apac.com,6689,Possible CyberStrikeAI Domain (Unverified),38.55.252.139
-donewith.factdocspro90.business,9000,Possible DevilGinx Domain (Unverified),185.212.128.233
-donewith.factdocspro90.business,9000,Possible Evilginx/EvilGoPhish Domain (Unverified),185.212.128.233
 dotfoods.cobbertechforex.net,8443,Possible Evilginx/EvilGoPhish Domain (Unverified),84.247.141.236
 dpsk5.kjj.one,56001,Possible PureRAT Domain (Unverified),137.220.194.12
 dpsk5.kjj.one,56003,Possible PureRAT Domain (Unverified),137.220.194.12
@@ -684,19 +667,22 @@ e.sigint.nyc,80,Possible BurpSuite Collaborator Domain (Unverified),206.189.205.
 easonchen.site,30003,Possible CyberStrikeAI Domain (Unverified),115.159.33.118
 ecommerce-fa.ru,8515,Possible AdaptixC2 Domain (Unverified),91.200.84.198
 edc.tb.tw.cn,8443,Possible CyberStrikeAI Domain (Unverified),149.88.73.245
-edge.applepine.cloud,443,Possible BurpSuite Collaborator Domain (Unverified),157.230.134.213
 edge.applepine.cloud,80,Possible BurpSuite Collaborator Domain (Unverified),157.230.134.213
 eg-hacker-eg.duckdns.org,443,Possible PureRAT Domain (Unverified),45.88.91.164
 eh-srm.com,443,Possible BurpSuite Collaborator Domain (Unverified),54.75.57.132
 eldon.lyzzx.com,5088,Possible CyberStrikeAI Domain (Unverified),186.241.69.2
 email-cffex.cloud,8080,Possible CyberStrikeAI Domain (Unverified),101.43.32.60
-employee-survey.co.za,8080,Possible Hak5 Cloud C2 Domain (Unverified),13.244.65.92
 ennmakeup.com,80,Possible BurpSuite Collaborator Domain (Unverified),165.227.26.79
-env-2145987.ktm.yetiappcloud.com,11015,Possible Xalgorix Domain (Unverified),45.115.217.5
+env-2145987.ktm.yetiappcloud.com,11015,Possible Xalgorix Domain (Unverified),45.115.217.4
 esdmzs.ppss.camdvr.org,24443,Possible wstunnel Domain (Unverified),91.185.189.19
-estrenosok.com,48431,Possible Ligolo-ng Domain (Unverified),192.64.119.210
+estrenosok.com,48431,Possible Ligolo-ng Domain (Unverified),192.169.7.110
 evidence.duki.com.es,8443,Possible PentAGI Domain (Unverified),65.108.90.168
 exe.cool,4443,Possible Havoc Domain (Unverified),178.128.14.67
+exgate.cloud,4098,Possible CyberStrike Domain (Unverified),46.250.227.59
+exgate.cloud,8085,Possible CyberStrikeAI Domain (Unverified),46.250.227.59
+exgate.cloud,8086,Possible CyberStrikeAI Domain (Unverified),46.250.227.59
+exgate.cloud,8087,Possible CyberStrikeAI Domain (Unverified),46.250.227.59
+exgate.cloud,9137,Possible Xalgorix Domain (Unverified),46.250.227.59
 external.internal.pingbackmetrics.com,443,Possible BurpSuite Collaborator Domain (Unverified),37.220.220.134
 external.internal.pingbackmetrics.com,80,Possible BurpSuite Collaborator Domain (Unverified),37.220.220.134
 falcon.sfy.nl,443,Possible BurpSuite Collaborator Domain (Unverified),37.17.216.149
@@ -704,8 +690,7 @@ falcon.sfy.nl,80,Possible BurpSuite Collaborator Domain (Unverified),37.17.216.1
 fastvpn.top,8080,Possible CyberStrikeAI Domain (Unverified),47.242.1.128
 fc.ccsjbbf.com,8080,Possible CyberStrikeAI Domain (Unverified),23.248.249.92
 fc.ccsjbfc.com,8080,Possible CyberStrikeAI Domain (Unverified),23.248.249.91
-fenfa.lywcwt.com,8080,Possible CyberStrikeAI Domain (Unverified),81.70.164.167
-fenjiu.site,8080,Possible CyberStrikeAI Domain (Unverified),8.137.98.198
+fde.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),51.75.170.156
 flask-master.senhai.store,443,Possible PentAGI Domain (Unverified),123.60.2.245
 flask-master.senhai.store,8443,Possible PentAGI Domain (Unverified),123.60.2.245
 flatt-security.net,80,Possible BurpSuite Collaborator Domain (Unverified),52.199.141.94
@@ -729,6 +714,7 @@ gcac.sss.itsec.jp,4321,Possible AdaptixC2 Domain (Unverified),153.142.13.183
 geoshiftpoint.com,7443,Possible Mythic Domain (Unverified),89.127.235.142
 gfsverify.com,4000,Possible Evilginx/EvilGoPhish Domain (Unverified),43.162.114.107
 ghps.dnsplus.uk,8443,Possible PentAGI Domain (Unverified),152.53.134.156
+gifted-torvalds.34-94-66-132.plesk.page,3232,Possible Reverse_SSH Domain (Unverified),34.94.66.132
 gimle.pentagirls.gay,443,Possible PentAGI Domain (Unverified),192.99.194.141
 gimle.pentagirls.gay,80,Possible PentAGI Domain (Unverified),192.99.194.141
 glassfyuserwork.com,80,Possible DinDoor Domain (Unverified),141.255.164.33
@@ -753,13 +739,12 @@ hbkelin.com,8080,Possible CyberStrikeAI Domain (Unverified),177.211.86.212
 heatmr.tech,3232,Possible Reverse_SSH Domain (Unverified),195.24.64.6
 hendakhelifi.com,443,Possible DinDoor Domain (Unverified),179.43.169.8
 hermes-agent.kimi.rest,443,Possible CyberStrikeAI Domain (Unverified),192.236.187.44
-hermes-agent.kimi.rest,80,Possible CyberStrikeAI Domain (Unverified),192.236.187.44
 heuristic-cori.146-70-87-23.plesk.page,43225,Possible AdaptixC2 Domain (Unverified),146.70.87.23
 hk4.catzl.top,38080,Possible CyberStrikeAI Domain (Unverified),103.141.225.244
 hkmc.shop,8443,Possible Havoc Domain (Unverified),20.2.140.201
 holdrotstreayoll.site,56003,Possible PureRAT Domain (Unverified),50.114.179.215
 holiganbet-guncel-adreslerimiz.icu,8080,Possible CyberStrikeAI Domain (Unverified),189.73.215.3
-home33.casa,8080,Possible Ligolo-ng Domain (Unverified),185.237.100.155
+home33.casa,8080,Possible Ligolo-ng Domain (Unverified),192.64.119.54
 hongzhitrading.cn,8089,Possible CyberStrikeAI Domain (Unverified),43.156.186.213
 hook.wxyang.one,443,Possible CyberStrikeAI Domain (Unverified),107.173.58.198
 houmakoskg.com,443,Possible PureRAT Domain (Unverified),45.139.104.26
@@ -767,6 +752,8 @@ htefasp.ru,8080,Possible BurpSuite Collaborator Domain (Unverified),139.59.135.3
 htefasp.ru,8443,Possible BurpSuite Collaborator Domain (Unverified),139.59.135.3
 hub.tk.qdbox.cn,8443,Possible CyberStrikeAI Domain (Unverified),121.40.122.186
 humberstaffing.duckdns.org,7443,Possible Mythic Domain (Unverified),201.79.51.29
+hunt.wolfpacksecurity.co,443,Possible BurpSuite Collaborator Domain (Unverified),3.17.46.85
+hunt.wolfpacksecurity.co,80,Possible BurpSuite Collaborator Domain (Unverified),3.17.46.85
 hvncyassinh.online,443,Possible PureRAT Domain (Unverified),45.139.104.180
 hvncyassinh.online,55005,Possible PureRAT Domain (Unverified),45.139.104.180
 i.slurpthe.net,443,Possible BurpSuite Collaborator Domain (Unverified),44.196.222.104
@@ -778,12 +765,10 @@ icloudnet.uk,7443,Possible Mythic Domain (Unverified),38.207.177.71
 iconicwineclub.com,443,Possible Hak5 Cloud C2 Domain (Unverified),147.182.170.95
 iconicwineclub.com,8080,Possible Hak5 Cloud C2 Domain (Unverified),147.182.170.95
 id.magisky.dev,8443,Possible Havoc Domain (Unverified),92.51.46.35
-infotest.jp,443,Possible BurpSuite Collaborator Domain (Unverified),202.232.122.150
 infotest.jp,443,Possible BurpSuite Collaborator Domain (Unverified),202.232.122.158
 infotest.jp,80,Possible BurpSuite Collaborator Domain (Unverified),202.232.122.150
 infotest.jp,80,Possible BurpSuite Collaborator Domain (Unverified),202.232.122.158
 internalaicaller.com,56003,Possible PureRAT Domain (Unverified),84.200.91.170
-intrudir.zip,80,Possible BurpSuite Collaborator Domain (Unverified),154.53.54.17
 ios.logapi.co,8443,Possible PentAGI Domain (Unverified),107.149.91.167
 ip145.ip-51-89-240.eu,443,Possible BurpSuite Collaborator Domain (Unverified),51.89.240.145
 ip6v.com,2096,Possible Reverse_SSH Domain (Unverified),118.107.44.140
@@ -797,12 +782,14 @@ jnbshq.com,8080,Possible CyberStrikeAI Domain (Unverified),177.211.86.213
 joeysec.top,8080,Possible CyberStrikeAI Domain (Unverified),154.8.225.47
 js.cyberstrategists.org,80,Possible BurpSuite Collaborator Domain (Unverified),34.205.215.147
 js.innovativesecurity.org,443,Possible BurpSuite Collaborator Domain (Unverified),18.209.205.211
+js.innovativesecurity.org,80,Possible BurpSuite Collaborator Domain (Unverified),18.209.205.211
 js.protechdefensesolutions.com,443,Possible BurpSuite Collaborator Domain (Unverified),54.161.221.240
 js.protechdefensesolutions.com,80,Possible BurpSuite Collaborator Domain (Unverified),54.161.221.240
 kaiyun-spotrs.com,8443,Possible PentAGI Domain (Unverified),154.89.195.218
 kaxbdu6svrd2ngbw.com,443,Possible BurpSuite Collaborator Domain (Unverified),153.127.202.149
 kaxbdu6svrd2ngbw.com,80,Possible BurpSuite Collaborator Domain (Unverified),153.127.202.149
 kekeda.group,8443,Possible PentAGI Domain (Unverified),47.109.63.250
+khata.jaisalmerbookings.com,3790,Possible Metasploit Domain (Unverified),51.195.105.59
 kida.perlemr.com,8443,Possible PentAGI Domain (Unverified),165.227.201.128
 kjod.mvslos.com,8080,Possible CyberStrikeAI Domain (Unverified),154.36.161.9
 knife.aikitchtech.com,443,Possible DinDoor Domain (Unverified),31.76.96.195
@@ -826,9 +813,8 @@ lima.pt3.io,443,Possible BurpSuite Collaborator Domain (Unverified),142.132.235.
 lima.pt3.io,80,Possible BurpSuite Collaborator Domain (Unverified),142.132.235.229
 linzhiyong.online,8080,Possible CyberStrikeAI Domain (Unverified),8.137.125.2
 listentothewhispers.net,80,Possible BurpSuite Collaborator Domain (Unverified),52.212.133.79
-lkn2025.cn,8080,Possible CyberStrikeAI Domain (Unverified),43.138.216.83
+lmysaberblog.cn,18080,Possible CyberStrikeAI Domain (Unverified),38.95.75.222
 lndayday.top,8443,Possible PentAGI Domain (Unverified),43.242.130.97
-logicc.duckdns.org,8080,Possible CyberStrikeAI Domain (Unverified),117.72.26.79
 login.bodinlt.it.com,3333,Possible Evilginx/EvilGoPhish Domain (Unverified),20.2.83.254
 login.emcure-pharma.com,8443,Possible Havoc Domain (Unverified),13.233.118.170
 login.gbx.one,8822,Possible Cairn Domain (Unverified),195.26.243.9
@@ -845,8 +831,6 @@ lsg.dev,80,Possible BurpSuite Collaborator Domain (Unverified),20.121.57.155
 lucknode.shop,8080,Possible CyberStrikeAI Domain (Unverified),84.54.3.198
 luis.industrydocspro990.business,9000,Possible DevilGinx Domain (Unverified),185.212.128.169
 luis.industrydocspro990.business,9000,Possible Evilginx/EvilGoPhish Domain (Unverified),185.212.128.169
-luki.pw,443,Possible BurpSuite Collaborator Domain (Unverified),3.74.210.169
-luki.pw,80,Possible BurpSuite Collaborator Domain (Unverified),3.74.210.169
 lulugoing.top,5443,Possible wstunnel Domain (Unverified),50.114.55.182
 m.waitress.cc,8080,Possible CyberStrikeAI Domain (Unverified),207.57.128.196
 m1.securityarsenal.com,443,Possible Mythic Domain (Unverified),99.92.203.162
@@ -867,7 +851,6 @@ mail.mail.mail.mail.mail.mail.burp.mtest.no,443,Possible BurpSuite Collaborator 
 mail.mail.mail.mail.mail.mail.mail.mail.burp.schellman.info,80,Possible BurpSuite Collaborator Domain (Unverified),34.233.59.171
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.collaborator.chaosgnome.ninja,443,Possible BurpSuite Collaborator Domain (Unverified),44.230.244.199
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.collaborator.chaosgnome.ninja,80,Possible BurpSuite Collaborator Domain (Unverified),44.230.244.199
-mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.demo.net-spi.com,443,Possible BurpSuite Collaborator Domain (Unverified),3.143.96.203
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.demo.net-spi.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.143.96.203
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns2.bhisco.com,443,Possible BurpSuite Collaborator Domain (Unverified),138.197.202.65
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns.b.4a.io,80,Possible BurpSuite Collaborator Domain (Unverified),91.107.199.191
@@ -877,7 +860,9 @@ mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns2.bf.gy,80,Possible BurpSuite Collaborator Domain (Unverified),52.11.119.103
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns1.cqo.ch,443,Possible BurpSuite Collaborator Domain (Unverified),195.49.25.218
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns1.cqo.ch,80,Possible BurpSuite Collaborator Domain (Unverified),195.49.25.218
+mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns2.bf.gy,443,Possible BurpSuite Collaborator Domain (Unverified),52.11.119.103
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns2.aurainfosec-test.com,443,Possible BurpSuite Collaborator Domain (Unverified),52.65.148.12
+mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.ns2.aurainfosec-test.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.65.148.12
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.x.scrt.pl,80,Possible BurpSuite Collaborator Domain (Unverified),139.162.149.137
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.x.scrt.pl,8080,Possible BurpSuite Collaborator Domain (Unverified),139.162.149.137
 mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.x.scrt.pl,8443,Possible BurpSuite Collaborator Domain (Unverified),139.162.149.137
@@ -891,9 +876,9 @@ mail.mail.mail.mail.mail.ns2.ywrzzg.com,3380,Possible BurpSuite Collaborator Dom
 mail.mail.mail.mail.mta-sts.mail.mail.mail.ns2.coallaborator.net,443,Possible BurpSuite Collaborator Domain (Unverified),34.205.242.255
 mail.mail.mail.mail.mta-sts.mail.mail.mail.ns2.coallaborator.net,80,Possible BurpSuite Collaborator Domain (Unverified),34.205.242.255
 mail.mail.mail.wiz8.com,80,Possible BurpSuite Collaborator Domain (Unverified),12.110.86.134
+mail.pawelbrothers.com,6688,Possible CyberStrikeAI Domain (Unverified),194.233.82.177
 mail.pawelbrothers.com,8080,Possible CyberStrikeAI Domain (Unverified),194.233.82.177
 mail.polofox.eu.cc,9137,Possible Xalgorix Domain (Unverified),172.245.123.119
-mail.server.568131.xyz,8778,Possible CyberStrikeAI Domain (Unverified),186.241.68.236
 mail.tenue.one,3790,Possible Metasploit Domain (Unverified),162.55.91.224
 mail1.dickson.com.hk,443,Possible Bianlian Go Trojan Domain (Unverified),59.152.212.164
 manga.sendow.my,8444,Possible PentAGI Domain (Unverified),217.217.254.137
@@ -904,6 +889,7 @@ map.pwny.world,1337,Possible Sliver Domain (Unverified),82.165.79.60
 map.pwny.world,31337,Possible Sliver Domain (Unverified),82.165.79.60
 martin902.com,8080,Possible Hak5 Cloud C2 Domain (Unverified),51.68.220.158
 matthias-zeitz.de,443,Possible PureRAT Domain (Unverified),185.254.99.169
+mb.qzia.top,8443,Possible PentAGI Domain (Unverified),103.43.8.150
 mburpcollab.com,443,Possible BurpSuite Collaborator Domain (Unverified),34.45.0.22
 mburpcollab.com,80,Possible BurpSuite Collaborator Domain (Unverified),34.45.0.22
 mccgateway.cloudprovider.online,3125,Possible Evilginx/EvilGoPhish Domain (Unverified),213.111.149.141
@@ -919,7 +905,7 @@ merchants-api.goldensweeps.top,8080,Possible CyberStrikeAI Domain (Unverified),1
 mesh.poseidonops.com,443,Possible Hak5 Cloud C2 Domain (Unverified),37.27.13.155
 microsofts.icu,8443,Possible PentAGI Domain (Unverified),106.52.92.28
 mikkitygram.fun,8443,Possible PentAGI Domain (Unverified),154.37.220.178
-miniwolfhub-joojebiabokhoreshbaba.lat,8000,Possible Cairn Domain (Unverified),95.179.131.87
+miniwolfhub-joojebiabokhoreshbaba.lat,8000,Possible Cairn Domain (Unverified),78.141.217.108
 miniwolfhub-joojebiabokhoreshbaba.lat,8000,Possible Cairn Domain (Unverified),95.179.147.3
 moon.clearaccess.co.za,8443,Possible PentAGI Domain (Unverified),41.72.130.93
 mosgorizbirkon.ru,4321,Possible AdaptixC2 Domain (Unverified),89.110.91.35
@@ -944,31 +930,31 @@ nctsbooking.womparly.com,8443,Possible PentAGI Domain (Unverified),167.86.93.226
 nebulavision.asia,8089,Possible CyberStrikeAI Domain (Unverified),82.157.54.148
 necromastery.s8nph.com,80,Possible BurpSuite Collaborator Domain (Unverified),139.180.158.199
 netmaker-exporter.netmaker.astrosys.com,38081,Possible Cairn Domain (Unverified),157.245.6.235
-nettwatch.com,443,Possible BurpSuite Collaborator Domain (Unverified),63.35.175.119
-nettwatch.com,80,Possible BurpSuite Collaborator Domain (Unverified),63.35.175.119
 newapi.101-47-158-17.sslip.io,8080,Possible CyberStrikeAI Domain (Unverified),101.47.158.17
+nexpose.cmitcentralri.com,3790,Possible Metasploit Domain (Unverified),184.185.107.7
 nextcloud.ridber.duckdns.org,8443,Possible Ligolo-ng Domain (Unverified),144.22.61.59
 nexusmetin2.com,3000,Possible RedAmon Domain (Unverified),77.42.71.16
 nf3d478.mevnode.com,443,Possible RedAmon Domain (Unverified),149.50.96.18
 ng-vtt.com,443,Possible BurpSuite Collaborator Domain (Unverified),40.81.131.0
 ng-vtt.com,80,Possible BurpSuite Collaborator Domain (Unverified),40.81.131.0
-nicephoto.com,80,Possible Viper Domain (Unverified),216.118.101.61
 nirvatopia.com,8080,Possible Hak5 Cloud C2 Domain (Unverified),85.90.244.171
 nitech066.myqnapcloud.com,8080,Possible Hak5 Cloud C2 Domain (Unverified),95.82.0.207
 njiiyh.top,8999,Possible CyberStrikeAI Domain (Unverified),180.97.215.181
 no.collaborator.fi,443,Possible BurpSuite Collaborator Domain (Unverified),3.255.24.167
 no.collaborator.fi,80,Possible BurpSuite Collaborator Domain (Unverified),3.255.24.167
 node8.singapore1.qzz.io,11601,Possible Ligolo-ng Domain (Unverified),148.113.59.165
-nodev2.pteroqhost.web.id,9137,Possible Xalgorix Domain (Unverified),168.144.82.211
+nodev2.pteroqhost.web.id,9137,Possible Xalgorix Domain (Unverified),157.20.32.218
 notes.stavangerkaker.no,8080,Possible wstunnel Domain (Unverified),135.181.35.122
 nqogh83.cn,8080,Possible CyberStrikeAI Domain (Unverified),198.44.177.180
 ns1.adb-direct.com,7707,Possible AsyncRAT Domain (Unverified),89.42.134.220
 ns1.bbhunting.com,2022,Possible BurpSuite Collaborator Domain (Unverified),64.23.147.211
 ns1.bbhunting.com,5353,Possible BurpSuite Collaborator Domain (Unverified),64.23.147.211
 ns1.bbhunting.com,541,Possible BurpSuite Collaborator Domain (Unverified),64.23.147.211
+ns1.bc.on2.us,443,Possible BurpSuite Collaborator Domain (Unverified),104.155.53.206
 ns1.bscollab.ioactive.com,80,Possible BurpSuite Collaborator Domain (Unverified),162.43.142.93
 ns1.burp.ninja,443,Possible BurpSuite Collaborator Domain (Unverified),91.238.238.101
 ns1.burpbis.com,443,Possible BurpSuite Collaborator Domain (Unverified),178.62.232.12
+ns1.burpbis.com,80,Possible BurpSuite Collaborator Domain (Unverified),178.62.232.12
 ns1.c01.red,443,Possible BurpSuite Collaborator Domain (Unverified),18.136.214.207
 ns1.circlesquarefeet.com,443,Possible BurpSuite Collaborator Domain (Unverified),18.215.46.181
 ns1.collab.omni.tools,80,Possible BurpSuite Collaborator Domain (Unverified),35.178.84.50
@@ -991,14 +977,10 @@ ns1.steelcdn.net,443,Possible BurpSuite Collaborator Domain (Unverified),35.175.
 ns1.steelcdn.net,80,Possible BurpSuite Collaborator Domain (Unverified),35.175.92.152
 ns1.telemetry-hosts.com,443,Possible BurpSuite Collaborator Domain (Unverified),172.235.191.107
 ns1.wolf-in-sheeps-cloth.ing,80,Possible BurpSuite Collaborator Domain (Unverified),51.21.199.67
-ns2.adb-direct.com,1803,Possible AsyncRAT Domain (Unverified),89.42.134.220
-ns2.adb-direct.com,1991,Possible AsyncRAT Domain (Unverified),89.42.134.220
 ns2.cloudvalidaton.online,443,Possible BurpSuite Collaborator Domain (Unverified),52.116.200.210
 ns2.cloudvalidaton.online,80,Possible BurpSuite Collaborator Domain (Unverified),52.116.200.210
 ns2.collaborator.nviso.tools,443,Possible BurpSuite Collaborator Domain (Unverified),54.72.76.160
 ns2.jj2.pw,443,Possible BurpSuite Collaborator Domain (Unverified),51.195.222.153
-ns2.jj2.pw,80,Possible BurpSuite Collaborator Domain (Unverified),51.195.222.153
-ns2.legitimatetrust.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.78.167.14
 ns2.myusabank.com,443,Possible BurpSuite Collaborator Domain (Unverified),52.54.233.33
 ns2.myusabank.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.54.233.33
 ns2.nopjt.com,443,Possible BurpSuite Collaborator Domain (Unverified),94.237.118.10
@@ -1025,6 +1007,7 @@ nx1.fi,443,Possible BurpSuite Collaborator Domain (Unverified),18.184.113.9
 nx1.fi,443,Possible BurpSuite Collaborator Domain (Unverified),3.125.80.158
 nx1.fi,80,Possible BurpSuite Collaborator Domain (Unverified),18.184.113.9
 nx1.fi,80,Possible BurpSuite Collaborator Domain (Unverified),3.125.80.158
+o.qazw.org,443,Possible BurpSuite Collaborator Domain (Unverified),51.159.149.184
 o.qazw.org,80,Possible BurpSuite Collaborator Domain (Unverified),51.159.149.184
 oast.appsec.qrgcst.com,443,Possible BurpSuite Collaborator Domain (Unverified),23.100.12.228
 oast.fearsiswin.indevs.in,443,Possible BurpSuite Collaborator Domain (Unverified),45.82.244.6
@@ -1032,13 +1015,14 @@ oast.fearsiswin.indevs.in,80,Possible BurpSuite Collaborator Domain (Unverified)
 oast.infigo.hr,443,Possible BurpSuite Collaborator Domain (Unverified),52.142.226.8
 oast.infigo.hr,80,Possible BurpSuite Collaborator Domain (Unverified),52.142.226.8
 oast.soteria-offsec.io,443,Possible BurpSuite Collaborator Domain (Unverified),52.3.183.82
-oast.soteria-offsec.io,80,Possible BurpSuite Collaborator Domain (Unverified),52.3.183.82
 occ8wclu.gorekmas.online,6666,Possible DcRat Domain (Unverified),31.56.19.41
 ok.518.fun,8443,Possible PentAGI Domain (Unverified),202.61.160.178
 ok.drv.jy.emproduction.business,9000,Possible DevilGinx Domain (Unverified),185.212.128.170
 ok.drv.jy.emproduction.business,9000,Possible Evilginx/EvilGoPhish Domain (Unverified),185.212.128.170
 ok.yrogram.com,8443,Possible Evilginx/EvilGoPhish Domain (Unverified),144.126.218.78
+oklalalala111.shop,7443,Possible Mythic Domain (Unverified),45.192.169.57
 oldervi.com,80,Possible BurpSuite Collaborator Domain (Unverified),68.66.235.113
+omglalv.tqhhc.com,8080,Possible CyberStrikeAI Domain (Unverified),149.248.21.148
 on-god-lab2.com,443,Possible Cairn Domain (Unverified),68.171.204.20
 onlyz.xyz,31337,Possible Sliver Domain (Unverified),51.15.8.6
 onlyz.xyz,9998,Possible Sliver Domain (Unverified),51.15.8.6
@@ -1049,7 +1033,6 @@ oob.pwn.rocks,443,Possible BurpSuite Collaborator Domain (Unverified),136.117.24
 oob.pwn.rocks,80,Possible BurpSuite Collaborator Domain (Unverified),136.117.244.47
 oob.ramduel.com,443,Possible BurpSuite Collaborator Domain (Unverified),174.138.47.30
 oob.ramduel.com,80,Possible BurpSuite Collaborator Domain (Unverified),174.138.47.30
-oob.squirrelsec.com,80,Possible BurpSuite Collaborator Domain (Unverified),164.92.134.68
 ooopen.ooopen.cc,80,Possible CyberStrikeAI Domain (Unverified),154.202.119.195
 opr.lv,443,Possible BurpSuite Collaborator Domain (Unverified),82.145.216.214
 opr.lv,80,Possible BurpSuite Collaborator Domain (Unverified),82.145.216.214
@@ -1074,12 +1057,12 @@ patienten.leydenkliniek.nl,80,Possible BurpSuite Collaborator Domain (Unverified
 paypal.sylu.net,48080,Possible CyberStrikeAI Domain (Unverified),192.210.193.29
 pe1chen.top,8080,Possible CyberStrikeAI Domain (Unverified),82.157.129.205
 pelenq.by,3333,Possible Evilginx/EvilGoPhish Domain (Unverified),178.172.173.84
-pen-testing.ru,443,Possible BurpSuite Collaborator Domain (Unverified),5.35.85.57
-pen-testing.ru,80,Possible BurpSuite Collaborator Domain (Unverified),5.35.85.57
 pent.flashmate.net,8443,Possible PentAGI Domain (Unverified),129.121.90.70
 pentagi-pentest.additiv.dev,443,Possible Xalgorix Domain (Unverified),20.16.180.15
 pentagi-pentest.additiv.dev,80,Possible Xalgorix Domain (Unverified),20.16.180.15
 pentagi.ovncr.vn,443,Possible PentAGI Domain (Unverified),42.1.65.197
+pentagi.ovncr.vn,80,Possible PentAGI Domain (Unverified),42.1.65.197
+pentagi.ovncr.vn,8443,Possible PentAGI Domain (Unverified),42.1.65.197
 pentagi.tulip-tech.app,443,Possible PentAGI Domain (Unverified),13.43.80.17
 pentest.cto-docusketch.com,8443,Possible PentAGI Domain (Unverified),204.168.237.145
 pentest.tlnr.no,443,Possible BurpSuite Collaborator Domain (Unverified),51.13.164.239
@@ -1113,24 +1096,26 @@ proseclabscollab.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.14
 protozoan.net,443,Possible BurpSuite Collaborator Domain (Unverified),161.35.246.210
 protozoan.net,80,Possible BurpSuite Collaborator Domain (Unverified),161.35.246.210
 prubelifepay.com,8080,Possible Hak5 Cloud C2 Domain (Unverified),74.208.201.158
+pt.etas.com,443,Possible BurpSuite Collaborator Domain (Unverified),20.113.47.171
 pt.etas.com,80,Possible BurpSuite Collaborator Domain (Unverified),20.113.47.171
 pu57d.cn,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.80
+purehvn2mailko.online,55010,Possible PureRAT Domain (Unverified),45.139.104.26
 purhvnmailos.online,443,Possible PureRAT Domain (Unverified),45.139.104.199
 purhvnmailos.online,55006,Possible PureRAT Domain (Unverified),45.139.104.199
 pwd.njtopsun.com,28888,Possible CyberStrikeAI Domain (Unverified),58.213.83.82
 q1rantest.cloud,8080,Possible CyberStrikeAI Domain (Unverified),124.221.73.132
 q1rantest.cloud,8081,Possible CyberStrikeAI Domain (Unverified),124.221.73.132
-qian.jndxx.top,8443,Possible PentAGI Domain (Unverified),20.255.76.237
 qqcn.asia,8080,Possible CyberStrikeAI Domain (Unverified),111.229.144.163
 questar-china.com,8443,Possible CyberStrikeAI Domain (Unverified),45.119.54.201
-quilqora.com,8095,Possible Hak5 Cloud C2 Domain (Unverified),212.227.251.175
 qywx.mzlzkj.com,8080,Possible CyberStrikeAI Domain (Unverified),47.114.86.18
 r.icanchat.cn,8443,Possible PentAGI Domain (Unverified),43.160.203.90
 rackmora.com,7443,Possible Mythic Domain (Unverified),142.93.126.132
 reelo2026.com,8080,Possible CyberStrikeAI Domain (Unverified),108.187.6.7
 refund.invoice-processing.ltd,2853,Possible Havoc Domain (Unverified),158.94.210.16
-reg.majorflow.jp,80,Possible Brute Ratel C4 Domain (Unverified),52.196.90.106
+reg.majorflow.jp,80,Possible Brute Ratel C4 Domain (Unverified),57.182.163.105
 regainsrt.com,8443,Possible PentAGI Domain (Unverified),45.61.135.118
+relay.adb-direct.com,8808,Possible AsyncRAT Domain (Unverified),89.42.134.220
+relay.werderfan-fahrten.de,3790,Possible Metasploit Domain (Unverified),88.99.214.170
 remolsoeiez.shop,443,Possible PureRAT Domain (Unverified),45.139.104.226
 report.supportnetworks.org,8000,Possible Cairn Domain (Unverified),94.183.184.98
 res.public.onecdn.gexoa.zip,7691,Possible AdaptixC2 Domain (Unverified),203.161.55.41
@@ -1141,6 +1126,7 @@ rmfconsultoria.com,8080,Possible CyberStrikeAI Domain (Unverified),143.47.126.81
 rmrf.ir,80,Possible BurpSuite Collaborator Domain (Unverified),37.32.6.58
 rn-uclm.duckdns.org,63334,Possible CyberStrikeAI Domain (Unverified),167.86.116.8
 robl0x.work.gd,8080,Possible CHAOS Domain (Unverified),222.255.100.119
+roger.ren,8444,Possible PentAGI Domain (Unverified),8.130.32.68
 rrm.pw,443,Possible BurpSuite Collaborator Domain (Unverified),37.187.54.26
 rrm.pw,80,Possible BurpSuite Collaborator Domain (Unverified),37.187.54.26
 rsmcollaborator.com,443,Possible BurpSuite Collaborator Domain (Unverified),157.230.61.47
@@ -1153,9 +1139,9 @@ rw8.me,80,Possible BurpSuite Collaborator Domain (Unverified),51.91.79.144
 rxingchiguawang.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.220
 rxingchiguawang.top,8666,Possible PentAGI Domain (Unverified),38.6.126.220
 s.14.gy,443,Possible BurpSuite Collaborator Domain (Unverified),87.106.81.96
-s.arthat.top,6618,Possible CyberStrikeAI Domain (Unverified),154.201.68.165
 s0k.xyz,443,Possible BurpSuite Collaborator Domain (Unverified),54.37.72.253
 s0k.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),54.37.72.253
+saburp.computersecuritypolicy.org,443,Possible BurpSuite Collaborator Domain (Unverified),175.145.93.178
 saburp.computersecuritypolicy.org,80,Possible BurpSuite Collaborator Domain (Unverified),175.145.93.178
 safarangruop.com,443,Possible PureRAT Domain (Unverified),77.239.107.93
 safe-netsurfing.com,443,Possible Hak5 Cloud C2 Domain (Unverified),15.161.176.25
@@ -1164,7 +1150,6 @@ sallerlab.net,3380,Possible BurpSuite Collaborator Domain (Unverified),94.130.18
 sallerlab.net,443,Possible BurpSuite Collaborator Domain (Unverified),94.130.187.49
 sanjiusedaohang.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.216
 sbningyao.epayok.cn,8443,Possible PentAGI Domain (Unverified),129.211.9.229
-scalheathyflo.org,8168,Possible CyberStrikeAI Domain (Unverified),212.86.125.83
 scanner.indomain.my.id,8443,Possible PentAGI Domain (Unverified),116.204.131.95
 sccic.info,7443,Possible Mythic Domain (Unverified),134.209.41.160
 schtede.crousty.cloud,8443,Possible PentAGI Domain (Unverified),77.93.141.10
@@ -1185,13 +1170,15 @@ serv00.pcjiang.pp.ua,18993,Possible wstunnel Domain (Unverified),128.204.223.99
 serv00.pcjiang.pp.ua,55678,Possible wstunnel Domain (Unverified),128.204.223.99
 server.oldervi.com,443,Possible BurpSuite Collaborator Domain (Unverified),68.66.235.113
 serviciosgf.com,8000,Possible Cairn Domain (Unverified),194.163.178.77
+seyuai.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.211
+seyuai.top,8666,Possible PentAGI Domain (Unverified),38.6.126.211
 sgp-node1.netchx.net,8443,Possible PentAGI Domain (Unverified),139.99.124.59
 sgs-z.com,4321,Possible AdaptixC2 Domain (Unverified),134.122.132.28
 sh.199707.best,3306,Possible Reverse_SSH Domain (Unverified),192.3.84.101
 sh1221.xyz,8080,Possible CyberStrikeAI Domain (Unverified),8.136.191.113
 shaoluokoujiang.top,8666,Possible PentAGI Domain (Unverified),38.6.126.201
-shaoluoziyu.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.194
-shaoluoziyu.top,8666,Possible PentAGI Domain (Unverified),38.6.126.194
+shaoluokoujiangmv.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.203
+shaoluokoujiangmv.top,8666,Possible PentAGI Domain (Unverified),38.6.126.203
 sharpen.top,39001,Possible AdaptixC2 Domain (Unverified),43.160.225.40
 shejinnvjishi.top,8666,Possible PentAGI Domain (Unverified),38.6.103.76
 shenyefuliyingyuan.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.67
@@ -1207,12 +1194,12 @@ sim.888lc.cn,27630,Possible Cairn Domain (Unverified),116.204.134.92
 sinara.lptui.co.id,8443,Possible PentAGI Domain (Unverified),94.130.7.250
 singularity.prox-ima.it,443,Possible Brute Ratel C4 Domain (Unverified),213.199.35.149
 singularity.prox-ima.it,80,Possible Brute Ratel C4 Domain (Unverified),213.199.35.149
+sitezhuboziwei.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.213
+sitezhuboziwei.top,8666,Possible PentAGI Domain (Unverified),38.6.126.213
 siyuanyuan.xyz,7443,Possible Mythic Domain (Unverified),47.87.84.177
 skillet.aikitchtech.com,443,Possible DinDoor Domain (Unverified),31.76.96.194
 sniper.cambounisoll.com,3790,Possible Metasploit Domain (Unverified),120.136.24.164
-sof-col.fr,80,Possible BurpSuite Collaborator Domain (Unverified),13.36.187.230
 solalalala.space,8080,Possible CyberStrikeAI Domain (Unverified),114.132.167.206
-sonnet.sbs,8090,Possible CyberStrikeAI Domain (Unverified),101.43.98.124
 sonqhong.com,20,Possible AsyncRAT Domain (Unverified),23.132.164.72
 sos.maryan.com,8444,Possible PentAGI Domain (Unverified),51.195.44.88
 speedtest.sistemaspalacios.com.co,10346,Possible Reverse_SSH Domain (Unverified),201.182.251.238
@@ -1227,11 +1214,10 @@ ssl.dune.industrydocspro980.business,9000,Possible Evilginx/EvilGoPhish Domain (
 sslvpn.montalvo.com,10444,Possible Bianlian Go Trojan Domain (Unverified),216.107.208.250
 startmain.042310.xyz,60000,Possible Viper Domain (Unverified),103.215.81.156
 static.518.fun,8443,Possible PentAGI Domain (Unverified),202.61.160.144
-staticbrochure702devb.pstechs.net,443,Possible BurpSuite Collaborator Domain (Unverified),100.26.154.249
-staticbrochure702devb.pstechs.net,80,Possible BurpSuite Collaborator Domain (Unverified),100.26.154.249
+static.ramkite.bg,7443,Possible Mythic Domain (Unverified),95.158.131.144
 stevedixonphotos.com,29292,Possible AdaptixC2 Domain (Unverified),185.33.86.141
+stscollabserver.com,443,Possible BurpSuite Collaborator Domain (Unverified),64.225.7.51
 sub-d0ma1n.duckdns.org,8808,Possible AsyncRAT Domain (Unverified),2.26.30.186
-sub.gfydfhcf.cloudns.org,3000,Possible RedAmon Domain (Unverified),79.72.68.104
 support-optilian.com,3232,Possible Reverse_SSH Domain (Unverified),163.172.232.15
 surgery.healthydefinitetrunk.com,443,Possible DinDoor Domain (Unverified),2.27.122.16
 surgery.healthydefinitetrunk.com,80,Possible DinDoor Domain (Unverified),2.27.122.16
@@ -1242,6 +1228,7 @@ swiftlydetecting.com,7443,Possible Mythic Domain (Unverified),136.24.173.249
 sx-qinzhi.com,9200,Possible PentAGI Domain (Unverified),47.109.110.218
 syn-adm.rompchat.fr,8443,Possible PentAGI Domain (Unverified),51.255.206.208
 sz-piano.com,8080,Possible CyberStrikeAI Domain (Unverified),177.211.86.214
+t.bldo.top,8443,Possible PentAGI Domain (Unverified),207.57.133.180
 t9p.me,443,Possible BurpSuite Collaborator Domain (Unverified),57.128.169.252
 t9p.me,80,Possible BurpSuite Collaborator Domain (Unverified),57.128.169.252
 taks.escrowsea.com,4443,Possible BurpSuite Collaborator Domain (Unverified),49.0.66.52
@@ -1250,6 +1237,7 @@ tangxinneishe.top,8666,Possible PentAGI Domain (Unverified),38.6.126.199
 teams.chemgroupus.co,18080,Possible CyberStrikeAI Domain (Unverified),85.239.235.255
 telemetry-hosts.com,80,Possible BurpSuite Collaborator Domain (Unverified),172.235.191.107
 test.cyberrank.site,443,Possible PentAGI Domain (Unverified),138.2.94.199
+test.cyberrank.site,80,Possible PentAGI Domain (Unverified),138.2.94.199
 test.noney.cloud,3790,Possible Metasploit Domain (Unverified),43.143.10.50
 test.vps.thebuilders.de,443,Possible BurpSuite Collaborator Domain (Unverified),138.201.175.36
 test.vps.thebuilders.de,80,Possible BurpSuite Collaborator Domain (Unverified),138.201.175.36
@@ -1258,15 +1246,16 @@ test2.montu.at,80,Possible BurpSuite Collaborator Domain (Unverified),81.223.75.
 test7.sbtx.me,443,Possible CyberStrikeAI Domain (Unverified),161.33.184.234
 testing.tizlabs.com,8443,Possible Ligolo-ng Domain (Unverified),89.167.0.151
 themostbeautifulspark.com,443,Possible DinDoor Domain (Unverified),222.167.211.55
+tianmeimvmvmv.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.207
 tiantiying.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.197
 tiantiying.top,8666,Possible PentAGI Domain (Unverified),38.6.126.197
-tianyabaoliaochigua.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.65
 tics.yukisito.io.vn,9091,Possible Mirai Botnet Domain (Unverified),40.160.135.244
 tingtingdewuyetian.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.77
 tingtingdewuyetian.top,8666,Possible PentAGI Domain (Unverified),38.6.103.77
 tkshopvip.shop,3232,Possible Reverse_SSH Domain (Unverified),134.122.169.60
 token.smart365.fun,6789,Possible CyberStrikeAI Domain (Unverified),39.102.136.149
 topcoders.co.in,443,Possible Mythic Domain (Unverified),3.6.16.126
+trace.nightfarer.one,4321,Possible AdaptixC2 Domain (Unverified),68.64.177.24
 tracking.appwifi.com,3790,Possible Metasploit Domain (Unverified),103.53.171.25
 ttclaw.vip,8080,Possible CyberStrikeAI Domain (Unverified),170.106.173.244
 turn.jitsi-sv.dedyn.io,4043,Possible wstunnel Domain (Unverified),89.147.110.44
@@ -1284,7 +1273,9 @@ ukphonesex.com,80,Possible Viper Domain (Unverified),216.118.101.41
 uks0gckwo0s0okccowkocg48.116.203.127.47.sslip.io,8443,Possible PentAGI Domain (Unverified),116.203.127.47
 umnets.cn,60001,Possible AdaptixC2 Domain (Unverified),154.219.115.123
 update.javashell.com,3312,Possible AdaptixC2 Domain (Unverified),103.53.80.201
+updatenewfutures.click,8443,Possible Evilginx/EvilGoPhish Domain (Unverified),144.126.155.182
 urgency.live,3333,Possible Evilginx/EvilGoPhish Domain (Unverified),104.207.88.70
+us.collaborator.x-force.io,80,Possible BurpSuite Collaborator Domain (Unverified),170.225.217.226
 us.dashping5.ir,8080,Possible CyberStrikeAI Domain (Unverified),143.246.138.216
 usa2.963254.homes,1996,Possible PureRAT Domain (Unverified),77.110.109.204
 usdtproperties.top,3333,Possible Evilginx/EvilGoPhish Domain (Unverified),104.207.132.238
@@ -1296,7 +1287,6 @@ v.vii.vi,80,Possible BurpSuite Collaborator Domain (Unverified),209.126.81.167
 v3.meudorama.eu.org,8443,Possible PentAGI Domain (Unverified),157.173.113.230
 v4q.co,443,Possible BurpSuite Collaborator Domain (Unverified),139.99.236.114
 v4q.co,80,Possible BurpSuite Collaborator Domain (Unverified),139.99.236.114
-vaadata.collaborator.fr,443,Possible BurpSuite Collaborator Domain (Unverified),139.59.207.120
 vaadata.collaborator.fr,80,Possible BurpSuite Collaborator Domain (Unverified),139.59.207.120
 vafoxupolomatatu.online,11601,Possible Ligolo-ng Domain (Unverified),45.133.210.173
 vakvak.net,443,Possible BurpSuite Collaborator Domain (Unverified),67.207.72.191
@@ -1306,7 +1296,6 @@ vas.n3t.top,43817,Possible wstunnel Domain (Unverified),103.199.19.148
 vas.n3t.top,43823,Possible wstunnel Domain (Unverified),103.199.19.148
 vdz.xyz,443,Possible BurpSuite Collaborator Domain (Unverified),37.187.54.230
 vdz.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),37.187.54.230
-vebymutr.shihua.site,8080,Possible CyberStrikeAI Domain (Unverified),159.75.106.232
 vectrion.de,80,Possible Hak5 Cloud C2 Domain (Unverified),173.249.27.61
 vi27.com,443,Possible BurpSuite Collaborator Domain (Unverified),3.223.62.26
 vi27.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.223.62.26
@@ -1314,7 +1303,6 @@ video.ocpets.ai,8443,Possible wstunnel Domain (Unverified),178.104.152.249
 viii.vii.vi,443,Possible BurpSuite Collaborator Domain (Unverified),209.126.81.167
 vk2.pw,80,Possible BurpSuite Collaborator Domain (Unverified),51.38.231.99
 vkzhqfpy.com,65432,Possible AdaptixC2 Domain (Unverified),80.96.108.225
-vnajsxma.usvii.live,8443,Possible PentAGI Domain (Unverified),89.117.0.51
 voicechat.help,6606,Possible AsyncRAT Domain (Unverified),217.60.102.47
 voicechat.help,7707,Possible AsyncRAT Domain (Unverified),217.60.102.47
 voicechat.help,8808,Possible AsyncRAT Domain (Unverified),217.60.102.47
@@ -1330,7 +1318,6 @@ web.rocketsrv.net,443,Possible PureRAT Domain (Unverified),94.103.1.61
 webcam.gheza.net,1976,Possible Hak5 Cloud C2 Domain (Unverified),94.185.79.214
 webcollaborator.ecfirst.com,443,Possible BurpSuite Collaborator Domain (Unverified),52.22.63.51
 webcollaborator.ecfirst.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.22.63.51
-webmail-update.185.67.126.114.sslip.io,8080,Possible CyberStrikeAI Domain (Unverified),185.67.126.114
 webmail.3wconstruct.com,9000,Possible DevilGinx Domain (Unverified),185.212.128.207
 webmail.3wconstruct.com,9000,Possible Evilginx/EvilGoPhish Domain (Unverified),185.212.128.207
 webmail.firstanz.cc,443,Possible Ransomhub Python C2 Domain (Unverified),38.146.28.93
@@ -1339,6 +1326,7 @@ websec.co,8080,Possible Hak5 Cloud C2 Domain (Unverified),89.167.70.111
 webtrok.top,8080,Possible CyberStrikeAI Domain (Unverified),103.101.176.234
 well-pal.antisoc.io,65000,Possible Mythic Domain (Unverified),157.245.228.139
 whirlytubes.algorithmicgaze.com,9137,Possible Xalgorix Domain (Unverified),46.225.167.158
+wild-courtyard-prime.pro,8000,Possible Cairn Domain (Unverified),144.31.223.254
 win-rar.zip,11601,Possible Ligolo-ng Domain (Unverified),194.59.30.21
 winassistantx.supportrmx.foo,9002,Possible DcRat Domain (Unverified),186.169.33.116
 wiretunnel.com,443,Possible wstunnel Domain (Unverified),50.116.13.49
@@ -1347,7 +1335,6 @@ woaishaofu.xyz,8443,Possible PentAGI Domain (Unverified),156.239.255.12
 woodsymedia.com,8168,Possible CyberStrikeAI Domain (Unverified),138.226.240.253
 workflows.biacoin.com,4321,Possible AdaptixC2 Domain (Unverified),192.169.176.54
 workflows.biacoin.com,7443,Possible Mythic Domain (Unverified),192.169.176.54
-wp-secure-alert.info,8000,Possible Cairn Domain (Unverified),193.39.143.130
 wpz.pw,443,Possible BurpSuite Collaborator Domain (Unverified),149.202.34.181
 wpz.pw,80,Possible BurpSuite Collaborator Domain (Unverified),149.202.34.181
 writer.sakanapi.cn,80,Possible CyberStrikeAI Domain (Unverified),38.244.44.222
@@ -1359,12 +1346,13 @@ www.0pq.co,80,Possible BurpSuite Collaborator Domain (Unverified),51.195.222.152
 www.36oadvanced.com,80,Possible BurpSuite Collaborator Domain (Unverified),3.220.198.57
 www.6www.65u9rc3ldekcyarg4b.cliente-x.64.112.41.65.sslip.io,80,Possible BurpSuite Collaborator Domain (Unverified),64.112.41.65
 www.7h77.vip,8080,Possible CyberStrikeAI Domain (Unverified),23.95.190.126
-www.alucard.nl,8888,Possible Hak5 Cloud C2 Domain (Unverified),141.224.255.72
 www.ayidc.icu,8080,Possible CyberStrikeAI Domain (Unverified),107.151.246.217
 www.bankgz.top,48080,Possible CyberStrikeAI Domain (Unverified),45.145.228.25
 www.bbs.mythicalkingdom.com,8443,Possible Mythic Domain (Unverified),132.145.210.148
 www.bcserver.infoatrisk.com,443,Possible BurpSuite Collaborator Domain (Unverified),52.42.37.36
 www.bcserver.infoatrisk.com,80,Possible BurpSuite Collaborator Domain (Unverified),52.42.37.36
+www.beyole.com,8000,Possible Cairn Domain (Unverified),107.172.32.149
+www.beyole.com,8443,Possible PentAGI Domain (Unverified),107.172.32.149
 www.bjdqz.cn,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.75
 www.bjdqz.cn,8666,Possible PentAGI Domain (Unverified),38.6.103.75
 www.btcz.net,9443,Possible PentAGI Domain (Unverified),114.242.25.133
@@ -1383,24 +1371,28 @@ www.dossier-inzien.com,443,Possible PureRAT Domain (Unverified),217.60.195.139
 www.dsnewsinfo.com,65433,Possible CyberStrikeAI Domain (Unverified),45.76.191.22
 www.duuf666.cn,8888,Possible Supershell Domain (Unverified),117.72.202.93
 www.eggnn.com,8080,Possible CyberStrikeAI Domain (Unverified),177.211.86.203
-www.epolpro.org,3790,Possible Metasploit Domain (Unverified),193.29.56.122
 www.estrenosok.com,48231,Possible Ligolo-ng Domain (Unverified),192.169.7.110
 www.expertisecentrumeuthenasie.nl,8834,Possible Hak5 Cloud C2 Domain (Unverified),95.179.135.253
 www.fl4kee.pro,8443,Possible PentAGI Domain (Unverified),91.202.0.2
 www.fvspolka.devagroup.com.pl,8885,Possible Pyramid Domain (Unverified),54.38.94.225
-www.gopds.cn,8443,Possible PentAGI Domain (Unverified),154.217.248.67
 www.henho3s.com,56001,Possible PureRAT Domain (Unverified),15.235.149.212
 www.henho3s.com,56003,Possible PureRAT Domain (Unverified),15.235.149.212
+www.hljctqp.cn,18800,Possible CyberStrikeAI Domain (Unverified),60.205.109.25
 www.idlevalor.com,443,Possible PentAGI Domain (Unverified),66.45.243.142
 www.idlevalor.com,80,Possible PentAGI Domain (Unverified),66.45.243.142
+www.internalaicaller.com,443,Possible PureRAT Domain (Unverified),84.200.91.170
+www.ispolic.com,2222,Possible AsyncRAT Domain (Unverified),80.190.77.86
 www.jgsec.cn,8080,Possible CyberStrikeAI Domain (Unverified),154.219.114.77
 www.jindongxian.com,8080,Possible CyberStrikeAI Domain (Unverified),149.30.239.231
 www.jlulzj.cn,443,Possible CyberStrikeAI Domain (Unverified),47.121.187.176
+www.joinfaceithub.club,8000,Possible Cairn Domain (Unverified),79.133.42.98
 www.kaeroffice.net,443,Possible Mythic Domain (Unverified),67.205.148.159
 www.l0ve.cloud,8080,Possible CyberStrikeAI Domain (Unverified),124.221.222.170
+www.laryahubinv.com,443,Possible PureRAT Domain (Unverified),107.174.212.89
 www.linzy25.xyz,8443,Possible PentAGI Domain (Unverified),47.113.191.62
 www.literaturstuebchen.de,80,Possible BurpSuite Collaborator Domain (Unverified),87.106.81.96
 www.ljzmall.com,8080,Possible CyberStrikeAI Domain (Unverified),177.211.86.201
+www.lx-bb.top,8443,Possible PentAGI Domain (Unverified),47.92.119.185
 www.mail.burp.schellman.info,443,Possible BurpSuite Collaborator Domain (Unverified),34.233.59.171
 www.mail.mail.mail.mail.mail.mail.burp.mpt.veracodelabs.com,443,Possible BurpSuite Collaborator Domain (Unverified),34.195.200.154
 www.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.mail.bftnz.com,443,Possible BurpSuite Collaborator Domain (Unverified),52.20.13.168
@@ -1425,6 +1417,7 @@ www.moslam.nl,80,Possible BurpSuite Collaborator Domain (Unverified),45.14.224.1
 www.nsa.systems,443,Possible BurpSuite Collaborator Domain (Unverified),13.49.231.33
 www.nsa.systems,80,Possible BurpSuite Collaborator Domain (Unverified),13.49.231.33
 www.pakistan-dns.live,8080,Possible Ligolo-ng Domain (Unverified),64.111.92.7
+www.panel.devagroup.com.pl,8880,Possible Pyramid Domain (Unverified),54.38.94.225
 www.panel.phorxys.com,443,Possible Hookbot/Pegasus Domain (Unverified),130.61.146.214
 www.panel.phorxys.com,80,Possible Hookbot/Pegasus Domain (Unverified),130.61.146.214
 www.polling.burp.tvmglobal.com,443,Possible BurpSuite Collaborator Domain (Unverified),88.208.96.173
@@ -1467,9 +1460,7 @@ x9.to,80,Possible BurpSuite Collaborator Domain (Unverified),34.145.238.24
 x9.to,8015,Possible BurpSuite Collaborator Domain (Unverified),34.145.238.24
 x9.to,9090,Possible BurpSuite Collaborator Domain (Unverified),34.145.238.24
 x9.to,9443,Possible BurpSuite Collaborator Domain (Unverified),34.145.238.24
-xbjj.113438.xyz,443,Possible CyberStrikeAI Domain (Unverified),154.219.101.50
 xelovira.top,8080,Possible CyberStrikeAI Domain (Unverified),45.207.215.236
-xiaolaodi.top,8666,Possible PentAGI Domain (Unverified),38.6.103.80
 xiaoxuan.cloud,8443,Possible PentAGI Domain (Unverified),124.222.126.209
 xinbuyezonghelinglei.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.196
 xinbuyezonghelinglei.top,8666,Possible PentAGI Domain (Unverified),38.6.126.196
@@ -1480,8 +1471,10 @@ xinpianyugaoavman.top,8666,Possible PentAGI Domain (Unverified),38.6.126.204
 xixiyingyuanyiqu.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.219
 xixiyingyuanyiqu.top,8666,Possible PentAGI Domain (Unverified),38.6.126.219
 xkk.chaosmedia.cn,9520,Possible CHAOS Domain (Unverified),117.72.101.55
+xn--7iqq34e.cc,8080,Possible CyberStrikeAI Domain (Unverified),156.239.40.175
 xn--hda.se,443,Possible BurpSuite Collaborator Domain (Unverified),16.171.164.1
 xn--hda.se,80,Possible BurpSuite Collaborator Domain (Unverified),16.171.164.1
+xnu.pw,80,Possible BurpSuite Collaborator Domain (Unverified),182.169.75.133
 xray.dontblockmepls.com,18080,Possible CyberStrikeAI Domain (Unverified),51.75.146.193
 xss.xxx,443,Possible Reverse_SSH Domain (Unverified),47.79.249.180
 xss1151.top,18081,Possible CyberStrikeAI Domain (Unverified),23.80.88.136
@@ -1495,8 +1488,8 @@ yazhouheiliao.top,8666,Possible PentAGI Domain (Unverified),38.6.103.90
 yazhoujingxuanneishe.top,8666,Possible PentAGI Domain (Unverified),38.6.126.216
 yazhoumei17czaixian.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.88
 yazhoumei17czaixian.top,8666,Possible PentAGI Domain (Unverified),38.6.103.88
-yazhoumeinvneishe.top,8666,Possible PentAGI Domain (Unverified),38.6.126.202
 yazhourenyaojiaopei.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.201
+ycj888.com,5088,Possible CyberStrikeAI Domain (Unverified),186.241.69.3
 ycqymufmb.jesrfocv4f.com,8443,Possible Evilginx/EvilGoPhish Domain (Unverified),104.105.15.96
 ye.immqm.com,18888,Possible Supershell Domain (Unverified),8.138.155.217
 yecaoyun.nishishei.top,9999,Possible Supershell Domain (Unverified),83.229.121.34
@@ -1505,13 +1498,10 @@ yesehaijiaoqiezi.top,8666,Possible PentAGI Domain (Unverified),38.6.126.212
 yewknight.xyz,8080,Possible CyberStrikeAI Domain (Unverified),47.102.128.34
 yghq.puxing.net.cn,8443,Possible PentAGI Domain (Unverified),221.229.107.118
 yhies.work,443,Possible BurpSuite Collaborator Domain (Unverified),92.222.178.185
-yhies.work,80,Possible BurpSuite Collaborator Domain (Unverified),92.222.178.185
 yiqiqicaozuixinrukou.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.86
 yiqiqicaozuixinrukou.top,8666,Possible PentAGI Domain (Unverified),38.6.103.86
 yiquerquma.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.91
 yiquerquma.top,8666,Possible PentAGI Domain (Unverified),38.6.103.91
-yjizzxxxx.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.193
-yjizzxxxx.top,8666,Possible PentAGI Domain (Unverified),38.6.126.193
 ykapk.fskdfk.top,4321,Possible AdaptixC2 Domain (Unverified),43.225.157.17
 yong78tongjinpigu.top,8666,Possible PentAGI Domain (Unverified),38.6.126.207
 ythdfh34.w4.to,443,Possible BurpSuite Collaborator Domain (Unverified),34.145.243.184
@@ -1520,6 +1510,8 @@ ythdfh34.w4.to,8015,Possible BurpSuite Collaborator Domain (Unverified),34.145.2
 ythdfh34.w4.to,9090,Possible BurpSuite Collaborator Domain (Unverified),34.145.243.184
 ythdfh34.w4.to,9443,Possible BurpSuite Collaborator Domain (Unverified),34.145.243.184
 yunzhao.icu,18080,Possible CyberStrikeAI Domain (Unverified),129.211.7.207
+yvfc.asia,3232,Possible Reverse_SSH Domain (Unverified),123.4.42.188
+yvfc.asia,5873,Possible Supershell Domain (Unverified),123.4.42.188
 yxta.me,80,Possible BurpSuite Collaborator Domain (Unverified),51.77.222.226
 zaixianbofangba.top,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.84
 zaixianbofangba.top,8666,Possible PentAGI Domain (Unverified),38.6.103.84
@@ -1537,6 +1529,8 @@ zhuaijuan.cn,8444,Possible CyberStrikeAI Domain (Unverified),38.6.126.210
 zhuaijuan.cn,8666,Possible PentAGI Domain (Unverified),38.6.126.210
 zhuaisao.cn,8444,Possible CyberStrikeAI Domain (Unverified),38.6.103.69
 zhuaisao.cn,8666,Possible PentAGI Domain (Unverified),38.6.103.69
+zmxncbv.xyz,443,Possible BurpSuite Collaborator Domain (Unverified),34.142.45.193
+zmxncbv.xyz,80,Possible BurpSuite Collaborator Domain (Unverified),34.142.45.193
 zoomanagmg.top,443,Possible PureRAT Domain (Unverified),148.163.90.44
 zuanzi.top,18888,Possible Salt Typhon SSH Fingerprint Domain (Unverified),103.140.239.14
 zuanzi.top,22,Possible Salt Typhon SSH Fingerprint Domain (Unverified),103.140.239.14
