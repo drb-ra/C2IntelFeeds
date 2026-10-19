@@ -23471,7 +23471,7 @@ Cache-Control: no-cache
 "01/27/2021 17:43:54.611","139.59.85.221","DIGITALOCEAN-ASN",HTTPS,"139.59.85.221,/push",443,60000,0,"Use IE settings","",,,"/submit.php",,0,"Not Found","Not Found",0,"Not Found","Not Found"
 "01/27/2021 17:43:57.769","157.230.239.44","DIGITALOCEAN-ASN",HTTPS,"ajax.microsoft.com,/skin",443,63931,41,"Use IE settings","Host: EAST1cdn.azureedge.net
 ","157.230.239.44",,"/html",,0,"Not Found","Not Found",1417198314,"Not Found","Not Found"
-"01/27/2021 17:43:58.191","124.156.224.90","TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue",HTTP,"www.balancehtyl.com,/preload",80,1500,18,0,"","mail.live.com","manifest=wac
+"01/27/2021 17:43:58.191","124.156.224.90","TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue",HTTP,"www.balancehtyl.com,/preload",80,1500,18,0,"","mail.live.com", "manifest=wac
 Host: onedrive.live.com
 Accept: text/html,application/xml;*/*;
 Accept-Encoding: gzip, deflate
@@ -47553,7 +47553,7 @@ Content-Type: application/x-www-form-urlencoded
 userId=
 __session__id=
 Cookie",0,"Not Found","Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0",305419776,"Not Found","Not Found"
-"06/28/2021 13:45:12.713","139.60.161.65","HOSTKEY-USA",HTTPS,"139.60.161.65,/ga.js",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
+"06/28/2021 13:45:12.713","139.60.161.65","HOSTKEY-USA",HTTPS,"139.60.161.65,/ga.js",443,60000,0,"Use IE settings", "",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ESES)",0,"0.0.0.0",0
 "06/28/2021 13:45:13.723","158.247.218.177","AS-CHOOPA",HTTPS,"158.247.218.177,/search/",443,60000,20,"Use IE settings","Host: www.bing.com",,"Host: www.bing.com
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
@@ -72073,7 +72073,7 @@ id",0,"Not Found","Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (
 "09/30/2021 17:17:00.948","106.53.136.61","CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited",HTTP,"106.53.136.61,/dpixel",8090,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; NP07; NP07)",1234567890,"Not Found","Not Found"
 "09/30/2021 17:17:01.348","49.232.148.86","CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited",HTTP,"49.232.148.86,/g.pixel",8099,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
-id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MANM)",426352781,"Not Found","Not Found"
+id", 0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MANM)",426352781,"Not Found","Not Found"
 "09/30/2021 17:17:01.427","47.96.166.107","CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd.",HTTPS,"47.96.166.107,/ga.js",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; QQDownload 733; .NET CLR 2.0.50727)",305419896,"0.0.0.0",0
 "09/30/2021 17:17:02.988","192.198.86.166","DACEN-2",HTTP,"gbl2bsa.global.ssl.fastly.net,/smnp",80,60000,41,"Use IE settings","",,"Accept: */*
@@ -119132,7 +119132,7 @@ __session__id=
 Cookie",0,"Not Found","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",1580103824,"Not Found","Not Found"
 "03/09/2022 12:07:45.575","106.13.95.3","BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd.",HTTP,"106.13.95.3,/activity",81,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MANM; MANM)",1580103824,"Not Found","Not Found"
-"03/09/2022 12:13:33.049","99.84.109.227","AMAZON-02",HTTPS,"d30bham075f6wf.cloudfront.net,/jquery-3.3.1.min.js",443,45000,37,"Use IE settings","",,"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+"03/09/2022 12:13:33.049","99.84.109.227","AMAZON-02",HTTPS,"d30bham075f6wf.cloudfront.net,/jquery-3.3.1.min.js",443,45000,37,"Use IE settings","",, "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Referer: http://code.jquery.com/
 Accept-Encoding: gzip, deflate
 __cfduid=
@@ -121059,7 +121059,7 @@ Accept-Language: en-GB;q=0.9, *;q=0.7
 Content-Type: text/plain
 __session__id=
 Cookie",0,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36",8848,"0.0.0.0",0
-"03/30/2022 18:36:32.952","121.4.154.238","CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited" ,HTTP,"121.4.154.238,/jquery/2.0.1/jquery.min.js",443,5000,37,"Use IE settings","Host: libs.baidu.com",,"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+"03/30/2022 18:36:32.952","121.4.154.238","CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited",HTTP,"121.4.154.238,/jquery/2.0.1/jquery.min.js",443,5000,37,"Use IE settings","Host: libs.baidu.com",,"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
 Host: libs.baidu.com
 Referer: https://www.baidu.com/
 Accept-Encoding: gzip, deflate
@@ -164235,7 +164235,7 @@ _VAXSUOHB",0,"Not Found","Mozilla/5.0 (Windows NT 6.2; WOW64; rv:41.0) Gecko/201
 "07/29/2022 20:25:56.039","114.116.4.45","CHINA169-BJ China Unicom Beijing Province Network",HTTP,"114.116.4.45,/IE9CompatViewList.xml",8008,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; NP09; NP09; MAAU)",0,"Not Found","Not Found"
 "07/29/2022 20:26:17.149","167.179.104.127","AS-CHOOPA",HTTPS,"45.77.24.225,/ca",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
-id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)",1234567890,"Not Found","Not Found"
+id",0 ,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)",1234567890,"Not Found","Not Found"
 "07/29/2022 20:26:33.953","179.60.149.9","HOSTKEY-USA",HTTP,"179.60.149.5,/create/v7.83/GP2Z2837",8088,78591,43,"Use IE settings","",,"Accept: application/xhtml+xml, image/*, application/xml
 Accept-Language: fi
 Accept-Encoding: *, gzip
@@ -185909,7 +185909,7 @@ oe=oe=ISO-8859-1;
 sn
 s=3717
 dc_ref=http%3A%2F%2Fwww.amazon.com",0,"Not Found","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",391144938,"Not Found","Not Found"
-"11/10/2022 02:51:19.103","47.57.137.103" ,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",HTTP,"47.57.137.103,/api/x",80,3000,0,"Use IE settings","",,"Accept: */*
+"11/10/2022 02:51:19.103","47.57.137.103","ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",HTTP,"47.57.137.103,/api/x",80,3000,0,"Use IE settings","",,"Accept: */*
 SESSIONID=
 Cookie","/api/y","Accept: */*
 JSESSION=
@@ -207322,7 +207322,7 @@ _ETVIUCYI",0,"Not Found","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 Connection: close
 Accept: image/jpeg
 wordpress_52238558e930f1ec699e4f12ab015a4f=
-Cookie","/tab_shop","Host: google.it
+Cookie ","/tab_shop","Host: google.it
 Connection: close
 Content-Type: application/x-www-form-urlencoded
 weight=
@@ -247232,7 +247232,7 @@ id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.
 "01/28/2024 10:11:48.967","104.143.47.87","HKCICL-AS-AP Hong Kong Communications International Co., Limited",HTTPS,"104.143.47.87,/load",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MALC)",1234567890,"Not Found","Not Found"
 "01/28/2024 10:11:55.514","121.41.50.152","ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.",HTTPS,"121.41.50.152,/cm",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
-id",0 ,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0; msn OptimizedIE8;ENUS)",391144938,"Not Found","Not Found"
+id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0; msn OptimizedIE8;ENUS)",391144938,"Not Found","Not Found"
 "01/28/2024 12:46:16.436","8.141.10.30","Aliyun Computing Co.LTD",HTTP,"8.141.10.30,/activity",7777,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727)",987654321,"Not Found","Not Found"
 "01/28/2024 12:46:37.460","45.154.2.102","IT Outsourcing LLC",HTTPS,"check.cloudupdateserver.cloudns.org,/jquery-3.3.1.min.js",443,45000,37,"Use IE settings","",,"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
@@ -286966,7 +286966,7 @@ short_title=fWBjhJECX
 response_type=code&client_id=dingoaltcsv4vlgoefhpec&aid_=522005705&accver=1&showtype=embed&ua=",0,"Not Found","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.361 (KHTML, like Gecko) Chrome/109.9.5396.2 Safari/537.362",987654321,"Not Found","Not Found"
 "04/18/2025 11:05:25.263","83.222.23.4","NLS-ASTANA",HTTPS,"10.127.195.2,/match",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; ; NCLIENT50_AAPCDA5841E333)",987654321,"Not Found","Not Found"
-"04/18/2025 11:05:32.893","184.73.133.243","AMAZON-AES",HTTPS,"184.73.133.243,/ca",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
+"04/18/2025 11:05:32.893","184.73.133.243","AMAZON-AES",HTTPS," 184.73.133.243,/ca",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; ASU2JS)",987654321,"Not Found","Not Found"
 "04/18/2025 16:14:07.962","141.98.10.86","UAB Host Baltic","Hybrid HTTP DNS","ns1.yukklzwo.vip,/pixel",53,60000,0,"Use IE settings","",,,"Not Found",,0,"Not Found","Not Found",1234567890,"0.0.0.0",0
 "04/18/2025 16:14:22.585","38.60.211.254","COGENT-174","Hybrid HTTP DNS","sub2.afghankush.net,/messages/aOinlHPOrrlYBWdFN98GAOr-5nssJNIj1lj2dd6UT",53,35000,30,"Use IE settings","",,,"Not Found",,0,"Not Found","Not Found",666666666,"1.2.3.4",1
@@ -315912,7 +315912,7 @@ __cfduid",0,"Not Found","Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)",987654321,"Not Found","Not Found"
 "12/21/2025 11:04:54.724","45.156.87.153","PFCLOUD Pfcloud UG",HTTP,"45.156.87.153,/load",80,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENUS)",987654321,"Not Found","Not Found"
-"12/21/2025 23:16:44.346","45.156.87.153","PFCLOUD Pfcloud UG",HTTP,"45.156.87.153.nip.io,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books ",80,5000,0,"Use IE settings","Host: 45.156.87.153.nip.io",,"Accept: */*
+"12/21/2025 23:16:44.346","45.156.87.153","PFCLOUD Pfcloud UG",HTTP,"45.156.87.153.nip.io,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books",80,5000,0,"Use IE settings","Host: 45.156.87.153.nip.io",,"Accept: */*
 Host: 45.156.87.153.nip.io
 session-token=
 skin=noskin;
@@ -323283,4 +323283,10 @@ id",0,"Not Found","Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MALC)",666666666,"Not Found","Not Found"
 "10/19/2026 10:52:08.350","156.254.20.47","Stack Network Sdn. Bhd.",HTTP,"156.254.20.46,/g.pixel",5998,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
 id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; UHS)",666666666,"Not Found","Not Found"
+"10/19/2026 22:50:13.083","119.28.160.161","Tencent Building, Kejizhongyi Avenue",HTTPS,"119.28.160.161,/IE9CompatViewList.xml",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
+id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENUSMSE)",666666666,"Not Found","Not Found"
+"10/19/2026 22:50:17.285","49.233.175.166","Shenzhen Tencent Computer Systems Company Limited",HTTPS,"49.233.175.166,/push",443,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
+id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; Touch; MALCJS)",987654321,"Not Found","Not Found"
+"10/19/2026 22:50:24.590","106.55.34.199","Shenzhen Tencent Computer Systems Company Limited",HTTPS,"106.55.34.199,/ca",8444,60000,0,"Use IE settings","",,Cookie,"/submit.php","Content-Type: application/octet-stream
+id",0,"Not Found","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MASP)",987654321,"Not Found","Not Found"
 
